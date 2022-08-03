@@ -1,0 +1,2163 @@
+{
+	"entities": [
+		{
+			"id": "future_stage",
+			"EntityType": "Venue",
+			"Name": "Stadtgarten",
+			"Added to mapbox": "TRUE",
+			"Headline": "Future stage",
+			"Highlight": "x",
+			"Address": "Venloer Str. 40",
+			"City": "Köln",
+			"PostalCode": "50672",
+			"Description": "The Future Stage of DIGITAL X is located in green surroundings in the inviting beer garden of the Stadtgarten Cologne. ",
+			"Description_DE": "Die Future Stage der DIGITAL X befindet sich in grüner Umgebung im einladenden Biergarten des Stadtgarten Köln. ",
+			"External_location_id": "https://url.expofp.com/?future_stage",
+			"parents": [
+				"guided1",
+				"bus_main",
+				"Future",
+				"futer"
+			],
+			"Sector": "Future",
+			"VenueType": "futer"
+		},
+		{
+			"id": "monkey_bar",
+			"EntityType": "Venue",
+			"Name": "Monkeys Bar",
+			"Added to mapbox": "FALSE",
+			"Headline": "Check-In",
+			"Highlight": "x",
+			"Address": "Venloerstraße 33",
+			"City": "Köln",
+			"PostalCode": "50672",
+			"Description": "In the Monkeys Bar near the Stadtgarten you will find the Check-In Station of our Future Viertel.",
+			"Description_DE": "In der Monkeys Bar nahe des Stadtgartens finden Sie die Check-In Station unseres Future Viertels.",
+			"External_location_id": "https://url.expofp.com/?monkey_bar",
+			"parents": [
+				"Future",
+				"checkin"
+			]
+		},
+		{
+			"id": "vier",
+			"EntityType": "Brandhouse",
+			"Name": "Adieu Paris - Döner Cherie",
+			"Added to mapbox": "FALSE",
+			"Headline": "Vier Brandhouse",
+			"Address": "Aachener Str. 38",
+			"City": "Köln",
+			"PostalCode": "50674",
+			"Description": "The Vier Brandhouse can be found in the hip and modern \"Adieu Paris - Döner cherie!\" - A new kebab for the Belgian Quarter!",
+			"Description_DE": "Das Vier Brandhouse finden Sie im angesagten und modernen \"Adieu Paris – Döner cherie!​\" - Ein neuer Döner für das belgische Veedel!​",
+			"External_location_id": "https://url.expofp.com/?vier",
+			"parents": [
+				"bus_main",
+				"Future",
+				"haus"
+			]
+		},
+		{
+			"id": "exhibitor1",
+			"EntityType": "Exhibitor",
+			"Name": "Exhibitor1",
+			"Added to mapbox": "FALSE",
+			"LogoURL": "https://expofp.com/template/img/site-header-logo-inverse.svg",
+			"Website": "https://expofp.com/",
+			"City": "Köln",
+			"PostalCode": "50674",
+			"External_location_id": "https://url.expofp.com/?exhibitor1",
+			"parents": [
+				"future_stage",
+				"Future"
+			]
+		},
+		{
+			"id": "bus_main",
+			"EntityType": "Route",
+			"Name": "Stadtgarten",
+			"Added to mapbox": "FALSE",
+			"Headline": "Bus-Shuttle Main Stages",
+			"Address": "Venloer Str. 40",
+			"City": "Köln",
+			"PostalCode": "50672",
+			"Description": "\"There is a hop-on hop-off bus shuttle station directly in front of the Stadtgarten. This runs every 15 minutes and stops at all 5 main stages on your route.\nIn total, this tour has 4 stops where you can hop on or off:\nStop 1: In front of the \"\"Capitol\"\", Hohenzollernring 79.\nStop 2: In front of the \"\"Bar Schmitz\"\", Aachener Str. 34 \nStop 3: In front of the \"\"Stadtgarten\"\", Venloer Str. 40\nStop 4: In front of the gate to the rear entrance of the Telekom building, Venloer Str. 156 A ",
+			"Description_DE": "Direkt vor dem Stadtgarten befindet sich eine Hop-On Hop-Off  Station des Busshuttles. Dieser fährt im 15 Minuten-Takt und fährt auf deiner Route alle 5 Hauptbühnen an.\nInsgesamt hat diese Tour 4 Stationen, an denen Sie ein oder aussteigen können:\nHaltestelle 1: Vor dem \"Capitol\", Hohenzollernring 79\nHaltestelle 2: Vor der \"Bar Schmitz\", Aachener Str. 34 \nHaltestelle 3: Vor dem \"Stadtgarten\", Venloer Str. 40\nHaltestelle 4: Vor dem Tor zum Hintereingang Telekom-Gebäude, Venloer Str. 156 A ",
+			"External_location_id": "https://url.expofp.com/?bus_main",
+			"parents": [
+				"Disruption",
+				"busshuttle"
+			]
+		},
+		{
+			"id": "guided1",
+			"EntityType": "Route",
+			"Name": "Little Nonna",
+			"Added to mapbox": "FALSE",
+			"Headline": "Startpunkt Guided Tour 1 - Belgisches Viertel",
+			"City": "Köln",
+			"PostalCode": "50674",
+			"parents": [
+				"future_stage",
+				"Disruption",
+				"guided"
+			]
+		},
+		{
+			"id": "testing1",
+			"EntityType": "Generic POI",
+			"Name": "1UP Teststelle Brüsseler Straße",
+			"Added to mapbox": "FALSE",
+			"Headline": "Bürger Test Zentrum",
+			"Address": "Brüsseler Straße 26",
+			"City": "Köln",
+			"PostalCode": "50674",
+			"Description": "In this location you will find a citizens testcenter.",
+			"Description_DE": "Hier finden Sie ein Bürger Test Zentrum.",
+			"parents": [
+				"Inspiration",
+				"testing"
+			]
+		},
+		{
+			"id": "Urban Heat Brandhouse",
+			"EntityType": "Brandhouse",
+			"Name": "Urban Heat Brandhouse",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"Bus-Shuttle Main Stages",
+				"Inspiration"
+			]
+		},
+		{
+			"id": "Bus-Shuttle Main Stages",
+			"EntityType": "Route",
+			"Name": "Bus-Shuttle Main Stages",
+			"Added to mapbox": "FALSE"
+		},
+		{
+			"id": "top_partner_tour",
+			"EntityType": "Route",
+			"Name": "Top Partners Guided tour",
+			"Added to mapbox": "TRUE",
+			"Headline": "Start Top Partner tour",
+			"parents": [
+				"Disruption",
+				"guided"
+			]
+		},
+		{
+			"id": "monkeys_cocktail",
+			"EntityType": "Venue",
+			"Name": "Monkeys Cocktail Culture",
+			"Added to mapbox": "TRUE",
+			"Headline": "Check-in",
+			"Address Calculation": "Venloer Str. 33, 50672 Köln",
+			"Address": "Venloer Str. 33",
+			"City": "Köln",
+			"PostalCode": "50672",
+			"parents": [
+				"checkin"
+			]
+		},
+		{
+			"id": "regal_laden",
+			"EntityType": "Venue",
+			"Name": "Regal-Laden",
+			"Added to mapbox": "TRUE",
+			"Address Calculation": "Brüsseler Straße 58, 50672 Köln",
+			"Address": "Brüsseler Straße 58",
+			"City": "Köln",
+			"PostalCode": "50672",
+			"parents": [
+				"checkin"
+			]
+		},
+		{
+			"id": "sister",
+			"EntityType": "Venue",
+			"Name": "Sister & Co.",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Aachener Straße 3, 50674 Köln",
+			"Address": "Aachener Straße 3",
+			"City": "Köln",
+			"PostalCode": "50674",
+			"parents": [
+				"checkin"
+			]
+		},
+		{
+			"id": "komed_haus",
+			"EntityType": "Venue",
+			"Name": "Komed Haus 6 EG",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Im Mediapark 5, 50670 Köln",
+			"Address": "Im Mediapark 5",
+			"City": "Köln",
+			"PostalCode": "50670"
+		},
+		{
+			"id": "mediapark_outdoor",
+			"EntityType": "Venue",
+			"Name": "Mediapark Outdoor",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Im Mediapark, 50670 Köln",
+			"Address": "Im Mediapark",
+			"City": "Köln",
+			"PostalCode": "50670"
+		},
+		{
+			"id": "stadtgarten",
+			"EntityType": "Venue",
+			"Name": "Stadtgarten",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
+			"Address": "Venloer Straße 40",
+			"City": "Köln",
+			"PostalCode": "50672"
+		},
+		{
+			"id": "volksbuhne",
+			"EntityType": "Venue",
+			"Name": "Volksbühne",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Aachener Straße 05, 50674 Köln",
+			"Address": "Aachener Straße 05",
+			"City": "Köln",
+			"PostalCode": "50674"
+		},
+		{
+			"id": "sartory_sale",
+			"EntityType": "Venue",
+			"Name": "Sartory Säle",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Friesenstraße 44-48, 50670 Köln",
+			"Address": "Friesenstraße 44-48",
+			"City": "Köln",
+			"PostalCode": "50670"
+		},
+		{
+			"id": "beef_brothers",
+			"EntityType": "Venue",
+			"Name": "Beef Brothers",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Aachener Straße 12, 50674 Köln",
+			"Address": "Aachener Straße 12",
+			"City": "Köln",
+			"PostalCode": "50674",
+			"parents": [
+				"food"
+			]
+		},
+		{
+			"id": "flavours_india",
+			"EntityType": "Venue",
+			"Name": "Flavour of India",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Aachener Straße 16, 50674 Köln",
+			"Address": "Aachener Straße 16",
+			"City": "Köln",
+			"PostalCode": "50674",
+			"parents": [
+				"food"
+			]
+		},
+		{
+			"id": "hanoi_september",
+			"EntityType": "Venue",
+			"Name": "Hanoi September",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Aachener Str. 19, 50674 Köln",
+			"Address": "Aachener Str. 19",
+			"City": "Köln",
+			"PostalCode": "50674",
+			"parents": [
+				"food"
+			]
+		},
+		{
+			"id": "little_candia",
+			"EntityType": "Venue",
+			"Name": "Little Candia",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Brüsseler Str 66, 50674 Köln",
+			"Address": "Brüsseler Str 66",
+			"City": "Köln",
+			"PostalCode": "50674",
+			"parents": [
+				"food"
+			]
+		},
+		{
+			"id": "maison_sen",
+			"EntityType": "Venue",
+			"Name": "Maison Sen",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Friesenplatz 7, 50672 Köln",
+			"Address": "Friesenplatz 7",
+			"City": "Köln",
+			"PostalCode": "50672",
+			"parents": [
+				"food"
+			]
+		},
+		{
+			"id": "metzgerei_schmitz",
+			"EntityType": "Venue",
+			"Name": "Metzgerei Schmitz",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Aachener Straße 28, 50672 Köln",
+			"Address": "Aachener Straße 28",
+			"City": "Köln",
+			"PostalCode": "50672",
+			"parents": [
+				"food"
+			]
+		},
+		{
+			"id": "paff",
+			"EntityType": "Venue",
+			"Name": "Päff",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Friesenwall 130, 50672 Köln",
+			"Address": "Friesenwall 130",
+			"City": "Köln",
+			"PostalCode": "50672",
+			"parents": [
+				"food"
+			]
+		},
+		{
+			"id": "reineke_fuchs",
+			"EntityType": "Venue",
+			"Name": "Reineke Fuchs",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Aachener Straße 50, 50674 Köln",
+			"Address": "Aachener Straße 50",
+			"City": "Köln",
+			"PostalCode": "50674",
+			"parents": [
+				"food"
+			]
+		},
+		{
+			"id": "si_claro",
+			"EntityType": "Venue",
+			"Name": "Si Claro",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Friesenplatz 9, 50672 Köln",
+			"Address": "Friesenplatz 9",
+			"City": "Köln",
+			"PostalCode": "50672",
+			"parents": [
+				"food"
+			]
+		},
+		{
+			"id": "sushi_nara",
+			"EntityType": "Venue",
+			"Name": "Sushi Nara",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Friesenstraße  70, 50670 Köln",
+			"Address": "Friesenstraße  70",
+			"City": "Köln",
+			"PostalCode": "50670",
+			"parents": [
+				"food"
+			]
+		},
+		{
+			"id": "woyton",
+			"EntityType": "Venue",
+			"Name": "Woyton",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Bismarckstraße 44, 50672 Köln",
+			"Address": "Bismarckstraße 44",
+			"City": "Köln",
+			"PostalCode": "50672",
+			"parents": [
+				"food"
+			]
+		},
+		{
+			"id": "yes_yoga",
+			"EntityType": "Venue",
+			"Name": "YES.YOGA",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Maastrichterstr. 26, 50672 Köln",
+			"Address": "Maastrichterstr. 26",
+			"City": "Köln",
+			"PostalCode": "50672",
+			"parents": [
+				"food"
+			]
+		},
+		{
+			"id": "goldfinger",
+			"EntityType": "Venue",
+			"Name": "Goldfinger",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Friesenstraße 54, 50670 Köln",
+			"Address": "Friesenstraße 54",
+			"City": "Köln",
+			"PostalCode": "50670",
+			"parents": [
+				"food"
+			]
+		},
+		{
+			"id": "la_latina",
+			"EntityType": "Venue",
+			"Name": "La latina",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Friesenstraße 52, 50670 Köln",
+			"Address": "Friesenstraße 52",
+			"City": "Köln",
+			"PostalCode": "50670",
+			"parents": [
+				"food"
+			]
+		},
+		{
+			"id": "komed_markt",
+			"EntityType": "Venue",
+			"Name": "Komed Haus 6 UG",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Im Mediapark 6, 50670 Köln",
+			"Address": "Im Mediapark 6",
+			"City": "Köln",
+			"PostalCode": "50670",
+			"parents": [
+				"marktplatz"
+			]
+		},
+		{
+			"id": "mediapark_markt",
+			"EntityType": "Venue",
+			"Name": "Mediapark Outdoor",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Im Mediapark, 50670 Köln",
+			"Address": "Im Mediapark",
+			"City": "Köln",
+			"PostalCode": "50670",
+			"parents": [
+				"marktplatz"
+			]
+		},
+		{
+			"id": "spichern_markt",
+			"EntityType": "Venue",
+			"Name": "Spichernstraße",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Spichernstraße, 50672 Köln",
+			"Address": "Spichernstraße",
+			"City": "Köln",
+			"PostalCode": "50672",
+			"parents": [
+				"marktplatz"
+			]
+		},
+		{
+			"id": "stadtgarten_markt",
+			"EntityType": "Venue",
+			"Name": "Stadtgarten",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
+			"Address": "Venloer Straße 40",
+			"City": "Köln",
+			"PostalCode": "50672",
+			"parents": [
+				"marktplatz"
+			]
+		},
+		{
+			"id": "emma_pearl",
+			"EntityType": "Venue",
+			"Name": "Emma Pearl Modeboutique",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Aachener Straße 27, 50674 Köln",
+			"Address": "Aachener Straße 27",
+			"City": "Köln",
+			"PostalCode": "50674",
+			"parents": [
+				"checkin"
+			]
+		},
+		{
+			"id": "D0004171",
+			"EntityType": "Brandhouse",
+			"Name": "Samsung Brandhouse",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/small_SAMSUNG_acc4797a1e.svg",
+			"Address Calculation": "Im Mediapark 1, 50670 Köln",
+			"Address": "Im Mediapark 1",
+			"City": "Köln",
+			"PostalCode": "50670",
+			"Description": "#REF!",
+			"parents": [
+				"Inspiration",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0004213",
+			"EntityType": "Brandhouse",
+			"Name": "Jabra / GN Audio Brandhouse",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_jabra_logo_2ab9f8a512.svg",
+			"Address Calculation": "Im Mediapark 5, 50670 Köln",
+			"Address": "Im Mediapark 5",
+			"City": "Köln",
+			"PostalCode": "50670",
+			"parents": [
+				"Inspiration",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0005438",
+			"EntityType": "Brandhouse",
+			"Name": "Apple Brandhouse",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/telekom_apple_e8d5d8f79a.png",
+			"Address Calculation": "Aachener Straße 16, 50674 Köln",
+			"Address": "Aachener Straße 16",
+			"City": "Köln",
+			"PostalCode": "50674",
+			"parents": [
+				"Disruption",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0005357",
+			"EntityType": "Brandhouse",
+			"Name": "Itenos Brandhouse",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_itenos_logo_a13f3c5e6f.svg",
+			"Address Calculation": "Aachener Straße 15, 50674 Köln",
+			"Address": "Aachener Straße 15",
+			"City": "Köln",
+			"PostalCode": "50674",
+			"parents": [
+				"Disruption",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0005355",
+			"EntityType": "Brandhouse",
+			"Name": "Contentguru Brandhouse",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/content_guru_1cd057dc58.svg",
+			"Website": "https://www.contentguru.com/de-de/",
+			"Address Calculation": "Brüsseler Straße 74, 50672 Köln",
+			"Address": "Brüsseler Straße 74",
+			"City": "Köln",
+			"PostalCode": "50672",
+			"parents": [
+				"Disruption",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0005086",
+			"EntityType": "Brandhouse",
+			"Name": "Ivanti Brandhouse",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/small_Ivanti_4a7a0a9b43.svg",
+			"Website": "https://www.ivanti.de/",
+			"Address Calculation": "Brabanter Straße 1, 50674 Köln",
+			"Address": "Brabanter Straße 1",
+			"City": "Köln",
+			"PostalCode": "50674",
+			"parents": [
+				"Disruption",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0004103",
+			"EntityType": "Brandhouse",
+			"Name": "Cisco Brandhouse",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_cisco_logo_22_v2_2be6ebf0f8.svg",
+			"Address Calculation": "Im Mediapark 1, 50670 Köln",
+			"Address": "Im Mediapark 1",
+			"City": "Köln",
+			"PostalCode": "50670",
+			"parents": [
+				"Inspiration",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0004732",
+			"EntityType": "Brandhouse",
+			"Name": "Datanet Brandhouse",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/small_Datanet_8e4ede2292.svg",
+			"Website": "https://www.datanet.de/",
+			"Address Calculation": "Friesenstraße 82, 50672 Köln",
+			"Address": "Friesenstraße 82",
+			"City": "Köln",
+			"PostalCode": "50672",
+			"Description": "Wir digitalisieren die Geschäftsprozesse rund um einen Telekommunikationsanschluss.\" Entsprechend\ndiesem Leitmotiv unterstützt die DATANET GmbH ihre Kunden mit innovativen Servicekonzepten zur\ndigitalen Transformation bestehender Geschäftsprozesse auf Basis der unternehmenseigenen CT\u0002Service-Plattform. Dies umfasst Lösungen zur Prüfung und Verbuchung elektronischer Rechnungen, zur\nzentralen oder dezentralen Vertragsverwaltung oder zur elektronischen Bestellabwicklung. Die\nhochgradige Automatisierung der Prozesse führt zu einer Minimierung von Aufwänden ebenso wie zur\nVerringerung von Fehlerhäufigkeiten infolge robusterer Prozessabläufe ohne manuelle Bearbeitung\nsowie einer effizienteren Ausnutzung bestehender Systeme und Infrastrukturen.\n\n---\n\nWe support the digital transformation of business processes around a telecommunication access.”\nFollowing this theme, DATANET supports its customers by innovative service solutions for the digital\ntransformation of standard business processes, such as the invoice processing, accounting or contract\nmanagement, based on the company’s own CT service platform (“Communication Tools”). Using the\npotential of the digitalization and the synergies of our central service platform lead to a minimization of\ncustomer internal efforts by highly automated workflows, a significant reduction of regular issues due to\nmore robust processes without manual interaction as well as a more efficient use of existing\ninfrastructures",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0004214",
+			"EntityType": "Brandhouse",
+			"Name": "Bintec-Elmeg Brandhouse",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_bintec_logo_9d5aacc361.svg",
+			"Address Calculation": "Aachener Straße 22, 50674 Köln",
+			"Address": "Aachener Straße 22",
+			"City": "Köln",
+			"PostalCode": "50674",
+			"parents": [
+				"Disruption",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0004170",
+			"EntityType": "Brandhouse",
+			"Name": "Atos Unify Brandhouse",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_atos_unify_logo_cf25718f0c.svg",
+			"Website": "wwww.unify.com",
+			"Address Calculation": "Brüsseler Platz 1, 50674 Köln",
+			"Address": "Brüsseler Platz 1",
+			"City": "Köln",
+			"PostalCode": "50674",
+			"parents": [
+				"Disruption",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0013497",
+			"EntityType": "Brandhouse",
+			"Name": "ALSO Brandhouse",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/also_7bfa911c75.png",
+			"Address Calculation": "Friesenwall 81, 50672 Köln",
+			"Address": "Friesenwall 81",
+			"City": "Köln",
+			"PostalCode": "50672",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0014146",
+			"EntityType": "Brandhouse",
+			"Name": "BPV Brandhouse",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/bpv_bc3adcb18b.svg",
+			"Address Calculation": "Friesenwall 81, 50672 Köln",
+			"Address": "Friesenwall 81",
+			"City": "Köln",
+			"PostalCode": "50672",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0013498",
+			"EntityType": "Brandhouse",
+			"Name": "Vuframe Brandhouse",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0013499",
+			"EntityType": "Brandhouse",
+			"Name": "Ringcentral Brandhouse",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Ring_Central_554303b049.svg",
+			"Website": "https://www.ringcentral.com/de/de/",
+			"Address Calculation": "Aachener Straße 38, 50674 Köln",
+			"Address": "Aachener Straße 38",
+			"City": "Köln",
+			"PostalCode": "50674",
+			"parents": [
+				"Disruption",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0013500",
+			"EntityType": "Brandhouse",
+			"Name": "q.beyond Brandhouse",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/qbeyond_20118a7756.svg",
+			"Website": "https://www.qbeyond.de",
+			"Address Calculation": "Brüsseler Straße 68, 50674 Köln",
+			"Address": "Brüsseler Straße 68",
+			"City": "Köln",
+			"PostalCode": "50674",
+			"parents": [
+				"Disruption",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0013501",
+			"EntityType": "Brandhouse",
+			"Name": "Opitz Consulting Brandhouse",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Opitz_c4a8900e5a.svg",
+			"Address Calculation": "Brüsseler Straße 74, 50672 Köln",
+			"Address": "Brüsseler Straße 74",
+			"City": "Köln",
+			"PostalCode": "50672",
+			"parents": [
+				"Disruption",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0013503",
+			"EntityType": "Brandhouse",
+			"Name": "Dinfra Bronze-Hub",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Dinfra_8ab1c0055b.svg",
+			"Address Calculation": "Brüsseler Straße 74, 50672 Köln",
+			"Address": "Brüsseler Straße 74",
+			"City": "Köln",
+			"PostalCode": "50672",
+			"parents": [
+				"Disruption",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0005513",
+			"EntityType": "Brandhouse",
+			"Name": "Lenovo Brandhouse",
+			"Added to mapbox": "FALSE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Bullittt_ed1d5527a8.png",
+			"Website": "www.lenovo.com/de",
+			"parents": [
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0005464",
+			"EntityType": "Brandhouse",
+			"Name": "IOT Brandhouse",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/IOT_6166395fd7.svg",
+			"Address Calculation": "Friesenstraße 58-60, 50670 Köln",
+			"Address": "Friesenstraße 58-60",
+			"City": "Köln",
+			"PostalCode": "50670",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0005436",
+			"EntityType": "Brandhouse",
+			"Name": "C4B Brandhouse",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/C4_B_4265ee6e33.svg",
+			"Website": "https://www.c4b.com/de/",
+			"Address Calculation": "Brüsseler Straße 74, 50672 Köln",
+			"Address": "Brüsseler Straße 74",
+			"City": "Köln",
+			"PostalCode": "50672",
+			"parents": [
+				"Disruption",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0005428",
+			"EntityType": "Brandhouse",
+			"Name": "Zoom Brandhouse",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_zoom_logo_6302ce955c.svg",
+			"Address Calculation": "Im Mediapark 5, 50670 Köln",
+			"Address": "Im Mediapark 5",
+			"City": "Köln",
+			"PostalCode": "50670",
+			"parents": [
+				"Inspiration",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0013505",
+			"EntityType": "Brandhouse",
+			"Name": "Netscout Bronze-Hub",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Netscout_eef4baa552.svg",
+			"Address Calculation": "Im Mediapark 5, 50670 Köln",
+			"Address": "Im Mediapark 5",
+			"City": "Köln",
+			"PostalCode": "50670",
+			"parents": [
+				"Inspiration",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0004209",
+			"EntityType": "Brandhouse",
+			"Name": "Lancom Brandhouse",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_lancom_logo_c9685dfc4c.svg",
+			"Website": "https://www.lancom-systems.de/",
+			"Address Calculation": "Friesenplatz 15, 50672 Köln",
+			"Address": "Friesenplatz 15",
+			"City": "Köln",
+			"PostalCode": "50672",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0004258",
+			"EntityType": "Brandhouse",
+			"Name": "NFON Brandhouse",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_nfon_logo_ae5e077e77.svg",
+			"Website": "https://www.nfon.com/de/",
+			"Address Calculation": "Friesenstraße  73, 50670 Köln",
+			"Address": "Friesenstraße  73",
+			"City": "Köln",
+			"PostalCode": "50670",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0013528",
+			"EntityType": "Brandhouse",
+			"Name": "Byon Bronze-Hub",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/small_byon_logo_5940533155.png",
+			"Website": "https://www.byon.de/de/",
+			"Address Calculation": "Brüsseler Straße 74, 50672 Köln",
+			"Address": "Brüsseler Straße 74",
+			"City": "Köln",
+			"PostalCode": "50672",
+			"parents": [
+				"Disruption",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0004345",
+			"EntityType": "Brandhouse",
+			"Name": "Microsoft Brandhouse",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/microsoft_7b9a67cb55.png",
+			"Address Calculation": "Im Mediapark, 50670 Köln",
+			"Address": "Im Mediapark",
+			"City": "Köln",
+			"PostalCode": "50670",
+			"parents": [
+				"Inspiration",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0005598",
+			"EntityType": "Brandhouse",
+			"Name": "Enreach Brandhouse",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_enreach_logo_284b34d996.svg",
+			"Website": "https://www.enreach.de/",
+			"Address Calculation": "Friesenstraße 62, 50670 Köln",
+			"Address": "Friesenstraße 62",
+			"City": "Köln",
+			"PostalCode": "50670",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0005511",
+			"EntityType": "Brandhouse",
+			"Name": "JAMF Brandhouse",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/JAMF_1c9dcbe6fc.svg",
+			"Address Calculation": "Venloer Straße 19, 50672 Köln",
+			"Address": "Venloer Straße 19",
+			"City": "Köln",
+			"PostalCode": "50672",
+			"parents": [
+				"Future",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0013568",
+			"EntityType": "Brandhouse",
+			"Name": "Congstar Brandhouse",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/congstar_9178caed7f.png",
+			"Address Calculation": "Brüsseler Straße 47, 50674 Köln",
+			"Address": "Brüsseler Straße 47",
+			"City": "Köln",
+			"PostalCode": "50674",
+			"parents": [
+				"top_partner_tour",
+				"Disruption",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0005512",
+			"EntityType": "Brandhouse",
+			"Name": "Aruba Brandhouse",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_hpe_aruba_logo_9dde9bd05f.svg",
+			"Address Calculation": "Im Mediapark 8, 50670 Köln",
+			"Address": "Im Mediapark 8",
+			"City": "Köln",
+			"PostalCode": "50670",
+			"parents": [
+				"Inspiration",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0004319",
+			"EntityType": "Brandhouse",
+			"Name": "Aryaka Bronze-Hub",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_aryaka_logo_bbcb338b2f.svg",
+			"Address Calculation": "Im Mediapark 5, 50670 Köln",
+			"Address": "Im Mediapark 5",
+			"City": "Köln",
+			"PostalCode": "50670",
+			"parents": [
+				"Inspiration",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0014148",
+			"EntityType": "Brandhouse",
+			"Name": "Bintec (IoT) Bronze-Hub",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_bintec_logo_9d5aacc361.svg",
+			"Address Calculation": "Brüsseler Straße 74, 50672 Köln",
+			"Address": "Brüsseler Straße 74",
+			"City": "Köln",
+			"PostalCode": "50672",
+			"parents": [
+				"Disruption",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0004169",
+			"EntityType": "Brandhouse",
+			"Name": "Juniper Bronze-Hub",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Juniper_68a0d1c2c3.svg",
+			"Address Calculation": "Im Mediapark 5, 50670 Köln",
+			"Address": "Im Mediapark 5",
+			"City": "Köln",
+			"PostalCode": "50670",
+			"parents": [
+				"Inspiration",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0014106",
+			"EntityType": "Brandhouse",
+			"Name": "Stellaneo Bronze-Hub",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/stellaneot_c31b7fd7c7.png",
+			"Address Calculation": "Im Mediapark 5, 50670 Köln",
+			"Address": "Im Mediapark 5",
+			"City": "Köln",
+			"PostalCode": "50670",
+			"parents": [
+				"Inspiration",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0014147",
+			"EntityType": "Brandhouse",
+			"Name": "Bintec Bronze-Hub",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_bintec_logo_9d5aacc361.svg",
+			"Address Calculation": "Im Mediapark 5, 50670 Köln",
+			"Address": "Im Mediapark 5",
+			"City": "Köln",
+			"PostalCode": "50670",
+			"parents": [
+				"Inspiration",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0005354, MTC10FOW",
+			"EntityType": "Brandhouse",
+			"Name": "Smenso Bronze-Hub",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/smenso_72687aff8f.svg",
+			"Website": "https://smenso.de/",
+			"Address Calculation": "Brüsseler Straße 74, 50672 Köln",
+			"Address": "Brüsseler Straße 74",
+			"City": "Köln",
+			"PostalCode": "50672",
+			"parents": [
+				"Disruption",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0005379",
+			"EntityType": "Brandhouse",
+			"Name": "BVMW Brandhouse",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/small_BVMW_bg_white_22_73b72acb23.png",
+			"Address Calculation": "Aachener Straße 30, 50672 Köln",
+			"Address": "Aachener Straße 30",
+			"City": "Köln",
+			"PostalCode": "50672",
+			"parents": [
+				"Disruption",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0004277",
+			"EntityType": "Brandhouse",
+			"Name": "DELL Brandhouse",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Dell_164f2f0378.svg",
+			"Address Calculation": "Brüsseler Straße 70, 50674 Köln",
+			"Address": "Brüsseler Straße 70",
+			"City": "Köln",
+			"PostalCode": "50674",
+			"parents": [
+				"Disruption",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0005522",
+			"EntityType": "Brandhouse",
+			"Name": "Global Carrier Brandhouse",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_dt_global_carrier_logo_7dcf7489de.png",
+			"Address Calculation": "Spichernstraße 10, 50672 Köln",
+			"Address": "Spichernstraße 10",
+			"City": "Köln",
+			"PostalCode": "50672",
+			"parents": [
+				"Future",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0014104",
+			"EntityType": "Brandhouse",
+			"Name": "Google Cloud Brandhouse",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Google_105667684a.svg",
+			"Website": "https://cloud.google.com/",
+			"Address Calculation": "Im Mediapark, 50670 Köln",
+			"Address": "Im Mediapark",
+			"City": "Köln",
+			"PostalCode": "50670",
+			"parents": [
+				"Inspiration",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0004211",
+			"EntityType": "Brandhouse",
+			"Name": "Hitachi Brandhouse",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_hitachi_logo_be7fe50267.svg",
+			"Address Calculation": "Im Mediapark 1, 50670 Köln",
+			"Address": "Im Mediapark 1",
+			"City": "Köln",
+			"PostalCode": "50670",
+			"parents": [
+				"Inspiration",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0004318",
+			"EntityType": "Brandhouse",
+			"Name": "Huawei Brandhouse",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Huawei_6d04e74c2e.svg",
+			"Address Calculation": "Spichernstraße 8, 50672 Köln",
+			"Address": "Spichernstraße 8",
+			"City": "Köln",
+			"PostalCode": "50672",
+			"parents": [
+				"Future",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0014145",
+			"EntityType": "Brandhouse",
+			"Name": "KPMG Brandhouse",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0005380",
+			"EntityType": "Brandhouse",
+			"Name": "Medialine Brandhouse",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_medialine_logo_525eef97c6.svg",
+			"Address Calculation": "Bismarckstraße 44, 50672 Köln",
+			"Address": "Bismarckstraße 44",
+			"City": "Köln",
+			"PostalCode": "50672",
+			"parents": [
+				"Future",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0014144",
+			"EntityType": "Brandhouse",
+			"Name": "Poly Brandhouse",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/poly_f1fa0a95c3.svg",
+			"Address Calculation": "Im Mediapark 5, 50670 Köln",
+			"Address": "Im Mediapark 5",
+			"City": "Köln",
+			"PostalCode": "50670",
+			"parents": [
+				"Inspiration",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0014143",
+			"EntityType": "Brandhouse",
+			"Name": "Salesforce Brandhouse",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Salesforce_b9c761b0ac.svg",
+			"Address Calculation": "Antwerpener Str. 38, 50672 Köln ",
+			"Address": "Antwerpener Str. 38",
+			"City": "Köln ",
+			"PostalCode": "50672",
+			"parents": [
+				"Future",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0014105",
+			"EntityType": "Brandhouse",
+			"Name": "vm ware Brandhouse",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/vmware_9006b6ef99.svg",
+			"Address Calculation": "Im Mediapark 5, 50670 Köln",
+			"Address": "Im Mediapark 5",
+			"City": "Köln",
+			"PostalCode": "50670",
+			"parents": [
+				"Inspiration",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0004316",
+			"EntityType": "Brandhouse",
+			"Name": "Xiaomi Brandhouse",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_xiaomi_logo_ce25136073.svg",
+			"Address Calculation": "Friesenwall 124, 50672 Köln",
+			"Address": "Friesenwall 124",
+			"City": "Köln",
+			"PostalCode": "50672",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0013576",
+			"EntityType": "Brandhouse",
+			"Name": "Bullitt Brandhouse",
+			"Added to mapbox": "TRUE",
+			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Bullittt_ed1d5527a8.png",
+			"Website": "www.catphones.com",
+			"Address Calculation": "Im Klapperhof 22-24, 50670 Köln",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "TEL_2022_001",
+			"EntityType": "Exhibitor",
+			"Name": "Brandhouse Telekom \"Moderne Digitalisierungslösungen\"",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Aachener Straße 24-26, 50674 Köln",
+			"Address": "Aachener Straße 24-26",
+			"City": "Köln",
+			"PostalCode": "50674",
+			"parents": [
+				"Future",
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_002",
+			"EntityType": "Exhibitor",
+			"Name": "Direkter Vertrieb & \r\nService Geschäftskunden",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Brüsseler Str. 90, 50672 Köln",
+			"Address": "Brüsseler Str. 90",
+			"City": "Köln",
+			"PostalCode": "50672",
+			"parents": [
+				"Future",
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_003",
+			"EntityType": "Exhibitor",
+			"Name": "PUBLIC / Telekom",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Brüsseler Str. 69, 50672 Köln",
+			"Address": "Brüsseler Str. 69",
+			"City": "Köln",
+			"PostalCode": "50672",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_004",
+			"EntityType": "Exhibitor",
+			"Name": "Segmenthaus KMU",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Aachener Straße 52, 50674 Köln",
+			"Address": "Aachener Straße 52",
+			"City": "Köln",
+			"PostalCode": "50674",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_005",
+			"EntityType": "Exhibitor",
+			"Name": "Segmenthaus L",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloerstr 29, 50672 Köln",
+			"Address": "Venloerstr 29",
+			"City": "Köln",
+			"PostalCode": "50672",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_006",
+			"EntityType": "Exhibitor",
+			"Name": "Segmenthaus M",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Friesenplatz 11, 50672 Köln",
+			"Address": "Friesenplatz 11",
+			"City": "Köln",
+			"PostalCode": "50672",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_007",
+			"EntityType": "Exhibitor",
+			"Name": "Segmenthaus Partnervertrieb",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Friesenwall 81, 50672 Köln",
+			"Address": "Friesenwall 81",
+			"City": "Köln",
+			"PostalCode": "50672",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_008",
+			"EntityType": "Exhibitor",
+			"Name": "Segmenthaus Telekom - XL",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Im Mediapark 7, 50670 Köln",
+			"Address": "Im Mediapark 7",
+			"City": "Köln",
+			"PostalCode": "50670",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_009",
+			"EntityType": "Exhibitor",
+			"Name": "Telekom - Digitale Bildung",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Aachener Straße 46, 50674 Köln",
+			"Address": "Aachener Straße 46",
+			"City": "Köln",
+			"PostalCode": "50674",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_010",
+			"EntityType": "Exhibitor",
+			"Name": "Telekom",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Aachener Straße 27, 50674 Köln",
+			"Address": "Aachener Straße 27",
+			"City": "Köln",
+			"PostalCode": "50674",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_011",
+			"EntityType": "Exhibitor",
+			"Name": "Telekom - Haus der Netze",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Im Klapperhof 22-24, 50670 Köln",
+			"Address": "Im Klapperhof 22-24",
+			"City": "Köln",
+			"PostalCode": "50670",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_012",
+			"EntityType": "Exhibitor",
+			"Name": "Telekom - International",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Aachener Straße 20, 50674 Köln",
+			"Address": "Aachener Straße 20",
+			"City": "Köln",
+			"PostalCode": "50674",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_013",
+			"EntityType": "Exhibitor",
+			"Name": "Telekom - Magenta TV",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Brüsseler Platz 09, 50674 Köln",
+			"Address": "Brüsseler Platz 09",
+			"City": "Köln",
+			"PostalCode": "50674",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_014",
+			"EntityType": "Exhibitor",
+			"Name": "Telekom - Sales & Service",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Hohenzollernring 29, 50672 Köln",
+			"Address": "Hohenzollernring 29",
+			"City": "Köln",
+			"PostalCode": "50672",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_015",
+			"EntityType": "Exhibitor",
+			"Name": "Telekom - Schubkraft",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Aachener Straße 21, 50674 Köln",
+			"Address": "Aachener Straße 21",
+			"City": "Köln",
+			"PostalCode": "50674",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_016",
+			"EntityType": "Exhibitor",
+			"Name": "Telekom - Vertriebslounge",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Im Klapperhof 22-24, 50670 Köln",
+			"Address": "Im Klapperhof 22-24",
+			"City": "Köln",
+			"PostalCode": "50670",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_017",
+			"EntityType": "Exhibitor",
+			"Name": "Telekom - Vertriebslounge",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Aachener Straße 05, 50674 Köln",
+			"Address": "Aachener Straße 05",
+			"City": "Köln",
+			"PostalCode": "50674",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_018",
+			"EntityType": "Exhibitor",
+			"Name": "Telekom - Vertriebslounge",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Im Mediapark 5, 50670 Köln",
+			"Address": "Im Mediapark 5",
+			"City": "Köln",
+			"PostalCode": "50670",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_019",
+			"EntityType": "Exhibitor",
+			"Name": "TSI ",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Friesenstraße 80, 50672 Köln",
+			"Address": "Friesenstraße 80",
+			"City": "Köln",
+			"PostalCode": "50672",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_020",
+			"EntityType": "Exhibitor",
+			"Name": "TSI ",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Friesenplatz 3, 50672 Köln",
+			"Address": "Friesenplatz 3",
+			"City": "Köln",
+			"PostalCode": "50672",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_021",
+			"EntityType": "Exhibitor",
+			"Name": "Workshops",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Im Mediapark 7, 50670 Köln",
+			"Address": "Im Mediapark 7",
+			"City": "Köln",
+			"PostalCode": "50670",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_022",
+			"EntityType": "Exhibitor",
+			"Name": "Workshops",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Im Mediapark 8b, 50670 Köln",
+			"Address": "Im Mediapark 8b",
+			"City": "Köln",
+			"PostalCode": "50670",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_023",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_024",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_025",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_026",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_027",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_028",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_029",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_030",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_031",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_032",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_033",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_034",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_035",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_036",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_037",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_038",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_039",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_040",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_041",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_042",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_043",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_044",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_045",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_046",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_047",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_048",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_049",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_050",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_051",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_052",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_053",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_054",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_055",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_056",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_057",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_058",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_059",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_060",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_061",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_062",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_063",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_064",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_065",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_066",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_067",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_068",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_069",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_070",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_071",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_072",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_073",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "TEL_2022_074",
+			"EntityType": "Exhibitor",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"brandhouse+t"
+			]
+		},
+		{
+			"id": "inspiration_stage",
+			"EntityType": "Venue",
+			"Name": "Mediapark Köln",
+			"Added to mapbox": "FALSE",
+			"Headline": "Inspiration stage",
+			"Highlight": "x",
+			"Address": "Im Mediapark",
+			"City": "Köln",
+			"PostalCode": "50670",
+			"parents": [
+				"Inspiration",
+				"inspiration"
+			]
+		},
+		{
+			"id": "interactive_stage",
+			"EntityType": "Venue",
+			"Name": "Sartory Säle",
+			"Added to mapbox": "FALSE",
+			"Headline": "Interactive stage",
+			"Highlight": "x",
+			"Address": "Friesenstraße 44-48",
+			"City": "Köln",
+			"PostalCode": "50670",
+			"parents": [
+				"Interactive",
+				"interactive"
+			]
+		},
+		{
+			"id": "disruption_stage",
+			"EntityType": "Venue",
+			"Name": "Volksbühne ",
+			"Added to mapbox": "FALSE",
+			"Headline": "Disruption stage",
+			"Highlight": "x",
+			"Address": "Aachener Straße 5",
+			"City": "Köln",
+			"PostalCode": "50674",
+			"parents": [
+				"Disruption",
+				"disruption"
+			]
+		},
+		{
+			"id": "magenta_stage",
+			"EntityType": "Venue",
+			"Name": "KOMED",
+			"Added to mapbox": "FALSE",
+			"Headline": "Magenta stage",
+			"Highlight": "x",
+			"Address": "Im Mediapark 5",
+			"City": "Köln",
+			"PostalCode": "50670",
+			"parents": [
+				"Inspiration",
+				"inspiration"
+			]
+		},
+		{
+			"id": "busshuttle_future",
+			"Name": "Busshuttle Future Quartier",
+			"Icon": "Hop-on Hop-off Bus",
+			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon_busshuttle_future.png",
+			"EntityType": "VenueType"
+		},
+		{
+			"id": "busshuttle_inspiration",
+			"Name": "Busshuttle Inspiration Quartier",
+			"Icon": "Hop-on Hop-off Bus",
+			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon_busshuttle_future.png",
+			"EntityType": "VenueType"
+		},
+		{
+			"id": "busshuttle_interactive",
+			"Name": "Busshuttle Interactive Quartier",
+			"Icon": "Hop-on Hop-off Bus",
+			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon_busshuttle_future.png",
+			"EntityType": "VenueType"
+		},
+		{
+			"id": "busshuttle_disruption",
+			"Name": "Busshuttle Disruption Quartier",
+			"Icon": "Hop-on Hop-off Bus",
+			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon_busshuttle_future.png",
+			"EntityType": "VenueType"
+		},
+		{
+			"id": "checkin",
+			"Name": "Check In",
+			"Icon": "Check-In",
+			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon_check_in.png",
+			"EntityType": "VenueType"
+		},
+		{
+			"id": "disruption",
+			"Name": "Disruption Stage",
+			"Icon": "Bühne",
+			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon_stages.png",
+			"EntityType": "VenueType"
+		},
+		{
+			"id": "food",
+			"Name": "Food & Beverage",
+			"Icon": "Food & Beverage",
+			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon_food.png",
+			"EntityType": "VenueType"
+		},
+		{
+			"id": "futer",
+			"Name": "Future Stage",
+			"Icon": "Bühne",
+			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon_stages.png",
+			"EntityType": "VenueType"
+		},
+		{
+			"id": "guided",
+			"Name": "Guided Tour",
+			"Icon": "Guided Tours",
+			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon_tours.png",
+			"EntityType": "VenueType"
+		},
+		{
+			"id": "guided_stern",
+			"Name": "Guided Tour",
+			"Icon": "Guided Tour mit Stern",
+			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon-11.png",
+			"EntityType": "VenueType"
+		},
+		{
+			"id": "inspiration",
+			"Name": "Inspiration Stage ",
+			"Icon": "Bühne",
+			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon_stages.png",
+			"EntityType": "VenueType"
+		},
+		{
+			"id": "locker",
+			"Name": "Locker",
+			"Icon": "Locker",
+			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon-13.png",
+			"EntityType": "VenueType"
+		},
+		{
+			"id": "magenta",
+			"Name": "Magenta Stage ",
+			"Icon": "Bühne",
+			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon_stages.png",
+			"EntityType": "VenueType"
+		},
+		{
+			"id": "partner",
+			"Name": "Offizieller Partner / Official Partner",
+			"Icon": "Haus",
+			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon-15.png",
+			"EntityType": "VenueType"
+		},
+		{
+			"id": "partner_stern",
+			"Name": "Offizieller Partner / Official Partner",
+			"Icon": "Haus mit Stern",
+			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon-16.png",
+			"EntityType": "VenueType"
+		},
+		{
+			"id": "vetriebslounge",
+			"Name": "Specials",
+			"Icon": "Vetriebslounge",
+			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon_vertriebslounges.png",
+			"EntityType": "VenueType"
+		},
+		{
+			"id": "hous_stern",
+			"Name": "Specials",
+			"Icon": "Haus mit Stern",
+			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon-18.png",
+			"EntityType": "VenueType"
+		},
+		{
+			"id": "brandhouse+t",
+			"Name": "Specials",
+			"Icon": "Haus mit Telekomlogo",
+			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon_brandhouse+t.png",
+			"EntityType": "VenueType"
+		},
+		{
+			"id": "brandhouse",
+			"Name": "Brandhouse",
+			"Icon": "Haus",
+			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon_brandhouse.png",
+			"EntityType": "VenueType"
+		},
+		{
+			"id": "marktplatz",
+			"Name": "Specials",
+			"Icon": "Marktplatz",
+			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon-21.png",
+			"EntityType": "VenueType"
+		},
+		{
+			"id": "testing",
+			"Name": "Test Zentrum",
+			"Icon": "Testing",
+			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon-22.png",
+			"EntityType": "VenueType"
+		},
+		{
+			"id": "interactive",
+			"Name": "Interactive Stage",
+			"Icon": "Bühne",
+			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon_stages.png",
+			"EntityType": "VenueType"
+		},
+		{
+			"id": "Disruption",
+			"Name": "Disruption",
+			"Color": "#3CB4E8",
+			"EntityType": "Sector"
+		},
+		{
+			"id": "Future",
+			"Name": "Future",
+			"Color": "#FFDE14",
+			"EntityType": "Sector"
+		},
+		{
+			"id": "Inspiration",
+			"Name": "Inspiration",
+			"Color": "#E6007E",
+			"EntityType": "Sector"
+		},
+		{
+			"id": "Interactive",
+			"Name": "Interactive",
+			"Color": "#00B050",
+			"EntityType": "Sector"
+		}
+	]
+}
