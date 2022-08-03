@@ -1,0 +1,48 @@
+{
+    "rules": [
+        {
+            "name": "Set icon from parent (present in venuetype)",
+            "filter": ["!", ["get", "iconUrl"]],
+            "props": {
+                "iconUrl": [
+                    "get",
+                    "iconUrl",
+                    ["at", 0, ["filter", ["parents"], "val", null, ["get", "iconUrl", ["var", "val"]]]]
+                ]
+            }
+        },
+        {
+            "name": "Set icon from parent (present in venuetype)",
+            "filter": ["all", ["!", ["get", "iconUrl"], []]],
+            "props": {}
+        },
+        {
+            "name": "Set default iconUrl for all entities",
+            "filter": ["!", ["get", "iconUrl"]],
+            "props": {
+                "iconUrl": "https://expofp.github.io/fest-digitalx/images/icon-23.png"
+            }
+        },
+        {
+            "name": "Set name",
+            "filter": ["!", ["get", "name"]],
+            "props": {
+                "name": ["get", "id"]
+            }
+        },
+        {
+            "name": "Set entityName",
+            "filter": ["!", ["get", "entityName"]],
+            "props": {
+                "entityName": ["get", "name"]
+            }
+        },
+        {
+            "name": "Set buttons",
+            "props": {
+                "showMoreDetailsButton": true,
+                "showDirectionsButton": true
+            }
+        }
+    ]
+}
