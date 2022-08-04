@@ -1987,63 +1987,63 @@
 			"id": "busshuttle_future",
 			"Name": "Busshuttle Future Quartier",
 			"Icon": "Hop-on Hop-off Bus",
-			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon_busshuttle_future.png",
+			"IconURL": "https://fest-digitalx.expofp.com/images/icon_busshuttle_future.png",
 			"EntityType": "VenueType"
 		},
 		{
 			"id": "busshuttle_inspiration",
 			"Name": "Busshuttle Inspiration Quartier",
 			"Icon": "Hop-on Hop-off Bus",
-			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon_busshuttle_future.png",
+			"IconURL": "https://fest-digitalx.expofp.com/images/icon_busshuttle_future.png",
 			"EntityType": "VenueType"
 		},
 		{
 			"id": "busshuttle_interactive",
 			"Name": "Busshuttle Interactive Quartier",
 			"Icon": "Hop-on Hop-off Bus",
-			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon_busshuttle_future.png",
+			"IconURL": "https://fest-digitalx.expofp.com/images/icon_busshuttle_future.png",
 			"EntityType": "VenueType"
 		},
 		{
 			"id": "busshuttle_disruption",
 			"Name": "Busshuttle Disruption Quartier",
 			"Icon": "Hop-on Hop-off Bus",
-			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon_busshuttle_future.png",
+			"IconURL": "https://fest-digitalx.expofp.com/images/icon_busshuttle_future.png",
 			"EntityType": "VenueType"
 		},
 		{
 			"id": "checkin",
 			"Name": "Check In",
 			"Icon": "Check-In",
-			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon_check_in.png",
+			"IconURL": "https://fest-digitalx.expofp.com/images/icon_check_in.png",
 			"EntityType": "VenueType"
 		},
 		{
 			"id": "disruption",
 			"Name": "Disruption Stage",
 			"Icon": "Bühne",
-			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon_stages.png",
+			"IconURL": "https://fest-digitalx.expofp.com/images/icon_stages.png",
 			"EntityType": "VenueType"
 		},
 		{
 			"id": "food",
 			"Name": "Food & Beverage",
 			"Icon": "Food & Beverage",
-			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon_food.png",
+			"IconURL": "https://fest-digitalx.expofp.com/images/icon_food.png",
 			"EntityType": "VenueType"
 		},
 		{
 			"id": "futer",
 			"Name": "Future Stage",
 			"Icon": "Bühne",
-			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon_stages.png",
+			"IconURL": "https://fest-digitalx.expofp.com/images/icon_stages.png",
 			"EntityType": "VenueType"
 		},
 		{
 			"id": "guided",
 			"Name": "Guided Tour",
 			"Icon": "Guided Tours",
-			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon_tours.png",
+			"IconURL": "https://fest-digitalx.expofp.com/images/icon_tours.png",
 			"EntityType": "VenueType"
 		},
 		{
@@ -2057,7 +2057,7 @@
 			"id": "inspiration",
 			"Name": "Inspiration Stage ",
 			"Icon": "Bühne",
-			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon_stages.png",
+			"IconURL": "https://fest-digitalx.expofp.com/images/icon_stages.png",
 			"EntityType": "VenueType"
 		},
 		{
@@ -2071,7 +2071,7 @@
 			"id": "magenta",
 			"Name": "Magenta Stage ",
 			"Icon": "Bühne",
-			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon_stages.png",
+			"IconURL": "https://fest-digitalx.expofp.com/images/icon_stages.png",
 			"EntityType": "VenueType"
 		},
 		{
@@ -2092,7 +2092,7 @@
 			"id": "vetriebslounge",
 			"Name": "Specials",
 			"Icon": "Vetriebslounge",
-			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon_vertriebslounges.png",
+			"IconURL": "https://fest-digitalx.expofp.com/images/icon_vertriebslounges.png",
 			"EntityType": "VenueType"
 		},
 		{
@@ -2134,7 +2134,7 @@
 			"id": "interactive",
 			"Name": "Interactive Stage",
 			"Icon": "Bühne",
-			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon_stages.png",
+			"IconURL": "https://fest-digitalx.expofp.com/images/icon_stages.png",
 			"EntityType": "VenueType"
 		},
 		{
