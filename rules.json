@@ -20,7 +20,7 @@
             "name": "Set default iconUrl for all entities",
             "filter": ["!", ["get", "iconUrl"]],
             "props": {
-                "iconUrl": "https://expofp.github.io/fest-digitalx/images/icon-23.png"
+                "iconUrl": "https://fest-digitalx.expofp.com/images/icon-23.png"
             }
         },
         {
