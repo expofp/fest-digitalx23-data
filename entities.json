@@ -1,127 +1,6 @@
 {
 	"entities": [
 		{
-			"id": "future_stage",
-			"EntityType": "Venue",
-			"Name": "Stadtgarten",
-			"Added to mapbox": "TRUE",
-			"Headline": "Future stage",
-			"Highlight": "x",
-			"Address": "Venloer Str. 40",
-			"City": "Köln",
-			"PostalCode": "50672",
-			"Description": "The Future Stage of DIGITAL X is located in green surroundings in the inviting beer garden of the Stadtgarten Cologne. ",
-			"Description_DE": "Die Future Stage der DIGITAL X befindet sich in grüner Umgebung im einladenden Biergarten des Stadtgarten Köln. ",
-			"External_location_id": "https://url.expofp.com/?future_stage",
-			"parents": [
-				"guided1",
-				"bus_main",
-				"Future",
-				"futer"
-			],
-			"Sector": "Future",
-			"VenueType": "futer"
-		},
-		{
-			"id": "monkey_bar",
-			"EntityType": "Venue",
-			"Name": "Monkeys Bar",
-			"Added to mapbox": "FALSE",
-			"Headline": "Check-In",
-			"Highlight": "x",
-			"Address": "Venloerstraße 33",
-			"City": "Köln",
-			"PostalCode": "50672",
-			"Description": "In the Monkeys Bar near the Stadtgarten you will find the Check-In Station of our Future Viertel.",
-			"Description_DE": "In der Monkeys Bar nahe des Stadtgartens finden Sie die Check-In Station unseres Future Viertels.",
-			"External_location_id": "https://url.expofp.com/?monkey_bar",
-			"parents": [
-				"Future",
-				"checkin"
-			]
-		},
-		{
-			"id": "vier",
-			"EntityType": "Brandhouse",
-			"Name": "Adieu Paris - Döner Cherie",
-			"Added to mapbox": "FALSE",
-			"Headline": "Vier Brandhouse",
-			"Address": "Aachener Str. 38",
-			"City": "Köln",
-			"PostalCode": "50674",
-			"Description": "The Vier Brandhouse can be found in the hip and modern \"Adieu Paris - Döner cherie!\" - A new kebab for the Belgian Quarter!",
-			"Description_DE": "Das Vier Brandhouse finden Sie im angesagten und modernen \"Adieu Paris – Döner cherie!​\" - Ein neuer Döner für das belgische Veedel!​",
-			"External_location_id": "https://url.expofp.com/?vier",
-			"parents": [
-				"bus_main",
-				"Future",
-				"haus"
-			]
-		},
-		{
-			"id": "exhibitor1",
-			"EntityType": "Exhibitor",
-			"Name": "Exhibitor1",
-			"Added to mapbox": "FALSE",
-			"LogoURL": "https://expofp.com/template/img/site-header-logo-inverse.svg",
-			"Website": "https://expofp.com/",
-			"City": "Köln",
-			"PostalCode": "50674",
-			"Description": "1",
-			"External_location_id": "https://url.expofp.com/?exhibitor1",
-			"parents": [
-				"future_stage",
-				"Future"
-			]
-		},
-		{
-			"id": "bus_main",
-			"EntityType": "Route",
-			"Name": "Stadtgarten",
-			"Added to mapbox": "FALSE",
-			"Headline": "Bus-Shuttle Main Stages",
-			"Address": "Venloer Str. 40",
-			"City": "Köln",
-			"PostalCode": "50672",
-			"Description": "\"There is a hop-on hop-off bus shuttle station directly in front of the Stadtgarten. This runs every 15 minutes and stops at all 5 main stages on your route.\nIn total, this tour has 4 stops where you can hop on or off:\nStop 1: In front of the \"\"Capitol\"\", Hohenzollernring 79.\nStop 2: In front of the \"\"Bar Schmitz\"\", Aachener Str. 34 \nStop 3: In front of the \"\"Stadtgarten\"\", Venloer Str. 40\nStop 4: In front of the gate to the rear entrance of the Telekom building, Venloer Str. 156 A ",
-			"Description_DE": "Direkt vor dem Stadtgarten befindet sich eine Hop-On Hop-Off  Station des Busshuttles. Dieser fährt im 15 Minuten-Takt und fährt auf deiner Route alle 5 Hauptbühnen an.\nInsgesamt hat diese Tour 4 Stationen, an denen Sie ein oder aussteigen können:\nHaltestelle 1: Vor dem \"Capitol\", Hohenzollernring 79\nHaltestelle 2: Vor der \"Bar Schmitz\", Aachener Str. 34 \nHaltestelle 3: Vor dem \"Stadtgarten\", Venloer Str. 40\nHaltestelle 4: Vor dem Tor zum Hintereingang Telekom-Gebäude, Venloer Str. 156 A ",
-			"External_location_id": "https://url.expofp.com/?bus_main",
-			"parents": [
-				"Disruption",
-				"busshuttle"
-			]
-		},
-		{
-			"id": "guided1",
-			"EntityType": "Route",
-			"Name": "Little Nonna",
-			"Added to mapbox": "FALSE",
-			"Headline": "Startpunkt Guided Tour 1 - Belgisches Viertel",
-			"City": "Köln",
-			"PostalCode": "50674",
-			"parents": [
-				"future_stage",
-				"Disruption",
-				"guided"
-			]
-		},
-		{
-			"id": "testing1",
-			"EntityType": "Generic POI",
-			"Name": "1UP Teststelle Brüsseler Straße",
-			"Added to mapbox": "FALSE",
-			"Headline": "Bürger Test Zentrum",
-			"Address": "Brüsseler Straße 26",
-			"City": "Köln",
-			"PostalCode": "50674",
-			"Description": "In this location you will find a citizens testcenter.",
-			"Description_DE": "Hier finden Sie ein Bürger Test Zentrum.",
-			"parents": [
-				"Inspiration",
-				"testing"
-			]
-		},
-		{
 			"id": "Urban Heat Brandhouse",
 			"EntityType": "Brandhouse",
 			"Name": "Urban Heat Brandhouse",
@@ -1129,7 +1008,9 @@
 			"Added to mapbox": "FALSE",
 			"parents": [
 				"brandhouse"
-			]
+			],
+			"Sector": "Interactive",
+			"VenueType": "brandhouse"
 		},
 		{
 			"id": "D0005380",
@@ -1150,7 +1031,7 @@
 			"id": "D0014144",
 			"EntityType": "Brandhouse",
 			"Name": "Poly Brandhouse",
-			"Added to mapbox": "TRUE",
+			"Added to mapbox": "FALSE",
 			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/poly_f1fa0a95c3.svg",
 			"Address Calculation": "Im Mediapark 5, 50670 Köln",
 			"Address": "Im Mediapark 5",
@@ -1159,7 +1040,9 @@
 			"parents": [
 				"Inspiration",
 				"brandhouse"
-			]
+			],
+			"Sector": "Interactive",
+			"VenueType": "brandhouse"
 		},
 		{
 			"id": "D0014143",
@@ -1214,6 +1097,33 @@
 			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Bullittt_ed1d5527a8.png",
 			"Website": "www.catphones.com",
 			"Address Calculation": "Im Klapperhof 22-24, 50670 Köln",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0004279",
+			"EntityType": "Brandhouse",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0004278",
+			"EntityType": "Brandhouse",
+			"Added to mapbox": "FALSE",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0014173",
+			"EntityType": "Brandhouse",
+			"Added to mapbox": "FALSE",
 			"parents": [
 				"Interactive",
 				"brandhouse"
@@ -1921,6 +1831,24 @@
 			"Added to mapbox": "FALSE",
 			"parents": [
 				"brandhouse+t"
+			]
+		},
+		{
+			"id": "future_stage",
+			"EntityType": "Venue",
+			"Name": "Stadtgarten",
+			"Added to mapbox": "TRUE",
+			"Headline": "Future stage",
+			"Highlight": "x",
+			"Address": "Venloer Str. 40",
+			"City": "Köln",
+			"PostalCode": "50672",
+			"Description": "The Future Stage of DIGITAL X is located in green surroundings in the inviting beer garden of the Stadtgarten Cologne. ",
+			"Description_DE": "Die Future Stage der DIGITAL X befindet sich in grüner Umgebung im einladenden Biergarten des Stadtgarten Köln. ",
+			"External_location_id": "https://url.expofp.com/?future_stage",
+			"parents": [
+				"Future",
+				"futer"
 			]
 		},
 		{
