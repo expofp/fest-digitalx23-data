@@ -2050,7 +2050,7 @@
 			"id": "guided_stern",
 			"Name": "Guided Tour",
 			"Icon": "Guided Tour mit Stern",
-			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon-11.png",
+			"IconURL": "https://fest-digitalx.expofp.com/images/icon-11.png",
 			"EntityType": "VenueType"
 		},
 		{
@@ -2064,7 +2064,7 @@
 			"id": "locker",
 			"Name": "Locker",
 			"Icon": "Locker",
-			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon-13.png",
+			"IconURL": "https://fest-digitalx.expofp.com/images/icon-13.png",
 			"EntityType": "VenueType"
 		},
 		{
@@ -2078,14 +2078,14 @@
 			"id": "partner",
 			"Name": "Offizieller Partner / Official Partner",
 			"Icon": "Haus",
-			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon-15.png",
+			"IconURL": "https://fest-digitalx.expofp.com/images/icon-15.png",
 			"EntityType": "VenueType"
 		},
 		{
 			"id": "partner_stern",
 			"Name": "Offizieller Partner / Official Partner",
 			"Icon": "Haus mit Stern",
-			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon-16.png",
+			"IconURL": "https://fest-digitalx.expofp.com/images/icon-16.png",
 			"EntityType": "VenueType"
 		},
 		{
@@ -2099,35 +2099,35 @@
 			"id": "hous_stern",
 			"Name": "Specials",
 			"Icon": "Haus mit Stern",
-			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon-18.png",
+			"IconURL": "https://fest-digitalx.expofp.com/images/icon-18.png",
 			"EntityType": "VenueType"
 		},
 		{
 			"id": "brandhouse+t",
 			"Name": "Specials",
 			"Icon": "Haus mit Telekomlogo",
-			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon_brandhouse+t.png",
+			"IconURL": "https://fest-digitalx.expofp.com/images/icon-19.png",
 			"EntityType": "VenueType"
 		},
 		{
 			"id": "brandhouse",
 			"Name": "Brandhouse",
 			"Icon": "Haus",
-			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon_brandhouse.png",
+			"IconURL": "https://fest-digitalx.expofp.com/images/icon-20.png",
 			"EntityType": "VenueType"
 		},
 		{
 			"id": "marktplatz",
 			"Name": "Specials",
 			"Icon": "Marktplatz",
-			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon-21.png",
+			"IconURL": "https://fest-digitalx.expofp.com/images/icon-21.png",
 			"EntityType": "VenueType"
 		},
 		{
 			"id": "testing",
 			"Name": "Test Zentrum",
 			"Icon": "Testing",
-			"IconURL": "https://expofp.github.io/fest-digitalx/images/icon-22.png",
+			"IconURL": "https://fest-digitalx.expofp.com/images/icon-22.png",
 			"EntityType": "VenueType"
 		},
 		{
