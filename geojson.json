@@ -580,6 +580,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "regal_laden"
+			},
+			"geometry": {
+				"coordinates": [
+					6.934722,
+					50.937068
+				],
+				"type": "Point"
+			},
+			"id": "630ac39f8f1fdd8fe2435d58b2d618f2"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0005512"
 			},
 			"geometry": {
