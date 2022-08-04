@@ -4,6 +4,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "TEL_2022_005"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935816,
+					50.941831
+				],
+				"type": "Point"
+			},
+			"id": "008e055b808f2ccbd01a88ec226cd7ae"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0004103"
 			},
 			"geometry": {
