@@ -1302,7 +1302,7 @@
 			"id": "TEL_2022_007",
 			"EntityType": "Exhibitor",
 			"Name": "Segmenthaus Partnervertrieb",
-			"Added to mapbox": "FALSE",
+			"Added to mapbox": "TRUE",
 			"Address Calculation": "Friesenwall 81, 50672 Köln",
 			"Address": "Friesenwall 81",
 			"City": "Köln",

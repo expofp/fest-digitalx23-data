@@ -888,6 +888,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "TEL_2022_007"
+			},
+			"geometry": {
+				"coordinates": [
+					6.941195,
+					50.941295
+				],
+				"type": "Point"
+			},
+			"id": "b415dcc0b16c80a0f564f37f047d177f"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0004319"
 			},
 			"geometry": {
