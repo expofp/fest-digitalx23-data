@@ -327,6 +327,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "TEL_2022_006"
+			},
+			"geometry": {
+				"coordinates": [
+					6.93882,
+					50.940349
+				],
+				"type": "Point"
+			},
+			"id": "193f0a0b0c6f446c3259f488f3ae049e"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0005511"
 			},
 			"geometry": {
