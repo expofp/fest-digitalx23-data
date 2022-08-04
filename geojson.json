@@ -692,6 +692,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "TEL_2022_014"
+			},
+			"geometry": {
+				"coordinates": [
+					6.938796,
+					50.938104
+				],
+				"type": "Point"
+			},
+			"id": "7a615b2461d58dfb61f7c655379da584"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "future_stage"
 			},
 			"geometry": {
@@ -902,6 +916,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "TEL_2022_013"
+			},
+			"geometry": {
+				"coordinates": [
+					6.934101,
+					50.937984
+				],
+				"type": "Point"
+			},
+			"id": "a547bc40337a218ab0416bf46f23861d"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0013500"
 			},
 			"geometry": {
@@ -968,6 +996,20 @@
 				"type": "Point"
 			},
 			"id": "b4e90ea4d98d11a17f104c88cd3fcb15"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "TEL_2022_012"
+			},
+			"geometry": {
+				"coordinates": [
+					6.936629,
+					50.936598
+				],
+				"type": "Point"
+			},
+			"id": "b72b55c76521fc7082701584c8e34e56"
 		},
 		{
 			"type": "Feature",
