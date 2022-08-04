@@ -477,10 +477,10 @@
 			"id": "D0004732",
 			"EntityType": "Brandhouse",
 			"Name": "Datanet Brandhouse",
-			"Added to mapbox": "TRUE",
+			"Added to mapbox": "FALSE",
 			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/small_Datanet_8e4ede2292.svg",
 			"Website": "https://www.datanet.de/",
-			"Address Calculation": "Friesenstraße 82, 50672 Köln",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
 			"Address": "Friesenstraße 82",
 			"City": "Köln",
 			"PostalCode": "50672",
@@ -488,7 +488,9 @@
 			"parents": [
 				"Interactive",
 				"brandhouse"
-			]
+			],
+			"Sector": "Interactive",
+			"VenueType": "brandhouse"
 		},
 		{
 			"id": "D0004214",
@@ -540,16 +542,18 @@
 			"id": "D0014146",
 			"EntityType": "Brandhouse",
 			"Name": "BPV Brandhouse",
-			"Added to mapbox": "TRUE",
+			"Added to mapbox": "FALSE",
 			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/bpv_bc3adcb18b.svg",
-			"Address Calculation": "Friesenwall 81, 50672 Köln",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
 			"Address": "Friesenwall 81",
 			"City": "Köln",
 			"PostalCode": "50672",
 			"parents": [
 				"Interactive",
 				"brandhouse"
-			]
+			],
+			"Sector": "Interactive",
+			"VenueType": "brandhouse"
 		},
 		{
 			"id": "D0013498",
@@ -883,16 +887,18 @@
 			"id": "D0014147",
 			"EntityType": "Brandhouse",
 			"Name": "Bintec Bronze-Hub",
-			"Added to mapbox": "TRUE",
+			"Added to mapbox": "FALSE",
 			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_bintec_logo_9d5aacc361.svg",
-			"Address Calculation": "Im Mediapark 5, 50670 Köln",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
 			"Address": "Im Mediapark 5",
 			"City": "Köln",
 			"PostalCode": "50670",
 			"parents": [
 				"Inspiration",
 				"brandhouse"
-			]
+			],
+			"Sector": "Interactive",
+			"VenueType": "brandhouse"
 		},
 		{
 			"id": "D0005354, MTC10FOW",
@@ -1010,7 +1016,8 @@
 				"brandhouse"
 			],
 			"Sector": "Interactive",
-			"VenueType": "brandhouse"
+			"VenueType": "brandhouse",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"id": "D0005380",
@@ -1033,7 +1040,7 @@
 			"Name": "Poly Brandhouse",
 			"Added to mapbox": "FALSE",
 			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/poly_f1fa0a95c3.svg",
-			"Address Calculation": "Im Mediapark 5, 50670 Köln",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
 			"Address": "Im Mediapark 5",
 			"City": "Köln",
 			"PostalCode": "50670",
@@ -1048,16 +1055,18 @@
 			"id": "D0014143",
 			"EntityType": "Brandhouse",
 			"Name": "Salesforce Brandhouse",
-			"Added to mapbox": "TRUE",
+			"Added to mapbox": "FALSE",
 			"LogoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Salesforce_b9c761b0ac.svg",
-			"Address Calculation": "Antwerpener Str. 38, 50672 Köln ",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
 			"Address": "Antwerpener Str. 38",
 			"City": "Köln ",
 			"PostalCode": "50672",
 			"parents": [
 				"Future",
 				"brandhouse"
-			]
+			],
+			"Sector": "Interactive",
+			"VenueType": "brandhouse"
 		},
 		{
 			"id": "D0014105",
@@ -1106,6 +1115,7 @@
 			"id": "D0004279",
 			"EntityType": "Brandhouse",
 			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
 			"parents": [
 				"Interactive",
 				"brandhouse"
@@ -1115,6 +1125,7 @@
 			"id": "D0004278",
 			"EntityType": "Brandhouse",
 			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
 			"parents": [
 				"Interactive",
 				"brandhouse"
@@ -1124,10 +1135,366 @@
 			"id": "D0014173",
 			"EntityType": "Brandhouse",
 			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
 			"parents": [
 				"Interactive",
 				"brandhouse"
 			]
+		},
+		{
+			"id": "D0014183",
+			"EntityType": "Brandhouse",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0014191",
+			"EntityType": "Brandhouse",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0004273",
+			"EntityType": "Brandhouse",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0014175",
+			"EntityType": "Brandhouse",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0005617",
+			"EntityType": "Brandhouse",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0004272",
+			"EntityType": "Brandhouse",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0014166",
+			"EntityType": "Brandhouse",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0014171",
+			"EntityType": "Brandhouse",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0014180",
+			"EntityType": "Brandhouse",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0014174",
+			"EntityType": "Brandhouse",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0014164",
+			"EntityType": "Brandhouse",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0014182",
+			"EntityType": "Brandhouse",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0014181",
+			"EntityType": "Brandhouse",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0014167",
+			"EntityType": "Brandhouse",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0014176",
+			"EntityType": "Brandhouse",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0014170",
+			"EntityType": "Brandhouse",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0014187",
+			"EntityType": "Brandhouse",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0014172",
+			"EntityType": "Brandhouse",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0014163\r",
+			"EntityType": "Brandhouse",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0004268",
+			"EntityType": "Brandhouse",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0014169",
+			"EntityType": "Brandhouse",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0014179",
+			"EntityType": "Brandhouse",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0014192",
+			"EntityType": "Brandhouse",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0004266",
+			"EntityType": "Brandhouse",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0004265",
+			"EntityType": "Brandhouse",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0014165",
+			"EntityType": "Brandhouse",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0014178",
+			"EntityType": "Brandhouse",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0004264",
+			"EntityType": "Brandhouse",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0014185",
+			"EntityType": "Brandhouse",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0014190",
+			"EntityType": "Brandhouse",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0005455",
+			"EntityType": "Brandhouse",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0014184",
+			"EntityType": "Brandhouse",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0004262",
+			"EntityType": "Brandhouse",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0014177",
+			"EntityType": "Brandhouse",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln",
+			"parents": [
+				"Interactive",
+				"brandhouse"
+			]
+		},
+		{
+			"id": "D0014189",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln"
+		},
+		{
+			"id": "D0014186",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln"
+		},
+		{
+			"id": "D0005523",
+			"Added to mapbox": "FALSE",
+			"Address Calculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"id": "TEL_2022_001",
