@@ -496,6 +496,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "TEL_2022_009"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935234,
+					50.936625
+				],
+				"type": "Point"
+			},
+			"id": "4027b4989fa40aeb22081b0f1842720c"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "monkeys_cocktail"
 			},
 			"geometry": {
@@ -520,6 +534,20 @@
 				"type": "Point"
 			},
 			"id": "5085324a454f8629e2a48005f51a0cc0"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "TEL_2022_008"
+			},
+			"geometry": {
+				"coordinates": [
+					6.94315,
+					50.948806
+				],
+				"type": "Point"
+			},
+			"id": "52a9d239da52fcd7152c9c174d661a1e"
 		},
 		{
 			"type": "Feature",
@@ -562,6 +590,20 @@
 				"type": "Point"
 			},
 			"id": "654ad9d4631cd58f80e42e8bffa5ef3c"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "TEL_2022_010"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935146,
+					50.936279
+				],
+				"type": "Point"
+			},
+			"id": "67924ae770614db2c8b68a96417139a1"
 		},
 		{
 			"type": "Feature",
@@ -744,6 +786,20 @@
 				"type": "Point"
 			},
 			"id": "89330965867e261ab0bd99d6b3a115dc"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "TEL_2022_011"
+			},
+			"geometry": {
+				"coordinates": [
+					6.944111,
+					50.941953
+				],
+				"type": "Point"
+			},
+			"id": "8d2b63c93fcab7b9e861a15c041f9186"
 		},
 		{
 			"type": "Feature",
