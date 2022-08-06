@@ -1,20 +1,49 @@
 {
     "rules": [
         {
-            "name": "Set icon from parent (present in venuetype)",
-            "filter": ["!", ["get", "iconUrl"]],
-            "props": {
-                "iconUrl": [
-                    "get",
-                    "iconUrl",
-                    ["at", 0, ["filter", ["parents"], "val", null, ["get", "iconUrl", ["var", "val"]]]]
-                ]
-            }
+            "name": "Set parents",
+            "props": [
+                {
+                    "parents": [
+                        "create-array",
+                        ["get", "venueType"],
+                        ["get", "sector"],
+                        ["get", "parent1"],
+                        ["get", "parent2"]
+                    ]
+                },
+                { "parent1": ["undefined"], "parent2": ["undefined"] }
+            ]
         },
         {
-            "name": "Set icon from parent (present in venuetype)",
-            "filter": ["all", ["!", ["get", "iconUrl"], []]],
-            "props": {}
+            "name": "Rename iconURL to iconUrl",
+            "props": [{ "iconUrl": ["get", "iconURL"] }, { "iconURL": ["undefined"] }]
+        },
+        {
+            "name": "Rename logoURL to logoUrl",
+            "props": [{ "logoUrl": ["get", "logoURL"] }, { "logoURL": ["undefined"] }]
+        },
+        {
+            "name": "Set icons from venueType/sector",
+            "filter": ["all", ["!", ["get", "iconUrl"]], ["get", "venueType"], ["get", "sector"]],
+            "props": [
+                {
+                    "iconUrlBase": [
+                        "concat",
+                        "https://fest-digitalx.expofp.com/images-ok/",
+                        ["get", "sector"],
+                        "-",
+                        ["get", "venueType"]
+                    ]
+                },
+                {
+                    "iconUrlActive": ["concat", ["get", "iconUrlBase"], "-active.png"],
+                    "iconUrl": ["concat", ["get", "iconUrlBase"], ".png"]
+                },
+                {
+                    "iconUrlBase": ["undefined"]
+                }
+            ]
         },
         {
             "name": "Set default iconUrl for all entities",
@@ -24,18 +53,14 @@
             }
         },
         {
-            "name": "Set name",
+            "name": "Set name from id",
             "filter": ["!", ["get", "name"]],
-            "props": {
-                "name": ["get", "id"]
-            }
+            "props": { "name": ["get", "id"] }
         },
         {
             "name": "Set entityName",
             "filter": ["!", ["get", "entityName"]],
-            "props": {
-                "entityName": ["get", "name"]
-            }
+            "props": { "entityName": ["get", "name"] }
         },
         {
             "name": "Set buttons",
