@@ -30,10 +30,10 @@
                 {
                     "iconUrlBase": [
                         "concat",
-                        "https://fest-digitalx.expofp.com/images-ok/",
-                        ["get", "sector"],
+                        "https://fest-digitalx.expofp.com/images/new/",
+                        ["get", "venueType"],
                         "-",
-                        ["get", "venueType"]
+                        ["get", "sector"]
                     ]
                 },
                 {
@@ -70,9 +70,16 @@
             }
         },
         {
-            "name": "Remove not added to mapbox",
+            "name": "Remove entities that are marked as not added to mapbox",
             "filter": ["==", ["get", "addedToMapbox"], "FALSE"],
             "delete": true
+        },
+        {
+            "name": "TO DELETE LATER: Just force existing iconUrl for all entities",
+            "filter": ["!", ["get", "iconUrl"]],
+            "props": {
+                "iconUrlFallback": "https://fest-digitalx.expofp.com/images/icon-23.png"
+            }
         }
     ]
 }
