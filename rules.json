@@ -68,6 +68,11 @@
                 "showMoreDetailsButton": true,
                 "showDirectionsButton": true
             }
+        },
+        {
+            "name": "Remove not added to mapbox",
+            "filter": ["==", ["get", "addedToMapbox"], "FALSE"],
+            "delete": true
         }
     ]
 }
