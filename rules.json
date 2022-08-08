@@ -101,7 +101,9 @@
             "create": {
                 "id": "filter-venue",
                 "name": "Venues",
-                "iconClass": "venue"
+                "iconClass": "icon-venue",
+                "isFilter": true,
+                "hideFromList": true
             }
         },
         {
@@ -109,7 +111,9 @@
             "create": {
                 "id": "filter-route",
                 "name": "Routes",
-                "iconClass": "route"
+                "iconClass": "icon-route",
+                "isFilter": true,
+                "hideFromList": true
             }
         },
         {
@@ -117,7 +121,9 @@
             "create": {
                 "id": "filter-exhibitor",
                 "name": "Exhibitors",
-                "iconClass": "exhibitor"
+                "iconClass": "icon-user",
+                "isFilter": true,
+                "hideFromList": true
             }
         }
     ]
