@@ -1,7 +1,7 @@
 {
 	"entities": [
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "Urban Heat Brandhouse",
 			"entityType": "Brandhouse",
 			"parent1": "Bus-Shuttle Main Stages",
@@ -12,7 +12,7 @@
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "Bus-Shuttle Main Stages",
 			"entityType": "Route",
 			"parent1": "",
@@ -23,7 +23,7 @@
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "top_partner_tour",
 			"entityType": "Route",
 			"parent1": "",
@@ -35,7 +35,7 @@
 			"headline": "Start Top Partner tour"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "monkeys_cocktail",
 			"entityType": "Venue",
 			"parent1": "",
@@ -54,7 +54,7 @@
 			"postalCode": "50672"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "regal_laden",
 			"entityType": "Venue",
 			"parent1": "",
@@ -73,7 +73,7 @@
 			"postalCode": "50672"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "sister",
 			"entityType": "Venue",
 			"parent1": "",
@@ -92,7 +92,7 @@
 			"postalCode": "50674"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "komed_haus",
 			"entityType": "Venue",
 			"parent1": "",
@@ -111,7 +111,7 @@
 			"postalCode": "50670"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "mediapark_outdoor",
 			"entityType": "Venue",
 			"parent1": "",
@@ -130,7 +130,7 @@
 			"postalCode": "50670"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "stadtgarten",
 			"entityType": "Venue",
 			"parent1": "",
@@ -149,7 +149,7 @@
 			"postalCode": "50672"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "volksbuhne",
 			"entityType": "Venue",
 			"parent1": "",
@@ -168,7 +168,7 @@
 			"postalCode": "50674"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "sartory_sale",
 			"entityType": "Venue",
 			"parent1": "",
@@ -187,7 +187,7 @@
 			"postalCode": "50670"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "beef_brothers",
 			"entityType": "Venue",
 			"parent1": "",
@@ -206,7 +206,7 @@
 			"postalCode": "50674"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "flavours_india",
 			"entityType": "Venue",
 			"parent1": "",
@@ -225,7 +225,7 @@
 			"postalCode": "50674"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "hanoi_september",
 			"entityType": "Venue",
 			"parent1": "",
@@ -244,7 +244,7 @@
 			"postalCode": "50674"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "little_candia",
 			"entityType": "Venue",
 			"parent1": "",
@@ -263,7 +263,7 @@
 			"postalCode": "50674"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "maison_sen",
 			"entityType": "Venue",
 			"parent1": "",
@@ -282,7 +282,7 @@
 			"postalCode": "50672"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "metzgerei_schmitz",
 			"entityType": "Venue",
 			"parent1": "",
@@ -301,7 +301,7 @@
 			"postalCode": "50672"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "paff",
 			"entityType": "Venue",
 			"parent1": "",
@@ -320,7 +320,7 @@
 			"postalCode": "50672"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "reineke_fuchs",
 			"entityType": "Venue",
 			"parent1": "",
@@ -339,7 +339,7 @@
 			"postalCode": "50674"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "si_claro",
 			"entityType": "Venue",
 			"parent1": "",
@@ -358,7 +358,7 @@
 			"postalCode": "50672"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "sushi_nara",
 			"entityType": "Venue",
 			"parent1": "",
@@ -377,7 +377,7 @@
 			"postalCode": "50670"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "woyton",
 			"entityType": "Venue",
 			"parent1": "",
@@ -396,7 +396,7 @@
 			"postalCode": "50672"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "yes_yoga",
 			"entityType": "Venue",
 			"parent1": "",
@@ -415,7 +415,7 @@
 			"postalCode": "50672"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "goldfinger",
 			"entityType": "Venue",
 			"parent1": "",
@@ -434,7 +434,7 @@
 			"postalCode": "50670"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "la_latina",
 			"entityType": "Venue",
 			"parent1": "",
@@ -453,7 +453,7 @@
 			"postalCode": "50670"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "komed_markt",
 			"entityType": "Venue",
 			"parent1": "",
@@ -472,7 +472,7 @@
 			"postalCode": "50670"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "mediapark_markt",
 			"entityType": "Venue",
 			"parent1": "",
@@ -491,7 +491,7 @@
 			"postalCode": "50670"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "spichern_markt",
 			"entityType": "Venue",
 			"parent1": "",
@@ -510,7 +510,7 @@
 			"postalCode": "50672"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "stadtgarten_markt",
 			"entityType": "Venue",
 			"parent1": "",
@@ -529,7 +529,7 @@
 			"postalCode": "50672"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "emma_pearl",
 			"entityType": "Venue",
 			"parent1": "",
@@ -548,7 +548,7 @@
 			"postalCode": "50674"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0004171",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -568,7 +568,7 @@
 			"description": "#REF!"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0004213",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -587,7 +587,7 @@
 			"postalCode": "50670"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0005438",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -606,7 +606,7 @@
 			"postalCode": "50674"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0005357",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -625,7 +625,7 @@
 			"postalCode": "50674"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0005355",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -644,7 +644,7 @@
 			"postalCode": "50672"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0005086",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -663,7 +663,7 @@
 			"postalCode": "50674"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0004103",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -682,7 +682,7 @@
 			"postalCode": "50670"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0004732",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -702,7 +702,7 @@
 			"description": "Wir digitalisieren die Geschäftsprozesse rund um einen Telekommunikationsanschluss.\" Entsprechend\ndiesem Leitmotiv unterstützt die DATANET GmbH ihre Kunden mit innovativen Servicekonzepten zur\ndigitalen Transformation bestehender Geschäftsprozesse auf Basis der unternehmenseigenen CT\u0002Service-Plattform. Dies umfasst Lösungen zur Prüfung und Verbuchung elektronischer Rechnungen, zur\nzentralen oder dezentralen Vertragsverwaltung oder zur elektronischen Bestellabwicklung. Die\nhochgradige Automatisierung der Prozesse führt zu einer Minimierung von Aufwänden ebenso wie zur\nVerringerung von Fehlerhäufigkeiten infolge robusterer Prozessabläufe ohne manuelle Bearbeitung\nsowie einer effizienteren Ausnutzung bestehender Systeme und Infrastrukturen.\n\n---\n\nWe support the digital transformation of business processes around a telecommunication access.”\nFollowing this theme, DATANET supports its customers by innovative service solutions for the digital\ntransformation of standard business processes, such as the invoice processing, accounting or contract\nmanagement, based on the company’s own CT service platform (“Communication Tools”). Using the\npotential of the digitalization and the synergies of our central service platform lead to a minimization of\ncustomer internal efforts by highly automated workflows, a significant reduction of regular issues due to\nmore robust processes without manual interaction as well as a more efficient use of existing\ninfrastructures"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0004214",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -721,7 +721,7 @@
 			"postalCode": "50674"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0004170",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -740,7 +740,7 @@
 			"postalCode": "50674"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0013497",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -759,7 +759,7 @@
 			"postalCode": "50672"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0014146",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -778,7 +778,7 @@
 			"postalCode": "50672"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0013498",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -789,7 +789,7 @@
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0013499",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -808,7 +808,7 @@
 			"postalCode": "50674"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0013500",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -827,7 +827,7 @@
 			"postalCode": "50674"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0013501",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -846,7 +846,7 @@
 			"postalCode": "50672"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0013503",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -865,7 +865,7 @@
 			"postalCode": "50672"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0005513",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -879,7 +879,7 @@
 			"website": "www.lenovo.com/de"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0005464",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -898,7 +898,7 @@
 			"postalCode": "50670"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0005436",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -917,7 +917,7 @@
 			"postalCode": "50672"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0005428",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -936,7 +936,7 @@
 			"postalCode": "50670"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0013505",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -955,7 +955,7 @@
 			"postalCode": "50670"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0004209",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -974,7 +974,7 @@
 			"postalCode": "50672"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0004258",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -993,7 +993,7 @@
 			"postalCode": "50670"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0013528",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1012,7 +1012,7 @@
 			"postalCode": "50672"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0004345",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1031,7 +1031,7 @@
 			"postalCode": "50670"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0005598",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1050,7 +1050,7 @@
 			"postalCode": "50670"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0005511",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1069,7 +1069,7 @@
 			"postalCode": "50672"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0013568",
 			"entityType": "Brandhouse",
 			"parent1": "top_partner_tour",
@@ -1088,7 +1088,7 @@
 			"postalCode": "50674"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0005512",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1107,7 +1107,7 @@
 			"postalCode": "50670"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0004319",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1126,7 +1126,7 @@
 			"postalCode": "50670"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0014148",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1145,7 +1145,7 @@
 			"postalCode": "50672"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0004169",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1164,7 +1164,7 @@
 			"postalCode": "50670"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0014106",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1183,7 +1183,7 @@
 			"postalCode": "50670"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0014147",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1202,7 +1202,7 @@
 			"postalCode": "50670"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0005354, MTC10FOW",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1221,7 +1221,7 @@
 			"postalCode": "50672"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0005379",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1240,7 +1240,7 @@
 			"postalCode": "50672"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0004277",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1259,7 +1259,7 @@
 			"postalCode": "50674"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0005522",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1278,7 +1278,7 @@
 			"postalCode": "50672"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0014104",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1297,7 +1297,7 @@
 			"postalCode": "50670"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0004211",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1316,7 +1316,7 @@
 			"postalCode": "50670"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0004318",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1335,7 +1335,7 @@
 			"postalCode": "50672"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0014145",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1346,7 +1346,7 @@
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0005380",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1365,7 +1365,7 @@
 			"postalCode": "50672"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0014144",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1384,7 +1384,7 @@
 			"postalCode": "50670"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0014143",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1403,7 +1403,7 @@
 			"postalCode": "50672"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0014105",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1422,7 +1422,7 @@
 			"postalCode": "50670"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0004316",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1441,7 +1441,7 @@
 			"postalCode": "50672"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0013576",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1457,7 +1457,7 @@
 			"addressCalculation": "Im Klapperhof 22-24, 50670 Köln"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0004279",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1473,7 +1473,7 @@
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0004278",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1489,7 +1489,7 @@
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0014173",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1505,7 +1505,7 @@
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0014183",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1521,7 +1521,7 @@
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0014191",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1537,7 +1537,7 @@
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0004273",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1553,7 +1553,7 @@
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0014175",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1569,7 +1569,7 @@
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0005617",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1585,7 +1585,7 @@
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0004272",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1601,7 +1601,7 @@
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0014166",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1617,7 +1617,7 @@
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0014171",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1633,7 +1633,7 @@
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0014180",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1649,7 +1649,7 @@
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0014174",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1665,7 +1665,7 @@
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0014164",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1681,7 +1681,7 @@
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0014182",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1697,7 +1697,7 @@
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0014181",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1713,7 +1713,7 @@
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0014167",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1729,7 +1729,7 @@
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0014176",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1745,7 +1745,7 @@
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0014170",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1761,7 +1761,7 @@
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0014187",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1777,7 +1777,7 @@
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0014172",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1793,7 +1793,7 @@
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0014163\r",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1809,7 +1809,7 @@
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0004268",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1825,7 +1825,7 @@
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0014169",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1841,7 +1841,7 @@
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0014179",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1857,7 +1857,7 @@
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0014192",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1873,7 +1873,7 @@
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0004266",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1889,7 +1889,7 @@
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0004265",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1905,7 +1905,7 @@
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0014165",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1921,7 +1921,7 @@
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0014178",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1937,7 +1937,7 @@
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0004264",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1953,7 +1953,7 @@
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0014185",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1969,7 +1969,7 @@
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0014190",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -1985,7 +1985,7 @@
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0005455",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -2001,7 +2001,7 @@
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0014184",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -2017,7 +2017,7 @@
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0004262",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -2033,7 +2033,7 @@
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0014177",
 			"entityType": "Brandhouse",
 			"parent1": "",
@@ -2049,7 +2049,7 @@
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0014189",
 			"entityType": "",
 			"parent1": "",
@@ -2065,7 +2065,7 @@
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0014186",
 			"entityType": "",
 			"parent1": "",
@@ -2081,7 +2081,7 @@
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "D0005523",
 			"entityType": "",
 			"parent1": "",
@@ -2097,13 +2097,13 @@
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_001",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "Future",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "Brandhouse Telekom \"Moderne Digitalisierungslösungen\"",
 			"addedToMapbox": "FALSE",
 			"headline": "",
@@ -2116,13 +2116,13 @@
 			"postalCode": "50674"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_002",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "Future",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "Direkter Vertrieb & \r\nService Geschäftskunden",
 			"addedToMapbox": "TRUE",
 			"headline": "",
@@ -2135,13 +2135,13 @@
 			"postalCode": "50672"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_003",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "PUBLIC / Telekom",
 			"addedToMapbox": "TRUE",
 			"headline": "",
@@ -2154,13 +2154,13 @@
 			"postalCode": "50672"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_004",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "Segmenthaus KMU",
 			"addedToMapbox": "TRUE",
 			"headline": "",
@@ -2173,13 +2173,13 @@
 			"postalCode": "50674"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_005",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "Segmenthaus L",
 			"addedToMapbox": "TRUE",
 			"headline": "",
@@ -2192,13 +2192,13 @@
 			"postalCode": "50672"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_006",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "Segmenthaus M",
 			"addedToMapbox": "TRUE",
 			"headline": "",
@@ -2211,13 +2211,13 @@
 			"postalCode": "50672"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_007",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "Segmenthaus Partnervertrieb",
 			"addedToMapbox": "TRUE",
 			"headline": "",
@@ -2230,13 +2230,13 @@
 			"postalCode": "50672"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_008",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "Segmenthaus Telekom - XL",
 			"addedToMapbox": "TRUE",
 			"headline": "",
@@ -2249,13 +2249,13 @@
 			"postalCode": "50670"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_009",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "Telekom - Digitale Bildung",
 			"addedToMapbox": "TRUE",
 			"headline": "",
@@ -2268,13 +2268,13 @@
 			"postalCode": "50674"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_010",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "Telekom",
 			"addedToMapbox": "TRUE",
 			"headline": "",
@@ -2287,13 +2287,13 @@
 			"postalCode": "50674"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_011",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "Telekom - Haus der Netze",
 			"addedToMapbox": "TRUE",
 			"headline": "",
@@ -2306,13 +2306,13 @@
 			"postalCode": "50670"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_012",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "Telekom - International",
 			"addedToMapbox": "TRUE",
 			"headline": "",
@@ -2325,13 +2325,13 @@
 			"postalCode": "50674"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_013",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "Telekom - Magenta TV",
 			"addedToMapbox": "TRUE",
 			"headline": "",
@@ -2344,13 +2344,13 @@
 			"postalCode": "50674"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_014",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "Telekom - Sales & Service",
 			"addedToMapbox": "TRUE",
 			"headline": "",
@@ -2363,13 +2363,13 @@
 			"postalCode": "50672"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_015",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "Telekom - Schubkraft",
 			"addedToMapbox": "TRUE",
 			"headline": "",
@@ -2382,13 +2382,13 @@
 			"postalCode": "50674"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_016",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "Telekom - Vertriebslounge",
 			"addedToMapbox": "TRUE",
 			"headline": "",
@@ -2401,13 +2401,13 @@
 			"postalCode": "50670"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_017",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "Telekom - Vertriebslounge",
 			"addedToMapbox": "TRUE",
 			"headline": "",
@@ -2420,13 +2420,13 @@
 			"postalCode": "50674"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_018",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "Telekom - Vertriebslounge",
 			"addedToMapbox": "TRUE",
 			"headline": "",
@@ -2439,13 +2439,13 @@
 			"postalCode": "50670"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_019",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "TSI ",
 			"addedToMapbox": "FALSE",
 			"headline": "",
@@ -2458,13 +2458,13 @@
 			"postalCode": "50672"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_020",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "TSI ",
 			"addedToMapbox": "FALSE",
 			"headline": "",
@@ -2477,13 +2477,13 @@
 			"postalCode": "50672"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_021",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "Workshops",
 			"addedToMapbox": "FALSE",
 			"headline": "",
@@ -2496,13 +2496,13 @@
 			"postalCode": "50670"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_022",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "Workshops",
 			"addedToMapbox": "FALSE",
 			"headline": "",
@@ -2515,585 +2515,585 @@
 			"postalCode": "50670"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_023",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_024",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_025",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_026",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_027",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_028",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_029",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_030",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_031",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_032",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_033",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_034",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_035",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_036",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_037",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_038",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_039",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_040",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_041",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_042",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_043",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_044",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_045",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_046",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_047",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_048",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_049",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_050",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_051",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_052",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_053",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_054",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_055",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_056",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_057",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_058",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_059",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_060",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_061",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_062",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_063",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_064",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_065",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_066",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_067",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_068",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_069",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_070",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_071",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_072",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_073",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "TEL_2022_074",
 			"entityType": "Exhibitor",
 			"parent1": "",
 			"parent2": "",
 			"sector": "",
-			"venueType": "brandhouse+t",
+			"venueType": "brandhouse-t",
 			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "future_stage",
 			"entityType": "Venue",
 			"parent1": "",
 			"parent2": "",
 			"sector": "Future",
-			"venueType": "futer",
+			"venueType": "future",
 			"name": "Stadtgarten",
 			"addedToMapbox": "TRUE",
 			"headline": "Future stage",
@@ -3109,7 +3109,7 @@
 			"externalLocationId": "https://url.expofp.com/?future_stage"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "inspiration_stage",
 			"entityType": "Venue",
 			"parent1": "",
@@ -3128,7 +3128,7 @@
 			"postalCode": "50670"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "interactive_stage",
 			"entityType": "Venue",
 			"parent1": "",
@@ -3147,7 +3147,7 @@
 			"postalCode": "50670"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "disruption_stage",
 			"entityType": "Venue",
 			"parent1": "",
@@ -3166,7 +3166,7 @@
 			"postalCode": "50674"
 		},
 		{
-			"__tabName": "Entitity",
+			"__tabName": "Entity",
 			"id": "magenta_stage",
 			"entityType": "Venue",
 			"parent1": "",
@@ -3188,155 +3188,133 @@
 			"__tabName": "VenueType",
 			"id": "busshuttle_future",
 			"name": "Busshuttle Future Quartier",
-			"icon": "Hop-on Hop-off Bus",
-			"iconURL": "https://fest-digitalx.expofp.com/images/icon_busshuttle_future.png"
+			"icon": "Hop-on Hop-off Bus"
 		},
 		{
 			"__tabName": "VenueType",
 			"id": "busshuttle_inspiration",
 			"name": "Busshuttle Inspiration Quartier",
-			"icon": "Hop-on Hop-off Bus",
-			"iconURL": "https://fest-digitalx.expofp.com/images/icon_busshuttle_future.png"
+			"icon": "Hop-on Hop-off Bus"
 		},
 		{
 			"__tabName": "VenueType",
 			"id": "busshuttle_interactive",
 			"name": "Busshuttle Interactive Quartier",
-			"icon": "Hop-on Hop-off Bus",
-			"iconURL": "https://fest-digitalx.expofp.com/images/icon_busshuttle_future.png"
+			"icon": "Hop-on Hop-off Bus"
 		},
 		{
 			"__tabName": "VenueType",
 			"id": "busshuttle_disruption",
 			"name": "Busshuttle Disruption Quartier",
-			"icon": "Hop-on Hop-off Bus",
-			"iconURL": "https://fest-digitalx.expofp.com/images/icon_busshuttle_future.png"
+			"icon": "Hop-on Hop-off Bus"
 		},
 		{
 			"__tabName": "VenueType",
 			"id": "checkin",
 			"name": "Check In",
-			"icon": "Check-In",
-			"iconURL": "https://fest-digitalx.expofp.com/images/icon_check_in.png"
+			"icon": "Check-In"
 		},
 		{
 			"__tabName": "VenueType",
 			"id": "disruption",
 			"name": "Disruption Stage",
-			"icon": "Bühne",
-			"iconURL": "https://fest-digitalx.expofp.com/images/icon_stages.png"
+			"icon": "Bühne"
 		},
 		{
 			"__tabName": "VenueType",
 			"id": "food",
 			"name": "Food & Beverage",
-			"icon": "Food & Beverage",
-			"iconURL": "https://fest-digitalx.expofp.com/images/icon_food.png"
+			"icon": "Food & Beverage"
 		},
 		{
 			"__tabName": "VenueType",
-			"id": "futer",
+			"id": "future",
 			"name": "Future Stage",
-			"icon": "Bühne",
-			"iconURL": "https://fest-digitalx.expofp.com/images/icon_stages.png"
+			"icon": "Bühne"
 		},
 		{
 			"__tabName": "VenueType",
 			"id": "guided",
 			"name": "Guided Tour",
-			"icon": "Guided Tours",
-			"iconURL": "https://fest-digitalx.expofp.com/images/icon_tours.png"
+			"icon": "Guided Tours"
 		},
 		{
 			"__tabName": "VenueType",
 			"id": "guided_stern",
 			"name": "Guided Tour",
-			"icon": "Guided Tour mit Stern",
-			"iconURL": "https://fest-digitalx.expofp.com/images/icon-11.png"
+			"icon": "Guided Tour mit Stern"
 		},
 		{
 			"__tabName": "VenueType",
 			"id": "inspiration",
 			"name": "Inspiration Stage ",
-			"icon": "Bühne",
-			"iconURL": "https://fest-digitalx.expofp.com/images/icon_stages.png"
+			"icon": "Bühne"
 		},
 		{
 			"__tabName": "VenueType",
 			"id": "locker",
 			"name": "Locker",
-			"icon": "Locker",
-			"iconURL": "https://fest-digitalx.expofp.com/images/icon-13.png"
+			"icon": "Locker"
 		},
 		{
 			"__tabName": "VenueType",
 			"id": "magenta",
 			"name": "Magenta Stage ",
-			"icon": "Bühne",
-			"iconURL": "https://fest-digitalx.expofp.com/images/icon_stages.png"
+			"icon": "Bühne"
 		},
 		{
 			"__tabName": "VenueType",
 			"id": "partner",
 			"name": "Offizieller Partner / Official Partner",
-			"icon": "Haus",
-			"iconURL": "https://fest-digitalx.expofp.com/images/icon-15.png"
+			"icon": "Haus"
 		},
 		{
 			"__tabName": "VenueType",
 			"id": "partner_stern",
 			"name": "Offizieller Partner / Official Partner",
-			"icon": "Haus mit Stern",
-			"iconURL": "https://fest-digitalx.expofp.com/images/icon-16.png"
+			"icon": "Haus mit Stern"
 		},
 		{
 			"__tabName": "VenueType",
 			"id": "vetriebslounge",
 			"name": "Specials",
-			"icon": "Vetriebslounge",
-			"iconURL": "https://fest-digitalx.expofp.com/images/icon_vertriebslounges.png"
+			"icon": "Vetriebslounge"
 		},
 		{
 			"__tabName": "VenueType",
 			"id": "hous_stern",
 			"name": "Specials",
-			"icon": "Haus mit Stern",
-			"iconURL": "https://fest-digitalx.expofp.com/images/icon-18.png"
+			"icon": "Haus mit Stern"
 		},
 		{
 			"__tabName": "VenueType",
-			"id": "brandhouse+t",
+			"id": "brandhouse-t",
 			"name": "Specials",
-			"icon": "Haus mit Telekomlogo",
-			"iconURL": "https://fest-digitalx.expofp.com/images/icon-19.png"
+			"icon": "Haus mit Telekomlogo"
 		},
 		{
 			"__tabName": "VenueType",
 			"id": "brandhouse",
 			"name": "Brandhouse",
-			"icon": "Haus",
-			"iconURL": "https://fest-digitalx.expofp.com/images/icon-20.png"
+			"icon": "Haus"
 		},
 		{
 			"__tabName": "VenueType",
 			"id": "marktplatz",
 			"name": "Specials",
-			"icon": "Marktplatz",
-			"iconURL": "https://fest-digitalx.expofp.com/images/icon-21.png"
+			"icon": "Marktplatz"
 		},
 		{
 			"__tabName": "VenueType",
 			"id": "testing",
 			"name": "Test Zentrum",
-			"icon": "Testing",
-			"iconURL": "https://fest-digitalx.expofp.com/images/icon-22.png"
+			"icon": "Testing"
 		},
 		{
 			"__tabName": "VenueType",
 			"id": "interactive",
 			"name": "Interactive Stage",
-			"icon": "Bühne",
-			"iconURL": "https://fest-digitalx.expofp.com/images/icon_stages.png"
+			"icon": "Bühne"
 		},
 		{
 			"__tabName": "Sector",
