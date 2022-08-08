@@ -1,32 +1,54 @@
 {
     "rules": [
         {
+            "name": "Set venue filter type",
+            "filter": ["any", ["==", ["get", "entityType"], "Venue"], ["==", ["get", "entityType"], "Brandhouse"]],
+            "update": {
+                "filterType": "filter-venue"
+            }
+        },
+        {
+            "name": "Set route filter type",
+            "filter": ["==", ["get", "entityType"], "Route"],
+            "update": {
+                "filterType": "filter-route"
+            }
+        },
+        {
+            "name": "Set exhibitor filter type",
+            "filter": ["==", ["get", "entityType"], "Exhibitor"],
+            "update": {
+                "filterType": "filter-exhibitor"
+            }
+        },
+        {
             "name": "Set parents",
-            "props": [
+            "update": [
                 {
                     "parents": [
                         "create-array",
                         ["get", "venueType"],
                         ["get", "sector"],
                         ["get", "parent1"],
-                        ["get", "parent2"]
+                        ["get", "parent2"],
+                        ["get", "filterType"]
                     ]
                 },
-                { "parent1": ["undefined"], "parent2": ["undefined"] }
+                { "parent1": ["undefined"], "parent2": ["undefined"], "filterType": ["undefined"] }
             ]
         },
         {
             "name": "Rename iconURL to iconUrl",
-            "props": [{ "iconUrl": ["get", "iconURL"] }, { "iconURL": ["undefined"] }]
+            "update": [{ "iconUrl": ["get", "iconURL"] }, { "iconURL": ["undefined"] }]
         },
         {
             "name": "Rename logoURL to logoUrl",
-            "props": [{ "logoUrl": ["get", "logoURL"] }, { "logoURL": ["undefined"] }]
+            "update": [{ "logoUrl": ["get", "logoURL"] }, { "logoURL": ["undefined"] }]
         },
         {
             "name": "Set icons from venueType/sector",
             "filter": ["all", ["!", ["get", "iconUrl"]], ["get", "venueType"], ["get", "sector"]],
-            "props": [
+            "update": [
                 {
                     "iconUrlBase": [
                         "concat",
@@ -48,23 +70,23 @@
         {
             "name": "Set default iconUrl for all entities",
             "filter": ["!", ["get", "iconUrl"]],
-            "props": {
+            "update": {
                 "iconUrl": "https://fest-digitalx.expofp.com/images/icon-23.png"
             }
         },
         {
             "name": "Set name from id",
             "filter": ["!", ["get", "name"]],
-            "props": { "name": ["get", "id"] }
+            "update": { "name": ["get", "id"] }
         },
         {
             "name": "Set entityName",
             "filter": ["!", ["get", "entityName"]],
-            "props": { "entityName": ["get", "name"] }
+            "update": { "entityName": ["get", "name"] }
         },
         {
             "name": "Set buttons",
-            "props": {
+            "update": {
                 "showMoreDetailsButton": true,
                 "showDirectionsButton": true
             }
@@ -75,10 +97,27 @@
             "delete": true
         },
         {
-            "name": "TO DELETE LATER: Just force existing iconUrl for all entities",
-            "filter": ["!", ["get", "iconUrl"]],
-            "props": {
-                "iconUrlFallback": "https://fest-digitalx.expofp.com/images/icon-23.png"
+            "name": "Create venue filter",
+            "create": {
+                "id": "filter-venue",
+                "name": "Venues",
+                "iconClass": "venue"
+            }
+        },
+        {
+            "name": "Create route filter",
+            "create": {
+                "id": "filter-route",
+                "name": "Routes",
+                "iconClass": "route"
+            }
+        },
+        {
+            "name": "Create exhibitor filter",
+            "create": {
+                "id": "filter-exhibitor",
+                "name": "Exhibitors",
+                "iconClass": "exhibitor"
             }
         }
     ]
