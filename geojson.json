@@ -299,6 +299,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "beef_brothers"
+			},
+			"geometry": {
+				"coordinates": [
+					6.937076,
+					50.936587
+				],
+				"type": "Point"
+			},
+			"id": "16239e166fbfa0dc891e2082e845ea0b"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "Disruption_stage"
 			},
 			"geometry": {
@@ -1227,6 +1241,20 @@
 				"type": "Point"
 			},
 			"id": "cf0c2f316f2919ba6cc8ecfe702b575f"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "flavours_india"
+			},
+			"geometry": {
+				"coordinates": [
+					6.936822,
+					50.936601
+				],
+				"type": "Point"
+			},
+			"id": "d3d1d4a092bc6e616bfcb4c347c8ecd8"
 		},
 		{
 			"type": "Feature",
