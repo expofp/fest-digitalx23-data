@@ -700,7 +700,7 @@
 			"city": "Köln",
 			"postalCode": "50672",
 			"description": "We support the digital transformation of business processes around a telecommunication access.”\nFollowing this theme, DATANET supports its customers by innovative service solutions for the digital\ntransformation of standard business processes, such as the invoice processing, accounting or contract\nmanagement, based on the company’s own CT service platform (“Communication Tools”). Using the\npotential of the digitalization and the synergies of our central service platform lead to a minimization of\ncustomer internal efforts by highly automated workflows, a significant reduction of regular issues due to\nmore robust processes without manual interaction as well as a more efficient use of existing\ninfrastructures",
-			"descriptionDe": "Wir digitalisieren die Geschäftsprozesse rund um einen Telekommunikationsanschluss.\" Entsprechend diesem Leitmotiv unterstützt die DATANET GmbH ihre Kunden mit innovativen Servicekonzepten zur digitalen Transformation bestehender Geschäftsprozesse auf Basis der unternehmenseigenen CT\u0002Service-Plattform. Dies umfasst Lösungen zur Prüfung und Verbuchung elektronischer Rechnungen, zur zentralen oder dezentralen Vertragsverwaltung oder zur elektronischen Bestellabwicklung. Die hochgradige Automatisierung der Prozesse führt zu einer Minimierung von Aufwänden ebenso wie zur Verringerung von Fehlerhäufigkeiten infolge robusterer Prozessabläufe ohne manuelle Bearbeitung sowie einer effizienteren Ausnutzung bestehender Systeme und Infrastrukturen."
+			"description_de": "Wir digitalisieren die Geschäftsprozesse rund um einen Telekommunikationsanschluss.\" Entsprechend diesem Leitmotiv unterstützt die DATANET GmbH ihre Kunden mit innovativen Servicekonzepten zur digitalen Transformation bestehender Geschäftsprozesse auf Basis der unternehmenseigenen CT\u0002Service-Plattform. Dies umfasst Lösungen zur Prüfung und Verbuchung elektronischer Rechnungen, zur zentralen oder dezentralen Vertragsverwaltung oder zur elektronischen Bestellabwicklung. Die hochgradige Automatisierung der Prozesse führt zu einer Minimierung von Aufwänden ebenso wie zur Verringerung von Fehlerhäufigkeiten infolge robusterer Prozessabläufe ohne manuelle Bearbeitung sowie einer effizienteren Ausnutzung bestehender Systeme und Infrastrukturen."
 		},
 		{
 			"__tabName": "Entity",
@@ -3106,8 +3106,8 @@
 			"city": "Köln",
 			"postalCode": "50672",
 			"description": "The Future Stage of DIGITAL X is located in green surroundings in the inviting beer garden of the Stadtgarten Cologne. ",
-			"descriptionDe": "Die Future Stage der DIGITAL X befindet sich in grüner Umgebung im einladenden Biergarten des Stadtgarten Köln. ",
-			"externalLocationId": "https://url.expofp.com/?future_stage"
+			"description_de": "Die Future Stage der DIGITAL X befindet sich in grüner Umgebung im einladenden Biergarten des Stadtgarten Köln. ",
+			"external_location_id": "https://url.expofp.com/?future_stage"
 		},
 		{
 			"__tabName": "Entity",
