@@ -1098,6 +1098,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "TEL_2022_021"
+			},
+			"geometry": {
+				"coordinates": [
+					6.943131,
+					50.948795
+				],
+				"type": "Point"
+			},
+			"id": "bed541121d3181d49275891cd6a9c0f4"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0014144"
 			},
 			"geometry": {
