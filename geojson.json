@@ -453,6 +453,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "TEL_2022_020"
+			},
+			"geometry": {
+				"coordinates": [
+					6.939271,
+					50.940406
+				],
+				"type": "Point"
+			},
+			"id": "39dce75d4b9565dea3225897c5faf2ff"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "Disruption",
 				"Color": "#3CB4E8"
 			},
