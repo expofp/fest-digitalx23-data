@@ -233,7 +233,7 @@
 			"sector": "",
 			"venueType": "food",
 			"name": "Hanoi September",
-			"addedToMapbox": "FALSE",
+			"addedToMapbox": "TRUE",
 			"headline": "",
 			"logoURL": "",
 			"website": "",
@@ -1805,7 +1805,7 @@
 			"addedToMapbox": "FALSE",
 			"headline": "",
 			"logoURL": "",
-			"website": "",
+			"website": "https://www.monday.rocks/",
 			"highlight": "",
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},

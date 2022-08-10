@@ -1259,6 +1259,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "hanoi_september"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935845,
+					50.936376
+				],
+				"type": "Point"
+			},
+			"id": "e1ea306e9785743a8a591072df5be1b8"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "Future",
 				"Color": "#FFDE14"
 			},
