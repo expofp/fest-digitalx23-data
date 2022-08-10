@@ -1384,6 +1384,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "goldfinger"
+			},
+			"geometry": {
+				"coordinates": [
+					6.942196,
+					50.940735
+				],
+				"type": "Point"
+			},
+			"id": "ed30fe77f1651e9c5f1c2a11e96a1aa3"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "TEL_2022_019"
 			},
 			"geometry": {
