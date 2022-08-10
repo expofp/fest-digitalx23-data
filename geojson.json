@@ -538,6 +538,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "yes_yoga"
+			},
+			"geometry": {
+				"coordinates": [
+					6.936529,
+					50.93861
+				],
+				"type": "Point"
+			},
+			"id": "435b087b609f076d046be953d7b9184c"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "monkeys_cocktail"
 			},
 			"geometry": {
