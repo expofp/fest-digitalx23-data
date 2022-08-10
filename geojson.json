@@ -958,6 +958,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "la_latina"
+			},
+			"geometry": {
+				"coordinates": [
+					6.942327,
+					50.940736
+				],
+				"type": "Point"
+			},
+			"id": "9b0f870ee471b143473c31e73fb4af8a"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "TEL_2022_015"
 			},
 			"geometry": {
