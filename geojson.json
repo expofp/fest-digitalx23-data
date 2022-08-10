@@ -776,6 +776,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "paff"
+			},
+			"geometry": {
+				"coordinates": [
+					6.941514,
+					50.941391
+				],
+				"type": "Point"
+			},
+			"id": "79b202bf25613914a5ea89b9316faf99"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "TEL_2022_014"
 			},
 			"geometry": {
