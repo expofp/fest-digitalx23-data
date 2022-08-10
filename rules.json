@@ -136,8 +136,8 @@
             "name": "Set default iconUrl for all entities",
             "filter": ["!", ["get", "iconUrl"]],
             "update": {
-                "iconUrl": "https://fest-digitalx.expofp.com/images/new/checkin-Future.png",
-                "iconUrlActive": "https://fest-digitalx.expofp.com/images/new/checkin-Future-active.png"
+                "iconUrl": "https://fest-digitalx.expofp.com/images/new/default.png",
+                "iconUrlActive": "https://fest-digitalx.expofp.com/images/new/default-active.png"
             }
         },
         {
