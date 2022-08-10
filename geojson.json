@@ -748,6 +748,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "metzgerei_schmitz"
+			},
+			"geometry": {
+				"coordinates": [
+					6.936137,
+					50.936611
+				],
+				"type": "Point"
+			},
+			"id": "759f054b7631c9dd3a02301647deef4c"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0013497"
 			},
 			"geometry": {
