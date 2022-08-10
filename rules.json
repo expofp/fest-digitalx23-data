@@ -29,12 +29,24 @@
                         "create-array",
                         ["get", "venueType"],
                         ["get", "sector"],
-                        ["get", "parent1"],
-                        ["get", "parent2"],
+                        ["get", "parent"],
+                        ["get", "route1"],
+                        ["get", "route2 "],
+                        ["get", "entity1"],
+                        ["get", "entity2"],
+                        ["get", "entity3"],
                         ["get", "filterType"]
                     ]
                 },
-                { "parent1": ["undefined"], "parent2": ["undefined"], "filterType": ["undefined"] }
+                {
+                    "parent": ["undefined"],
+                    "route1": ["undefined"],
+                    "route2": ["undefined"],
+                    "entity1": ["undefined"],
+                    "entity2": ["undefined"],
+                    "entity3": ["undefined"],
+                    "filterType": ["undefined"]
+                }
             ]
         },
         {
