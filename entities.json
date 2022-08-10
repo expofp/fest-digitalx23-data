@@ -328,7 +328,7 @@
 			"sector": "",
 			"venueType": "food",
 			"name": "Reineke Fuchs",
-			"addedToMapbox": "FALSE",
+			"addedToMapbox": "TRUE",
 			"headline": "",
 			"logoURL": "",
 			"website": "",
@@ -1693,7 +1693,7 @@
 			"addedToMapbox": "FALSE",
 			"headline": "",
 			"logoURL": "",
-			"website": "",
+			"website": "https://kauz.net",
 			"highlight": "",
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
@@ -1795,7 +1795,7 @@
 		},
 		{
 			"__tabName": "Entity",
-			"id": "D0014163\r",
+			"id": "D0014163\n",
 			"entityType": "Brandhouse",
 			"parent1": "",
 			"parent2": "",
@@ -1885,7 +1885,7 @@
 			"addedToMapbox": "FALSE",
 			"headline": "",
 			"logoURL": "",
-			"website": "",
+			"website": "www.onsei.de",
 			"highlight": "",
 			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},

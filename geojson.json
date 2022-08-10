@@ -930,6 +930,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "reineke_fuchs"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935016,
+					50.936626
+				],
+				"type": "Point"
+			},
+			"id": "9ab0aeb553393ac018bbf1465dfcb836"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "TEL_2022_015"
 			},
 			"geometry": {
