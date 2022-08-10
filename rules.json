@@ -32,11 +32,11 @@
                         ["get", "parent"],
                         ["get", "route1"],
                         ["get", "route2 "],
-                        ["get", "entity1"],
-                        ["get", "entity2"],
-                        ["get", "entity3"],
                         ["get", "filterType"]
                     ]
+                },
+                {
+                    "children": ["create-array", ["get", "entity1"], ["get", "entity2"], ["get", "entity3"]]
                 },
                 {
                     "parent": ["undefined"],
@@ -92,6 +92,19 @@
         },
         {
             "name": "Set buttons",
+            "update": {
+                "showDirectionsButton": true
+            }
+        },
+        {
+            "name": "Set more details button",
+            "filter": [
+                "any",
+                ["==", ["get", "entityType"], "Route"],
+                ["==", ["get", "entityType"], "Exhibitor"],
+                ["==", ["get", "entityType"], "Venue"],
+                ["==", ["get", "entityType"], "Brandhouse"]
+            ],
             "update": {
                 "showMoreDetailsButton": true,
                 "showDirectionsButton": true
