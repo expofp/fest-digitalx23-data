@@ -67,14 +67,7 @@
                 }
             ]
         },
-        {
-            "name": "Set default iconUrl for all entities",
-            "filter": ["!", ["get", "iconUrl"]],
-            "update": {
-                "iconUrl": "https://fest-digitalx.expofp.com/images/new/checkin-Future.png",
-                "iconUrlActive": "https://fest-digitalx.expofp.com/images/new/checkin-Future-active.png"
-            }
-        },
+
         {
             "name": "Set name from id",
             "filter": ["!", ["get", "name"]],
@@ -95,7 +88,7 @@
         {
             "name": "Remove entities that are marked as not added to mapbox",
             "filter": ["==", ["get", "addedToMapbox"], "FALSE"],
-            "delete": true
+            "XXXdelete": true
         },
         {
             "name": "Create venue filter",
@@ -104,7 +97,7 @@
                 "name": "Venues",
                 "iconClass": "icon-venue",
                 "isFilter": true,
-                "hideFromList": true
+                "hide": true
             }
         },
         {
@@ -114,7 +107,7 @@
                 "name": "Routes",
                 "iconClass": "icon-route",
                 "isFilter": true,
-                "hideFromList": true
+                "hide": true
             }
         },
         {
@@ -124,7 +117,15 @@
                 "name": "Exhibitors",
                 "iconClass": "icon-user",
                 "isFilter": true,
-                "hideFromList": true
+                "hide": true
+            }
+        },
+        {
+            "name": "Set default iconUrl for all entities",
+            "filter": ["!", ["get", "iconUrl"]],
+            "update": {
+                "iconUrl": "https://fest-digitalx.expofp.com/images/new/checkin-Future.png",
+                "iconUrlActive": "https://fest-digitalx.expofp.com/images/new/checkin-Future-active.png"
             }
         }
     ]
