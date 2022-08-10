@@ -127,6 +127,48 @@
                 "iconUrl": "https://fest-digitalx.expofp.com/images/new/checkin-Future.png",
                 "iconUrlActive": "https://fest-digitalx.expofp.com/images/new/checkin-Future-active.png"
             }
+        },
+        {
+            "name": "Set parent routes field",
+            "update": [
+                {
+                    "tmpParentRoutes": [
+                        "map",
+                        ["filter", ["parents"], "e", null, ["==", ["get", "entityType", ["var", "e"]], "Route"]],
+                        "val",
+                        null,
+                        ["id", ["var", "val"]]
+                    ]
+                },
+                {
+                    "tmpMeAndRoutes": ["flattern", ["get", "tmpParentRoutes"], ["create-array", ["id"]]]
+                }
+            ]
+        },
+        {
+            "name": "Make everyone having route also select it, but not zoom to it",
+            "filter": ["length", ["get", "tmpParentRoutes"]],
+            "update": {
+                "select": ["get", "tmpMeAndRoutes"],
+                "zoom": ["id"]
+            }
+        },
+        {
+            "name": "Make route also select items on route",
+            "filter": ["==", "Route", ["get", "entityType"]],
+            "update": [
+                {
+                    "select": [
+                        "flattern",
+                        ["map", ["children"], "val", null, ["id", ["var", "val"]]],
+                        ["create-array", ["id"]]
+                    ]
+                },
+                {
+                    "tmpParentRoutes": ["undefined"],
+                    "tmpMeAndRoutes": ["undefined"]
+                }
+            ]
         }
     ]
 }
