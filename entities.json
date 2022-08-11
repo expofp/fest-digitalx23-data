@@ -245,14 +245,29 @@
 		{
 			"__tabName": "Entity",
 			"id": "bus_route_1",
-			"entityType": "Route"
+			"entityType": "Route",
+			"parent": "",
+			"route1": "",
+			"route2": "",
+			"trend": "",
+			"sector": "",
+			"venueType": "",
+			"name": "Interactive Shuttle Route",
+			"addedToMapbox": "FALSE",
+			"headline": "Hop on hop off bus route Interactive"
 		},
 		{
 			"__tabName": "Entity",
 			"id": "Bus_stop_1_route_1",
 			"entityType": "Generic POI",
 			"parent": "",
-			"route1": "bus_route_1"
+			"route1": "bus_route_1",
+			"route2": "",
+			"trend": "",
+			"sector": "",
+			"venueType": "interactive",
+			"name": "Interactive Shuttle - Stop",
+			"addedToMapbox": "FALSE"
 		},
 		{
 			"__tabName": "Entity",
@@ -3893,37 +3908,31 @@
 		},
 		{
 			"__tabName": "VenueType",
-			"id": "busshuttle_future",
-			"name": "Busshuttle Future Quartier",
-			"icon": "Hop-on Hop-off Bus"
+			"id": "stage",
+			"name": "Stage",
+			"icon": "Bühne"
 		},
 		{
 			"__tabName": "VenueType",
-			"id": "busshuttle_inspiration",
-			"name": "Busshuttle Inspiration Quartier",
-			"icon": "Hop-on Hop-off Bus"
+			"id": "brandhouse",
+			"name": "Brandhouse",
+			"icon": "Brandhouse"
 		},
 		{
 			"__tabName": "VenueType",
-			"id": "busshuttle_interactive",
-			"name": "Busshuttle Interactive Quartier",
-			"icon": "Hop-on Hop-off Bus"
+			"id": "brandhouse-t",
+			"name": "Specials",
+			"icon": "Brandhouse-t"
 		},
 		{
 			"__tabName": "VenueType",
-			"id": "busshuttle_disruption",
-			"name": "Busshuttle Disruption Quartier",
-			"icon": "Hop-on Hop-off Bus"
-		},
-		{
-			"__tabName": "VenueType",
-			"id": "checkin",
+			"id": "tour",
 			"name": "Check In",
 			"icon": "Check-In"
 		},
 		{
 			"__tabName": "VenueType",
-			"id": "disruption",
+			"id": "check-in",
 			"name": "Disruption Stage",
 			"icon": "Bühne"
 		},
@@ -3935,115 +3944,31 @@
 		},
 		{
 			"__tabName": "VenueType",
-			"id": "future",
+			"id": "vertriebslounge",
 			"name": "Future Stage",
 			"icon": "Bühne"
 		},
 		{
-			"__tabName": "VenueType",
-			"id": "guided",
-			"name": "Guided Tour",
-			"icon": "Guided Tours"
-		},
-		{
-			"__tabName": "VenueType",
-			"id": "guided_stern",
-			"name": "Guided Tour",
-			"icon": "Guided Tour mit Stern"
-		},
-		{
-			"__tabName": "VenueType",
-			"id": "inspiration",
-			"name": "Inspiration Stage ",
-			"icon": "Bühne"
-		},
-		{
-			"__tabName": "VenueType",
-			"id": "locker",
-			"name": "Locker",
-			"icon": "Locker"
-		},
-		{
-			"__tabName": "VenueType",
-			"id": "magenta",
-			"name": "Magenta Stage ",
-			"icon": "Bühne"
-		},
-		{
-			"__tabName": "VenueType",
-			"id": "partner",
-			"name": "Offizieller Partner / Official Partner",
-			"icon": "Haus"
-		},
-		{
-			"__tabName": "VenueType",
-			"id": "partner_stern",
-			"name": "Offizieller Partner / Official Partner",
-			"icon": "Haus mit Stern"
-		},
-		{
-			"__tabName": "VenueType",
-			"id": "vetriebslounge",
-			"name": "Specials",
-			"icon": "Vetriebslounge"
-		},
-		{
-			"__tabName": "VenueType",
-			"id": "hous_stern",
-			"name": "Specials",
-			"icon": "Haus mit Stern"
-		},
-		{
-			"__tabName": "VenueType",
-			"id": "brandhouse-t",
-			"name": "Specials",
-			"icon": "Haus mit Telekomlogo"
-		},
-		{
-			"__tabName": "VenueType",
-			"id": "brandhouse",
-			"name": "Brandhouse",
-			"icon": "Haus"
-		},
-		{
-			"__tabName": "VenueType",
-			"id": "marktplatz",
-			"name": "Specials",
-			"icon": "Marktplatz"
-		},
-		{
-			"__tabName": "VenueType",
-			"id": "testing",
-			"name": "Test Zentrum",
-			"icon": "Testing"
-		},
-		{
-			"__tabName": "VenueType",
-			"id": "interactive",
-			"name": "Interactive Stage",
-			"icon": "Bühne"
-		},
-		{
 			"__tabName": "Sector",
-			"id": "Disruption",
+			"id": "disruption",
 			"name": "Disruption",
 			"color": "#3CB4E8"
 		},
 		{
 			"__tabName": "Sector",
-			"id": "Future",
+			"id": "future",
 			"name": "Future",
 			"color": "#FFDE14"
 		},
 		{
 			"__tabName": "Sector",
-			"id": "Inspiration",
+			"id": "inspiration",
 			"name": "Inspiration",
 			"color": "#E6007E"
 		},
 		{
 			"__tabName": "Sector",
-			"id": "Interactive",
+			"id": "interactive",
 			"name": "Interactive",
 			"color": "#00B050"
 		}
