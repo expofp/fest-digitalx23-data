@@ -608,6 +608,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "si_claro"
+			},
+			"geometry": {
+				"coordinates": [
+					6.938952,
+					50.940426
+				],
+				"type": "Point"
+			},
+			"id": "52a4a203788f0f3270dd07e33f1abec7"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "TEL_2022_008"
 			},
 			"geometry": {
@@ -632,6 +646,20 @@
 				"type": "Point"
 			},
 			"id": "59aa89efa231e354f4067d32ed5704c3"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "sushi_nara"
+			},
+			"geometry": {
+				"coordinates": [
+					6.941603,
+					50.940721
+				],
+				"type": "Point"
+			},
+			"id": "5acfe3545c2ccc4969c6d46db024f1ac"
 		},
 		{
 			"type": "Feature",
