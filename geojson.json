@@ -1371,20 +1371,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "flavours_india"
-			},
-			"geometry": {
-				"coordinates": [
-					6.936822,
-					50.936601
-				],
-				"type": "Point"
-			},
-			"id": "d3d1d4a092bc6e616bfcb4c347c8ecd8"
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"ID": "hanoi_september"
 			},
 			"geometry": {

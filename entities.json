@@ -5,7 +5,7 @@
 			"id": "startup_area",
 			"entityType": "Venue",
 			"parent": "",
-			"route1": "Bus-Shuttle Main Stages",
+			"route1": "bus_route_1",
 			"route2": "",
 			"trend": "",
 			"sector": "",
@@ -23,7 +23,7 @@
 			"route2": "",
 			"trend": "",
 			"sector": "",
-			"venueType": "",
+			"venueType": "bus_route",
 			"name": "Interactive Shuttle Route",
 			"addedToMapbox": "TRUE",
 			"headline": "Hop on hop off bus route Interactive"
@@ -575,7 +575,7 @@
 			"route2": "",
 			"trend": "",
 			"sector": "",
-			"venueType": "",
+			"venueType": "tour",
 			"name": "Knowledge culture",
 			"addedToMapbox": "FALSE"
 		},
@@ -588,7 +588,7 @@
 			"route2": "",
 			"trend": "",
 			"sector": "",
-			"venueType": "",
+			"venueType": "tour",
 			"name": "Health & Demographic Change",
 			"addedToMapbox": "FALSE"
 		},
@@ -601,7 +601,7 @@
 			"route2": "",
 			"trend": "",
 			"sector": "",
-			"venueType": "",
+			"venueType": "tour",
 			"name": "Urbanisation",
 			"addedToMapbox": "FALSE"
 		},
@@ -614,7 +614,7 @@
 			"route2": "",
 			"trend": "",
 			"sector": "",
-			"venueType": "",
+			"venueType": "tour",
 			"name": "Individualisation",
 			"addedToMapbox": "FALSE"
 		},
@@ -627,7 +627,7 @@
 			"route2": "",
 			"trend": "",
 			"sector": "",
-			"venueType": "",
+			"venueType": "tour",
 			"name": "Safety",
 			"addedToMapbox": "FALSE"
 		},
@@ -640,7 +640,7 @@
 			"route2": "",
 			"trend": "",
 			"sector": "",
-			"venueType": "",
+			"venueType": "tour",
 			"name": "Sustainability",
 			"addedToMapbox": "FALSE"
 		},
@@ -653,7 +653,7 @@
 			"route2": "",
 			"trend": "",
 			"sector": "",
-			"venueType": "",
+			"venueType": "tour",
 			"name": "Mobility",
 			"addedToMapbox": "FALSE"
 		},
@@ -666,7 +666,7 @@
 			"route2": "",
 			"trend": "",
 			"sector": "",
-			"venueType": "",
+			"venueType": "tour",
 			"name": "Globalisation",
 			"addedToMapbox": "FALSE"
 		},
@@ -679,7 +679,7 @@
 			"route2": "",
 			"trend": "",
 			"sector": "",
-			"venueType": "",
+			"venueType": "tour",
 			"name": "Gender Shift",
 			"addedToMapbox": "FALSE"
 		},
@@ -692,7 +692,7 @@
 			"route2": "",
 			"trend": "",
 			"sector": "",
-			"venueType": "",
+			"venueType": "tour",
 			"name": "Future of work",
 			"addedToMapbox": "FALSE"
 		},
@@ -828,9 +828,9 @@
 			"id": "D0004103",
 			"entityType": "Brandhouse",
 			"parent": "",
-			"route1": "",
+			"route1": "bus_route_1",
 			"route2": "",
-			"trend": "",
+			"trend": "future_of_work",
 			"sector": "Inspiration",
 			"venueType": "brandhouse",
 			"name": "Cisco",
@@ -3713,7 +3713,7 @@
 			"sector": "Inspiration",
 			"venueType": "inspiration",
 			"name": "Mediapark Köln",
-			"addedToMapbox": "FALSE",
+			"addedToMapbox": "TRUE",
 			"headline": "Inspiration stage",
 			"logoURL": "",
 			"website": "",
@@ -3809,6 +3809,12 @@
 			"id": "tour",
 			"name": "Tour",
 			"icon": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_tours.png"
+		},
+		{
+			"__tabName": "VenueType",
+			"id": "bus_route",
+			"name": "Bus Route",
+			"icon": "n/a"
 		},
 		{
 			"__tabName": "VenueType",
