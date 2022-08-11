@@ -822,8 +822,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.935105,
-					50.9429
+					6.935723,
+					50.942936
 				],
 				"type": "Point"
 			},
@@ -856,6 +856,20 @@
 				"type": "Point"
 			},
 			"id": "81bb5e9994e0607c0c6a220dbfaa1bec"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"startup_area": ""
+			},
+			"geometry": {
+				"coordinates": [
+					6.935217,
+					50.942647
+				],
+				"type": "Point"
+			},
+			"id": "81bcf56cc4bce436fb14b56a3ffacae0"
 		},
 		{
 			"type": "Feature",
@@ -940,6 +954,20 @@
 				"type": "Point"
 			},
 			"id": "9197eac18716335b95cf35419d83e866"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "bus_route_1_stop_1"
+			},
+			"geometry": {
+				"coordinates": [
+					6.943018,
+					50.940722
+				],
+				"type": "Point"
+			},
+			"id": "92bcc7b36f81c3ca7c69e4c124c40cb4"
 		},
 		{
 			"type": "Feature",
@@ -1266,7 +1294,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "top_partner_tour",
+				"ID": "bus_route_1",
 				"color": "#2F456A"
 			},
 			"geometry": {
