@@ -313,6 +313,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "maison_sen"
+			},
+			"geometry": {
+				"coordinates": [
+					6.939053,
+					50.940433
+				],
+				"type": "Point"
+			},
+			"id": "148448eb1408a035b1bae0345e380317"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "beef_brothers"
 			},
 			"geometry": {
