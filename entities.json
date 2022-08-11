@@ -589,13 +589,13 @@
 			"name": "Samsung Brandhouse",
 			"addedToMapbox": "TRUE",
 			"headline": "",
-			"logoURL": "",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/small_SAMSUNG_acc4797a1e.svg",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "LinkedIn Test",
-			"address": "#VALUE!",
-			"city": "#VALUE!",
-			"postalCode": "#VALUE!",
+			"addressCalculation": "Im Mediapark 1, 50670 Köln",
+			"address": "Im Mediapark 1",
+			"city": "Köln",
+			"postalCode": "50670",
 			"description": "#REF!"
 		},
 		{
@@ -608,7 +608,15 @@
 			"sector": "Inspiration",
 			"venueType": "brandhouse",
 			"name": "Jabra / GN Audio Brandhouse",
-			"addedToMapbox": "TRUE"
+			"addedToMapbox": "TRUE",
+			"headline": "",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_jabra_logo_2ab9f8a512.svg",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Im Mediapark 5, 50670 Köln",
+			"address": "Im Mediapark 5",
+			"city": "Köln",
+			"postalCode": "50670"
 		},
 		{
 			"__tabName": "Entity",
@@ -620,7 +628,15 @@
 			"sector": "Disruption",
 			"venueType": "brandhouse",
 			"name": "Apple Brandhouse",
-			"addedToMapbox": "TRUE"
+			"addedToMapbox": "TRUE",
+			"headline": "",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/telekom_apple_e8d5d8f79a.png",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Aachener Straße 16, 50674 Köln",
+			"address": "Aachener Straße 16",
+			"city": "Köln",
+			"postalCode": "50674"
 		},
 		{
 			"__tabName": "Entity",
@@ -632,7 +648,15 @@
 			"sector": "Disruption",
 			"venueType": "brandhouse",
 			"name": "Itenos Brandhouse",
-			"addedToMapbox": "TRUE"
+			"addedToMapbox": "TRUE",
+			"headline": "",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_itenos_logo_a13f3c5e6f.svg",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Aachener Straße 15, 50674 Köln",
+			"address": "Aachener Straße 15",
+			"city": "Köln",
+			"postalCode": "50674"
 		},
 		{
 			"__tabName": "Entity",
@@ -646,13 +670,13 @@
 			"name": "Contentguru Brandhouse",
 			"addedToMapbox": "TRUE",
 			"headline": "",
-			"logoURL": "Mit echten Omni-Kanal-Engagement-Funktionen bietet Content Guru storm Ihnen die Möglichkeit\nkonsistente und nahtlose Kundenerlebnisse zu kreieren, die Loyalität schaffen und Ihren Erfolg fördern.\nstorm vereint intelligente Automatisierung, Systemintegration von Drittanbietern und unlimitierte\nSkalierbarkeit in der Cloud, um Ihren Kundendialog nachhaltig zu verbessern.\n\n---\n\nFrom omni-channel cloud contact center solutions to bespoke integration systems, Content Guru uses\ncutting-edge technology to transform communications and make mass personalization a reality. This\nincludes development of AI and propensity modelling to create the seamless end-to-end customer\njourneys that inspire loyalty and power the success of organizations worldwide.",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/content_guru_1cd057dc58.svg",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "https://www.linkedin.com/company/contentgurudach",
-			"address": "#VALUE!",
-			"city": "#VALUE!",
-			"postalCode": "#VALUE!"
+			"addressCalculation": "Brüsseler Straße 74, 50672 Köln",
+			"address": "Brüsseler Straße 74",
+			"city": "Köln",
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -666,13 +690,13 @@
 			"name": "Ivanti Brandhouse",
 			"addedToMapbox": "TRUE",
 			"headline": "",
-			"logoURL": "Ivanti schafft den „Everywhere Workplace“. Im Everywhere Workplace nutzen Mitarbeiter zahlreiche\nGeräte, um über verschiedene Netzwerke auf IT-Anwendungen und Daten zuzugreifen und so von überall\naus produktiv arbeiten zu können. Die Automatisierungsplattform Ivanti Neurons verbindet die\nbranchenführenden Lösungen des Unternehmens für Unified Endpoint Management, Zero Trust Security\nund Enterprise Service Management und bietet so eine einheitliche IT-Plattform. Sie ermöglicht das Self\u0002Healing und Self-Securing von Geräten und gibt Anwendern die Möglichkeit zum Self Service. Mehr als\n40.000 Kunden, darunter 78 der Fortune 100, haben sich für Ivanti entschieden, um ihre IT-Assets von\nder Cloud bis zum Edge zu erkennen, zu verwalten, zu sichern und zu warten und ihren Mitarbeitern ein\nhervorragendes Nutzererlebnis zu bieten, egal wo und wie sie arbeiten.\n\n---\n\nIvanti creates the Everywhere Workplace. In the Everywhere Workplace, employees use numerous\r\ndevices to access IT applications and data via different networks, enabling them to work productively\r\nfrom anywhere. The Ivanti Neurons automation platform combines the company's industry-leading\r\nsolutions for Unified Endpoint Management, Zero Trust Security and Enterprise Service Management to\r\nprovide a unified IT platform. It enables self-healing and self-securing of devices and empowers users\r\nwith self-service capabilities. More than 40,000 customers, including 78 of the Fortune 100, have chosen\r\nIvanti to discover, manage, secure and maintain their IT assets from the cloud to the edge and deliver a\r\nsuperior user experience to their employees wherever and however they work.",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/small_Ivanti_4a7a0a9b43.svg",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "https://www.linkedin.com/company/ivanti/",
-			"address": "#VALUE!",
-			"city": "#VALUE!",
-			"postalCode": "#VALUE!"
+			"addressCalculation": "Brabanter Straße 1, 50674 Köln",
+			"address": "Brabanter Straße 1",
+			"city": "Köln",
+			"postalCode": "50674"
 		},
 		{
 			"__tabName": "Entity",
@@ -685,7 +709,14 @@
 			"venueType": "brandhouse",
 			"name": "Cisco Brandhouse",
 			"addedToMapbox": "TRUE",
-			"headline": "Leading you into the future of work"
+			"headline": "Leading you into the future of work",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_cisco_logo_22_v2_2be6ebf0f8.svg",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Im Mediapark 1, 50670 Köln",
+			"address": "Im Mediapark 1",
+			"city": "Köln",
+			"postalCode": "50670"
 		},
 		{
 			"__tabName": "Entity",
@@ -699,13 +730,13 @@
 			"name": "Datanet Brandhouse",
 			"addedToMapbox": "TRUE",
 			"headline": "",
-			"logoURL": "Wir digitalisieren die Geschäftsprozesse rund um einen Telekommunikationsanschluss.\" Entsprechend\ndiesem Leitmotiv unterstützt die DATANET GmbH ihre Kunden mit innovativen Servicekonzepten zur\ndigitalen Transformation bestehender Geschäftsprozesse auf Basis der unternehmenseigenen CT\u0002Service-Plattform. Dies umfasst Lösungen zur Prüfung und Verbuchung elektronischer Rechnungen, zur\nzentralen oder dezentralen Vertragsverwaltung oder zur elektronischen Bestellabwicklung. Die\nhochgradige Automatisierung der Prozesse führt zu einer Minimierung von Aufwänden ebenso wie zur\nVerringerung von Fehlerhäufigkeiten infolge robusterer Prozessabläufe ohne manuelle Bearbeitung\nsowie einer effizienteren Ausnutzung bestehender Systeme und Infrastrukturen.\n<br>\n---\n<br>\nWe support the digital transformation of business processes around a telecommunication access.”\nFollowing this theme, DATANET supports its customers by innovative service solutions for the digital\ntransformation of standard business processes, such as the invoice processing, accounting or contract\nmanagement, based on the company’s own CT service platform (“Communication Tools”). Using the\npotential of the digitalization and the synergies of our central service platform lead to a minimization of\ncustomer internal efforts by highly automated workflows, a significant reduction of regular issues due to\nmore robust processes without manual interaction as well as a more efficient use of existing\ninfrastructures",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/small_Datanet_8e4ede2292.svg",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "https://www.linkedin.com/company/datanetgmbh",
-			"address": "#VALUE!",
-			"city": "#VALUE!",
-			"postalCode": "#VALUE!",
+			"addressCalculation": "Friesenstraße 82, 50672 Köln",
+			"address": "Friesenstraße 82",
+			"city": "Köln",
+			"postalCode": "50672",
 			"description": "We support the digital transformation of business processes around a telecommunication access.”\nFollowing this theme, DATANET supports its customers by innovative service solutions for the digital\ntransformation of standard business processes, such as the invoice processing, accounting or contract\nmanagement, based on the company’s own CT service platform (“Communication Tools”). Using the\npotential of the digitalization and the synergies of our central service platform lead to a minimization of\ncustomer internal efforts by highly automated workflows, a significant reduction of regular issues due to\nmore robust processes without manual interaction as well as a more efficient use of existing\ninfrastructures",
 			"description_de": "Wir digitalisieren die Geschäftsprozesse rund um einen Telekommunikationsanschluss.\" Entsprechend diesem Leitmotiv unterstützt die DATANET GmbH ihre Kunden mit innovativen Servicekonzepten zur digitalen Transformation bestehender Geschäftsprozesse auf Basis der unternehmenseigenen CT\u0002Service-Plattform. Dies umfasst Lösungen zur Prüfung und Verbuchung elektronischer Rechnungen, zur zentralen oder dezentralen Vertragsverwaltung oder zur elektronischen Bestellabwicklung. Die hochgradige Automatisierung der Prozesse führt zu einer Minimierung von Aufwänden ebenso wie zur Verringerung von Fehlerhäufigkeiten infolge robusterer Prozessabläufe ohne manuelle Bearbeitung sowie einer effizienteren Ausnutzung bestehender Systeme und Infrastrukturen."
 		},
@@ -719,7 +750,15 @@
 			"sector": "Disruption",
 			"venueType": "brandhouse",
 			"name": "Bintec-Elmeg Brandhouse",
-			"addedToMapbox": "TRUE"
+			"addedToMapbox": "TRUE",
+			"headline": "",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_bintec_logo_9d5aacc361.svg",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Aachener Straße 22, 50674 Köln",
+			"address": "Aachener Straße 22",
+			"city": "Köln",
+			"postalCode": "50674"
 		},
 		{
 			"__tabName": "Entity",
@@ -733,13 +772,13 @@
 			"name": "Atos Unify Brandhouse",
 			"addedToMapbox": "TRUE",
 			"headline": "",
-			"logoURL": "Atos Unify ist der Familienname für Lösungen und Angebote der Atos-Gruppe für virtuelle, verteilte und remote Zusammenarbeit in Unternehmen, mit Kunden und Partnern. Durch die Kombination unserer eigenen OpenScape-Kommunikationsplattformen und der Angebote strategischer Partner, darunter Unify Office by RingCentral und Cloud Contact Center powered by CXone, helfen wir Unternehmen dabei, von jedem beliebigen Standort aus zu arbeiten und dabei erstklassige Kommunikations-, Contact Center\u0002und Collaboration-Tools zu nutzen.\n\n---\n\nAtos Unify is the family name for remote and distributed work offerings and solutions from Atos group.\nBy combining our own OpenScape communication platforms and strategic partner offerings including\nUnify Office by RingCentral and Cloud Contact Center powered by CXone, we help enterprises to work\nfrom anywhere using best-in-class communication, contact center and collaboration tools.",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_atos_unify_logo_cf25718f0c.svg",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "https://www.linkedin.com/company/unifyco/",
-			"address": "#VALUE!",
-			"city": "#VALUE!",
-			"postalCode": "#VALUE!"
+			"addressCalculation": "Brüsseler Platz 1, 50674 Köln",
+			"address": "Brüsseler Platz 1",
+			"city": "Köln",
+			"postalCode": "50674"
 		},
 		{
 			"__tabName": "Entity",
@@ -751,7 +790,15 @@
 			"sector": "Interactive",
 			"venueType": "brandhouse",
 			"name": "ALSO Brandhouse",
-			"addedToMapbox": "TRUE"
+			"addedToMapbox": "TRUE",
+			"headline": "",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/also_7bfa911c75.png",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Friesenwall 81, 50672 Köln",
+			"address": "Friesenwall 81",
+			"city": "Köln",
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -763,7 +810,15 @@
 			"sector": "Interactive",
 			"venueType": "brandhouse",
 			"name": "BPV Brandhouse",
-			"addedToMapbox": "TRUE"
+			"addedToMapbox": "TRUE",
+			"headline": "",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/bpv_bc3adcb18b.svg",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Friesenwall 81, 50672 Köln",
+			"address": "Friesenwall 81",
+			"city": "Köln",
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -789,13 +844,13 @@
 			"name": "Ringcentral Brandhouse",
 			"addedToMapbox": "TRUE",
 			"headline": "",
-			"logoURL": "RingCentral ist ein führender Anbieter für Lösungen im Bereich Unternehmenskommunikation und Zusammenarbeit. Unsere cloudbasierte Plattform vereint interne und externe Kommunikationstools wie Telefonie, Messaging und Videokonferenzen in einer einzigen Anwendung und macht Prozesse so deutlich effizienter. Einfach einzurichten, einfach zu nutzen, einfach zu verwalten! Seit sieben Jahren in Folge ist RingCentral als ein Leader im Gartner Magic Quadrant für UCaaS weltweit platziert. RingCentral wurde außerdem von Gartner Peer Insights als \"Customers' Choice\" für UCaaS für die Jahre 2019 und 2021 ausgezeichnet.\n\n---\n\nRingCentral is a market-leading business communications and collaboration provider. Our cloud-based\r\nplatform combines internal and external communications tools such as phone, messaging and video\r\nconferencing in a single integrated application, making processes much more efficient. Easy to deploy,\r\neasy to use, easy to manage!\r\nThe plaudits tell you all you need to know. For the past seven years RingCentral was named a Gartner\r\nMagic Quadrant Leader for UCaaS worldwide. RingCentral was also named Gartner Peer Insights\r\nCustomers' Choice for UCaaS in 2019 and 2021.",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Ring_Central_554303b049.svg",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "https://www.linkedin.com/company/ringcentral",
-			"address": "#VALUE!",
-			"city": "#VALUE!",
-			"postalCode": "#VALUE!"
+			"addressCalculation": "Aachener Straße 38, 50674 Köln",
+			"address": "Aachener Straße 38",
+			"city": "Köln",
+			"postalCode": "50674"
 		},
 		{
 			"__tabName": "Entity",
@@ -809,13 +864,13 @@
 			"name": "q.beyond Brandhouse",
 			"addedToMapbox": "TRUE",
 			"headline": "",
-			"logoURL": "Unternehmensprofil der q.beyond AG\r\nDie q.beyond AG steht für erfolgreiche Digitalisierung. Wir unterstützen unsere Kunden dabei, die besten\r\ndigitalen Lösungen für ihr Business zu finden, setzen diese um und betreiben sie. Unser starkes Team\r\naus 1.100 Mitarbeiterinnen und Mitarbeitern bringt unsere mittelständischen Kunden sicher durch die\r\ndigitale Transformation, mit umfassender Expertise in den Bereichen Cloud, SAP und SaaS. q.beyond\r\nverfügt über Standorte in ganz Deutschland, eigene zertifizierte Rechenzentren und gehört zu den\r\nführenden IT-Dienstleistern.\n\n---\n\nAbout q.beyond AG\r\nq.beyond AG is the key to successful digitalisation. We help our customers find the best digital solutions\r\nfor their business and then put them into practice. Our strong team of 1,100 people accompanies SME\r\ncustomers securely and reliably throughout their digital journey. We are experts in Cloud, SAP and SaaS.\r\nWith nationwide locations and its own certified data centres, q.beyond is one of Germany’s leading IT\r\nservice providers.",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/qbeyond_20118a7756.svg",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "https://www.qbeyond.de/linkedin",
-			"address": "#VALUE!",
-			"city": "#VALUE!",
-			"postalCode": "#VALUE!"
+			"addressCalculation": "Brüsseler Straße 68, 50674 Köln",
+			"address": "Brüsseler Straße 68",
+			"city": "Köln",
+			"postalCode": "50674"
 		},
 		{
 			"__tabName": "Entity",
@@ -827,7 +882,15 @@
 			"sector": "Disruption",
 			"venueType": "brandhouse",
 			"name": "Opitz Consulting Brandhouse",
-			"addedToMapbox": "TRUE"
+			"addedToMapbox": "TRUE",
+			"headline": "",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Opitz_c4a8900e5a.svg",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Brüsseler Straße 74, 50672 Köln",
+			"address": "Brüsseler Straße 74",
+			"city": "Köln",
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -839,7 +902,15 @@
 			"sector": "Disruption",
 			"venueType": "brandhouse",
 			"name": "Dinfra Bronze-Hub",
-			"addedToMapbox": "TRUE"
+			"addedToMapbox": "TRUE",
+			"headline": "",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Dinfra_8ab1c0055b.svg",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Brüsseler Straße 74, 50672 Köln",
+			"address": "Brüsseler Straße 74",
+			"city": "Köln",
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -853,7 +924,7 @@
 			"name": "Lenovo Brandhouse",
 			"addedToMapbox": "FALSE",
 			"headline": "",
-			"logoURL": "Lenovo ist ein Fortune-Global-500-Unternehmen (Platz 159) mit einem Umsatz von 70 Milliarden USDollar, das 75.000 Mitarbeiter auf der ganzen Welt beschäftigt und Kunden in 180 Märkten auf der\r\nganzen Welt bedient. Mit der klaren Vision, intelligentere Technologie für alle zu liefern, hat Lenovo\r\nseinen Erfolg als weltweit führender PC-Anbieter durch die Expansion in neue Wachstumsbereiche wie\r\nInfrastruktur, Mobilgeräte, Lösungen und Dienstleistungen ausgebaut. Dieser Wandel in Verbindung mit\r\nden weltverändernden Innovationen von Lenovo schafft eine integrativere, vertrauenswürdige und\r\nnachhaltige digitale Gesellschaft für alle und überall.\n\n---\n\nLenovo is a US$70 billion revenue global technology powerhouse, ranked #159 in the Fortune Global\r\n500, employing 75,000 people around the world, and serving millions of customers every day in 180\r\nmarkets. Focused on a bold vision to deliver smarter technology for all, Lenovo has built on its success"
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Bullittt_ed1d5527a8.png"
 		},
 		{
 			"__tabName": "Entity",
@@ -865,7 +936,15 @@
 			"sector": "Interactive",
 			"venueType": "brandhouse",
 			"name": "T IoT Brandhouse",
-			"addedToMapbox": "TRUE"
+			"addedToMapbox": "TRUE",
+			"headline": "",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/IOT_6166395fd7.svg",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Friesenstraße 58-60, 50670 Köln",
+			"address": "Friesenstraße 58-60",
+			"city": "Köln",
+			"postalCode": "50670"
 		},
 		{
 			"__tabName": "Entity",
@@ -879,13 +958,13 @@
 			"name": "C4B Brandhouse",
 			"addedToMapbox": "TRUE",
 			"headline": "",
-			"logoURL": "XPhone Connect. Work from Anywhere. Die C4B Com For Business AG ist – mit mehr als einer Million installierter Lizenzen – einer der führenden Hersteller von CTI- und Unified Communications-Software. C4B entwickelt und vermarktet Kommunikationslösungen, die unter dem Markennamen XPhone in Unternehmen aller Größen und Branchen eingesetzt werden. Als herstellerunabhängige Lösung kann XPhone mit allen namhaften Telefonanlagen eingesetzt werden – auch im Mischbetrieb. Ob Office, Homeoffice oder irgendwo dazwischen: Dank Softphone, Mobile App und Web-Meeting spielt der Arbeitsort für die Arbeit keine Rolle mehr.\n\n---\n\nXPhone Connect. Work from Anywhere.\r\nWith more than a million installed licences, C4B is a market leader in CTI and Unified Communications\r\nsoftware. C4B develops and markets communications solutions under the XPhone brand for companies\r\nof all sizes in all industries. As a manufacturer-independent solution, XPhone can be used with almost\r\nall well-known telephone systems - even in mixed operation. Whether you are working from the office,\r\nfrom home or somewhere in between: Thanks to softphone, mobile app and web meeting, the place of\r\nwork is no longer of importance.",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/C4_B_4265ee6e33.svg",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "https://de.linkedin.com/company/c4b-com-for-business-ag",
-			"address": "#VALUE!",
-			"city": "#VALUE!",
-			"postalCode": "#VALUE!"
+			"addressCalculation": "Brüsseler Straße 74, 50672 Köln",
+			"address": "Brüsseler Straße 74",
+			"city": "Köln",
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -897,7 +976,15 @@
 			"sector": "Inspiration",
 			"venueType": "brandhouse",
 			"name": "Zoom Brandhouse",
-			"addedToMapbox": "TRUE"
+			"addedToMapbox": "TRUE",
+			"headline": "",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_zoom_logo_6302ce955c.svg",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Im Mediapark 5, 50670 Köln",
+			"address": "Im Mediapark 5",
+			"city": "Köln",
+			"postalCode": "50670"
 		},
 		{
 			"__tabName": "Entity",
@@ -909,7 +996,15 @@
 			"sector": "Inspiration",
 			"venueType": "brandhouse",
 			"name": "Netscout Bronze-Hub",
-			"addedToMapbox": "TRUE"
+			"addedToMapbox": "TRUE",
+			"headline": "",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Netscout_eef4baa552.svg",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Im Mediapark 5, 50670 Köln",
+			"address": "Im Mediapark 5",
+			"city": "Köln",
+			"postalCode": "50670"
 		},
 		{
 			"__tabName": "Entity",
@@ -923,13 +1018,13 @@
 			"name": "Lancom Brandhouse",
 			"addedToMapbox": "TRUE",
 			"headline": "",
-			"logoURL": "Die LANCOM Systems GmbH ist führender europäischer Hersteller von Netzwerk- und Security\u0002Lösungen für Wirtschaft und Verwaltung. Das Portfolio umfasst Hardware (WAN, LAN, WLAN, Firewalls),\nvirtuelle Netzwerkkomponenten und Cloud-basierendes Software-defined Networking (SDN).\nSoft- und Hardware-Entwicklung sowie Fertigung finden hauptsächlich in Deutschland statt, ebenso wie\ndas Hosting des Netzwerk-Managements. Besonderes Augenmerk gilt der Vertrauenswürdigkeit und\nSicherheit. Das Unternehmen hat sich der Backdoor-Freiheit seiner Produkte verpflichtet und ist Träger\ndes vom Bundeswirtschaftsministerium initiierten Vertrauenszeichens „IT-Security Made in Germany\".\nLANCOM wurde 2002 gegründet und hat seinen Hauptsitz in Würselen bei Aachen. Zu den Kunden\nzählen KMU, Behörden, Institutionen und Großkonzerne aus aller Welt. Seit Sommer 2018 ist das\nUnternehmen eigenständige Tochtergesellschaft des Münchner Technologiekonzerns Rohde & Schwarz.",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_lancom_logo_c9685dfc4c.svg",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "https://www.linkedin.com/company/lancom-systems-gmbh",
-			"address": "#VALUE!",
-			"city": "#VALUE!",
-			"postalCode": "#VALUE!"
+			"addressCalculation": "Friesenplatz 15, 50672 Köln",
+			"address": "Friesenplatz 15",
+			"city": "Köln",
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -943,13 +1038,13 @@
 			"name": "NFON Brandhouse",
 			"addedToMapbox": "TRUE",
 			"headline": "",
-			"logoURL": "NFON - Strategischer Partner der Deutschen Telekom im Bereich MagentaBusiness Collaboration,\r\nMade in Germany und der einzige europaweite Anbieter einer Cloud-Kommunikations-Plattform\r\nMit der UCC Cloud Lösung von NFON können Sie Ihr Unternehmen zukunftssicher machen und Ihre\r\nBusinesskommunikation revolutionieren. Wir zählen mehr als 50.000 Unternehmen in 15 europäischen\r\nLändern zu unseren Kunden. Wir bei NFON glauben, dass sich Kommunikation so natürlich wie möglich\r\nanfühlen sollte. Deshalb ist es unser Ziel, Ihre Business Kommunikation mit intuitiven Lösungen zu\r\nvereinfachen.\r\nGemeinsam mit unserem strategischen Partner Deutsche Telekom stellen wir unsere CloudKommunikations-Plattform vor: NFON X powered by Telekom\r\nMehr Power mit „New Work“ für Ihre Unternehmen – besuchen Sie uns im hommage Cafe, Friesenstraße\r\n73.\n\n---\n\nNFON - Strategic partner of Deutsche Telekom in MagentaBusiness Collaboration, Made in Germany and\r\nthe only Pan-European provider of a Cloud Communications Platform.\r\nWith NFON's UCC Cloud solution, you can future-proof your business and revolutionise your business\r\ncommunications. We count more than 50,000 companies in 15 European countries among our\r\ncustomers. At NFON, we believe that communication should feel as natural as possible. That's why our\r\ngoal is to simplify your business communication with intuitive solutions.\r\nTogether with our strategic partner Deutsche Telekom, we are introducing our cloud communications\r\nplatform: NFON X powered by Telekom\r\nBoost your business with \"New Work\" - visit us at hommage Cafe, Friesenstraße 73.",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_nfon_logo_ae5e077e77.svg",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "https://www.linkedin.com/company/nfon",
-			"address": "#VALUE!",
-			"city": "#VALUE!",
-			"postalCode": "#VALUE!"
+			"addressCalculation": "Friesenstraße  73, 50670 Köln",
+			"address": "Friesenstraße  73",
+			"city": "Köln",
+			"postalCode": "50670"
 		},
 		{
 			"__tabName": "Entity",
@@ -963,13 +1058,13 @@
 			"name": "Byon Bronze-Hub",
 			"addedToMapbox": "TRUE",
 			"headline": "",
-			"logoURL": "Zukunftsfähige IT und UC Lösungen für Unternehmen Wir von byon begleiten Unternehmen bei Digitalisierungsprozessen in Bezug auf Collaboration und Netzwerkinfrastruktur. Die Basis für alle Unternehmensprozesse und die dazugehörige Software bildet ein sicheres, flexibles Datennetz. Hier bieten wir als Managed Service Provider das Overlay im SD-WAN Bereich – kombinierbar mit dem Underlay führender Netzbetreiber wie der Telekom. Kommunikation über Kollaborations-Plattformen fördern wir ebenfalls durch Produkte wie eine Lösung für die externe Telefonie über Microsoft Teams. Kurz gesagt, wir denken Kundenprojekte von der Datenleitung, über das Management und die Security bis hin zur Kommunikation mit dem Kunden und im Team.\n\n---\n\nFuture-proof IT and UC solutions for companies\nWe at byon support companies in their digitalisation processes with regard to collaboration and network\ninfrastructure. The basis for all business processes and the associated software is a secure, flexible\ndata network. Here, as a managed service provider, we offer the overlay in the SD-WAN area -\ncombinable with the underlay of leading network operators such as Telekom. We also promote\ncommunication via collaboration platforms with products such as a solution for external telephony via\nMicrosoft Teams. In short, we think about customer projects from the data line, through management\nand security, to communication with the customer and in the team.\n",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/small_byon_logo_5940533155.png",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "https://www.linkedin.com/company/byon-gmbh",
-			"address": "#VALUE!",
-			"city": "#VALUE!",
-			"postalCode": "#VALUE!"
+			"addressCalculation": "Brüsseler Straße 74, 50672 Köln",
+			"address": "Brüsseler Straße 74",
+			"city": "Köln",
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -981,7 +1076,15 @@
 			"sector": "Inspiration",
 			"venueType": "brandhouse",
 			"name": "Microsoft Brandhouse",
-			"addedToMapbox": "TRUE"
+			"addedToMapbox": "TRUE",
+			"headline": "",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/microsoft_7b9a67cb55.png",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Im Mediapark, 50670 Köln",
+			"address": "Im Mediapark",
+			"city": "Köln",
+			"postalCode": "50670"
 		},
 		{
 			"__tabName": "Entity",
@@ -995,13 +1098,13 @@
 			"name": "Enreach Brandhouse",
 			"addedToMapbox": "TRUE",
 			"headline": "",
-			"logoURL": "Enreach ist die europäische Marke, die Menschen miteinander in Kontakt bringt. Wir bieten Unternehmen\nintelligente Lösungen rund um die Digitalisierung von Kommunikation und Zusammenarbeit – von\nUnified Communications und Collaboration über Cloud Contact Center bis hin zu KI-basierten Chat- und\nVoicebots, aus der Cloud als Inhouse-Installation oder im Rahmen von hybriden Modellen. Enreach ist in\nüber 25 Ländern aktiv und beschäftigt mehr als 1.100 Mitarbeiter an 24 verschiedenen Standorten in\nEuropa. Unser Produkt- und Lösungsportfolio kombiniert benutzerfreundliche Software mit flexiblen\nBezugsmodellen und passenden Connectivity-Services. Wir ermöglichen Unternehmen ihre Prozesse zu\nverbessern, damit sich ihre Mitarbeiter auf das konzentrieren können, was wirklich wichtig ist. Unseren\nPartnern bieten wir vielfältige Möglichkeiten, um ihr Geschäft anzukurbeln, Wachstumschancen zu\nerschließen und noch erfolgreicher zu werden.\n\n---\n\nEnreach is the European brand that brings people together. We offer companies intelligent solutions around the digitalisation of communication and collaboration - from unified communications and collaboration to cloud contact centre solutions and AI-based chat and voicebots, from the cloud as an in-house installation or as part of hybrid models. Enreach operates in over 25 countries and employs 1,100 people in 24 different locations across Europe.\nOur portfolio of products and solutions combines easy-to-use software with flexible delivery models and connectivity services. We enable companies to improve their processes so that their employees can focus on what really matters. We offer our partners a wide range of opportunities to boost their business, unlock growth opportunities and become even more successful.\nEnreach was formed in 2018 from the merger of Swyx with Voiceworks of the Netherlands and Centile Telecom Applications (renamed Enreach for Service Providers) of France. Since then, the group has driven a dynamic buy-and-build strategy.\nEnreach develops communication solutions specifically tailored for small to medium sized companies. Swyx is one of these solutions, bringing together the complete communication needs of a company, in a single user interface. The classic telephone system is now redundant - all required communication functions run over your existing IP network, which offers all the advantages of integrated, unified communications (UC) in addition to traditional telephone services. This software approach and the easy expandability of Swyx means that users are prepared for today, but also for the future.",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_enreach_logo_284b34d996.svg",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "https://linkedin.com/company/enreachde",
-			"address": "#VALUE!",
-			"city": "#VALUE!",
-			"postalCode": "#VALUE!"
+			"addressCalculation": "Friesenstraße 62, 50670 Köln",
+			"address": "Friesenstraße 62",
+			"city": "Köln",
+			"postalCode": "50670"
 		},
 		{
 			"__tabName": "Entity",
@@ -1013,7 +1116,15 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"name": "JAMF Brandhouse",
-			"addedToMapbox": "TRUE"
+			"addedToMapbox": "TRUE",
+			"headline": "",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/JAMF_1c9dcbe6fc.svg",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 19, 50672 Köln",
+			"address": "Venloer Straße 19",
+			"city": "Köln",
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -1025,7 +1136,15 @@
 			"sector": "Disruption",
 			"venueType": "brandhouse",
 			"name": "Congstar Brandhouse",
-			"addedToMapbox": "TRUE"
+			"addedToMapbox": "TRUE",
+			"headline": "",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/congstar_9178caed7f.png",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Brüsseler Straße 47, 50674 Köln",
+			"address": "Brüsseler Straße 47",
+			"city": "Köln",
+			"postalCode": "50674"
 		},
 		{
 			"__tabName": "Entity",
@@ -1037,7 +1156,15 @@
 			"sector": "Inspiration",
 			"venueType": "brandhouse",
 			"name": "Aruba Brandhouse",
-			"addedToMapbox": "TRUE"
+			"addedToMapbox": "TRUE",
+			"headline": "",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_hpe_aruba_logo_9dde9bd05f.svg",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Im Mediapark 8, 50670 Köln",
+			"address": "Im Mediapark 8",
+			"city": "Köln",
+			"postalCode": "50670"
 		},
 		{
 			"__tabName": "Entity",
@@ -1049,7 +1176,15 @@
 			"sector": "Inspiration",
 			"venueType": "brandhouse",
 			"name": "Aryaka Bronze-Hub",
-			"addedToMapbox": "TRUE"
+			"addedToMapbox": "TRUE",
+			"headline": "",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_aryaka_logo_bbcb338b2f.svg",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Im Mediapark 5, 50670 Köln",
+			"address": "Im Mediapark 5",
+			"city": "Köln",
+			"postalCode": "50670"
 		},
 		{
 			"__tabName": "Entity",
@@ -1061,7 +1196,15 @@
 			"sector": "Disruption",
 			"venueType": "brandhouse",
 			"name": "Bintec (IoT) Bronze-Hub",
-			"addedToMapbox": "TRUE"
+			"addedToMapbox": "TRUE",
+			"headline": "",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_bintec_logo_9d5aacc361.svg",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Brüsseler Straße 74, 50672 Köln",
+			"address": "Brüsseler Straße 74",
+			"city": "Köln",
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -1073,7 +1216,15 @@
 			"sector": "Inspiration",
 			"venueType": "brandhouse",
 			"name": "Juniper Bronze-Hub",
-			"addedToMapbox": "TRUE"
+			"addedToMapbox": "TRUE",
+			"headline": "",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Juniper_68a0d1c2c3.svg",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Im Mediapark 5, 50670 Köln",
+			"address": "Im Mediapark 5",
+			"city": "Köln",
+			"postalCode": "50670"
 		},
 		{
 			"__tabName": "Entity",
@@ -1085,7 +1236,15 @@
 			"sector": "Inspiration",
 			"venueType": "brandhouse",
 			"name": "Stellaneo Bronze-Hub",
-			"addedToMapbox": "TRUE"
+			"addedToMapbox": "TRUE",
+			"headline": "",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/stellaneot_c31b7fd7c7.png",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Im Mediapark 5, 50670 Köln",
+			"address": "Im Mediapark 5",
+			"city": "Köln",
+			"postalCode": "50670"
 		},
 		{
 			"__tabName": "Entity",
@@ -1097,7 +1256,15 @@
 			"sector": "Inspiration",
 			"venueType": "brandhouse",
 			"name": "Bintec Bronze-Hub",
-			"addedToMapbox": "TRUE"
+			"addedToMapbox": "TRUE",
+			"headline": "",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_bintec_logo_9d5aacc361.svg",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Im Mediapark 5, 50670 Köln",
+			"address": "Im Mediapark 5",
+			"city": "Köln",
+			"postalCode": "50670"
 		},
 		{
 			"__tabName": "Entity",
@@ -1111,13 +1278,13 @@
 			"name": "Smenso Bronze-Hub",
 			"addedToMapbox": "TRUE",
 			"headline": "",
-			"logoURL": "smenso ist eine Projektmanagement Software &\r\nWork Management Plattform für Teams und Unternehmen.\r\nGemacht für alle, die gemeinsam an Projekten arbeiten\r\nund die mehr im Projektmanagement erreichen wollen.\n\n---\n\nsmenso is a project management software & work\r\nwork management platform for teams and companies.\r\nMade for all those who work together on projects\r\nand who want to achieve more in project management.",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/smenso_72687aff8f.svg",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "https://www.linkedin.com/company/smart-enterprise-solutions-gmbh/",
-			"address": "#VALUE!",
-			"city": "#VALUE!",
-			"postalCode": "#VALUE!"
+			"addressCalculation": "Brüsseler Straße 74, 50672 Köln",
+			"address": "Brüsseler Straße 74",
+			"city": "Köln",
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -1129,7 +1296,15 @@
 			"sector": "Disruption",
 			"venueType": "brandhouse",
 			"name": "BVMW Brandhouse",
-			"addedToMapbox": "TRUE"
+			"addedToMapbox": "TRUE",
+			"headline": "",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/small_BVMW_bg_white_22_73b72acb23.png",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Aachener Straße 30, 50672 Köln",
+			"address": "Aachener Straße 30",
+			"city": "Köln",
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -1141,7 +1316,15 @@
 			"sector": "Disruption",
 			"venueType": "brandhouse",
 			"name": "DELL Brandhouse",
-			"addedToMapbox": "TRUE"
+			"addedToMapbox": "TRUE",
+			"headline": "",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Dell_164f2f0378.svg",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Brüsseler Straße 70, 50674 Köln",
+			"address": "Brüsseler Straße 70",
+			"city": "Köln",
+			"postalCode": "50674"
 		},
 		{
 			"__tabName": "Entity",
@@ -1153,7 +1336,15 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"name": "Global Carrier Brandhouse",
-			"addedToMapbox": "TRUE"
+			"addedToMapbox": "TRUE",
+			"headline": "",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_dt_global_carrier_logo_7dcf7489de.png",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Spichernstraße 10, 50672 Köln",
+			"address": "Spichernstraße 10",
+			"city": "Köln",
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -1167,13 +1358,13 @@
 			"name": "Google Cloud Brandhouse",
 			"addedToMapbox": "TRUE",
 			"headline": "",
-			"logoURL": "Google Cloud unterstützt Unternehmen dabei, ihre digitale Transformation zu beschleunigen. Unsere\r\nKunden erhalten Lösungen, die auf Googles Spitzentechnologie aufbauen – und das aus einer der\r\nnachhaltigsten Clouds der Branche. Weltweit steht Google Cloud in mehr als 200 Ländern seinen\r\nKunden als verlässlicher und vertrauenswürdiger Partner zur Seite, um ihr Wachstum voran zu bringen\r\nund ihnen bei der Lösung geschäftskritischer Probleme zu helfen.\n\n---\n\nGoogle Cloud accelerates every organization’s ability to digitally transform its business. We deliver\r\nenterprise-grade solutions that leverage Google’s cutting-edge technology – all on the cleanest cloud in\r\nthe industry. Customers in more than 200 countries and territories turn to Google Cloud as their trusted\r\npartner to enable growth and solve their most critical business problems.",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Google_105667684a.svg",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "https://www.linkedin.com/showcase/google-cloud/",
-			"address": "#VALUE!",
-			"city": "#VALUE!",
-			"postalCode": "#VALUE!"
+			"addressCalculation": "Im Mediapark, 50670 Köln",
+			"address": "Im Mediapark",
+			"city": "Köln",
+			"postalCode": "50670"
 		},
 		{
 			"__tabName": "Entity",
@@ -1185,7 +1376,15 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"name": "Huawei Brandhouse",
-			"addedToMapbox": "TRUE"
+			"addedToMapbox": "TRUE",
+			"headline": "",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Huawei_6d04e74c2e.svg",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Spichernstraße 8, 50672 Köln",
+			"address": "Spichernstraße 8",
+			"city": "Köln",
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -1209,7 +1408,15 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"name": "Medialine Brandhouse",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"headline": "",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_medialine_logo_525eef97c6.svg",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Bismarckstraße 44, 50672 Köln",
+			"address": "Bismarckstraße 44",
+			"city": "Köln",
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -1221,7 +1428,9 @@
 			"sector": "Inspiration",
 			"venueType": "brandhouse",
 			"name": "Klitschko Ventures Brandhouse",
-			"addedToMapbox": "TRUE"
+			"addedToMapbox": "TRUE",
+			"headline": "",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/poly_f1fa0a95c3.svg"
 		},
 		{
 			"__tabName": "Entity",
@@ -1233,7 +1442,15 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"name": "Salesforce Brandhouse",
-			"addedToMapbox": "TRUE"
+			"addedToMapbox": "TRUE",
+			"headline": "",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Salesforce_b9c761b0ac.svg",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Antwerpener Str. 38, 50672 Köln ",
+			"address": "Antwerpener Str. 38",
+			"city": "Köln ",
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -1245,7 +1462,15 @@
 			"sector": "Inspiration",
 			"venueType": "brandhouse",
 			"name": "vm ware Brandhouse",
-			"addedToMapbox": "TRUE"
+			"addedToMapbox": "TRUE",
+			"headline": "",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/vmware_9006b6ef99.svg",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Im Mediapark 5, 50670 Köln",
+			"address": "Im Mediapark 5",
+			"city": "Köln",
+			"postalCode": "50670"
 		},
 		{
 			"__tabName": "Entity",
@@ -1257,7 +1482,15 @@
 			"sector": "Interactive",
 			"venueType": "brandhouse",
 			"name": "Xiaomi Brandhouse",
-			"addedToMapbox": "TRUE"
+			"addedToMapbox": "TRUE",
+			"headline": "",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_xiaomi_logo_ce25136073.svg",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Friesenwall 124, 50672 Köln",
+			"address": "Friesenwall 124",
+			"city": "Köln",
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -1271,7 +1504,13 @@
 			"name": "Bullitt Brandhouse",
 			"addedToMapbox": "TRUE",
 			"headline": "",
-			"logoURL": "Die Bullitt Group ist ein Vorreiter in Bereich der robusten Mobilgeräte mit mehr als einem Jahrzehnt\r\nErfahrung in robuster Technologie. Seit ihrer Gründung im Jahr 2009 war die Bullitt Group mit ihren\r\nInnovationen durchgängig Markführer und hat für ihre robusten Mobilgeräte internationale\r\nAuszeichnungen erhalten. Bullitt entwirft und stellt Millionen Mobiltelefone her und vertreibt diese in\r\nmehr als 70 Ländern weltweit.\r\nBullitt ist weltweiter Lizenznehmer für Cat (Caterpillar Inc.), Land Rover und Motorola für Mobilgeräte\r\nund Zubehör. Das Portfolio der Bullitt Group wird ständig weiterentwickelt, durch Verbraucherforschung\r\nund neue Entwicklungen im robusten Bereich. Dabei nutzt Bullitt seine große Expertise, um die\r\nMobiltechnologie für die Anforderungen extremer Arbeitsbedingungen und des alltäglichen Lebens\r\nwiderstandsfähiger zu machen.\r\nDer Hauptsitz der Bullitt Group befindet sich in Reading, England.\n\n---\n\nBullitt Group is a pioneer in rugged mobile devices with more than a decade of experience in rugged\r\ntechnology. Since its founding in 2009, Bullitt Group has consistently led the market with its innovations\r\nand won international awards for its rugged mobile devices. Bullitt designs and manufactures millions\r\nof smartphones and distributes them in more than 70 countries worldwide.\r\nBullitt is a worldwide licensee for Cat (Caterpillar Inc.), Land Rover and Motorola for mobile devices and\r\naccessories. Bullitt Group's portfolio is constantly evolving, through consumer research and new\r\ndevelopments in the rugged field. In doing so, Bullitt leverages its vast expertise to make mobile\r\ntechnology more resilient to the demands of extreme working conditions and everyday life.\r\nBullitt Group is headquartered in Reading, England."
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Bullittt_ed1d5527a8.png",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Im Klapperhof 22-24, 50670 Köln",
+			"address": "Im Klapperhof 22-24",
+			"city": "Köln",
+			"postalCode": "50670"
 		},
 		{
 			"__tabName": "Entity",
@@ -1283,7 +1522,12 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"name": "",
-			"addedToMapbox": "TRUE"
+			"addedToMapbox": "TRUE",
+			"headline": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"__tabName": "Entity",
@@ -1295,7 +1539,12 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"name": "",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"headline": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"__tabName": "Entity",
@@ -1307,7 +1556,12 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"name": "",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"headline": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"__tabName": "Entity",
@@ -1319,7 +1573,12 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"name": "",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"headline": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"__tabName": "Entity",
@@ -1331,7 +1590,12 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"name": "",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"headline": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"__tabName": "Entity",
@@ -1343,7 +1607,12 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"name": "",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"headline": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"__tabName": "Entity",
@@ -1355,7 +1624,12 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"name": "",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"headline": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"__tabName": "Entity",
@@ -1367,7 +1641,12 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"name": "",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"headline": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"__tabName": "Entity",
@@ -1379,7 +1658,12 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"name": "",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"headline": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"__tabName": "Entity",
@@ -1391,7 +1675,12 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"name": "",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"headline": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"__tabName": "Entity",
@@ -1403,7 +1692,12 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"name": "",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"headline": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"__tabName": "Entity",
@@ -1415,7 +1709,12 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"name": "",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"headline": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"__tabName": "Entity",
@@ -1427,7 +1726,12 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"name": "",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"headline": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"__tabName": "Entity",
@@ -1439,7 +1743,12 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"name": "",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"headline": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"__tabName": "Entity",
@@ -1453,10 +1762,10 @@
 			"name": "",
 			"addedToMapbox": "FALSE",
 			"headline": "",
-			"logoURL": "Kauz entwickelt Chatbots auf linguistischer Basis. Mit der hochwertigen NLU-Engine und der einzigartigen Chat-&-Search Technologie von Kauz gelingt es, Kunden und Mitarbeitern einen besseren und jederzeit erreichbaren Service zu bieten. Über 150 Kauz-Chatbots im Einsatz beantworten schon heute mehr als 20.000 Fragen pro Tag.\n\n---\n\nKauz develops linguistic based Chatbots. With their high-quality NLU-Engine and unique Chat-&-Search Technology, Kauz improves the service qualitiy and provides constant availability for customers and employees. Over 150 Kauz-Chatbots already answer more than 20.000 requests per day.",
+			"logoURL": "",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "https://www.linkedin.com/company/kauz-gmbh"
+			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"__tabName": "Entity",
@@ -1468,7 +1777,12 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"name": "",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"headline": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"__tabName": "Entity",
@@ -1480,7 +1794,12 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"name": "",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"headline": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"__tabName": "Entity",
@@ -1492,7 +1811,12 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"name": "",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"headline": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"__tabName": "Entity",
@@ -1504,7 +1828,12 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"name": "",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"headline": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"__tabName": "Entity",
@@ -1516,7 +1845,12 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"name": "",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"headline": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"__tabName": "Entity",
@@ -1528,7 +1862,12 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"name": "",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"headline": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"__tabName": "Entity",
@@ -1542,10 +1881,10 @@
 			"name": "",
 			"addedToMapbox": "FALSE",
 			"headline": "",
-			"logoURL": "MONDAY.ROCKS unterstützt Führungskräfte bei der Teamführung und löst gemessene Herausforderungen in Teams mit dem Wissen aus der größten Team-Datenbank. Die Software für Teamführung ermöglicht es Führungskräften, auf die Erfahrungen von über 1000 Teams zurückzugreifen. \n\nMit App-basierten Analysen werden die Zusammensetzung und Zusammenarbeit von Teams analysiert und die zentralen Herausforderungen pro Team über 16 Faktoren gemessen. Auf dieser Basis erhalten Führungskräfte laufend passende Führungsvorschläge, die bereits ähnlichen Teams in der gleichen Herausforderung geholfen haben. \n\nMit MONDAY.ROCKS gelingt zeitgemäße Führung, die Unternehmen erfolgreich durch die Veränderung und in die neue Arbeitswelt steuert. \n\n---\n\nMONDAY.ROCKS supports leaders in team leadership and solves measured challenges in teams with knowledge from the largest team database. The team leadership software enables leaders to benefit from the experience of over 1000 teams.  \r\n\r\nApp-based analyses are used to analyse the composition and collaboration of teams and to measure the key challenges per team via 16 factors. On this basis, managers continuously receive suitable leadership suggestions that helped similar teams in the same challenges.  \r\n\r\nWith MONDAY.ROCKS, modern leadership is achieved that successfully guides companies through change and into the new world of work. ",
+			"logoURL": "",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "https://www.linkedin.com/company/monday-rocks/"
+			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"__tabName": "Entity",
@@ -1557,7 +1896,12 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"name": "",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"headline": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"__tabName": "Entity",
@@ -1569,7 +1913,12 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"name": "",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"headline": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"__tabName": "Entity",
@@ -1581,7 +1930,12 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"name": "",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"headline": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"__tabName": "Entity",
@@ -1593,7 +1947,12 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"name": "",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"headline": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"__tabName": "Entity",
@@ -1607,10 +1966,10 @@
 			"name": "",
 			"addedToMapbox": "FALSE",
 			"headline": "",
-			"logoURL": "Wir sind ein Team von Entwicklern und Sprachdesignern, das es sich zur Aufgabe gemacht hat die Einfachheit der Sprachsteuerung in die Geschäftswelt zu bringen.\r\nWir unterstützen Unternehmen, die von der Geschwindigkeit und Einfachheit KI-basierter Kommunikation auf B2B oder B2C Ebene profitieren wollen, durch Consulting, Design, Entwicklung und Optimierung von Sprachassistenten jeglicher Art. Wir entwickeln auf gängigen Systemen, sowie on-premise-Lösungen und bieten auch individuelle Hard- und Software an. Wir sind spezialisiert auf Sprachanbindungen an bestehende Systeme, den digitalen Kundenservice und Voice Commerce.\n\n---\n\nONSEI GmbH, based in Berlin, is specialized in the development and implementation of business-oriented voice assistants. We are a team of developers and voice designers who have made it our mission to bring the simplicity of voice control into the business world.\r\nWe support companies that want to benefit from the speed and ease of use of AI based communication on B2B or B2C level through consulting, design, development and optimization of all kinds of language assistants. We develop on common systems, as well as on-premise solutions and offer individual Hard- and Software. We are specialized in voice connections to existing systems, digital customer service and voice commerce.",
+			"logoURL": "",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "linkedin.com/company/onsei-gmbh"
+			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"__tabName": "Entity",
@@ -1622,7 +1981,12 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"name": "",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"headline": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"__tabName": "Entity",
@@ -1634,7 +1998,12 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"name": "",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"headline": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"__tabName": "Entity",
@@ -1646,7 +2015,12 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"name": "",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"headline": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"__tabName": "Entity",
@@ -1658,7 +2032,12 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"name": "",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"headline": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"__tabName": "Entity",
@@ -1670,7 +2049,12 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"name": "",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"headline": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"__tabName": "Entity",
@@ -1682,7 +2066,12 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"name": "",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"headline": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"__tabName": "Entity",
@@ -1694,7 +2083,12 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"name": "",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"headline": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"__tabName": "Entity",
@@ -1706,7 +2100,12 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"name": "",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"headline": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"__tabName": "Entity",
@@ -1718,7 +2117,12 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"name": "",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"headline": "",
+			"logoURL": "www.spacific.de",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"__tabName": "Entity",
@@ -1730,7 +2134,12 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"name": "",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"headline": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"__tabName": "Entity",
@@ -1742,7 +2151,12 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"name": "",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"headline": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"__tabName": "Entity",
@@ -1754,7 +2168,12 @@
 			"sector": "Future",
 			"venueType": "",
 			"name": "",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"headline": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"__tabName": "Entity",
@@ -1766,7 +2185,12 @@
 			"sector": "Future",
 			"venueType": "",
 			"name": "",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"headline": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"__tabName": "Entity",
@@ -1778,7 +2202,12 @@
 			"sector": "Future",
 			"venueType": "",
 			"name": "",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"headline": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln"
 		},
 		{
 			"__tabName": "Entity",
