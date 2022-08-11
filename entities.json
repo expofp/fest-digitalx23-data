@@ -703,7 +703,7 @@
 			"parent": "",
 			"route1": "",
 			"route2": "",
-			"trend": "",
+			"trend": "#VALUE!",
 			"sector": "Inspiration",
 			"venueType": "brandhouse",
 			"name": "Samsung",
