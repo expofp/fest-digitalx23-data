@@ -3734,7 +3734,7 @@
 			"sector": "Disruption",
 			"venueType": "disruption",
 			"name": "Volksbühne ",
-			"addedToMapbox": "FALSE",
+			"addedToMapbox": "TRUE",
 			"headline": "Disruption stage",
 			"logoURL": "",
 			"website": "",
