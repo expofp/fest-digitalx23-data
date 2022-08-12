@@ -1035,12 +1035,18 @@
 			"route1": "",
 			"route2": "",
 			"trend": "",
-			"sector": "",
+			"sector": "Interactive",
 			"venueType": "brandhouse",
 			"name": "Lenovo",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Bullittt_ed1d5527a8.png"
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Bullittt_ed1d5527a8.png",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Friesenwall 130, 50672 Köln",
+			"address": "Friesenwall 130",
+			"city": "Köln",
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -1121,8 +1127,8 @@
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Netscout_eef4baa552.svg",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "Im Mediapark 5, 50670 Köln",
-			"address": "Im Mediapark 5",
+			"addressCalculation": "Im Mediapark 6, 50670 Köln",
+			"address": "Im Mediapark 6",
 			"city": "Köln",
 			"postalCode": "50670"
 		},
