@@ -810,7 +810,7 @@
 			"route1": "bus_route_1",
 			"route2": "",
 			"trend": "future_of_work",
-			"sector": "Inspiration",
+			"sector": "Future",
 			"venueType": "brandhouse",
 			"name": "Cisco",
 			"addedToMapbox": "TRUE",
@@ -818,10 +818,10 @@
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_cisco_logo_22_v2_2be6ebf0f8.svg",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "Im Mediapark 1, 50670 Köln",
-			"address": "Im Mediapark 1",
-			"city": "Köln",
-			"postalCode": "50670"
+			"addressCalculation": "Sichernstraße ",
+			"address": "#VALUE!",
+			"city": "#VALUE!",
+			"postalCode": "#VALUE!"
 		},
 		{
 			"__tabName": "Entity",
@@ -2535,10 +2535,10 @@
 			"logoURL": "",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "Aachener Straße 24-26, 50674 Köln",
-			"address": "Aachener Straße 24-26",
-			"city": "Köln",
-			"postalCode": "50674"
+			"addressCalculation": "Linked Tets",
+			"address": "#VALUE!",
+			"city": "#VALUE!",
+			"postalCode": "#VALUE!"
 		},
 		{
 			"__tabName": "Entity",
@@ -2552,14 +2552,7 @@
 			"venueType": "brandhouse-t",
 			"name": "Direkter Vertrieb & \nService Geschäftskunden",
 			"addedToMapbox": "TRUE",
-			"subtitle": "Barber Shop Cologne",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Brüsseler Str. 90, 50672 Köln",
-			"address": "Brüsseler Str. 90",
-			"city": "Köln",
-			"postalCode": "50672"
+			"subtitle": "Barber Shop Cologne"
 		},
 		{
 			"__tabName": "Entity",
@@ -2573,14 +2566,7 @@
 			"venueType": "brandhouse-t",
 			"name": "PUBLIC / Telekom",
 			"addedToMapbox": "TRUE",
-			"subtitle": "Caveedel",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Brüsseler Str. 69, 50672 Köln",
-			"address": "Brüsseler Str. 69",
-			"city": "Köln",
-			"postalCode": "50672"
+			"subtitle": "Caveedel"
 		},
 		{
 			"__tabName": "Entity",
@@ -2594,14 +2580,7 @@
 			"venueType": "brandhouse-t",
 			"name": "Segmenthaus KMU",
 			"addedToMapbox": "TRUE",
-			"subtitle": "Herr Pimock",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Aachener Straße 52, 50674 Köln",
-			"address": "Aachener Straße 52",
-			"city": "Köln",
-			"postalCode": "50674"
+			"subtitle": "Herr Pimock"
 		},
 		{
 			"__tabName": "Entity",
@@ -2615,14 +2594,7 @@
 			"venueType": "brandhouse-t",
 			"name": "Segmenthaus L",
 			"addedToMapbox": "TRUE",
-			"subtitle": "Piccola",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloerstr 29, 50672 Köln",
-			"address": "Venloerstr 29",
-			"city": "Köln",
-			"postalCode": "50672"
+			"subtitle": "Piccola"
 		},
 		{
 			"__tabName": "Entity",
@@ -2636,14 +2608,7 @@
 			"venueType": "brandhouse-t",
 			"name": "Segmenthaus M",
 			"addedToMapbox": "TRUE",
-			"subtitle": "Kastanie",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Friesenplatz 11, 50672 Köln",
-			"address": "Friesenplatz 11",
-			"city": "Köln",
-			"postalCode": "50672"
+			"subtitle": "Kastanie"
 		},
 		{
 			"__tabName": "Entity",
@@ -2657,14 +2622,7 @@
 			"venueType": "brandhouse-t",
 			"name": "Segmenthaus Partnervertrieb",
 			"addedToMapbox": "TRUE",
-			"subtitle": "Supa Salad ",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Friesenwall 81, 50672 Köln",
-			"address": "Friesenwall 81",
-			"city": "Köln",
-			"postalCode": "50672"
+			"subtitle": "Supa Salad "
 		},
 		{
 			"__tabName": "Entity",
@@ -2678,14 +2636,7 @@
 			"venueType": "brandhouse-t",
 			"name": "Segmenthaus Telekom - XL",
 			"addedToMapbox": "TRUE",
-			"subtitle": "Café 7ieben",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Im Mediapark 7, 50670 Köln",
-			"address": "Im Mediapark 7",
-			"city": "Köln",
-			"postalCode": "50670"
+			"subtitle": "Café 7ieben"
 		},
 		{
 			"__tabName": "Entity",
@@ -2699,14 +2650,7 @@
 			"venueType": "brandhouse-t",
 			"name": "Telekom - Digitale Bildung",
 			"addedToMapbox": "TRUE",
-			"subtitle": "Halle 46",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Aachener Straße 46, 50674 Köln",
-			"address": "Aachener Straße 46",
-			"city": "Köln",
-			"postalCode": "50674"
+			"subtitle": "Halle 46"
 		},
 		{
 			"__tabName": "Entity",
@@ -2720,14 +2664,7 @@
 			"venueType": "brandhouse-t",
 			"name": "Telekom",
 			"addedToMapbox": "TRUE",
-			"subtitle": "GlowBarre Ballett",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Aachener Straße 27, 50674 Köln",
-			"address": "Aachener Straße 27",
-			"city": "Köln",
-			"postalCode": "50674"
+			"subtitle": "GlowBarre Ballett"
 		},
 		{
 			"__tabName": "Entity",
@@ -2741,14 +2678,7 @@
 			"venueType": "brandhouse-t",
 			"name": "Telekom - Haus des Netzwerks",
 			"addedToMapbox": "TRUE",
-			"subtitle": "25h Hotel",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Im Klapperhof 22-24, 50670 Köln",
-			"address": "Im Klapperhof 22-24",
-			"city": "Köln",
-			"postalCode": "50670"
+			"subtitle": "25h Hotel"
 		},
 		{
 			"__tabName": "Entity",
@@ -2762,14 +2692,7 @@
 			"venueType": "brandhouse-t",
 			"name": "Telekom - International",
 			"addedToMapbox": "TRUE",
-			"subtitle": "ZEN",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Aachener Straße 20, 50674 Köln",
-			"address": "Aachener Straße 20",
-			"city": "Köln",
-			"postalCode": "50674"
+			"subtitle": "ZEN"
 		},
 		{
 			"__tabName": "Entity",
@@ -2783,14 +2706,7 @@
 			"venueType": "brandhouse-t",
 			"name": "Telekom - Magenta TV",
 			"addedToMapbox": "TRUE",
-			"subtitle": "Hallmackenreuther",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Brüsseler Platz 09, 50674 Köln",
-			"address": "Brüsseler Platz 09",
-			"city": "Köln",
-			"postalCode": "50674"
+			"subtitle": "Hallmackenreuther"
 		},
 		{
 			"__tabName": "Entity",
@@ -2804,14 +2720,7 @@
 			"venueType": "brandhouse-t",
 			"name": "Telekom - Sales & Service",
 			"addedToMapbox": "TRUE",
-			"subtitle": "Brownies",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Hohenzollernring 29, 50672 Köln",
-			"address": "Hohenzollernring 29",
-			"city": "Köln",
-			"postalCode": "50672"
+			"subtitle": "Brownies"
 		},
 		{
 			"__tabName": "Entity",
@@ -2825,14 +2734,7 @@
 			"venueType": "brandhouse-t",
 			"name": "Telekom - Schubkraft",
 			"addedToMapbox": "TRUE",
-			"subtitle": "Remos",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Aachener Straße 21, 50674 Köln",
-			"address": "Aachener Straße 21",
-			"city": "Köln",
-			"postalCode": "50674"
+			"subtitle": "Remos"
 		},
 		{
 			"__tabName": "Entity",
@@ -2846,14 +2748,7 @@
 			"venueType": "brandhouse-t",
 			"name": "Telekom - Vertriebslounge",
 			"addedToMapbox": "TRUE",
-			"subtitle": "NENI - 25hours Hotel",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Im Klapperhof 22-24, 50670 Köln",
-			"address": "Im Klapperhof 22-24",
-			"city": "Köln",
-			"postalCode": "50670"
+			"subtitle": "NENI - 25hours Hotel"
 		},
 		{
 			"__tabName": "Entity",
@@ -2867,14 +2762,7 @@
 			"venueType": "brandhouse-t",
 			"name": "Telekom - Vertriebslounge",
 			"addedToMapbox": "TRUE",
-			"subtitle": "BurritoRico",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Aachener Straße 05, 50674 Köln",
-			"address": "Aachener Straße 05",
-			"city": "Köln",
-			"postalCode": "50674"
+			"subtitle": "BurritoRico"
 		},
 		{
 			"__tabName": "Entity",
@@ -2888,14 +2776,7 @@
 			"venueType": "brandhouse-t",
 			"name": "Telekom - Vertriebslounge",
 			"addedToMapbox": "TRUE",
-			"subtitle": "Mikado Shushi",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Im Mediapark 5, 50670 Köln",
-			"address": "Im Mediapark 5",
-			"city": "Köln",
-			"postalCode": "50670"
+			"subtitle": "Mikado Shushi"
 		},
 		{
 			"__tabName": "Entity",
@@ -2913,10 +2794,10 @@
 			"logoURL": "",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "Friesenstraße 80, 50672 Köln",
-			"address": "Friesenstraße 80",
-			"city": "Köln",
-			"postalCode": "50672"
+			"addressCalculation": "https://www.linkedin.com/company/t-systems",
+			"address": "#VALUE!",
+			"city": "#VALUE!",
+			"postalCode": "#VALUE!"
 		},
 		{
 			"__tabName": "Entity",
@@ -2930,14 +2811,7 @@
 			"venueType": "brandhouse-t",
 			"name": "TSI ",
 			"addedToMapbox": "TRUE",
-			"subtitle": "My-Da Garden",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Friesenplatz 3, 50672 Köln",
-			"address": "Friesenplatz 3",
-			"city": "Köln",
-			"postalCode": "50672"
+			"subtitle": "My-Da Garden"
 		},
 		{
 			"__tabName": "Entity",
@@ -2951,14 +2825,7 @@
 			"venueType": "brandhouse-t",
 			"name": "Workshops",
 			"addedToMapbox": "TRUE",
-			"subtitle": "KOMED Haus 7",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Im Mediapark 7, 50670 Köln",
-			"address": "Im Mediapark 7",
-			"city": "Köln",
-			"postalCode": "50670"
+			"subtitle": "KOMED Haus 7"
 		},
 		{
 			"__tabName": "Entity",
@@ -2972,14 +2839,7 @@
 			"venueType": "brandhouse-t",
 			"name": "Workshops",
 			"addedToMapbox": "TRUE",
-			"subtitle": "NH Collection Hotel",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Im Mediapark 8b, 50670 Köln",
-			"address": "Im Mediapark 8b",
-			"city": "Köln",
-			"postalCode": "50670"
+			"subtitle": "NH Collection Hotel"
 		},
 		{
 			"__tabName": "Entity",
@@ -3007,14 +2867,7 @@
 			"venueType": "brandhouse-t",
 			"name": "Global Carrier Brandhouse",
 			"addedToMapbox": "FALSE",
-			"subtitle": "Restaurant Acht",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Spichernstraße 10, 50672 Köln",
-			"address": "Spichernstraße 10",
-			"city": "Köln",
-			"postalCode": "50672"
+			"subtitle": "Restaurant Acht"
 		},
 		{
 			"__tabName": "Entity",
