@@ -1190,8 +1190,8 @@
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/small_byon_logo_5940533155.png",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "Brüsseler Straße 74, 50672 Köln",
-			"address": "Brüsseler Straße 74",
+			"addressCalculation": "Friesenplatz 9, 50672 Köln",
+			"address": "Friesenplatz 9",
 			"city": "Köln",
 			"postalCode": "50672"
 		},
@@ -1316,8 +1316,8 @@
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_aryaka_logo_bbcb338b2f.svg",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "Im Mediapark 5, 50670 Köln",
-			"address": "Im Mediapark 5",
+			"addressCalculation": "Im Mediapark 6, 50670 Köln",
+			"address": "Im Mediapark 6",
 			"city": "Köln",
 			"postalCode": "50670"
 		},
@@ -1358,8 +1358,8 @@
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Juniper_68a0d1c2c3.svg",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "Im Mediapark 5, 50670 Köln",
-			"address": "Im Mediapark 5",
+			"addressCalculation": "Im Mediapark 6, 50670 Köln",
+			"address": "Im Mediapark 6",
 			"city": "Köln",
 			"postalCode": "50670"
 		},
@@ -1379,8 +1379,8 @@
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/stellaneot_c31b7fd7c7.png",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "Im Mediapark 5, 50670 Köln",
-			"address": "Im Mediapark 5",
+			"addressCalculation": "Im Mediapark 6, 50670 Köln",
+			"address": "Im Mediapark 6",
 			"city": "Köln",
 			"postalCode": "50670"
 		},
@@ -2859,7 +2859,7 @@
 			"venueType": "brandhouse-t",
 			"name": "B2B Portfolio Marktplatz",
 			"addedToMapbox": "FALSE",
-			"subtitle": "B2B Portfolio Brandhouse"
+			"subtitle": "KOMED Haus 6"
 		},
 		{
 			"__tabName": "Entity",
@@ -2871,7 +2871,7 @@
 			"trend": "",
 			"sector": "Future",
 			"venueType": "brandhouse-t",
-			"name": "Global Carrier Brandhouse",
+			"name": "Global Carrier ",
 			"addedToMapbox": "FALSE",
 			"subtitle": "Restaurant Acht"
 		},
