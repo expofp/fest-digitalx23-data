@@ -3003,10 +3003,18 @@
 			"route1": "",
 			"route2": "",
 			"trend": "",
-			"sector": "",
+			"sector": "Future",
 			"venueType": "brandhouse-t",
-			"name": "",
-			"addedToMapbox": "FALSE"
+			"name": "Global Carrier Brandhouse",
+			"addedToMapbox": "FALSE",
+			"subtitle": "Restaurant Acht",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Spichernstraße 10, 50672 Köln",
+			"address": "Spichernstraße 10",
+			"city": "Köln",
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -3018,8 +3026,9 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse-t",
-			"name": "",
-			"addedToMapbox": "FALSE"
+			"name": "Kundenhaus für den öffentlichen Sektor",
+			"addedToMapbox": "FALSE",
+			"subtitle": "Little Candia"
 		},
 		{
 			"__tabName": "Entity",
