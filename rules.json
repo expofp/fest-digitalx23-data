@@ -106,8 +106,7 @@
                 ["==", ["get", "entityType"], "Brandhouse"]
             ],
             "update": {
-                "showMoreDetailsButton": true,
-                "showDirectionsButton": true
+                "showMoreDetailsButton": true
             }
         },
         {
