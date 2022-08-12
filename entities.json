@@ -1493,7 +1493,7 @@
 			"trend": "",
 			"sector": "Inspiration",
 			"venueType": "brandhouse",
-			"name": "Google",
+			"name": "Google Cloud",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Google_105667684a.svg",
@@ -2989,10 +2989,11 @@
 			"route1": "",
 			"route2": "",
 			"trend": "",
-			"sector": "",
+			"sector": "Inspiration",
 			"venueType": "brandhouse-t",
-			"name": "",
-			"addedToMapbox": "FALSE"
+			"name": "B2B Portfolio Marktplatz",
+			"addedToMapbox": "FALSE",
+			"subtitle": "B2B Portfolio Brandhouse"
 		},
 		{
 			"__tabName": "Entity",
@@ -3791,7 +3792,7 @@
 			"id": "future-of-work",
 			"name": "Future of work",
 			"name_de": "Zukunft der Arbeit",
-			"trendMapping(Import)": "D0004103, D0014205, D0014206, D0014208, D0005464, D0013575, D0014188, D0014144, D0014146, D0014182, D0004266, D0014163, D0004171, D0004213, D0005355, D0005086, D0013499, D0013500, D0005513, D0005436, D0005428, D0004258, D0013528, D0005598, D0005354, D0014104, D0004318, D0004316, D0013576, "
+			"trendMapping(Import)": "D0014212, D0004103, D0014205, D0014206, D0014208, D0005464, D0013575, D0014188, D0014144, D0014146, D0014182, D0004266, D0014163, D0004171, D0004213, D0005355, D0005086, D0013499, D0013500, D0005513, D0005436, D0005428, D0004258, D0013528, D0005598, D0005354, D0014104, D0004318, D0004316, D0013576, "
 		},
 		{
 			"__tabName": "VenueType",
