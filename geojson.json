@@ -1210,6 +1210,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "emma_pearl"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935034,
+					50.936378
+				],
+				"type": "Point"
+			},
+			"id": "afc4f03d6eca2bec25fa238e137847a9"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "TEL_2022_003"
 			},
 			"geometry": {
@@ -1631,6 +1645,20 @@
 				"type": "Polygon"
 			},
 			"id": "f8fe0a76240bc3c668c71dff24abc41d"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "interactive_stage"
+			},
+			"geometry": {
+				"coordinates": [
+					6.943047,
+					50.940845
+				],
+				"type": "Point"
+			},
+			"id": "f98a54db65008197d5b0cc33dc626a5b"
 		},
 		{
 			"type": "Feature",
