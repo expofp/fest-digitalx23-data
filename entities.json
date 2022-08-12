@@ -2547,18 +2547,11 @@
 			"route1": "",
 			"route2": "",
 			"trend": "",
-			"sector": "Future",
+			"sector": "Disruption",
 			"venueType": "brandhouse-t",
 			"name": "Brandhouse Telekom \"Digitale Chancen\"",
 			"addedToMapbox": "TRUE",
-			"subtitle": "Café & Theater im Bauturm",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Linked Tets",
-			"address": "#VALUE!",
-			"city": "#VALUE!",
-			"postalCode": "#VALUE!"
+			"subtitle": "Café & Theater im Bauturm"
 		},
 		{
 			"__tabName": "Entity",
