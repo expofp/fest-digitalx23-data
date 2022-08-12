@@ -1400,8 +1400,8 @@
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_bintec_logo_9d5aacc361.svg",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "Im Mediapark 5, 50670 Köln",
-			"address": "Im Mediapark 5",
+			"addressCalculation": "Im Mediapark 6, 50670 Köln",
+			"address": "Im Mediapark 6",
 			"city": "Köln",
 			"postalCode": "50670"
 		},
@@ -1421,8 +1421,8 @@
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/smenso_72687aff8f.svg",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "Brüsseler Straße 74, 50672 Köln",
-			"address": "Brüsseler Straße 74",
+			"addressCalculation": "Friesenplatz 9, 50672 Köln",
+			"address": "Friesenplatz 9",
 			"city": "Köln",
 			"postalCode": "50672"
 		},
@@ -1542,7 +1542,15 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"name": "KPMG",
-			"addedToMapbox": "TRUE"
+			"addedToMapbox": "TRUE",
+			"subtitle": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Spichernstraße 6, 50672 Köln",
+			"address": "Spichernstraße 6",
+			"city": "Köln",
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -1578,7 +1586,13 @@
 			"name": "Klitschko Ventures",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/poly_f1fa0a95c3.svg"
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/poly_f1fa0a95c3.svg",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "im Mediapark 5, 50670 Köln",
+			"address": "im Mediapark 5",
+			"city": "Köln",
+			"postalCode": "50670"
 		},
 		{
 			"__tabName": "Entity",
