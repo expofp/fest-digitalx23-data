@@ -902,10 +902,10 @@
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_cisco_logo_22_v2_2be6ebf0f8.svg",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "Spichernstraße ",
-			"address": "#VALUE!",
-			"city": "#VALUE!",
-			"postalCode": "#VALUE!"
+			"addressCalculation": "Spichernstraße  ,50672 Köln",
+			"address": "Spichernstraße  ",
+			"city": "öln",
+			"postalCode": "0672 "
 		},
 		{
 			"__tabName": "Entity",
