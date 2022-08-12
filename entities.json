@@ -93,6 +93,27 @@
 		},
 		{
 			"__tabName": "Entity",
+			"id": "bus_route_1_stop_4",
+			"entityType": "Generic POI",
+			"parent": "",
+			"route1": "bus_route_1",
+			"route2": "",
+			"trend": "",
+			"sector": "",
+			"venueType": "bus_route",
+			"name": "Interactive Shuttle - Stop",
+			"addedToMapbox": "TRUE",
+			"subtitle": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 33, 50672 Köln",
+			"address": "Venloer Straße 33",
+			"city": "Köln",
+			"postalCode": "50672"
+		},
+		{
+			"__tabName": "Entity",
 			"id": "monkeys_cocktail",
 			"entityType": "Venue",
 			"parent": "",
@@ -594,6 +615,19 @@
 			"address": "Aachener Straße 27",
 			"city": "Köln",
 			"postalCode": "50674"
+		},
+		{
+			"__tabName": "Entity",
+			"id": "highlights",
+			"entityType": "Route",
+			"parent": "",
+			"route1": "",
+			"route2": "",
+			"trend": "",
+			"sector": "",
+			"venueType": "tour",
+			"name": "Highlights",
+			"addedToMapbox": "FALSE"
 		},
 		{
 			"__tabName": "Entity",
