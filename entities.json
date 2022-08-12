@@ -2800,41 +2800,6 @@
 		},
 		{
 			"__tabName": "Entity",
-			"id": "TEL_2022_019",
-			"entityType": "Exhibitor",
-			"parent": "",
-			"route1": "",
-			"route2": "",
-			"trend": "",
-			"sector": "",
-			"venueType": "brandhouse-t",
-			"name": "T-Systems",
-			"addedToMapbox": "TRUE",
-			"subtitle": "Enchilada Köln",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "https://www.linkedin.com/company/t-systems",
-			"address": "#VALUE!",
-			"city": "#VALUE!",
-			"postalCode": "#VALUE!"
-		},
-		{
-			"__tabName": "Entity",
-			"id": "TEL_2022_020",
-			"entityType": "Exhibitor",
-			"parent": "",
-			"route1": "",
-			"route2": "",
-			"trend": "",
-			"sector": "",
-			"venueType": "brandhouse-t",
-			"name": "TSI ",
-			"addedToMapbox": "TRUE",
-			"subtitle": "My-Da Garden"
-		},
-		{
-			"__tabName": "Entity",
 			"id": "TEL_2022_021",
 			"entityType": "Exhibitor",
 			"parent": "",
@@ -2872,7 +2837,7 @@
 			"sector": "Inspiration",
 			"venueType": "brandhouse-t",
 			"name": "B2B Portfolio Marktplatz",
-			"addedToMapbox": "FALSE",
+			"addedToMapbox": "TRUE",
 			"subtitle": "KOMED Haus 6"
 		},
 		{
@@ -2886,7 +2851,7 @@
 			"sector": "Future",
 			"venueType": "brandhouse-t",
 			"name": "Global Carrier ",
-			"addedToMapbox": "FALSE",
+			"addedToMapbox": "TRUE",
 			"subtitle": "Restaurant Acht"
 		},
 		{
