@@ -3855,25 +3855,25 @@
 		},
 		{
 			"__tabName": "Sector",
-			"id": "disruption",
+			"id": "Disruption",
 			"name": "Disruption",
 			"color": "#3CB4E8"
 		},
 		{
 			"__tabName": "Sector",
-			"id": "future",
+			"id": "Future",
 			"name": "Future",
 			"color": "#FFDE14"
 		},
 		{
 			"__tabName": "Sector",
-			"id": "inspiration",
+			"id": "Inspiration",
 			"name": "Inspiration",
 			"color": "#E6007E"
 		},
 		{
 			"__tabName": "Sector",
-			"id": "interactive",
+			"id": "Interactive",
 			"name": "Interactive",
 			"color": "#00B050"
 		}
