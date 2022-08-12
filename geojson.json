@@ -271,6 +271,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "magenta_stage"
+			},
+			"geometry": {
+				"coordinates": [
+					6.945273,
+					50.949197
+				],
+				"type": "Point"
+			},
+			"id": "0d80ca583c0028cebc2536c9651b5ff4"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "Interactive_stage"
 			},
 			"geometry": {

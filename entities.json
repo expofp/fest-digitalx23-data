@@ -3618,7 +3618,7 @@
 			"sector": "Inspiration",
 			"venueType": "inspiration",
 			"name": "KOMED",
-			"addedToMapbox": "FALSE",
+			"addedToMapbox": "TRUE",
 			"subtitle": "Magenta stage",
 			"logoURL": "",
 			"website": "",
