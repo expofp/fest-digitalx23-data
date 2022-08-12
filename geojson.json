@@ -1014,20 +1014,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "bus_route_1_stop_1"
-			},
-			"geometry": {
-				"coordinates": [
-					6.943018,
-					50.940722
-				],
-				"type": "Point"
-			},
-			"id": "92bcc7b36f81c3ca7c69e4c124c40cb4"
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"ID": "D0014106"
 			},
 			"geometry": {
@@ -1210,6 +1196,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "bus_route_1_stop_2"
+			},
+			"geometry": {
+				"coordinates": [
+					6.939864,
+					50.941089
+				],
+				"type": "Point"
+			},
+			"id": "address.3261860707096758"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"id": "Huawei Brandhouse"
 			},
 			"geometry": {
@@ -1220,6 +1220,20 @@
 				"type": "Point"
 			},
 			"id": "address.3958741898073552"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "bus_route_1_stop_1"
+			},
+			"geometry": {
+				"coordinates": [
+					6.942979,
+					50.946333
+				],
+				"type": "Point"
+			},
+			"id": "address.8481401924510466"
 		},
 		{
 			"type": "Feature",
@@ -1360,51 +1374,6 @@
 				"type": "Point"
 			},
 			"id": "ca162ea9c3feb11fb9095da84352b906"
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"ID": "bus_route_1",
-				"color": "#2F456A"
-			},
-			"geometry": {
-				"coordinates": [
-					[
-						6.942994,
-						50.940717
-					],
-					[
-						6.938735,
-						50.940514
-					],
-					[
-						6.934733,
-						50.940157
-					],
-					[
-						6.934687,
-						50.938762
-					],
-					[
-						6.935085,
-						50.938468
-					],
-					[
-						6.934647,
-						50.938199
-					],
-					[
-						6.934601,
-						50.936588
-					],
-					[
-						6.936178,
-						50.936593
-					]
-				],
-				"type": "LineString"
-			},
-			"id": "cc8e1eed236eef9dc7b93b541f5a07fb"
 		},
 		{
 			"type": "Feature",
