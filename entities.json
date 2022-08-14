@@ -3929,28 +3929,28 @@
 			"id": "knowledge-culture",
 			"name": "Knowledge culture",
 			"name_de": "Wissenskultur ",
-			"trendMapping(Import)": "D0014205, D0014208, D0014190, D0005365, D0014182, D0004266, D0014163, D0004213, D0005428, D0014104, D0004316, D0013576, "
+			"trendMapping(Import)": "SP_2022_0001, D0014205, D0014208, D0014190, D0005365, D0014182, D0004266, D0014163, D0004213, D0005428, D0014104, D0004316, D0013576, "
 		},
 		{
 			"__tabName": "Trends",
 			"id": "health---demographic-change",
 			"name": "Health & Demographic Change",
 			"name_de": "Gesundheit & Demografischer Wandel",
-			"trendMapping(Import)": "D0014205, TEL_2022_015, D0004213, D0005428, D0004316, D0013576, "
+			"trendMapping(Import)": "SP_2022_0008, D0014205, TEL_2022_015, D0004213, D0005428, D0004316, D0013576, "
 		},
 		{
 			"__tabName": "Trends",
 			"id": "gender-shift",
 			"name": "Gender Shift",
 			"name_de": "Gender Shift",
-			"trendMapping(Import)": "SP_2022_0032, SP_2022_0006, D0014146"
+			"trendMapping(Import)": "SP_2022_0005, SP_2022_0032, SP_2022_0006, D0014146"
 		},
 		{
 			"__tabName": "Trends",
 			"id": "future-of-work",
 			"name": "Future of work",
 			"name_de": "Zukunft der Arbeit",
-			"trendMapping(Import)": "SP_2022_0006, SP_2022_0022, D0014212, D0004103, D0014205, D0014206, D0014208, D0005464, D0013575, D0014188, D0014144, D0014146, D0014182, D0004266, D0014163, D0004171, D0004213, D0005355, D0005086, D0013499, D0013500, D0005513, D0005436, D0005428, D0004258, D0013528, D0005598, D0005354, D0014104, D0004318, D0004316, D0013576, "
+			"trendMapping(Import)": "SP_2022_0015, SP_2022_0005, SP_2022_0010, SP_2022_0006, SP_2022_0022, D0014212, D0004103, D0014205, D0014206, D0014208, D0005464, D0013575, D0014188, D0014144, D0014146, D0014182, D0004266, D0014163, D0004171, D0004213, D0005355, D0005086, D0013499, D0013500, D0005513, D0005436, D0005428, D0004258, D0013528, D0005598, D0005354, D0014104, D0004318, D0004316, D0013576, "
 		},
 		{
 			"__tabName": "VenueType",
