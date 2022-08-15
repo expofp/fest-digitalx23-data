@@ -4041,61 +4041,61 @@
 			"__tabName": "VenueType",
 			"id": "stage",
 			"name": "Stage",
-			"icon": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_stages.png"
+			"icon(NOTUSED)": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_stages.png"
 		},
 		{
 			"__tabName": "VenueType",
 			"id": "brandhouse",
 			"name": "Brandhouse",
-			"icon": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_brandhouse.png"
+			"icon(NOTUSED)": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_brandhouse.png"
 		},
 		{
 			"__tabName": "VenueType",
 			"id": "brandhouse-t",
 			"name": "Brandhouse+T",
-			"icon": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_brandhouse%2Bt.png"
+			"icon(NOTUSED)": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_brandhouse%2Bt.png"
 		},
 		{
 			"__tabName": "VenueType",
 			"id": "tour",
 			"name": "Tour",
-			"icon": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_tours.png"
+			"icon(NOTUSED)": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_tours.png"
 		},
 		{
 			"__tabName": "VenueType",
 			"id": "bus_route",
 			"name": "Bus Route",
-			"icon": "n/a"
+			"icon(NOTUSED)": "n/a"
 		},
 		{
 			"__tabName": "VenueType",
 			"id": "check-in",
 			"name": "Check-In",
-			"icon": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_check_in.png"
+			"icon(NOTUSED)": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_check_in.png"
 		},
 		{
 			"__tabName": "VenueType",
 			"id": "food",
 			"name": "Food & Beverage",
-			"icon": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_food.png"
+			"icon(NOTUSED)": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_food.png"
 		},
 		{
 			"__tabName": "VenueType",
 			"id": "vertriebslounge",
 			"name": "T-Vertriebslounge",
-			"icon": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_vertriebslounges.png"
+			"icon(NOTUSED)": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_vertriebslounges.png"
 		},
 		{
 			"__tabName": "VenueType",
 			"id": "expo_area",
 			"name": "Expo Area",
-			"icon": "zzz"
+			"icon(NOTUSED)": "zzz"
 		},
 		{
 			"__tabName": "VenueType",
 			"id": "exhibitor",
 			"name": "Exhibitor / Aussteller",
-			"icon": "n/a"
+			"icon(NOTUSED)": "n/a"
 		},
 		{
 			"__tabName": "Sector",
