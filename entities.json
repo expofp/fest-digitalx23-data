@@ -3123,6 +3123,76 @@
 		},
 		{
 			"__tabName": "Entity",
+			"id": "D0014247",
+			"entityType": "",
+			"parent": "",
+			"route1": "",
+			"route2": "",
+			"trend": "",
+			"sector": "",
+			"venueType": "",
+			"name": "Hilti Deutschland AG",
+			"addedToMapbox": "FALSE",
+			"subtitle": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Spichernstraße"
+		},
+		{
+			"__tabName": "Entity",
+			"id": "D0014246",
+			"entityType": "",
+			"parent": "",
+			"route1": "",
+			"route2": "",
+			"trend": "",
+			"sector": "",
+			"venueType": "",
+			"name": "MagentaBusiness POS (MBPOS))",
+			"addedToMapbox": "FALSE"
+		},
+		{
+			"__tabName": "Entity",
+			"id": "D0014245",
+			"entityType": "",
+			"parent": "",
+			"route1": "",
+			"route2": "",
+			"trend": "",
+			"sector": "",
+			"venueType": "",
+			"name": "Contiamo GmbH",
+			"addedToMapbox": "FALSE"
+		},
+		{
+			"__tabName": "Entity",
+			"id": "D0014244",
+			"entityType": "",
+			"parent": "",
+			"route1": "",
+			"route2": "",
+			"trend": "",
+			"sector": "",
+			"venueType": "",
+			"name": "TruPhysics GmbH",
+			"addedToMapbox": "FALSE"
+		},
+		{
+			"__tabName": "Entity",
+			"id": "D0014243",
+			"entityType": "",
+			"parent": "",
+			"route1": "",
+			"route2": "",
+			"trend": "",
+			"sector": "",
+			"venueType": "",
+			"name": "FTI Engineering Network GmbH",
+			"addedToMapbox": "FALSE"
+		},
+		{
+			"__tabName": "Entity",
 			"id": "TEL_2022_001",
 			"entityType": "Exhibitor",
 			"parent": "",
@@ -3428,19 +3498,6 @@
 			"name": "Kundenhaus für den öffentlichen Sektor",
 			"addedToMapbox": "TRUE",
 			"subtitle": "Little Candia"
-		},
-		{
-			"__tabName": "Entity",
-			"id": "TEL_2022_026",
-			"entityType": "Exhibitor",
-			"parent": "",
-			"route1": "",
-			"route2": "",
-			"trend": "",
-			"sector": "",
-			"venueType": "brandhouse-t",
-			"name": "Telekom Brandhouse \"Digitale Bildung\"",
-			"addedToMapbox": "FALSE"
 		},
 		{
 			"__tabName": "Entity",
@@ -4179,7 +4236,7 @@
 			"id": "knowledge-culture",
 			"name": "Knowledge culture",
 			"name_de": "Wissenskultur ",
-			"trendMapping(Import)": "D0005380, D0004265, D0014144, TEL_2022_026, D0014189, D0004264, D0014165, SP_2022_0004, SP_2022_0001, D0014205, D0014208, D0014190, D0005365, D0014182, D0004266, D0014163, D0004213, D0005428, D0014104, D0004316, D0013576, "
+			"trendMapping(Import)": "D0005380, D0004265, D0014144, D0014189, D0004264, D0014165, SP_2022_0004, SP_2022_0001, D0014205, D0014208, D0014190, D0005365, D0014182, D0004266, D0014163, D0004213, D0005428, D0014104, D0004316, D0013576, "
 		},
 		{
 			"__tabName": "Trends",
@@ -4200,7 +4257,7 @@
 			"id": "future-of-work",
 			"name": "Future of work",
 			"name_de": "Zukunft der Arbeit",
-			"trendMapping(Import)": "D0005380, D0005617, D0004272, D0014144, TEL_2022_026, D0004279, D0014189, D0004264, D0014165, SP_2022_0014, SP_2022_0037, SP_2022_0013, SP_2022_0035, SP_2022_0015, SP_2022_0005, SP_2022_0010, SP_2022_0006, SP_2022_0022, D0014212, D0004103, D0014205, D0014206, D0014208, D0005464, D0013575, D0014188, D0014144, D0014146, D0014182, D0004266, D0014163, D0004171, D0004213, D0005355, D0005086, D0013499, D0013500, D0005513, D0005436, D0005428, D0004258, D0013528, D0005598, D0005354, D0014104, D0004318, D0004316, D0013576, "
+			"trendMapping(Import)": "D0005380, D0005617, D0004272, D0014144, D0004279, D0014189, D0004264, D0014165, SP_2022_0014, SP_2022_0037, SP_2022_0013, SP_2022_0035, SP_2022_0015, SP_2022_0005, SP_2022_0010, SP_2022_0006, SP_2022_0022, D0014212, D0004103, D0014205, D0014206, D0014208, D0005464, D0013575, D0014188, D0014144, D0014146, D0014182, D0004266, D0014163, D0004171, D0004213, D0005355, D0005086, D0013499, D0013500, D0005513, D0005436, D0005428, D0004258, D0013528, D0005598, D0005354, D0014104, D0004318, D0004316, D0013576, "
 		},
 		{
 			"__tabName": "VenueType",
