@@ -3249,20 +3249,6 @@
 		},
 		{
 			"__tabName": "Entity",
-			"id": "TEL_2022_010",
-			"entityType": "Exhibitor",
-			"parent": "",
-			"route1": "",
-			"route2": "",
-			"trend": "",
-			"sector": "",
-			"venueType": "brandhouse-t",
-			"name": "Telekom",
-			"addedToMapbox": "TRUE",
-			"subtitle": "GlowBarre Ballett"
-		},
-		{
-			"__tabName": "Entity",
 			"id": "TEL_2022_011",
 			"entityType": "Exhibitor",
 			"parent": "",
@@ -3406,7 +3392,7 @@
 			"id": "TEL_2022_023",
 			"entityType": "Exhibitor",
 			"parent": "",
-			"route1": "highlights",
+			"route1": "",
 			"route2": "",
 			"trend": "",
 			"sector": "",
@@ -3420,7 +3406,7 @@
 			"id": "TEL_2022_024",
 			"entityType": "Exhibitor",
 			"parent": "",
-			"route1": "",
+			"route1": "highlights",
 			"route2": "",
 			"trend": "",
 			"sector": "",
@@ -3440,7 +3426,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"name": "Kundenhaus für den öffentlichen Sektor",
-			"addedToMapbox": "FALSE",
+			"addedToMapbox": "TRUE",
 			"subtitle": "Little Candia"
 		},
 		{
