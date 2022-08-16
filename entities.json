@@ -114,6 +114,19 @@
 		},
 		{
 			"__tabName": "Entity",
+			"id": "guided_tour_1",
+			"entityType": "",
+			"parent": "",
+			"route1": "",
+			"route2": "",
+			"trend": "",
+			"sector": "",
+			"venueType": "",
+			"name": "",
+			"addedToMapbox": "FALSE"
+		},
+		{
+			"__tabName": "Entity",
 			"id": "monkeys_cocktail",
 			"entityType": "Venue",
 			"parent": "",
