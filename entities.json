@@ -1826,7 +1826,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"name": "Medialine",
-			"addedToMapbox": "FALSE",
+			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_medialine_logo_525eef97c6.svg",
 			"website": "",
