@@ -982,6 +982,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "komed_markt"
+			},
+			"geometry": {
+				"coordinates": [
+					6.944793,
+					50.948589
+				],
+				"type": "Point"
+			},
+			"id": "7a3264c0eb5a039a6a1d5f81f6c88ff3"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "TEL_2022_014"
 			},
 			"geometry": {
