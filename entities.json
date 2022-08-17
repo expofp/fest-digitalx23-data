@@ -2048,6 +2048,27 @@
 		},
 		{
 			"__tabName": "Entity",
+			"id": "D0004275",
+			"entityType": "Exhibitor",
+			"parent": "startup_area",
+			"route1": "",
+			"route2": "",
+			"trend": "",
+			"sector": "",
+			"venueType": "Exhibitor",
+			"name": "DOOB",
+			"addedToMapbox": "FALSE",
+			"subtitle": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln",
+			"address": "Venloer Straße 40",
+			"city": "Köln",
+			"postalCode": "50672"
+		},
+		{
+			"__tabName": "Entity",
 			"id": "D0004273",
 			"entityType": "Exhibitor",
 			"parent": "startup_area",
@@ -3189,6 +3210,19 @@
 			"sector": "",
 			"venueType": "",
 			"name": "FTI Engineering Network GmbH",
+			"addedToMapbox": "FALSE"
+		},
+		{
+			"__tabName": "Entity",
+			"id": "D0014250",
+			"entityType": "",
+			"parent": "",
+			"route1": "",
+			"route2": "",
+			"trend": "",
+			"sector": "",
+			"venueType": "",
+			"name": "",
 			"addedToMapbox": "FALSE"
 		},
 		{
