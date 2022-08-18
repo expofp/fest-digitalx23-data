@@ -114,7 +114,7 @@
 		},
 		{
 			"__tabName": "Entity",
-			"id": "guided_tour_1",
+			"id": "highlight_tour_1",
 			"entityType": "Route",
 			"parent": "",
 			"route1": "guided_tour_1",
