@@ -645,6 +645,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "D0014215"
+			},
+			"geometry": {
+				"coordinates": [
+					6.936444,
+					50.942576
+				],
+				"type": "Point"
+			},
+			"id": "3dc7f2310cbf73bbc92194c19e139250"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "Disruption",
 				"Color": "#3CB4E8"
 			},
