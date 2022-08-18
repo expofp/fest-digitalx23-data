@@ -123,7 +123,7 @@
 			"sector": "",
 			"venueType": "tour",
 			"name": "Highlight Tour",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "TRUE"
 		},
 		{
 			"__tabName": "Entity",
