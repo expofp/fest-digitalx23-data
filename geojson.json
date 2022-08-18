@@ -18,20 +18,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "D0004103"
-			},
-			"geometry": {
-				"coordinates": [
-					6.945753,
-					50.947565
-				],
-				"type": "Point"
-			},
-			"id": "00c8ecf7802c49ebdc1d8e5114fd82d4"
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"ID": "D0005355"
 			},
 			"geometry": {
@@ -655,6 +641,20 @@
 				"type": "Point"
 			},
 			"id": "3dc7f2310cbf73bbc92194c19e139250"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "D0004103"
+			},
+			"geometry": {
+				"coordinates": [
+					6.936463,
+					50.942566
+				],
+				"type": "Point"
+			},
+			"id": "3e4908760b2e02ad1a924d86e844e921"
 		},
 		{
 			"type": "Feature",
@@ -1594,6 +1594,20 @@
 				"type": "Point"
 			},
 			"id": "e1ea306e9785743a8a591072df5be1b8"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "D0014144"
+			},
+			"geometry": {
+				"coordinates": [
+					6.936073,
+					50.94247
+				],
+				"type": "Point"
+			},
+			"id": "e4d62af57a13cb60cc1a134a4c44f6bd"
 		},
 		{
 			"type": "Feature",
