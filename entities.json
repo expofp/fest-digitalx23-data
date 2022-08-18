@@ -2532,9 +2532,9 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse-t",
-			"name": "PUBLIC / Telekom",
+			"name": "Treffpunkt Public Sector",
 			"addedToMapbox": "TRUE",
-			"subtitle": "Caveedel"
+			"subtitle": "Little Candia"
 		},
 		{
 			"__tabName": "Entity",
@@ -2798,9 +2798,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse-t",
-			"name": "Kundenhaus für den öffentlichen Sektor",
-			"addedToMapbox": "TRUE",
-			"subtitle": "Little Candia"
+			"name": "",
+			"addedToMapbox": "TRUE"
 		},
 		{
 			"__tabName": "Entity",
