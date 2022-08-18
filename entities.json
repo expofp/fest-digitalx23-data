@@ -782,16 +782,16 @@
 			"trend": "",
 			"sector": "Inspiration",
 			"venueType": "brandhouse",
-			"name": "Samsung",
+			"name": "Hybrid",
 			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/small_SAMSUNG_acc4797a1e.svg",
-			"website": "",
+			"subtitle": "Samsung wird die neuen foldable Smartphones mitbringen und vorstellen. Des Weiteren werden\nbesonders strapazierfähige Produkte aus der Ruggedized-Serie und unsere Flagship-Smartphones\nvorgestellt. Gerne beraten wir Sie zum Thema Samsung Knox (Sicherheit).",
+			"logoURL": "",
+			"website": "https://www.samsung.com/de/",
 			"highlight": "",
-			"addressCalculation": "Im Mediapark 1, 50670 Köln",
-			"address": "Im Mediapark 1",
-			"city": "Köln",
-			"postalCode": "50670",
+			"addressCalculation": "",
+			"address": "",
+			"city": "",
+			"postalCode": "",
 			"description": "#REF!"
 		},
 		{
@@ -804,16 +804,11 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "Jabra",
+			"name": "Hybrid",
 			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_jabra_logo_2ab9f8a512.svg",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Im Mediapark 5, 50670 Köln",
-			"address": "Im Mediapark 5",
-			"city": "Köln",
-			"postalCode": "50670"
+			"subtitle": "Willkommen in der Arbeitswelt der Zukunft - mit Jabra-Lösungen und Zoom-Software für Home-Office, Büro und unterwegs. Ganz gleich, wo Sie sind oder was Sie gerade tun: Bei uns finden Sie die passenden Hybridlösungen für Ihr Geschäft.\nZoom X von Telekom ist gewohnt intuitiv und innovativ und effizient wie nie. Es verbindet das Nutzererlebnis, was die User schon bislang an Zoom geschätzt haben, mit dem erstklassigen Netzwerk und dem zuverlässigen Service der Deutschen Telekom. In Verbindung mit den neuesten Jabra-Lösungen bietet Ihnen Zoom X einen 360°-Support für sichere, effiziente und zukunftssichere Kommunikation.\nWir freuen uns, Sie auf der Digital X zu treffen.",
+			"logoURL": "",
+			"website": "https://www.jabra.com.de/"
 		},
 		{
 			"__tabName": "Entity",
@@ -825,16 +820,11 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "Telekom Experience House: Apple in Business",
+			"name": "Hybrid",
 			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/telekom_apple_e8d5d8f79a.png",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Aachener Straße 16, 50674 Köln",
-			"address": "Aachener Straße 16",
-			"city": "Köln",
-			"postalCode": "50674"
+			"subtitle": "Im Telekom’s Apple Experience House stehen Ihnen nicht nur die Experten von Apple und Telekom für\nindividuelle Gespräche zur Verfügung, sondern zeigen Ihnen auch an praktischen Beispielen wie Sie die\nApple Plattform in Ihrem Unternehmen produktiv einsetzen können. Dazu zählt die Einführung einer\nmodernen Lifecycle Management Strategie, die Nutzung innovativer Finanzierungsmöglichkeiten und\nwie ihr Unternehmen mit Hilfe des Mac erfolgreicher und gleichzeitig attraktiver für Mitarbeiter wird.\nDarüberhinaus erfahren Sie, welchen Beitrag Apple in diesem Zusammenhang zum Umweltschutz\nleistet.",
+			"logoURL": "",
+			"website": "https://geschaeftskunden.telekom.de/mobilfunk/mobile-loesungen/apple-business"
 		},
 		{
 			"__tabName": "Entity",
@@ -846,16 +836,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "Itenos",
-			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_itenos_logo_a13f3c5e6f.svg",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Aachener Straße 15, 50674 Köln",
-			"address": "Aachener Straße 15",
-			"city": "Köln",
-			"postalCode": "50674"
+			"name": "Hybrid",
+			"addedToMapbox": "TRUE"
 		},
 		{
 			"__tabName": "Entity",
@@ -867,16 +849,11 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "Content Guru ",
+			"name": "Hybrid",
 			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/content_guru_1cd057dc58.svg",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Brüsseler Straße 74, 50672 Köln",
-			"address": "Brüsseler Straße 74",
-			"city": "Köln",
-			"postalCode": "50672"
+			"subtitle": "Die cloudbasierte Kundenbindungs- und zufriedenheitslösung storm wird von Hunderten großer Unternehmen auf der ganzen Welt genutzt. Mit einer umfangreichen, benutzerfreundlichen Oberfläche bietet storm Unternehmen aus den verschiedensten Branchen ganzheitliche Lösungen bei der Bearbeitung von Kundenanfragen – selbstverständlich ohne Abstriche in der Servicequalität zu machen. storm ist nahtlos in Datenbanken von Drittanbietern integrierbar. Die Plattform überlagert dabei die bestehende Infrastruktur und stellt nahezu unbegrenzte Möglichkeiten zur Verbesserung des Kundenerlebnisses zur Verfügung. brain® ist das Content Guru-Toolkit für KI-Lösungen (Künstliche Intelligenz). Es kann neben der Plattform storm eingesetzt werden, um modernste KI-gesteuerte Funktionen zu implementieren und die Kommunikationsinfrastruktur zu verbessern. So bietet brain Kunden auf der ganzen Welt eine hochintelligente, KI-gestützte Lösung, die ganz auf ihre individuellen Anforderungen zugeschnitten ist.",
+			"logoURL": "",
+			"website": "https://www.contentguru.com/de-de/"
 		},
 		{
 			"__tabName": "Entity",
@@ -888,16 +865,11 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "Ivanti",
+			"name": "Hybrid",
 			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/small_Ivanti_4a7a0a9b43.svg",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Brabanter Straße 1, 50674 Köln",
-			"address": "Brabanter Straße 1",
-			"city": "Köln",
-			"postalCode": "50674"
+			"subtitle": "Device as a Service: Von der Beschaffung, über die Inbetriebnahme, Serivcekonzept, Absicherung und\nEinbindung in die Unternehmens-IT bis zur Entsorgung/Remarketing zeigen wir, wie dieser komplette\nKreislauf benutzerfreundlich und dennoch unter optimalen Sicherheitseinstellungen umgesetzt werden\nkann. Unser Partner everphone als strategischer Partner der Telekom zeigt an Kundenbeispielen, wie\ndies konkret umgesetzt wird und welche Vorteile Sie hier erzielen.\nIT Service Management: Unser Partner Invent zeigt, welche Möglichkeiten der Prozessoptimierung Ihnen\ndie Ivanti Neurons Plattform bietet. Wir beginnen mit dem \"Discovery\", d.h. festzustellen, welche\nEndgeräte / Endpoints in Ihrer Infrastruktur angemeldet sind. Anschließend analysiert Neurons for Risk\nBased Vulnerability Management welchen Bedrohungen diese Endpoints ausgesetzt sind und wie hoch\ndas Risiko ist, dass diese Bedrohung von Kriminellen für Angriffe auf Ihre Infrastruktur ausgenutzt\nwerden. Das Ivanti Neurons for Patchmanagement sorgt dann abschließend dafür, diese\nSicherheitslücken automatisiert geschlossen werden.\nIm Ivanti Brand House finden Sie auch die neuesten Endgeräte, die mit einem Snapdragon Prozessor\nausgestattet sind. Qualcomm als Hersteller steht hier zur Verfügung, um Ihnen die Vorteile dieses\nProzess zu zeigen.\nMit der ebf EDV Beratung Föllmer hat Ivanti ausserdem einen Partner in unserem Brand House, der seit\nJahren erfolgreich Unternehmen bei der Planung und Umsetzung von Mobilityprojekten unterstützt.\nAuch hier belegen zahlreiche Kundenreferenzen den Erfolg, so dass Sie sich hier informieren können, wie\nSie Ihre Mobility- und Securityanforderungen erfolgreich umsetzen können.\nAlle Partnerlösungen, die im Ivanti Brand House Little Nonna zeigen, wie die einzelnen Komponenten der\nIvanti Neurons Plattform zusammenspielen und wie Sie unseren Kunden dabei helfen, erfolgreich ihre\nIT-, Mobility- und Security-Strategie miteinander zu verbinden.",
+			"logoURL": "",
+			"website": "https://www.ivanti.de/"
 		},
 		{
 			"__tabName": "Entity",
@@ -909,16 +881,11 @@
 			"trend": "future_of_work",
 			"sector": "Future",
 			"venueType": "brandhouse",
-			"name": "Cisco 3-D Video Kommunikation & Augmented Reality Brandhouse",
+			"name": "Hybrid",
 			"addedToMapbox": "TRUE",
-			"subtitle": "Leading you into the future of work",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_cisco_logo_22_v2_2be6ebf0f8.svg",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Spichernstraße  ,50672 Köln",
-			"address": "Spichernstraße  ",
-			"city": "öln",
-			"postalCode": "0672 "
+			"subtitle": "Cisco widmet sich auf der Digital X 2022 voll uns ganz der Zukunft der Arbeit. Dabei geht es um weitmehr als den Wandel \ndes klassischen Arbeitsplatzes. Es geht um die bestmögliche User Experience bei gleichzeitiger höchster Wirtschaftlichkeit für \nUnternehmen aller Grössenordnungen. Es geht um Mitarbeiterbindung digitales Talent Recruiting, Weiterbildung über online basierte \nLerneinhieten, intelligentes Gebäude und Flächenmanagement, künstliche Intelligenz und Sensorik sowie Nachhaltigkeit. Es geht um \nortsunabhängiges Arbeiten unter höchsten Sicherheitsstandards und einfacher Administration. Wir zeigen Ihnen unser umfassendes \nPortfolio als Antwort auf die schnellen Veränderungen der modernen Arbeitswelt. Egal ob Zuhause, im Büro oder irgendwo dazwischen.\nWir zeigen wie die Konvergenz aus innovativen Collaboration Anwendungen und Video Endgeräten, einer Netzwerkinfrastruktur der \nnächsten Generation und Nutzung modernster Sicherheitsfunktionen in einem homogenen Erlebnis für den Nutzer zusammenkommen.\n Für höhere Produktivität, zufriedenere Nutzer und zu geringeren Kosten.",
+			"logoURL": "",
+			"website": "www.cisco.de"
 		},
 		{
 			"__tabName": "Entity",
@@ -930,16 +897,16 @@
 			"trend": "",
 			"sector": "Interactive",
 			"venueType": "brandhouse",
-			"name": "Datanet",
+			"name": "Hybrid",
 			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/small_Datanet_8e4ede2292.svg",
-			"website": "",
+			"subtitle": "Digitalisierung von Geschäftsprozessen rund um einen Telekommunikationsanschluss auf Basis der\nDATANET CT-Service-Plattform.",
+			"logoURL": "",
+			"website": "https://www.datanet.de/",
 			"highlight": "",
-			"addressCalculation": "Friesenstraße 82, 50672 Köln",
-			"address": "Friesenstraße 82",
-			"city": "Köln",
-			"postalCode": "50672",
+			"addressCalculation": "",
+			"address": "",
+			"city": "",
+			"postalCode": "",
 			"description": "We support the digital transformation of business processes around a telecommunication access.”\nFollowing this theme, DATANET supports its customers by innovative service solutions for the digital\ntransformation of standard business processes, such as the invoice processing, accounting or contract\nmanagement, based on the company’s own CT service platform (“Communication Tools”). Using the\npotential of the digitalization and the synergies of our central service platform lead to a minimization of\ncustomer internal efforts by highly automated workflows, a significant reduction of regular issues due to\nmore robust processes without manual interaction as well as a more efficient use of existing\ninfrastructures",
 			"description_de": "Wir digitalisieren die Geschäftsprozesse rund um einen Telekommunikationsanschluss.\" Entsprechend diesem Leitmotiv unterstützt die DATANET GmbH ihre Kunden mit innovativen Servicekonzepten zur digitalen Transformation bestehender Geschäftsprozesse auf Basis der unternehmenseigenen CT\u0002Service-Plattform. Dies umfasst Lösungen zur Prüfung und Verbuchung elektronischer Rechnungen, zur zentralen oder dezentralen Vertragsverwaltung oder zur elektronischen Bestellabwicklung. Die hochgradige Automatisierung der Prozesse führt zu einer Minimierung von Aufwänden ebenso wie zur Verringerung von Fehlerhäufigkeiten infolge robusterer Prozessabläufe ohne manuelle Bearbeitung sowie einer effizienteren Ausnutzung bestehender Systeme und Infrastrukturen."
 		},
@@ -953,16 +920,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "Bintec-Elmeg",
-			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_bintec_logo_9d5aacc361.svg",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Aachener Straße 22, 50674 Köln",
-			"address": "Aachener Straße 22",
-			"city": "Köln",
-			"postalCode": "50674"
+			"name": "Hybrid",
+			"addedToMapbox": "TRUE"
 		},
 		{
 			"__tabName": "Entity",
@@ -974,16 +933,11 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "Atos Unify",
+			"name": "Hybrid",
 			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_atos_unify_logo_cf25718f0c.svg",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Brüsseler Platz 1, 50674 Köln",
-			"address": "Brüsseler Platz 1",
-			"city": "Köln",
-			"postalCode": "50674"
+			"subtitle": "Unter dem Megatrend „Zukunft der Arbeit“ präsentieren wir live vor Ort den Kunden mit unserer Lösung\n„Unify X powered by Telekom“ ein ganz breites Spektrum an Business Kommunikations- und\nKollaborationsmöglichkeiten. Wir zeigen Ihnen wie schnell, einfach und effektiv virtuelle, verteilte und\nremote Zusammenarbeit (Homeoffice) in Ihrem Unternehmen, mit Ihren Kunden und Partnern gestaltet\nwerden kann.\nLassen Sie sich begeistern",
+			"logoURL": "",
+			"website": "wwww.unify.com"
 		},
 		{
 			"__tabName": "Entity",
@@ -995,16 +949,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "ALSO ",
-			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/also_7bfa911c75.png",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Friesenwall 81, 50672 Köln",
-			"address": "Friesenwall 81",
-			"city": "Köln",
-			"postalCode": "50672"
+			"name": "Hybrid",
+			"addedToMapbox": "TRUE"
 		},
 		{
 			"__tabName": "Entity",
@@ -1016,16 +962,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "BPV",
-			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/bpv_bc3adcb18b.svg",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Friesenwall 81, 50672 Köln",
-			"address": "Friesenwall 81",
-			"city": "Köln",
-			"postalCode": "50672"
+			"name": "Hybrid",
+			"addedToMapbox": "TRUE"
 		},
 		{
 			"__tabName": "Entity",
@@ -1037,8 +975,11 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "Vuframe",
-			"addedToMapbox": "FALSE"
+			"name": "Hybrid",
+			"addedToMapbox": "FALSE",
+			"subtitle": "Ein modernes Unternehmen braucht moderne Tools im Vertrieb & Marketing - schließlich ist das der erste Kontaktpunkt mit seinen Kunden. Und genau hier setzen wir mit unserer Software Plattform an. Mit Vuframe® können Produkte, Maschinen und komplexe Anlagen digital, interaktiv und überall als smarte 3D Demos perfekt in Szene gesetzt werden.",
+			"logoURL": "",
+			"website": "https://www.vuframe.com/"
 		},
 		{
 			"__tabName": "Entity",
@@ -1050,16 +991,11 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "Ringcentral",
+			"name": "Hybrid",
 			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Ring_Central_554303b049.svg",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Aachener Straße 38, 50674 Köln",
-			"address": "Aachener Straße 38",
-			"city": "Köln",
-			"postalCode": "50674"
+			"subtitle": "Erleben Sie \"Effortless Productivity\" auf der Digital X 2022\nRemote- und hybride Arbeitsmodelle bieten viele Vorteile und Flexibilität. Aber sie bringen auch einige\nKomplexitäten mit sich. Mit einer unserer neuesten Funktionen - Remote Desktop Control - machen wir\ndie Zusammenarbeit per Videokonferenzen noch einfacher.\nUnser Whiteboard bietet eine interaktive Zusammenarbeit innerhalb eines Video-Meetings, die es\nermöglicht, Informationen leicht zu vermitteln und der Kreativität freien Lauf zu lassen.\nUnsere Live-Transkription-Funktion nutzt KI, um Unterhaltungen automatisch in Echtzeit zu\ntranskribieren. Die Transkripte können jederzeit während des Meetings eingesehen und auch für eine\nspätere Verwendung heruntergeladen werden.\nYour Work Your Way\nErleben Sie unsere Integrationen für Microsoft Teams, Salesforce, Zendesk, Google und viele weitere live\nauf der Digital X. Unsere offene Plattform vereint Anwendungen und optimiert Workflows dadurch\nerheblich. Your work, your way: mit Zugang zu über 300 Integrationen und unseren Entwickler-Tools\n(APIs, SDKs, Widgets).\nEndkunden (alle Segmente), Telekom Vertriebspartne",
+			"logoURL": "",
+			"website": "https://www.ringcentral.com/de/de/"
 		},
 		{
 			"__tabName": "Entity",
@@ -1071,16 +1007,16 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "q.beyond",
+			"name": "Hybrid",
 			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/qbeyond_20118a7756.svg",
-			"website": "",
+			"subtitle": "Expect the next - mit q.beyond als Partner für die digitale Transformation mittelständischer\nUnternehmen. Wir zeigen Ihren einen einfachen Weg zu neuen digitalen Geschäftsmodellen, die sie\neffizienter und konkurrenzfähiger für die Zukunft machen.\nTreffen Sie die Fachleute von q.beyond, scanplus und datac im q.beyond Brandhouse und erfahren Sie\nmehr über unsere Top-Themen\n• Cloud Services und IT-Outsourcing für mittelständische Unternehmen\n• SAP - alle Services rund um Ihre SAP S/4HANA Migration aus einer Hand\n• Microsoft - Professional Services rund um Azure und M365\n• Cyber Security - von der Strategie bis zur ganzheitlichen Implementierung\nWir freuen uns, Sie im Telekom SAP Info-Hub zusammen mit dem SAP-Fachvertrieb der Telekom in\nunserem Brandhouse zu beraten.",
+			"logoURL": "",
+			"website": "https://www.qbeyond.de",
 			"highlight": "",
-			"addressCalculation": "Brüsseler Straße 68, 50674 Köln",
-			"address": "Brüsseler Straße 68",
-			"city": "Köln",
-			"postalCode": "50674"
+			"addressCalculation": "https://www.qbeyond.de/youtube",
+			"address": "#VALUE!",
+			"city": "#VALUE!",
+			"postalCode": "#VALUE!"
 		},
 		{
 			"__tabName": "Entity",
@@ -1092,16 +1028,16 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "Opitz Consulting",
+			"name": "Hybrid",
 			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Opitz_c4a8900e5a.svg",
-			"website": "",
+			"subtitle": "UseCases rund um die Digitalisierung. Erfahrungsberichte und Anregungen im Umfeld von Intelligent\nAutomation und Integration, von der Neuentwicklung bis hin zur Modernisierung",
+			"logoURL": "",
+			"website": "https://www.opitz-consulting.com/",
 			"highlight": "",
-			"addressCalculation": "Brüsseler Straße 74, 50672 Köln",
-			"address": "Brüsseler Straße 74",
-			"city": "Köln",
-			"postalCode": "50672"
+			"addressCalculation": "https://www.youtube.com/user/OPITZCONSULTING",
+			"address": "#VALUE!",
+			"city": "#VALUE!",
+			"postalCode": "#VALUE!"
 		},
 		{
 			"__tabName": "Entity",
@@ -1113,16 +1049,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "Dinfra",
-			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Dinfra_8ab1c0055b.svg",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Brüsseler Straße 74, 50672 Köln",
-			"address": "Brüsseler Straße 74",
-			"city": "Köln",
-			"postalCode": "50672"
+			"name": "Hybrid",
+			"addedToMapbox": "TRUE"
 		},
 		{
 			"__tabName": "Entity",
@@ -1134,16 +1062,11 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "Lenovo",
+			"name": "Hybrid",
 			"addedToMapbox": "TRUE",
-			"subtitle": "",
+			"subtitle": "Modern Workplace/ New Work – Lenovo bietet Ihnen, zusammen mit der Deutschen Telekom, neben einem gesamtheitlichen Produktportfolio (von der Pocket zur Cloud), auch ganzheitliche\nLösungskonzepte wie das Lenovo TruScale Everything-as-a-Service (DaaS) an.\nLenovo verbindet hier modernes und innovatives Computing mit skalierbaren und modularen Services\nund Lösungen, unter anderem für Videokonferenzlösungen für MS Teams, oder die digitale Schule.\nEinfach eine „smarte“ Gesamtlösung, um zu sehen, wie sich unsere Art zu leben, zu lernen und arbeiten\nverändern wird. Smart Technology for everyone eben.",
 			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Friesenwall 130, 50672 Köln",
-			"address": "Friesenwall 130",
-			"city": "Köln",
-			"postalCode": "50672"
+			"website": "www.lenovo.com/de"
 		},
 		{
 			"__tabName": "Entity",
@@ -1155,16 +1078,11 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "T IoT",
+			"name": "Hybrid",
 			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/IOT_6166395fd7.svg",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Friesenstraße 58-60, 50670 Köln",
-			"address": "Friesenstraße 58-60",
-			"city": "Köln",
-			"postalCode": "50670"
+			"subtitle": "Auf unserer Outdoor-Bühne im gemütlichen IoT Garden finden vielfältige und interessante Vorträge und Panel Discussions für Sie statt. Hier können Sie im Detail in die vorgestellten Use Cases und aktuellen Digitalisierungstrends eintauchen und sich inspirieren lassen. Auf der Bühne werden wir gemeinsam mit Vertretern unserer Kunden und Partner Insights aus aktuellen Projekten mitbringen, uns aber auch Lighthouse-Themen wie dem nuSIM-Launch und globaler Konnektivität mit T IoT widmen. Seien Sie dabei und bringen Sie Ihr Unternehmen jetzt voran. T IoT your Business now!",
+			"logoURL": "",
+			"website": "https://iot.telekom.com/de "
 		},
 		{
 			"__tabName": "Entity",
@@ -1176,16 +1094,11 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "C4B",
+			"name": "Hybrid",
 			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/C4_B_4265ee6e33.svg",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Brüsseler Straße 74, 50672 Köln",
-			"address": "Brüsseler Straße 74",
-			"city": "Köln",
-			"postalCode": "50672"
+			"subtitle": "- Mit der Hotline ins Homeoffice: Dank unseres Hotline-Managements können Mitarbeiter bequem auch\nvon zu Hause arbeiten. Eingehende Anrufe werden optimal auf das Team verteilt. Dank der\nübersichtlichen Auswertung von Anrufaufkommen, Erreichbarkeit & Wartezeiten in Analytics lassen sich\nRessourcen optimal planen.\n- Softphone in der Mobile App: Egal, wo Ihre Mitarbeiter unterwegs sind – ob auf der ganzen Welt oder\n„nur“ auf dem Betriebsgelände – mit dem Mobile Softphone können sie überall unter ihrer\nBürodurchwahl telefonieren. Sparen Sie sich hohe Telefonkosten im Ausland, indem Sie Ihre Telefonate\nim WLAN führen. Und weil jedes WLAN ein Ende hat, stellen wir sicher, dass Sie fließend in Ihr\nMobilfunknetz wechseln können.\n- Präsenzabgleich mit Microsoft Teams: XPhone stellt sicher, dass kein Anruf Ihr Video-Meeting stört.\nDer Präsenzstatus beider Lösungen wird zuverlässig abgeglichen, so dass während eines VideoMeetings z.B. ganz automatisch die Voicemail aktivie",
+			"logoURL": "",
+			"website": "https://www.c4b.com/de/"
 		},
 		{
 			"__tabName": "Entity",
@@ -1197,16 +1110,16 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "Zoom",
+			"name": "Hybrid",
 			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_zoom_logo_6302ce955c.svg",
-			"website": "",
+			"subtitle": "Willkommen in der Arbeitswelt der Zukunft - mit Jabra-Lösungen und Zoom-Software für Home-Office, Büro und unterwegs. Ganz gleich, wo Sie sind oder was Sie gerade tun: Bei uns finden Sie die passenden Hybridlösungen für Ihr Geschäft.\nIntuitiv und innovativ wie bisher – leistungsfähig wie noch nie: Zoom X powered by Telekom - es verbindet das Nutzererlebnis, was die User schon bislang an Zoom geschätzt haben, mit dem erstklassigen Netzwerk und dem zuverlässigen Service der Deutschen Telekom. In Kombination mit den neuesten Jabra-Lösungen bietet Ihnen Zoom X einen 360°-Service und Support für sichere, effiziente und zukunftssichere Kommunikation.\nWir freuen uns, Sie auf der Digital X zu treffen.",
+			"logoURL": "",
+			"website": "https://zoom.us/",
 			"highlight": "",
-			"addressCalculation": "Im Mediapark 5, 50670 Köln",
-			"address": "Im Mediapark 5",
-			"city": "Köln",
-			"postalCode": "50670"
+			"addressCalculation": "https://www.youtube.com/zoommeetings",
+			"address": "#VALUE!",
+			"city": "#VALUE!",
+			"postalCode": "#VALUE!"
 		},
 		{
 			"__tabName": "Entity",
@@ -1218,16 +1131,16 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "Netscout",
+			"name": "Hybrid",
 			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Netscout_eef4baa552.svg",
-			"website": "",
+			"subtitle": "We're presenting an advanced network detection and response platform that provides the scale, scope,\nand consistency required to secure today’s digital infrastructure. In addition we're presenting\nNETSCOUT’s Service Assurance Solution to the Data Center and Hybrid Cloud. Enhancing Office 365\nTroubleshooting Precision With NETSCOUT Smart Edge Monitoring.Visibility for Protecting Performance\nand Availability of Insurance Company Networks. Visualizing Vendor-Encrypted SD-WAN Network Traffic\nwith NETSCOUT. NetOps and SecOps Collaboration. On-Premises DDOS Attack Protection.",
+			"logoURL": "",
+			"website": "https://www.netscout.com/",
 			"highlight": "",
-			"addressCalculation": "Im Mediapark 6, 50670 Köln",
-			"address": "Im Mediapark 6",
-			"city": "Köln",
-			"postalCode": "50670"
+			"addressCalculation": "https://www.youtube.com/c/NetScoutSystemsInc",
+			"address": "#VALUE!",
+			"city": "#VALUE!",
+			"postalCode": "#VALUE!"
 		},
 		{
 			"__tabName": "Entity",
@@ -1239,16 +1152,11 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "Lancom",
+			"name": "Hybrid",
 			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_lancom_logo_c9685dfc4c.svg",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Friesenplatz 15, 50672 Köln",
-			"address": "Friesenplatz 15",
-			"city": "Köln",
-			"postalCode": "50672"
+			"subtitle": "Im Brandhouse Digitale Bildung informieren wir über Lösungen für das Schul-IT-Netzwerk der Zukunft, Gateways für sichere Internet-Anbindung & VPN-Vernetzung LAN/WLAN sowie Security: UTM-Firewalls inkl. Content Filter.\nWertschätzung und Nachhaltigkeit machen den Unterschied. Die Schaffung einer vertrauenswürdigen und sicheren IT-Infrastruktur mit kompetenten Partnern auf Augenhöhe ist das Ziel. Wir verfolgen einen Stakeholder-basierten CSR-Ansatz, der Chancen nutzt und gleichzeitig ökonomische, ökologische und soziale Risiken vorausschauend vermindern.\nDas Team Telekom und LANCOM Systems erarbeiten effiziente Ergebnisse für Standortvernetzung, Netzwerksicherheit und Netzwerkmanagement.Wir schaffen sichere Lösungen aus Software, Hardware und Cloud-basierenden Services für die Digitale Transformation.",
+			"logoURL": "",
+			"website": "https://www.lancom-systems.de/"
 		},
 		{
 			"__tabName": "Entity",
@@ -1260,16 +1168,16 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "NFON",
+			"name": "Hybrid",
 			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_nfon_logo_ae5e077e77.svg",
-			"website": "",
+			"subtitle": "Zukunft der Arbeit: Kollaboration, Co-Working, Businesskommunikation wie sie sein sollte - zum\nanfassen, Live Demo der Cloud-Kommunikations-Plattform und Contact Center Lösung.",
+			"logoURL": "",
+			"website": "https://www.nfon.com/de/",
 			"highlight": "",
-			"addressCalculation": "Friesenstraße  73, 50670 Köln",
-			"address": "Friesenstraße  73",
-			"city": "Köln",
-			"postalCode": "50670"
+			"addressCalculation": "https://www.youtube.com/channel/UCYqojp9gb_ZRM7ZX97-IxUA",
+			"address": "#VALUE!",
+			"city": "#VALUE!",
+			"postalCode": "#VALUE!"
 		},
 		{
 			"__tabName": "Entity",
@@ -1281,16 +1189,11 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "Byon",
+			"name": "Hybrid",
 			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/small_byon_logo_5940533155.png",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Friesenplatz 9, 50672 Köln",
-			"address": "Friesenplatz 9",
-			"city": "Köln",
-			"postalCode": "50672"
+			"subtitle": "Wir planen anhand von Praxisbeispielen unsere zwei Kernbereiche vorzustellen. Zum einen Managed IT\nServices als SD-WAN Overlay bzw. Security-Lösungen managed by byon mit unserem Partner Fortinet.\nZum anderen UC-Lösungen von byon basierend auf unserer App-Logik mit ganz unterschiedlichen\nPlattformen, wie unserer eigenen Cloudplattform, einer Teamskompatibilität mit unserer jahrelangen (!)\nErfahrung.\nInsgesamt möchten wir Interessenten einen Einblick in die Möglichkeiten geben, die\nKommunikationsinfrastruktur im Unternehmen als gesamtes Herzstück wahrzunehmen, was es gilt mit\nallen Facetten, Erweiterungen, Security-Aspekten und letztendlich auch mit Blick auf die eigenen\nMitarbeiter*innen zu betrachten. Eine solide Basis aus Datenleitungen und Management plus eine\nCollaboration-Lösung mit sinnvollen App-Funktionialitäten. byon macht sowas!",
+			"logoURL": "",
+			"website": "https://www.byon.de/de/"
 		},
 		{
 			"__tabName": "Entity",
@@ -1302,16 +1205,8 @@
 			"trend": "",
 			"sector": "Inspiration",
 			"venueType": "brandhouse",
-			"name": "Microsoft",
-			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/microsoft_7b9a67cb55.png",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Im Mediapark, 50670 Köln",
-			"address": "Im Mediapark",
-			"city": "Köln",
-			"postalCode": "50670"
+			"name": "Hybrid",
+			"addedToMapbox": "TRUE"
 		},
 		{
 			"__tabName": "Entity",
@@ -1323,16 +1218,16 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "Enreach",
+			"name": "Hybrid",
 			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_enreach_logo_284b34d996.svg",
-			"website": "",
+			"subtitle": "Wir bieten Unternehmen intelligente Lösungen rund um die Digitalisierung von Kommunikation und\nZusammenarbeit – von Unified Communications und Collaboration über Cloud Contact Center bis hin zu\nKI-basierten Chat- und Voicebots, aus der Cloud als Inhouse-Installation oder im Rahmen von hybriden\nModellen",
+			"logoURL": "",
+			"website": "https://www.enreach.de/",
 			"highlight": "",
-			"addressCalculation": "Friesenstraße 62, 50670 Köln",
-			"address": "Friesenstraße 62",
-			"city": "Köln",
-			"postalCode": "50670"
+			"addressCalculation": "https://www.youtube.com/EnreachDE",
+			"address": "#VALUE!",
+			"city": "#VALUE!",
+			"postalCode": "#VALUE!"
 		},
 		{
 			"__tabName": "Entity",
@@ -1344,16 +1239,11 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "JAMF",
+			"name": "Hybrid",
 			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/JAMF_1c9dcbe6fc.svg",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 19, 50672 Köln",
-			"address": "Venloer Straße 19",
-			"city": "Köln",
-			"postalCode": "50672"
+			"subtitle": "Jamf bringt zu Digital X neuste Trends für Verwaltung und Sicherung Apple Geräte in Unternehmen und Organisation, um die Mobilität der Mitarbeitet zu gewährleisten und gleichzeitig die höchste Sicherheits-Standards durch Zero Trust Cloud Security zu bieten. Besuchen Sie uns auf der Digital X in unserem Brand House, um über neuste Produkte von Jamf zu erfahren. In dem Jamf Brandhouse erleben Sie die Produkte, wie Jamf Protect und Threat Defense auf eine interaktive und amüsierende Weise. Kommen Sie zu uns und spielen Sie eine IT-Bedrohung-Challenge und gewinnen Sie hochwertige Preise und nutzen Sie die Gelegenheit unsere Channel-Sales-Teams zu treffen und uns bei einem köstlichem Büfett zu begleiten.\n\n",
+			"logoURL": "",
+			"website": "https://www.jamf.com/de/"
 		},
 		{
 			"__tabName": "Entity",
@@ -1365,16 +1255,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "Congstar",
-			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/congstar_9178caed7f.png",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Brüsseler Straße 47, 50674 Köln",
-			"address": "Brüsseler Straße 47",
-			"city": "Köln",
-			"postalCode": "50674"
+			"name": "Hybrid",
+			"addedToMapbox": "TRUE"
 		},
 		{
 			"__tabName": "Entity",
@@ -1386,16 +1268,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "Aruba",
-			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_hpe_aruba_logo_9dde9bd05f.svg",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Im Mediapark 8, 50670 Köln",
-			"address": "Im Mediapark 8",
-			"city": "Köln",
-			"postalCode": "50670"
+			"name": "Hybrid",
+			"addedToMapbox": "TRUE"
 		},
 		{
 			"__tabName": "Entity",
@@ -1407,16 +1281,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "Aryaka",
-			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_aryaka_logo_bbcb338b2f.svg",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Im Mediapark 6, 50670 Köln",
-			"address": "Im Mediapark 6",
-			"city": "Köln",
-			"postalCode": "50670"
+			"name": "Hybrid",
+			"addedToMapbox": "TRUE"
 		},
 		{
 			"__tabName": "Entity",
@@ -1428,16 +1294,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "Bintect (IoT)",
-			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_bintec_logo_9d5aacc361.svg",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Brüsseler Straße 74, 50672 Köln",
-			"address": "Brüsseler Straße 74",
-			"city": "Köln",
-			"postalCode": "50672"
+			"name": "Hybrid",
+			"addedToMapbox": "TRUE"
 		},
 		{
 			"__tabName": "Entity",
@@ -1449,16 +1307,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "Juniper",
-			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Juniper_68a0d1c2c3.svg",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Im Mediapark 6, 50670 Köln",
-			"address": "Im Mediapark 6",
-			"city": "Köln",
-			"postalCode": "50670"
+			"name": "Hybrid",
+			"addedToMapbox": "TRUE"
 		},
 		{
 			"__tabName": "Entity",
@@ -1470,16 +1320,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "Stellaneo",
-			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/stellaneot_c31b7fd7c7.png",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Im Mediapark 6, 50670 Köln",
-			"address": "Im Mediapark 6",
-			"city": "Köln",
-			"postalCode": "50670"
+			"name": "Hybrid",
+			"addedToMapbox": "TRUE"
 		},
 		{
 			"__tabName": "Entity",
@@ -1491,16 +1333,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "Bintec",
-			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_bintec_logo_9d5aacc361.svg",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Im Mediapark 6, 50670 Köln",
-			"address": "Im Mediapark 6",
-			"city": "Köln",
-			"postalCode": "50670"
+			"name": "Hybrid",
+			"addedToMapbox": "TRUE"
 		},
 		{
 			"__tabName": "Entity",
@@ -1512,16 +1346,11 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "Smenso",
+			"name": "Hybrid",
 			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/smenso_72687aff8f.svg",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Friesenplatz 9, 50672 Köln",
-			"address": "Friesenplatz 9",
-			"city": "Köln",
-			"postalCode": "50672"
+			"subtitle": "Auf der Digital X präsentieren wir unsere Software smenso: smenso ist eine Project & Work Management Plattform für Projekte und Aufgaben im ganzen Unternehmen. Die cloudbasierte Software vereinfacht die Zusammenarbeit im gesamten Team und hält alle Mitarbeiter:innen in Projekten, Organisation und im ganzen Unternehmen auf dem gleichen Stand - insbesondere, wenn alle verteilt an verschiedenen Orten arbeiten. smenso unterstützt branchenübergreifend verschiedene Teams bei unterschiedlichen Anwendungsfällen, um so immer den Überblick über alle Daten und Prozesse zu behalten. Das Tool ist für den internationalen Einsatz mittelständischer Kund:innen im ganzen DACH-Gebiet ausgelegt. smenso kann 14 Tage kostenlos getestet werden und ist als monatliches oder jährliches Abonnement in den drei funktional unterschiedlichen Paketen “Team” (ab 10€ mtl. und pro User), “Business” (ab 16€ mtl. und pro User) und “Enterprise” (auf Anfrage) erhältlich.",
+			"logoURL": "",
+			"website": "https://smenso.de/"
 		},
 		{
 			"__tabName": "Entity",
@@ -1533,16 +1362,11 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "BVMW",
+			"name": "Hybrid",
 			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/small_BVMW_bg_white_22_73b72acb23.png",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Aachener Straße 30, 50672 Köln",
-			"address": "Aachener Straße 30",
-			"city": "Köln",
-			"postalCode": "50672"
+			"subtitle": "Der Mittelstand in Deutschland ist einzigartig. Seine Erfolgsfaktoren sind es auch. Doch Innovation, Produktivität und Effizienz beruhen auf sehr spezifischen Voraussetzungen. Digitale Lösungen sorgen dafür, dass diese Voraussetzungen erhalten bleiben.\n\nIm Rahmen der Digital X 2022 zeigt der Mittelstand. BVMW, wie kleine und mittlere Unternehmen digitale Lösungen optimal einsetzen können. Passgenau, effektiv und übertragbar auf andere Unternehmen und Branchen.\n\nIn stündlichen Workshops, anschaulichen Demonstrationen und inhaltsstarken Gesprächsrunden präsentiert der Mittelstandsverband, wie Mittelständler von digitalen Leistungen und Produkten profitieren können. Auf zwei Stockwerken stehen die Mitglieder und Partner des Verbandes mit Mittelpunkt des Event-Programms. Einen besonderen Stellenwert nimmt dabei die Telekom Deutschland ein, die sich als herausragender Kompetenzpartner des Mittelstands mit einer großen Vielfalt an Lösungen auch an der inhaltlichen Ausgestaltung des Brandhouse beteiligt. Gleichzeitig ist es als „Haus des Mittelstands“ zentraler Treffpunkt für ein Vielzahl von Führungskräften mittelständischer Unternehmen aus ganz Deutschland.",
+			"logoURL": "",
+			"website": "https://www.bvmw.de/"
 		},
 		{
 			"__tabName": "Entity",
@@ -1554,16 +1378,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "DELL",
-			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Dell_164f2f0378.svg",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Brüsseler Straße 70, 50674 Köln",
-			"address": "Brüsseler Straße 70",
-			"city": "Köln",
-			"postalCode": "50674"
+			"name": "Hybrid",
+			"addedToMapbox": "TRUE"
 		},
 		{
 			"__tabName": "Entity",
@@ -1575,16 +1391,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "Global Carrier",
-			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_dt_global_carrier_logo_7dcf7489de.png",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Spichernstraße 10, 50672 Köln",
-			"address": "Spichernstraße 10",
-			"city": "Köln",
-			"postalCode": "50672"
+			"name": "Hybrid",
+			"addedToMapbox": "TRUE"
 		},
 		{
 			"__tabName": "Entity",
@@ -1596,16 +1404,11 @@
 			"trend": "",
 			"sector": "Inspiration",
 			"venueType": "brandhouse",
-			"name": "Google Cloud",
+			"name": "Hybrid",
 			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Google_105667684a.svg",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Im Mediapark, 50670 Köln",
-			"address": "Im Mediapark",
-			"city": "Köln",
-			"postalCode": "50670"
+			"subtitle": "Kommen Sie ins Google Brandhouse am Mediapark und erleben Sie Cloud nach Deutschen Maßstäben.\nEs erwarten Sie spannende Vorträge, interaktive Demos, Kund:innen-Insights von Deutschen\nUnternehmen und wertvoller Austausch mit unseren Expert:innen und Partnern.\nSie können erfahren, wie Sie\n-Ihre Daten noch besser verstehen und nutzen.\n-Potenziale mit offenen, hybriden und multi-cloud Lösungen heben.\n-einen sicheren, effizienten und hybriden Arbeitsplatz schaffen.\n-die Sicherheit Ihrer Daten, Systeme und Nutzer garantieren.\n-dafür sorgen, dass sensible Daten in Deutschland bleiben.\n-Ihr Unternehmen mit der Cloud noch nachhaltiger machen.\nSchauen Sie vorbei und sprechen Sie uns an. Wir freuen uns auf Sie.",
+			"logoURL": "",
+			"website": "https://cloud.google.com/"
 		},
 		{
 			"__tabName": "Entity",
@@ -1617,16 +1420,16 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "Huawei",
+			"name": "Hybrid",
 			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Huawei_6d04e74c2e.svg",
+			"subtitle": "Unternehmensnetzwerke\nStorage-Systeme\nEnterprise Collaboration\nOptische Übertragung",
+			"logoURL": "",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "Spichernstraße 8, 50672 Köln",
-			"address": "Spichernstraße 8",
-			"city": "Köln",
-			"postalCode": "50672"
+			"addressCalculation": "https://www.youtube.com/channel/UCh7tMI_38_R0xKFbJUHVjJQ",
+			"address": "#VALUE!",
+			"city": "#VALUE!",
+			"postalCode": "#VALUE!"
 		},
 		{
 			"__tabName": "Entity",
@@ -1638,16 +1441,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "KPMG",
-			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Spichernstraße 6, 50672 Köln",
-			"address": "Spichernstraße 6",
-			"city": "Köln",
-			"postalCode": "50672"
+			"name": "Hybrid",
+			"addedToMapbox": "TRUE"
 		},
 		{
 			"__tabName": "Entity",
@@ -1659,16 +1454,11 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "Medialine",
+			"name": "Hybrid",
 			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_medialine_logo_525eef97c6.svg",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Bismarckstraße 44, 50672 Köln",
-			"address": "Bismarckstraße 44",
-			"city": "Köln",
-			"postalCode": "50672"
+			"subtitle": "Themenbereiche und Use Cases aus folgenden Bereichen: \r\n-\tMicrosoft Azure: laaS, PaaS und SaaS in der Multi Cloud\r\n-\tHybrid Cloud Computing\r\n-\tCloud vs On-Premise Lösungen - welche Lösungen in diesen Bereichen wir Ihnen anbieten können!\r\n-\tEnterprise Service Management\r\n-\tSASE: Secure Access Service Edge - Wir zeigen die Zukunft der Netzwerksicherheit in Multi-Cloud Umgebungen mit SASE\r\n-\tManaged Security Services",
+			"logoURL": "",
+			"website": "https://www.medialine.com/"
 		},
 		{
 			"__tabName": "Entity",
@@ -1680,16 +1470,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "Klitschko Ventures",
-			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "im Mediapark 5, 50670 Köln",
-			"address": "im Mediapark 5",
-			"city": "Köln",
-			"postalCode": "50670"
+			"name": "Hybrid",
+			"addedToMapbox": "TRUE"
 		},
 		{
 			"__tabName": "Entity",
@@ -1701,16 +1483,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "Salesforce",
-			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Salesforce_b9c761b0ac.svg",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Antwerpener Str. 38, 50672 Köln ",
-			"address": "Antwerpener Str. 38",
-			"city": "Köln ",
-			"postalCode": "50672"
+			"name": "Hybrid",
+			"addedToMapbox": "TRUE"
 		},
 		{
 			"__tabName": "Entity",
@@ -1722,16 +1496,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "vm ware",
-			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/vmware_9006b6ef99.svg",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Im Mediapark 5, 50670 Köln",
-			"address": "Im Mediapark 5",
-			"city": "Köln",
-			"postalCode": "50670"
+			"name": "Hybrid",
+			"addedToMapbox": "TRUE"
 		},
 		{
 			"__tabName": "Entity",
@@ -1743,16 +1509,16 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "Xiaomi",
+			"name": "Hybrid",
 			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_xiaomi_logo_ce25136073.svg",
+			"subtitle": "Weit mehr als nur Smartphones!\nXiaomi zeigt vor Ort in seinem Showtruck seine neusten Smartphones und Tablets, sowie auch\npassendes Zubehör wie Smartwatches und Bluetooth Kopfhörer. Die smarte Produktwelt zeigt jedoch\nnoch viele weitere Produkte aus dem Haushalt, Entertainment und Lifestyle die den Alltag einfach\nsmarter machen. Freuen Sie sich drauf!",
+			"logoURL": "",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "Friesenwall 124, 50672 Köln",
-			"address": "Friesenwall 124",
-			"city": "Köln",
-			"postalCode": "50672"
+			"addressCalculation": "https://www.youtube.com/c/XiaomiDeutschland/videos",
+			"address": "#VALUE!",
+			"city": "#VALUE!",
+			"postalCode": "#VALUE!"
 		},
 		{
 			"__tabName": "Entity",
@@ -1764,16 +1530,11 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"name": "Bullitt",
+			"name": "Hybrid",
 			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Bullittt_ed1d5527a8.png",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Im Klapperhof 22-24, 50670 Köln",
-			"address": "Im Klapperhof 22-24",
-			"city": "Köln",
-			"postalCode": "50670"
+			"subtitle": "An unserem Stand können Sie die neuesten Produkte live ausprobieren. Das neben dem neuen mobilen und robusten 5G Router, 5G Smartphone und den aktuellen Smartphones, zeigen wir Ihnen auch dazugehörige Apps und Lösungen, die Ihnen die täglichen Arbeitsprozesse erleichtern und zeitgleich Kosten,- und Zeitersparnis bringen. Wir freuen uns auf Ihren Besuch.",
+			"logoURL": "",
+			"website": "www.catphones.com"
 		},
 		{
 			"__tabName": "Entity",
@@ -1785,16 +1546,11 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "4tiitoo",
+			"name": "Hybrid",
 			"addedToMapbox": "FALSE",
-			"subtitle": "",
+			"subtitle": "Blicksteuerung Live Demo und Selbsttest: Am 4tiitoo Stand können Sie NUIA Eye Control \"mit eigenen Augen\" ausprobieren und sich ein Bild machen, wie Blicksteuerung die tägliche Arbeit schneller, gesünder und komfortabler macht - ob mit MS Office, SAP, Oracle, MS Dynamics, ServiceNow, Salesforce, Genesys, Vier, und vielen weiteren Anwendungen für Back Office und Front Office\r",
 			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"website": "https://4tiitoo.com"
 		},
 		{
 			"__tabName": "Entity",
@@ -1806,16 +1562,9 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "acameo",
+			"name": "Hybrid",
 			"addedToMapbox": "FALSE",
-			"subtitle": "",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"subtitle": "Produktpräsentationen / 3D-Webshop:\n- Verschneite 3D-Buchhandlung für genialokal mit der Deutschen Telekom\n- Virtuelle Solution-Tour des Digitalmobils des BMWK\n- DigiStore in 3D/VR der Sparkasse Darmstadt\nWissenskultur:\n- „Virtuelle Entdeckungsreise“ durch das Deutsche Museum München\n- „Junge Klassik“ – digitaler Zwilling mit Gamification für die Deutsche Staatsphilharmonie\n- Virtuelles Klassenzimmer „DigitaLRaum“ für die Humboldt-Universität zu Berlin\n- XR-Lösungen im Digitalen Zwilling des Germanischen Nationalmuseums Nürnberg im Rahmen von museum4.0\n\nTrainings, XR-Support und Employer Branding (non-public)\n- Virtuelle Audit-Führung und Onboarding-Trainings für ein Pharmaunternehmen \n- 3D-Assets, virtuelle Touren und Digitalevent im Sektor Netzintegration Elektromobilität\n- Herbstdialog in der Punktwolke der Volksbank Kraichgau\n- Forschungsprojekt zum Digitalen Zwilling einer Produktionsanlage mit dem DFKI und einem Truckhersteller"
 		},
 		{
 			"__tabName": "Entity",
@@ -1827,16 +1576,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "anny UG",
-			"addedToMapbox": "FALSE",
-			"subtitle": "",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"name": "Hybrid",
+			"addedToMapbox": "FALSE"
 		},
 		{
 			"__tabName": "Entity",
@@ -1848,16 +1589,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "DeepSign GmbH",
-			"addedToMapbox": "FALSE",
-			"subtitle": "",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"name": "Hybrid",
+			"addedToMapbox": "FALSE"
 		},
 		{
 			"__tabName": "Entity",
@@ -1869,16 +1602,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "dermanostic",
-			"addedToMapbox": "FALSE",
-			"subtitle": "",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"name": "Hybrid",
+			"addedToMapbox": "FALSE"
 		},
 		{
 			"__tabName": "Entity",
@@ -1890,16 +1615,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "DOOB",
-			"addedToMapbox": "FALSE",
-			"subtitle": "",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"name": "Hybrid",
+			"addedToMapbox": "FALSE"
 		},
 		{
 			"__tabName": "Entity",
@@ -1911,16 +1628,11 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "Enerthing GmbH",
+			"name": "Hybrid",
 			"addedToMapbox": "FALSE",
-			"subtitle": "",
+			"subtitle": "Wir zeigen unsere neusten Lösungen von batteriefreien Retrofit-Sensoren für Smarte Gebäude und die vorausschauende Wartung in der Industrie. Wir demonstrieren die Raumluftmessung für gesunde Luft und energieeffizientes Lüften und die Messung von Verschleiß an Industriemotoren durch Vibrationsmessung. Dabei demonstrieren wir den Weg der Daten vom Sensor über die Cloud bis hin zur Anbindung an die Kundenlösung.    \r",
 			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"website": "www.enerthing.com"
 		},
 		{
 			"__tabName": "Entity",
@@ -1932,16 +1644,11 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "Exaris Solutions",
+			"name": "Hybrid",
 			"addedToMapbox": "FALSE",
-			"subtitle": "",
+			"subtitle": "Exaris Solution + Techboost + T-Systems= Its a Match auf der Digital X!!! Innovative Searchengine für den Gesundheitsmarkt - Wir freuen uns auf den Messestand.",
 			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"website": "https://exaris-solutions.de"
 		},
 		{
 			"__tabName": "Entity",
@@ -1953,16 +1660,11 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "Flexperto GmbH",
+			"name": "Hybrid",
 			"addedToMapbox": "FALSE",
-			"subtitle": "",
+			"subtitle": "Flexperto ist modular aufgebaut und kann somit verschiedenste Use Cases, bis hin zur vollständigen, fallabschließenden Customer Journey digital abbilden. Flexperto bietet folgende DSGVO konforme Use Cases, welche wir Ihnen gerne vor Ort zeigen: \r\n- Terminvereinbarung inklusive Kalender Synchronisation\r\n- Gruppenkalender Funktion\r\n- Aufnahme von Ton & Bild während der Videokonferenz\r\n- Screenshot Funktion\r\n- Archivierung\r\n- E-Signatur (FES & QES)",
 			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"website": "https://flexperto.com/"
 		},
 		{
 			"__tabName": "Entity",
@@ -1974,16 +1676,16 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "Flip GmbH",
+			"name": "Hybrid",
 			"addedToMapbox": "FALSE",
-			"subtitle": "",
+			"subtitle": "Wir geben Ihnen vor Ort einen Einblick in unsere individuell gestaltbare Mitarbeiter-App, die geräteunabhängig funktioniert. Hierfür haben wir Tablets, Smartphones und PCs dabei und zeigen Ihnen nicht nur sämtliche Funktionen unserer App wie bspw. Chat, Newsfeed, Übersetzungsfunktion, To-Do-Liste oder Integrationen wie Dienstplan, Urlaubsplan und Gehaltsportal, sondern vor allem auch die Benefits & Einsparpotentiale, die Sie durch die Einführung Ihrer persönlichen Mitarbeiter-App entfalten können. Unser Team freut sich auf Ihren Besuch. Lassen Sie uns gemeinsam die interne Kommunikation wie Porsche, McDonald's, REWE, EDEKA oder Rossmann auch in Ihrem Unternehmen revolutionieren.",
 			"logoURL": "",
-			"website": "",
+			"website": "www.flipapp.de",
 			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"addressCalculation": "https://www.youtube.com/channel/UCFFoTn7mAR17CND0Sb4Vauw/videos",
+			"address": "#VALUE!",
+			"city": "#VALUE!",
+			"postalCode": "#VALUE!"
 		},
 		{
 			"__tabName": "Entity",
@@ -1995,16 +1697,11 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "Flixcheck GmbH",
+			"name": "Hybrid",
 			"addedToMapbox": "FALSE",
-			"subtitle": "",
+			"subtitle": "Flixcheck konsolidiert alle wichtigen Prozesse für einen digitalen Kundenservice in einer Plattform. Aus dem Grund arbeiten große und kleine Unternehmen aus den Branchen Versicherung & Finanzen, Energie, Telekommunikation und Dienstleistungen mit unserem Tool. Hierbei sind unzählige Use Cases dank unserer Funktionen entstanden: PDF Editor - Mit unserem PDF-Editor können Sie PDF-Dateien bearbeiten und unterschreiben lassen. Elektronische Signatur – Holen Sie sich eine einfache oder fortgeschrittene digitale Signatur z.B. für Verträge ein. Bildanfrage – Mittels Bildanfragen können Ihre Kunden Bilder von z.B. Dokumenten machen und Ihnen sicher zukommen lassen. SEPA-Mandat Anfrage – Lassen Sie Ihre Kund:innen IBAN und BIC sicher ausfüllen. ",
 			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"website": "https://www.flixcheck.de"
 		},
 		{
 			"__tabName": "Entity",
@@ -2016,16 +1713,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "Formation",
-			"addedToMapbox": "FALSE",
-			"subtitle": "",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"name": "Hybrid",
+			"addedToMapbox": "FALSE"
 		},
 		{
 			"__tabName": "Entity",
@@ -2037,16 +1726,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "FRAMEN",
-			"addedToMapbox": "FALSE",
-			"subtitle": "",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"name": "Hybrid",
+			"addedToMapbox": "FALSE"
 		},
 		{
 			"__tabName": "Entity",
@@ -2058,16 +1739,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "Innoloft",
-			"addedToMapbox": "FALSE",
-			"subtitle": "",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"name": "Hybrid",
+			"addedToMapbox": "FALSE"
 		},
 		{
 			"__tabName": "Entity",
@@ -2079,16 +1752,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "Kaptura",
-			"addedToMapbox": "FALSE",
-			"subtitle": "",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"name": "Hybrid",
+			"addedToMapbox": "FALSE"
 		},
 		{
 			"__tabName": "Entity",
@@ -2100,16 +1765,11 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "Kauz GmbH",
+			"name": "Hybrid",
 			"addedToMapbox": "FALSE",
-			"subtitle": "",
+			"subtitle": "Ein Chatbot, der im E-Commerce Wein verkauft? Kauz macht es möglich. Das Motto von Kauz: Chatbots, die verstehen. Dazu zählen Chatbots im E-Commerce, Banken, Versicherungen und dem öffentlichen Sektor. Auf der Digital X können Sie sich selbst ein Bild davon machen, wie es ist, mit einem Chatbot auf Augenhöhe zu kommunizieren. Erleben Sie am Stand das natürliche Sprachverständnis und nehmen Sie am Gewinnspiel teil. Wir freuen uns auf Sie!",
 			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"website": "https://kauz.net"
 		},
 		{
 			"__tabName": "Entity",
@@ -2121,16 +1781,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "LAQA GmbH",
-			"addedToMapbox": "FALSE",
-			"subtitle": "",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"name": "Hybrid",
+			"addedToMapbox": "FALSE"
 		},
 		{
 			"__tabName": "Entity",
@@ -2142,16 +1794,11 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "LegalTegrity",
+			"name": "Hybrid",
 			"addedToMapbox": "FALSE",
-			"subtitle": "",
+			"subtitle": "Skandale gibt es nicht nur bei Facebook oder Wirecard. Sondern auch bei der AWO. Bei Tönnies. In der Apotheke um die Ecke. Großkonzerne überleben Skandale. Für mittelständische Unternehmen ist so ein Skandal eine existenzielle Bedrohung: die Mitarbeiter sind in Schockstarre. Die Medien schlachten die Story mit fetten Schlagzeilen aus. Die Kunden fragen sich, was los ist. Der Ruf? Ruiniert. Wie groß ist die Chance, dass ein Mittelständler das überlebt? Sie ist gering. Wir finden das nicht fair. Deswegen haben wir einen Schutzschirm entwickelt. Erfahren Sie bei uns, wie Sie schnell und einfach Ihr Unternehmen, Ihre Mitarbeitenden und Ihre Lieferketten schützen können – mit nur wenigen Klicks und Tipps aus der Praxis. ",
 			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"website": "https://legaltegrity.com"
 		},
 		{
 			"__tabName": "Entity",
@@ -2163,16 +1810,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "Lemon / Not just a Jewel",
-			"addedToMapbox": "FALSE",
-			"subtitle": "",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"name": "Hybrid",
+			"addedToMapbox": "FALSE"
 		},
 		{
 			"__tabName": "Entity",
@@ -2184,16 +1823,11 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "Lexemo",
+			"name": "Hybrid",
 			"addedToMapbox": "FALSE",
-			"subtitle": "",
+			"subtitle": "Nur auf der Digital X: Die Weltpremiere von e!, dem neuen No-Code LEgal Automation Tool.\nWir haben e! entwickelt, um die Automatisierung von Prozessen für jedermann zugänglich, erschwinglich und einfach zu machen. Uns ging es darum, komplexe juristische Arbeitsabläufe oder Dokumente zu automatisieren. Von einem einfachen NDA bis zu komplexen Verträgen und das ganze kombiniert mit Analysefunktionen, die es ermöglicht neue Urteile oder Gesetzesänderungen und deren Auswirkungen auf generierte Verträge zu tracken.  Anwälte können e! nutzen, um Zeit zu sparen, ihre Dienstleistungen zu skalieren und Mitarbeiter und Kunden zu begeistern. ",
 			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"website": "https://lexemo.com"
 		},
 		{
 			"__tabName": "Entity",
@@ -2205,16 +1839,11 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "LOOMPACT",
+			"name": "Hybrid",
 			"addedToMapbox": "FALSE",
-			"subtitle": "",
+			"subtitle": "Auf der Digital X können Kunden vor Ort die ersten Schritte für ihre Nachhaltigkeitplanung mit uns machen und wir werden an bestehenden Kundenbeispielen zeigen, welche Vorteile über eine  Nachhaltigkeitsstrategie für das eigene Unternehmen möglich sind in Richtung externe Kommunikation für Marketing, Vertrieb, Employer Branding, für die interne Kommunikation wie Mitarbeitermotivation und -bindung, zusätzliche Controlling-KPIs und regulatorisch, wenn es um Bankkredite, EU-Taxonomie etc. geht.",
 			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"website": "www.loompact.com"
 		},
 		{
 			"__tabName": "Entity",
@@ -2226,16 +1855,9 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "Lylu",
+			"name": "Hybrid",
 			"addedToMapbox": "FALSE",
-			"subtitle": "",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"subtitle": "Lylu verbessert das Leben von Millionen Senioren mit einem Tablet, das bekannte Apps wie Zoom oder YouTube 100 % seniorenfreundlich macht. Mit unserem Stand bei der Digital X verschenken wir unvergessliches Erlebnisse! Wir lassen Menschen erfahren, was es heißt älter zu sein und zeigen, dass auch das Alter Spaß macht. Die Besucher unseres Standes können Mario Kart spielen aus Sicht von Senioren oder sich Bilder als Andenken mitnehmen, wie sie aussehen, wenn sie alt sind."
 		},
 		{
 			"__tabName": "Entity",
@@ -2247,16 +1869,11 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "MONDAY.ROCKS GmbH",
+			"name": "Hybrid",
 			"addedToMapbox": "FALSE",
-			"subtitle": "",
+			"subtitle": "Erleben Sie das Team-Spielfeld von MONDAY.ROCKS erstmals in 3D zum Anfassen und Mitmachen!\nAls Teil des Team Onboardings wird in der Software von MONDAY.ROCKS die Teamzusammensetzung auf einem virtuellen Team-Spielfeld erfasst. Jedes Teammitglied wird einer optimalen Position im Team zugeordnet. Das die individuelle Betrachtung jedem Mitarbeitenden im Teamkontext und macht das Verhalten des Teams und seine Dynamiken auf einen Blick sichtbar.\nJetzt sind Sie gefragt! Stellen Sie mit uns gemeinsam verschiedene Teamkonstellationen nach und raten sie: Um was für ein Team handelt es sich? Was passiert, wenn bestimmte Positionen nicht besetzt sind? Welche Herausforderungen entstehen?\nMachen Sie mit, probieren Sie sich aus und testen Sie Ihr Wissen!",
 			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"website": "https://www.monday.rocks/"
 		},
 		{
 			"__tabName": "Entity",
@@ -2268,16 +1885,9 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "neXenio",
+			"name": "Hybrid",
 			"addedToMapbox": "FALSE",
-			"subtitle": "",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"subtitle": "Wir entwickeln sichere Lösungen für die digitale Zusammenarbeit von hybriden Teams wie z.B neXboard. Dies wird gerade in Zeiten wie jetzt vermehrt von Telekom Geschäftskunden nachgefragt und über den Telekom Vertrieb verkauft. Die Lösung ist in der OTC gehostet. Die Geschäftskunden der Telekom haben einen großen Mehrwert diese Lösung vor Ort kennen zu lernen und selbst am Stand spielend zu verproben."
 		},
 		{
 			"__tabName": "Entity",
@@ -2289,16 +1899,9 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "Nooxit",
+			"name": "Hybrid",
 			"addedToMapbox": "FALSE",
-			"subtitle": "",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"subtitle": "Nooxit automatisiert die Buchhaltung. Wir bieten ein innovatives Invoice Compliance & Automation Tool für den Mittelstand & Großunternehmen an. Unsere Software dockt sich am ERP-System des Kunden an. KI-basiert erfasst die Lösung Rechnungen, führt Compliance Prüfungen für verschiedene Länder durch und erzeugt Buchungsvorschläge. Die Compliance Prüfungen umfassen die folgenden Bereiche: Interne Compliance, Steuer Compliance, E-Invoice Compliance und Zahlungs Compliance zur Einhaltung der Meldevorschriften im Außenwirtschaftsverkehr. Auf der Digital X zeigen wir spannende Kundenstories von unseren Kunden, wie z.B. der ZF Friedrichshafen, und wie sich bis zu 90 Prozent der Kosten in globalen Rechnungsverarbeitungsprozessen einsparen lassen."
 		},
 		{
 			"__tabName": "Entity",
@@ -2310,16 +1913,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "oculavis",
-			"addedToMapbox": "FALSE",
-			"subtitle": "",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"name": "Hybrid",
+			"addedToMapbox": "FALSE"
 		},
 		{
 			"__tabName": "Entity",
@@ -2331,16 +1926,11 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "OmegaLambdaTec GmbH",
+			"name": "Hybrid",
 			"addedToMapbox": "FALSE",
-			"subtitle": "",
+			"subtitle": "Smarte Datenanalysen im Stromnetz mit OSGAr - das OLT Smart Grid Application Optimizer Framework!\nMit OSGAr bieten wir ein End-to-End Gesamtlösungskonzept zur Investment-optimierten Smart-Grid Sensor-Positionierung in Niederspannungsnetzen an. OSGAr ermöglicht die Smart-Grid Optimierung des Gesamtnetzes und ist leicht auf Niederspannungsnetze skalierbar!",
 			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"website": "https://omegalambdatec.com/"
 		},
 		{
 			"__tabName": "Entity",
@@ -2352,16 +1942,11 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "ONSEI",
+			"name": "Hybrid",
 			"addedToMapbox": "FALSE",
-			"subtitle": "",
+			"subtitle": "Beispeilhaft für unsere vielfältige Arbeit präsentieren wir zwei Produkte zum Ansprechen. \nDie Hallo MAUS App ist in Kooperation mit dem WDR entstanden, um Kindern die Möglichkeit zu geben auch verbal mit den Maus Abenteuern in die Interaktion zu gehen. Eine interaktive Entdeckungsreise, die das Steuern einer App mit kindgerechter Sprache ermöglicht und spielerisch Wissen vermittelt. \nMelody \nSprich mit unserem eigens entwickelten Smart Speaker für die Hotellerie. Entwickelt nach deutschen Datensicherheits-Standards haben wir im Verbund des Fraunhofer SPEAKER Projektes diese KI Made in Germany entwickelt. Als digitaler Assistent entlastet Melody das Personal und fügt sich in die Servicelandschaft des Hotels ein.",
 			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"website": "www.onsei.de"
 		},
 		{
 			"__tabName": "Entity",
@@ -2373,16 +1958,16 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "Palturai",
+			"name": "Hybrid",
 			"addedToMapbox": "FALSE",
-			"subtitle": "",
+			"subtitle": "Euch erwartet ein Einblick hinter die Kulissen der Wirtschaft. Wer ist mit wem vernetzt und wer kann die besten Kontakte vermittteln? \r\nWie sehen Konzernstrukturen und Verflechtungen aus und wie kann dieses Wissen gewinnbringend eingesetzt werden. Palturai zeigt es in seinem Business Graph!",
 			"logoURL": "",
-			"website": "",
+			"website": "www.palturai.de",
 			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"addressCalculation": "https://www.youtube.com/channel/UCqAL75yaLyoAmyLyGfFT2TA/featured",
+			"address": "#VALUE!",
+			"city": "#VALUE!",
+			"postalCode": "#VALUE!"
 		},
 		{
 			"__tabName": "Entity",
@@ -2394,16 +1979,16 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "Peers Solutions GmbH",
+			"name": "Hybrid",
 			"addedToMapbox": "FALSE",
-			"subtitle": "",
+			"subtitle": "50% der Arbeitnehmenden weltweit werden bis 2025 andere Skills benötigen. Was für Skills das sind, ist von Person zu Person unterschiedlich. Mithilfe unserer KI können wir ermitteln, wo genau der Bedarf liegt - auch bei Ihnen!\nLernen Sie Ihr eigenes Potential kennen: In unserem Future Skills Assessment finden Sie heraus, wie Sie und Ihr Unternehmen sich optimal auf die Zukunft vorbereiten können - und die gewonnenen Insights gibt's direkt auf Ihr Handy.\nLassen Sie sich inspirieren: In der Peers Discussion Corner stellen wir Ihnen spannende Kundenprojekte vor aus Bereichen wie Agiles Arbeiten, Unternehmensentwicklung, digitale HR, uvm.\nWerden Sie aktiv: Erstellen Sie selbst Lernpfade mit unserer KI - für sich oder für Ihre Angestellten!",
 			"logoURL": "",
-			"website": "",
+			"website": "https://peers-solutions.com/",
 			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"addressCalculation": "https://www.youtube.com/channel/UCjvNoLnWp3MfRR5fvmLxEQg",
+			"address": "#VALUE!",
+			"city": "#VALUE!",
+			"postalCode": "#VALUE!"
 		},
 		{
 			"__tabName": "Entity",
@@ -2415,16 +2000,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "Recogizer",
-			"addedToMapbox": "FALSE",
-			"subtitle": "",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"name": "Hybrid",
+			"addedToMapbox": "FALSE"
 		},
 		{
 			"__tabName": "Entity",
@@ -2436,16 +2013,11 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "rooom AG",
+			"name": "Hybrid",
 			"addedToMapbox": "FALSE",
-			"subtitle": "",
+			"subtitle": "Erleben Sie das Metaverse hautnah. An unserem Stand stellen wir mit unserem AR-Portal einen Touchpoint zwischen der realen und der virtuellen Welt her. Viele interaktive XR-Elemente laden dazu ein, das Metaverse zu erkunden. Dazu zeigen wir Projekte, die wir gemeinsam mit der Telekom realisiert haben. Wir bringen Highlights aus unserer Zusammenarbeit mit, die deutlich machen, wie einfach unsere Lösungen in bestehende Telekomsysteme zur Steigerung der User Experience integriert werden können, z. B. durch virtuelle Events, virtuelle Flagshipstores & Schowrooms sowie durch Produktpräsentationen in virtuellen Shops. Dank AR erleben Sie dies auch direkt vor Ort.",
 			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"website": "www.rooom.com"
 		},
 		{
 			"__tabName": "Entity",
@@ -2457,16 +2029,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "Sensape",
-			"addedToMapbox": "FALSE",
-			"subtitle": "",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"name": "Hybrid",
+			"addedToMapbox": "FALSE"
 		},
 		{
 			"__tabName": "Entity",
@@ -2478,16 +2042,11 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "SmartStudy",
+			"name": "Hybrid",
 			"addedToMapbox": "FALSE",
-			"subtitle": "",
+			"subtitle": "Auf der DigitalX können Sie sich vorab über die neuesten Tools und Angebote von Smart-Study informieren!\nMit Smart-Authoring können Kurse jetzt ganz einfach in unserem Lernmanagementsystem erstellt und bearbeitet werden. Die grafische Benutzeroberfläche ermöglicht es spielend leicht Kurse zu bauen und Videos können ab sofort direkt im Lernmanagementsystem aufgenommen und geschnitten werden.\nErfahren Sie mehr zu unserer Phisingsimulationsplattform PROTECTLY. Schließen Sie Sicherheitslücke in Ihrem Unternehmen, in dem Sie Phishingkampagnen erstellen und auswerten. Mit den Cyber Awareness Trainings werden Mitarbeitende auf Cyber-Gefahren und IT-Sicherheit sensibilisiert.",
 			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"website": "https://protectly.eu/"
 		},
 		{
 			"__tabName": "Entity",
@@ -2499,16 +2058,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "snoopstar",
-			"addedToMapbox": "FALSE",
-			"subtitle": "",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"name": "Hybrid",
+			"addedToMapbox": "FALSE"
 		},
 		{
 			"__tabName": "Entity",
@@ -2520,16 +2071,11 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "SonoBeacon",
+			"name": "Hybrid",
 			"addedToMapbox": "FALSE",
-			"subtitle": "",
+			"subtitle": "Wir präsentieren unsere Crowd Management Solution live mit Echtzeit-Messebesucherdaten. Darüber hinaus Anwendungsszenarien der Lösung in den Bereichen  ÖPNV, Event Venues und  Tourismus  als Basis für ein effizientes, ortsbezogenes Auslastungs- und Besuchermanagement.\nFerner stellen wir eine Live-Demo unseres digitalen und barrierefreien, akustischen Kommunikationsstandards zur Verbesserung von Customer Experience & Inklusion im Bereich Smart Mobility  /Smart City vor.",
 			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"website": "www.sonobeacon.com"
 		},
 		{
 			"__tabName": "Entity",
@@ -2541,16 +2087,11 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "Spacific GmbH",
+			"name": "Hybrid",
 			"addedToMapbox": "FALSE",
-			"subtitle": "",
+			"subtitle": "Wir möchten unsere T-TechBoost Success-Story präsentieren. Aus der Challenge der Firma Emons ist eine Zusammenarbeit geworden und das Ergebnis heißt \"XR Logistics\". Mit dem smarten Stückgutversand über XR Logistics wird der gesamte Versandprozess inkl. einem digitalen Aufmaß des zu versendenden Objekts abgebildet. So erhält der Disponent die genauen Sendungsabmessungen und kann seine Ladungen effizienter planen. Besucher der Digital X können dies am Spacific Stand ausprobieren und Waren scannen.",
 			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"website": "www.spacific.de"
 		},
 		{
 			"__tabName": "Entity",
@@ -2562,16 +2103,11 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "sustainabill",
+			"name": "Hybrid",
 			"addedToMapbox": "FALSE",
-			"subtitle": "",
+			"subtitle": "Wie lässt sich Nachhaltigkeit in der Lieferkette zukunftssicher und pragmatisch umsetzen? Wir geben Ihnen an unserem Stand einen Eindruck unserer Lösung – live in der Plattform. Sprechen Sie mit uns erhalten Sie Antworten auf alle Ihre Fragen rund um das Thema Nachhaltigkeit und Lieferkette.",
 			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"website": "www.sustainabill.de"
 		},
 		{
 			"__tabName": "Entity",
@@ -2583,16 +2119,16 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "SUSTAYN",
+			"name": "Hybrid",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
-			"website": "",
+			"website": "www.sustayn.de",
 			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"addressCalculation": "https://www.youtube.com/channel/UCQMNiShVPCcZXMmFJvDejmw",
+			"address": "#VALUE!",
+			"city": "#VALUE!",
+			"postalCode": "#VALUE!"
 		},
 		{
 			"__tabName": "Entity",
@@ -2604,16 +2140,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "Urban Heat",
-			"addedToMapbox": "FALSE",
-			"subtitle": "",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"name": "Hybrid",
+			"addedToMapbox": "FALSE"
 		},
 		{
 			"__tabName": "Entity",
@@ -2625,16 +2153,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "VERSO GmbH",
-			"addedToMapbox": "FALSE",
-			"subtitle": "",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"name": "Hybrid",
+			"addedToMapbox": "FALSE"
 		},
 		{
 			"__tabName": "Entity",
@@ -2646,16 +2166,11 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "Vrdirect",
+			"name": "Hybrid",
 			"addedToMapbox": "FALSE",
-			"subtitle": "",
+			"subtitle": "VRdirect bietet auf der Digital X die Möglichkeit, echte Virtual Reality Projekte von Kunden wie Siemens, Nestle und der Deutschen Telekom zu erleben. VRdirect wird hierfür akuelle VR Headsets vor Ort auf der Digital X zur Verfügung stellen, um die VR Projekte auszuprobieren. Die Beispiele werden verschiedene Industrien (Dienstleistungen, Anlagenbau, Tourismus, Autmotive, Energie etc.) sowie Anwendungsfälle (HR, Training, Onboarding, Virtual Tours, Infotainment etc.) umfassen.",
 			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
+			"website": "https://www.vrdirect.com/"
 		},
 		{
 			"__tabName": "Entity",
@@ -2667,13 +2182,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"name": "XignSys",
-			"addedToMapbox": "FALSE",
-			"subtitle": "",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln"
+			"name": "Hybrid",
+			"addedToMapbox": "FALSE"
 		},
 		{
 			"__tabName": "Entity",
@@ -2685,13 +2195,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "",
-			"name": "Moxa Europe GmbH",
-			"addedToMapbox": "FALSE",
-			"subtitle": "",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Im Klapperhof 22-24, 50670 Köln"
+			"name": "Hybrid",
+			"addedToMapbox": "FALSE"
 		},
 		{
 			"__tabName": "Entity",
@@ -2703,13 +2208,13 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "",
-			"name": "Akamai Technologies",
+			"name": "Hybrid",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "Spichernstraße 10, 50672 Köln"
+			"addressCalculation": "https://www.youtube.com/user/akamaitechnologies"
 		},
 		{
 			"__tabName": "Entity",
@@ -2721,13 +2226,8 @@
 			"trend": "",
 			"sector": "Future",
 			"venueType": "brandhouse",
-			"name": "MIRA GmbH",
-			"addedToMapbox": "TRUE",
-			"subtitle": "",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Spichernstraße"
+			"name": "Hybrid",
+			"addedToMapbox": "TRUE"
 		},
 		{
 			"__tabName": "Entity",
@@ -2739,13 +2239,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "",
-			"name": "LocateRisk GmbH",
-			"addedToMapbox": "FALSE",
-			"subtitle": "",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln"
+			"name": "Hybrid",
+			"addedToMapbox": "FALSE"
 		},
 		{
 			"__tabName": "Entity",
@@ -2757,13 +2252,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "",
-			"name": "SyncReality GmbH",
-			"addedToMapbox": "FALSE",
-			"subtitle": "",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln"
+			"name": "Hybrid",
+			"addedToMapbox": "FALSE"
 		},
 		{
 			"__tabName": "Entity",
@@ -2775,13 +2265,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "",
-			"name": "Teraki GmbH",
-			"addedToMapbox": "FALSE",
-			"subtitle": "",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln"
+			"name": "Hybrid",
+			"addedToMapbox": "FALSE"
 		},
 		{
 			"__tabName": "Entity",
@@ -2793,13 +2278,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "",
-			"name": "CLOUDSUPPLIES",
-			"addedToMapbox": "FALSE",
-			"subtitle": "",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln"
+			"name": "Hybrid",
+			"addedToMapbox": "FALSE"
 		},
 		{
 			"__tabName": "Entity",
@@ -2811,13 +2291,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "",
-			"name": "Bitvox",
-			"addedToMapbox": "FALSE",
-			"subtitle": "",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln"
+			"name": "Hybrid",
+			"addedToMapbox": "FALSE"
 		},
 		{
 			"__tabName": "Entity",
@@ -2829,13 +2304,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "",
-			"name": "ByondXR",
-			"addedToMapbox": "FALSE",
-			"subtitle": "",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Maastrichterstr. 26, 50672 Köln"
+			"name": "Hybrid",
+			"addedToMapbox": "FALSE"
 		},
 		{
 			"__tabName": "Entity",
@@ -2847,13 +2317,8 @@
 			"trend": "",
 			"sector": "Interactive",
 			"venueType": "brandhouse",
-			"name": "Natif.ai",
-			"addedToMapbox": "FALSE",
-			"subtitle": "",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln"
+			"name": "Hybrid",
+			"addedToMapbox": "FALSE"
 		},
 		{
 			"__tabName": "Entity",
@@ -2865,13 +2330,13 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "",
-			"name": "T-Systems X-PERT HUB",
+			"name": "Hybrid",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "Friesenstraße 80, 50672 Köln"
+			"addressCalculation": "https://www.youtube.com/user/TSystemsDE"
 		},
 		{
 			"__tabName": "Entity",
@@ -2883,13 +2348,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "",
-			"name": "Cradlepoint ",
-			"addedToMapbox": "FALSE",
-			"subtitle": "",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Im Klapperhof 22-24, 50670 Köln"
+			"name": "Hybrid",
+			"addedToMapbox": "FALSE"
 		},
 		{
 			"__tabName": "Entity",
@@ -2901,13 +2361,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "",
-			"name": "Ericsson",
-			"addedToMapbox": "FALSE",
-			"subtitle": "",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Im Klapperhof 22-24, 50670 Köln"
+			"name": "Hybrid",
+			"addedToMapbox": "FALSE"
 		},
 		{
 			"__tabName": "Entity",
@@ -2919,13 +2374,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "",
-			"name": "Continental AG",
-			"addedToMapbox": "FALSE",
-			"subtitle": "",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Im Klapperhof 22-24, 50670 Köln"
+			"name": "Hybrid",
+			"addedToMapbox": "FALSE"
 		},
 		{
 			"__tabName": "Entity",
@@ -2937,13 +2387,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "",
-			"name": "TeamViewer Deutschland GmbH",
-			"addedToMapbox": "FALSE",
-			"subtitle": "",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Im Klapperhof 22-24, 50670 Köln"
+			"name": "Hybrid",
+			"addedToMapbox": "FALSE"
 		},
 		{
 			"__tabName": "Entity",
@@ -2955,7 +2400,7 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "",
-			"name": "T-Systems  ",
+			"name": "Hybrid",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -2968,13 +2413,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "",
-			"name": "Hilti Deutschland AG",
-			"addedToMapbox": "FALSE",
-			"subtitle": "",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Spichernstraße"
+			"name": "Hybrid",
+			"addedToMapbox": "FALSE"
 		},
 		{
 			"__tabName": "Entity",
@@ -2986,7 +2426,7 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "",
-			"name": "MagentaBusiness POS (MBPOS))",
+			"name": "Hybrid",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -2999,7 +2439,7 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "",
-			"name": "Contiamo GmbH",
+			"name": "Hybrid",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -3012,7 +2452,7 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "",
-			"name": "TruPhysics GmbH",
+			"name": "Hybrid",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -3025,7 +2465,7 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "",
-			"name": "FTI Engineering Network GmbH",
+			"name": "Hybrid",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -3038,7 +2478,7 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "",
-			"name": "Deutsches Zentrum für Luft- und Raumfahrt e.V. (DLR)",
+			"name": "Hybrid",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -3051,7 +2491,7 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "",
-			"name": "T-Systems International GmbH",
+			"name": "Hybrid",
 			"addedToMapbox": "FALSE"
 		},
 		{
