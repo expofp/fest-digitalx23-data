@@ -117,12 +117,12 @@
 			"id": "highlight_tour_1",
 			"entityType": "Route",
 			"parent": "",
-			"route1": "guided_tour_1",
+			"route1": "",
 			"route2": "",
 			"trend": "",
 			"sector": "",
 			"venueType": "tour",
-			"name": "Digitalisierungsroute Mittelstand",
+			"name": "Highlight Tour",
 			"addedToMapbox": "FALSE"
 		},
 		{
