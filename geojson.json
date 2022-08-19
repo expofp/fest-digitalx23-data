@@ -1372,6 +1372,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "digitalisierungstour_end"
+			},
+			"geometry": {
+				"coordinates": [
+					6.944744,
+					50.948508
+				],
+				"type": "Point"
+			},
+			"id": "749a61fe14335c30629c17f920e63699"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0005428"
 			},
 			"geometry": {
