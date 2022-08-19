@@ -46,6 +46,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "D0014213"
+			},
+			"geometry": {
+				"coordinates": [
+					6.936495,
+					50.93848
+				],
+				"type": "Point"
+			},
+			"id": "04d714e572a6dc9678039626145a23ea"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0005086"
 			},
 			"geometry": {
