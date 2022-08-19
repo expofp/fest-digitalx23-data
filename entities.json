@@ -189,6 +189,23 @@
 		},
 		{
 			"__tabName": "Entity",
+			"id": "digitalisierungstour",
+			"entityType": "Route",
+			"name": "",
+			"parent": "",
+			"route1": "",
+			"route2": "",
+			"route3": "",
+			"route4": "",
+			"route5": "",
+			"trend": "",
+			"sector": "",
+			"venueType": "tour",
+			"backup_Name_NotInUse": "",
+			"addedToMapbox": "FALSE"
+		},
+		{
+			"__tabName": "Entity",
 			"id": "monkeys_cocktail",
 			"entityType": "Venue",
 			"name": "Monkeys Cocktail Culture",
