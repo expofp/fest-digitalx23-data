@@ -445,6 +445,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "D0013575"
+			},
+			"geometry": {
+				"coordinates": [
+					6.93677,
+					50.942749
+				],
+				"type": "Point"
+			},
+			"id": "1726893c2eda4fcfbc50550651754a8e"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0004171"
 			},
 			"geometry": {
@@ -1594,6 +1608,20 @@
 				"type": "Point"
 			},
 			"id": "cf0c2f316f2919ba6cc8ecfe702b575f"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "D0014211"
+			},
+			"geometry": {
+				"coordinates": [
+					6.940623,
+					50.940779
+				],
+				"type": "Point"
+			},
+			"id": "d960fcf8e3965ae094548a66085161f6"
 		},
 		{
 			"type": "Feature",
