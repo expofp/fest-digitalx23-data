@@ -56,7 +56,13 @@ class Answerer {
 
         this.fullCount++;
         
-        
+        // if ( this.index > -1 && this.index < 7){
+        //     if("no" == answer){
+        //         this.incorrect_answer()
+        //     } else {
+
+        //     }
+        // }
 
         this.index > -1 && this.index < 7
             ? "no" == answer
@@ -103,19 +109,19 @@ class Answerer {
                   ? this.result_service()
                   : (answer = "")),
             38 == this.fullCount && ("" != this.finalResult ? this.show_personal_popup() : alert("system error"));
-        //     console.log(
-        //         "index : " + this.index + " swroir: " + this.sumanswer + " ; araswori: " + this.sumNoanswer
-        //     );
+            // console.log(
+            //     "index : " + this.index + " swroir: " + this.sumanswer + " ; araswori: " + this.sumNoanswer
+            // );
         // console.log("zazaza", this.result);
     }
 
     correct_answer() {
-        // console.log("correct", this.index + 1);
+        console.log("correct", this.index + 1);
         this.index++, this.index > 7 && this.sumanswer++;
     }
 
     incorrect_answer() {
-        // console.log("incorrect", this.index + 1);
+        console.log("incorrect", this.index + 1);
         this.index++, this.index > 7 && this.sumNoanswer++;
     }
 
@@ -130,7 +136,7 @@ class Answerer {
         (this.result = "услуги"), "" == this.finalResult && (this.finalResult = this.result);
     }
     show_personal_popup() {
-        console.info("POPUP", this.result);
+        console.info("POPUP", this.result, this.sumNoanswer);
     }
 }
 
