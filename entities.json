@@ -1343,7 +1343,15 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "Vuframe",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"subtitle": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Stadtgarten",
+			"address": "#VALUE!",
+			"city": "#VALUE!",
+			"postalCode": "#VALUE!"
 		},
 		{
 			"__tabName": "Entity",
