@@ -3937,7 +3937,7 @@
 			"__tabName": "Entity",
 			"id": "TEL_2022_011",
 			"entityType": "Exhibitor",
-			"name": "Telekom - Haus des Netzwerks",
+			"name": "Telekom - Haus der Netzwerke",
 			"parent": "",
 			"route1": "",
 			"route2": "",
@@ -3947,7 +3947,7 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse-t",
-			"backup_Name_NotInUse": "Telekom - Haus des Netzwerks",
+			"backup_Name_NotInUse": "Telekom - Haus der Netzwerke",
 			"addedToMapbox": "TRUE",
 			"subtitle": "25h Hotel"
 		},
