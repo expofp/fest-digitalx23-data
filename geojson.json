@@ -1526,7 +1526,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"startup_area": ""
+				"ID": "startup_area"
 			},
 			"geometry": {
 				"coordinates": [
