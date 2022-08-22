@@ -39,7 +39,6 @@
                     "children": ["create-array", ["get", "entity1"], ["get", "entity2"], ["get", "entity3"]]
                 },
                 {
-                    "parent": ["undefined"],
                     "route1": ["undefined"],
                     "route2": ["undefined"],
                     "entity1": ["undefined"],
@@ -143,6 +142,13 @@
             "update": {
                 "iconUrl": "https://fest-digitalx.expofp.com/images/new/default.png",
                 "iconUrlActive": "https://fest-digitalx.expofp.com/images/new/default-active.png"
+            }
+        },
+        {
+            "name": "Make exhibitors select venue",
+            "filter": ["==", "Exhibitor", ["get", "entityType"]],
+            "update": {
+                "select": ["create-array", ["get", "parent"], ["id"]]
             }
         },
         {
