@@ -98,15 +98,8 @@
         },
         {
             "name": "Set more details button",
-            "filter": [
-                "any",
-                ["==", ["get", "entityType"], "Route"],
-                ["==", ["get", "entityType"], "Exhibitor"],
-                ["==", ["get", "entityType"], "Venue"],
-                ["==", ["get", "entityType"], "Brandhouse"]
-            ],
             "update": {
-                "showMoreDetailsButton": true
+                "showMoreDetailsButton": ["==", ["get", "detailsLink"], "TRUE"]
             }
         },
         {
