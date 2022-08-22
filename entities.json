@@ -15,6 +15,7 @@
 			"sector": "",
 			"venueType": "",
 			"backup_Name_NotInUse": "Startup Garten",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "Discover innovative startups"
 		},
@@ -33,6 +34,7 @@
 			"sector": "",
 			"venueType": "bus_route",
 			"backup_Name_NotInUse": "Interactive Shuttle Route",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "Hop on hop off bus route Interactive"
 		},
@@ -51,6 +53,7 @@
 			"sector": "",
 			"venueType": "bus_route",
 			"backup_Name_NotInUse": "Interactive Shuttle - Stop",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "",
@@ -76,6 +79,7 @@
 			"sector": "",
 			"venueType": "bus_route",
 			"backup_Name_NotInUse": "Interactive Shuttle - Stop",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "",
@@ -101,6 +105,7 @@
 			"sector": "",
 			"venueType": "bus_route",
 			"backup_Name_NotInUse": "Interactive Shuttle - Stop",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "",
@@ -126,6 +131,7 @@
 			"sector": "",
 			"venueType": "bus_route",
 			"backup_Name_NotInUse": "Interactive Shuttle - Stop",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "",
@@ -151,6 +157,7 @@
 			"sector": "",
 			"venueType": "tour",
 			"backup_Name_NotInUse": "Highlight Tour",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE"
 		},
 		{
@@ -168,6 +175,7 @@
 			"sector": "",
 			"venueType": "tour",
 			"backup_Name_NotInUse": "Highlight Tour - Startpunkt",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "TRUE"
 		},
 		{
@@ -185,6 +193,7 @@
 			"sector": "",
 			"venueType": "tour",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "TRUE"
 		},
 		{
@@ -202,6 +211,7 @@
 			"sector": "",
 			"venueType": "tour",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE"
 		},
 		{
@@ -219,6 +229,7 @@
 			"sector": "",
 			"venueType": "tour",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "TRUE"
 		},
 		{
@@ -236,6 +247,7 @@
 			"sector": "",
 			"venueType": "",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -253,6 +265,7 @@
 			"sector": "",
 			"venueType": "check-in",
 			"backup_Name_NotInUse": "Monkeys Cocktail Culture",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "Accreditation / Check-In",
 			"logoURL": "",
@@ -278,6 +291,7 @@
 			"sector": "",
 			"venueType": "check-in",
 			"backup_Name_NotInUse": "Regal-Laden",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "Accreditation / Check-In",
 			"logoURL": "",
@@ -303,6 +317,7 @@
 			"sector": "",
 			"venueType": "check-in",
 			"backup_Name_NotInUse": "Sister & Co.",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "Accreditation / Check-In",
 			"logoURL": "",
@@ -328,6 +343,7 @@
 			"sector": "",
 			"venueType": "",
 			"backup_Name_NotInUse": "Mediapark Outdoor",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -353,6 +369,7 @@
 			"sector": "",
 			"venueType": "",
 			"backup_Name_NotInUse": "Stadtgarten",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -378,6 +395,7 @@
 			"sector": "",
 			"venueType": "",
 			"backup_Name_NotInUse": "Volksbühne",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -403,6 +421,7 @@
 			"sector": "",
 			"venueType": "",
 			"backup_Name_NotInUse": "Sartory Säle",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -428,6 +447,7 @@
 			"sector": "",
 			"venueType": "food",
 			"backup_Name_NotInUse": "Beef Brothers",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "",
@@ -453,6 +473,7 @@
 			"sector": "",
 			"venueType": "food",
 			"backup_Name_NotInUse": "Hanoi September",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "",
@@ -478,6 +499,7 @@
 			"sector": "",
 			"venueType": "food",
 			"backup_Name_NotInUse": "Little Candia",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "",
@@ -503,6 +525,7 @@
 			"sector": "",
 			"venueType": "food",
 			"backup_Name_NotInUse": "Maison Sen",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "",
@@ -528,6 +551,7 @@
 			"sector": "",
 			"venueType": "food",
 			"backup_Name_NotInUse": "Metzgerei Schmitz",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "",
@@ -553,6 +577,7 @@
 			"sector": "",
 			"venueType": "food",
 			"backup_Name_NotInUse": "Päff",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "",
@@ -578,6 +603,7 @@
 			"sector": "",
 			"venueType": "food",
 			"backup_Name_NotInUse": "Reineke Fuchs",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "",
@@ -603,6 +629,7 @@
 			"sector": "",
 			"venueType": "food",
 			"backup_Name_NotInUse": "Si Claro",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "",
@@ -628,6 +655,7 @@
 			"sector": "",
 			"venueType": "food",
 			"backup_Name_NotInUse": "Sushi Nara",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "",
@@ -653,6 +681,7 @@
 			"sector": "",
 			"venueType": "food",
 			"backup_Name_NotInUse": "YES.YOGA",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "",
@@ -678,6 +707,7 @@
 			"sector": "",
 			"venueType": "food",
 			"backup_Name_NotInUse": "Goldfinger",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "",
@@ -703,6 +733,7 @@
 			"sector": "",
 			"venueType": "food",
 			"backup_Name_NotInUse": "La latina",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "",
@@ -728,6 +759,7 @@
 			"sector": "",
 			"venueType": "marktplatz",
 			"backup_Name_NotInUse": "Komed Haus 6 UG",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "",
@@ -753,6 +785,7 @@
 			"sector": "",
 			"venueType": "marktplatz",
 			"backup_Name_NotInUse": "Mediapark Outdoor",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -778,6 +811,7 @@
 			"sector": "",
 			"venueType": "marktplatz",
 			"backup_Name_NotInUse": "Spichernstraße",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -803,6 +837,7 @@
 			"sector": "",
 			"venueType": "marktplatz",
 			"backup_Name_NotInUse": "Stadtgarten",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -828,6 +863,7 @@
 			"sector": "",
 			"venueType": "checkin",
 			"backup_Name_NotInUse": "Emma Pearl Modeboutique",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "",
@@ -853,6 +889,7 @@
 			"sector": "",
 			"venueType": "tour",
 			"backup_Name_NotInUse": "Highlights",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "P"
 		},
 		{
@@ -870,6 +907,7 @@
 			"sector": "",
 			"venueType": "tour",
 			"backup_Name_NotInUse": "Knowledge culture",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -887,6 +925,7 @@
 			"sector": "",
 			"venueType": "tour",
 			"backup_Name_NotInUse": "Health & Demographic Change",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -904,6 +943,7 @@
 			"sector": "",
 			"venueType": "tour",
 			"backup_Name_NotInUse": "Urbanisation",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -921,6 +961,7 @@
 			"sector": "",
 			"venueType": "tour",
 			"backup_Name_NotInUse": "Individualisation",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -938,6 +979,7 @@
 			"sector": "",
 			"venueType": "tour",
 			"backup_Name_NotInUse": "Safety",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -955,6 +997,7 @@
 			"sector": "",
 			"venueType": "tour",
 			"backup_Name_NotInUse": "Sustainability",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -972,6 +1015,7 @@
 			"sector": "",
 			"venueType": "tour",
 			"backup_Name_NotInUse": "Mobility",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -989,6 +1033,7 @@
 			"sector": "",
 			"venueType": "tour",
 			"backup_Name_NotInUse": "Globalisation",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -1006,6 +1051,7 @@
 			"sector": "",
 			"venueType": "tour",
 			"backup_Name_NotInUse": "Gender Shift",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -1023,6 +1069,7 @@
 			"sector": "",
 			"venueType": "tour",
 			"backup_Name_NotInUse": "Future of work",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -1040,6 +1087,7 @@
 			"sector": "Inspiration",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "Samsung",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/small_SAMSUNG_acc4797a1e_1d18590cc3.jpg",
@@ -1066,6 +1114,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "Jabra",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_jabra_logo_2ab9f8a512_f1aaaaa5b0.jpg",
@@ -1091,6 +1140,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "Telekom Experience House: Apple in Business",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/telekom_apple_e8d5d8f79a_fcd518911d.jpg",
@@ -1116,6 +1166,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "Itenos",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Itenos_dd4870e141_0deccd30cb.jpg",
@@ -1141,6 +1192,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "Content Guru ",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/content_guru_1cd057dc58_964b4871cc.jpg",
@@ -1166,6 +1218,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "Ivanti",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Ivanti_Logo_CMYK_a4cebfb251.jpg",
@@ -1191,6 +1244,7 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "Cisco 3-D Video Kommunikation & Augmented Reality Brandhouse",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "Leading you into the future of work",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_cisco_logo_22_v2_2be6ebf0f8_a3575e2699.jpg",
@@ -1216,6 +1270,7 @@
 			"sector": "Interactive",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "Datanet",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/small_Datanet_8e4ede2292_a994c45e76.jpg",
@@ -1243,6 +1298,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "Bintec-Elmeg",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_bintec_logo_9d5aacc361_3c5edc6c90.jpg",
@@ -1268,6 +1324,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "Atos Unify",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_atos_unify_logo_cf25718f0c_51352d2b8d.jpg",
@@ -1293,6 +1350,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "ALSO ",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/also_7bfa911c75_8c1b371a57.jpg",
@@ -1318,6 +1376,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "BPV",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/bpv_bc3adcb18b_8f48abb3a3.jpg",
@@ -1343,6 +1402,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "Vuframe",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -1368,6 +1428,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "Ringcentral",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Opitz_c4a8900e5a_452fd98417.jpg",
@@ -1393,6 +1454,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "q.beyond",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Ring_Central_554303b049_7d1e5d9f52.jpg",
@@ -1418,6 +1480,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "Opitz Consulting",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/qbeyond_20118a7756_0af5e8bc0d.jpg",
@@ -1443,6 +1506,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "Dinfra",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Dinfra_8ab1c0055b_9ae7b640e1.jpg",
@@ -1468,6 +1532,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "Lenovo",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Lenovo_c9ea69f3de_1_e36d46ceec.jpg",
@@ -1493,6 +1558,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "T IoT",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/IOT_6166395fd7_fed83adbda.jpg",
@@ -1518,6 +1584,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "C4B",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/C4_B_4265ee6e33_0aaec4e477.jpg",
@@ -1543,6 +1610,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "Zoom",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_zoom_logo_6302ce955c_6b8595260b.jpg",
@@ -1568,6 +1636,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "Netscout",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Netscout_eef4baa552_cb118cef0c.jpg",
@@ -1593,6 +1662,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "Lancom",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_lancom_logo_c9685dfc4c_34d37d745a.jpg",
@@ -1618,6 +1688,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "NFON",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_nfon_logo_ae5e077e77_62d6ceed96.jpg",
@@ -1643,6 +1714,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "Byon",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/small_byon_logo_5940533155_ceb054f406.jpg",
@@ -1668,6 +1740,7 @@
 			"sector": "Inspiration",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "Microsoft",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/microsoft_7b9a67cb55_22209430c5.jpg",
@@ -1693,6 +1766,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "Enreach",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_enreach_logo_284b34d996_1_a612d2c7df.jpg",
@@ -1718,6 +1792,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "JAMF",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/JAMF_1c9dcbe6fc_1_2017357ea3.jpg",
@@ -1743,6 +1818,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "Congstar",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/congstar_9178caed7f_f32b1a8f02.jpg",
@@ -1768,6 +1844,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "Aruba",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_hpe_aruba_logo_9dde9bd05f_8e2c3270f2.jpg",
@@ -1793,6 +1870,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "Aryaka",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_aryaka_logo_bbcb338b2f_c8c761c5fc.jpg",
@@ -1818,6 +1896,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "Bintect (IoT)",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_bintec_logo_9d5aacc361_1_f6f07ec0f4.jpg",
@@ -1843,6 +1922,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "Juniper",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Juniper_68a0d1c2c3_77e336381f.jpg",
@@ -1868,6 +1948,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "Stellaneo",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/stellaneot_c31b7fd7c7_79883e4482.jpg",
@@ -1893,6 +1974,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "Bintec",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_bintec_logo_9d5aacc361_1_f6f07ec0f4.jpg",
@@ -1918,6 +2000,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "Smenso",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/smenso_72687aff8f_56e889c7f0.jpg",
@@ -1943,6 +2026,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "BVMW",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/small_BVMW_bg_white_22_73b72acb23_a28478c661.jpg",
@@ -1968,6 +2052,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "DELL",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Dell_164f2f0378_621f4efdce.jpg",
@@ -1993,6 +2078,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "Global Carrier",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "",
@@ -2018,6 +2104,7 @@
 			"sector": "Inspiration",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "Google Cloud",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Google_105667684a_892288c2ac.jpg",
@@ -2043,6 +2130,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "Huawei",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Huawei_6d04e74c2e_7166f86e56.jpg",
@@ -2068,6 +2156,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "KPMG",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "",
@@ -2093,6 +2182,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "Medialine",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_medialine_logo_525eef97c6_3bc7b73c2c.jpg",
@@ -2118,6 +2208,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "Klitschko Ventures",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "",
@@ -2143,6 +2234,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "Salesforce",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Salesforce_b9c761b0ac_504fbc83ea.jpg",
@@ -2168,6 +2260,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "vm ware",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/vmware_9006b6ef99_fe5f46ff57.jpg",
@@ -2193,6 +2286,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "Xiaomi",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/partner_xiaomi_logo_ce25136073_d9bd3a9af5.jpg",
@@ -2218,6 +2312,7 @@
 			"sector": "",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "Bullitt",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Bullittt_ed1d5527a8_9d8f4fb761.jpg",
@@ -2243,6 +2338,7 @@
 			"sector": "",
 			"venueType": "Exhibitor",
 			"backup_Name_NotInUse": "4tiitoo",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -2268,6 +2364,7 @@
 			"sector": "",
 			"venueType": "Exhibitor",
 			"backup_Name_NotInUse": "acameo",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -2293,6 +2390,7 @@
 			"sector": "",
 			"venueType": "Exhibitor",
 			"backup_Name_NotInUse": "anny UG",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -2318,6 +2416,7 @@
 			"sector": "",
 			"venueType": "Exhibitor",
 			"backup_Name_NotInUse": "DeepSign GmbH",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -2343,6 +2442,7 @@
 			"sector": "",
 			"venueType": "Exhibitor",
 			"backup_Name_NotInUse": "dermanostic",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -2368,6 +2468,7 @@
 			"sector": "",
 			"venueType": "Exhibitor",
 			"backup_Name_NotInUse": "DOOB",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -2393,6 +2494,7 @@
 			"sector": "",
 			"venueType": "Exhibitor",
 			"backup_Name_NotInUse": "Enerthing GmbH",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -2418,6 +2520,7 @@
 			"sector": "",
 			"venueType": "Exhibitor",
 			"backup_Name_NotInUse": "Exaris Solutions",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -2443,6 +2546,7 @@
 			"sector": "",
 			"venueType": "Exhibitor",
 			"backup_Name_NotInUse": "Flexperto GmbH",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -2468,6 +2572,7 @@
 			"sector": "",
 			"venueType": "Exhibitor",
 			"backup_Name_NotInUse": "Flip GmbH",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -2493,81 +2598,7 @@
 			"sector": "",
 			"venueType": "Exhibitor",
 			"backup_Name_NotInUse": "Flixcheck GmbH",
-			"addedToMapbox": "FALSE",
-			"subtitle": "",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
-		},
-		{
-			"__tabName": "Entity",
-			"id": "D0014171",
-			"entityType": "Exhibitor",
-			"name": "Formation",
-			"parent": "startup_area",
-			"route1": "",
-			"route2": "",
-			"route3": "",
-			"route4": "",
-			"route5": "",
-			"trend": "",
-			"sector": "",
-			"venueType": "Exhibitor",
-			"backup_Name_NotInUse": "Formation",
-			"addedToMapbox": "FALSE",
-			"subtitle": "",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
-		},
-		{
-			"__tabName": "Entity",
-			"id": "D0014180",
-			"entityType": "Exhibitor",
-			"name": "FRAMEN",
-			"parent": "startup_area",
-			"route1": "",
-			"route2": "",
-			"route3": "",
-			"route4": "",
-			"route5": "",
-			"trend": "",
-			"sector": "",
-			"venueType": "Exhibitor",
-			"backup_Name_NotInUse": "FRAMEN",
-			"addedToMapbox": "FALSE",
-			"subtitle": "",
-			"logoURL": "",
-			"website": "",
-			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln",
-			"address": "Venloer Straße 40",
-			"city": "Köln",
-			"postalCode": "50672"
-		},
-		{
-			"__tabName": "Entity",
-			"id": "D0014174",
-			"entityType": "Exhibitor",
-			"name": "Innoloft",
-			"parent": "startup_area",
-			"route1": "",
-			"route2": "",
-			"route3": "",
-			"route4": "",
-			"route5": "",
-			"trend": "",
-			"sector": "",
-			"venueType": "Exhibitor",
-			"backup_Name_NotInUse": "Innoloft",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -2593,6 +2624,7 @@
 			"sector": "",
 			"venueType": "Exhibitor",
 			"backup_Name_NotInUse": "Kaptura",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -2618,6 +2650,7 @@
 			"sector": "",
 			"venueType": "Exhibitor",
 			"backup_Name_NotInUse": "Kauz GmbH",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -2643,6 +2676,7 @@
 			"sector": "",
 			"venueType": "Exhibitor",
 			"backup_Name_NotInUse": "LAQA GmbH",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -2668,6 +2702,7 @@
 			"sector": "",
 			"venueType": "Exhibitor",
 			"backup_Name_NotInUse": "LegalTegrity",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -2693,6 +2728,7 @@
 			"sector": "",
 			"venueType": "Exhibitor",
 			"backup_Name_NotInUse": "Lemon / Not just a Jewel",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -2718,6 +2754,7 @@
 			"sector": "",
 			"venueType": "Exhibitor",
 			"backup_Name_NotInUse": "Lexemo",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -2743,6 +2780,7 @@
 			"sector": "",
 			"venueType": "Exhibitor",
 			"backup_Name_NotInUse": "LOOMPACT",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -2768,6 +2806,7 @@
 			"sector": "",
 			"venueType": "Exhibitor",
 			"backup_Name_NotInUse": "Lylu",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -2793,6 +2832,7 @@
 			"sector": "",
 			"venueType": "Exhibitor",
 			"backup_Name_NotInUse": "MONDAY.ROCKS GmbH",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -2818,6 +2858,7 @@
 			"sector": "",
 			"venueType": "Exhibitor",
 			"backup_Name_NotInUse": "neXenio",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -2843,6 +2884,7 @@
 			"sector": "",
 			"venueType": "Exhibitor",
 			"backup_Name_NotInUse": "Nooxit",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -2868,6 +2910,7 @@
 			"sector": "",
 			"venueType": "Exhibitor",
 			"backup_Name_NotInUse": "oculavis",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -2893,6 +2936,7 @@
 			"sector": "",
 			"venueType": "Exhibitor",
 			"backup_Name_NotInUse": "OmegaLambdaTec GmbH",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -2918,6 +2962,7 @@
 			"sector": "",
 			"venueType": "Exhibitor",
 			"backup_Name_NotInUse": "ONSEI",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -2943,6 +2988,7 @@
 			"sector": "",
 			"venueType": "Exhibitor",
 			"backup_Name_NotInUse": "Palturai",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -2968,6 +3014,7 @@
 			"sector": "",
 			"venueType": "Exhibitor",
 			"backup_Name_NotInUse": "Peers Solutions GmbH",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -2993,6 +3040,7 @@
 			"sector": "",
 			"venueType": "Exhibitor",
 			"backup_Name_NotInUse": "Recogizer",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -3018,6 +3066,7 @@
 			"sector": "",
 			"venueType": "Exhibitor",
 			"backup_Name_NotInUse": "rooom AG",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -3043,6 +3092,7 @@
 			"sector": "",
 			"venueType": "Exhibitor",
 			"backup_Name_NotInUse": "Sensape",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -3068,6 +3118,7 @@
 			"sector": "",
 			"venueType": "Exhibitor",
 			"backup_Name_NotInUse": "SmartStudy",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -3093,6 +3144,7 @@
 			"sector": "",
 			"venueType": "Exhibitor",
 			"backup_Name_NotInUse": "snoopstar",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -3118,6 +3170,7 @@
 			"sector": "",
 			"venueType": "Exhibitor",
 			"backup_Name_NotInUse": "SonoBeacon",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -3143,6 +3196,7 @@
 			"sector": "",
 			"venueType": "Exhibitor",
 			"backup_Name_NotInUse": "Spacific GmbH",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -3168,6 +3222,7 @@
 			"sector": "",
 			"venueType": "Exhibitor",
 			"backup_Name_NotInUse": "sustainabill",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -3193,6 +3248,7 @@
 			"sector": "",
 			"venueType": "Exhibitor",
 			"backup_Name_NotInUse": "SUSTAYN",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -3207,7 +3263,7 @@
 			"__tabName": "Entity",
 			"id": "D0014186",
 			"entityType": "Exhibitor",
-			"name": "Urban Heat",
+			"name": "Futrity",
 			"parent": "startup_area",
 			"route1": "",
 			"route2": "",
@@ -3217,7 +3273,8 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "Exhibitor",
-			"backup_Name_NotInUse": "Urban Heat",
+			"backup_Name_NotInUse": "Futrity",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -3243,6 +3300,7 @@
 			"sector": "",
 			"venueType": "Exhibitor",
 			"backup_Name_NotInUse": "VERSO GmbH",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -3268,6 +3326,7 @@
 			"sector": "",
 			"venueType": "Exhibitor",
 			"backup_Name_NotInUse": "Vrdirect",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -3293,19 +3352,23 @@
 			"sector": "",
 			"venueType": "Exhibitor",
 			"backup_Name_NotInUse": "XignSys",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "Venloer Straße 40, 50672 Köln"
+			"addressCalculation": "Venloer Straße 40, 50672 Köln",
+			"address": "Venloer Straße 40",
+			"city": "Köln",
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
 			"id": "D0005365",
-			"entityType": "Brandhouse",
+			"entityType": "Exhibitor",
 			"name": "Moxa Europe GmbH",
-			"parent": "",
+			"parent": "startup_area",
 			"route1": "",
 			"route2": "",
 			"route3": "",
@@ -3313,8 +3376,9 @@
 			"route5": "",
 			"trend": "",
 			"sector": "",
-			"venueType": "",
+			"venueType": "Exhibitor",
 			"backup_Name_NotInUse": "Moxa Europe GmbH",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -3325,9 +3389,9 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0013575",
-			"entityType": "Brandhouse",
+			"entityType": "Exhibitor",
 			"name": "Akamai Technologies",
-			"parent": "",
+			"parent": "startup_area",
 			"route1": "",
 			"route2": "",
 			"route3": "",
@@ -3335,9 +3399,10 @@
 			"route5": "",
 			"trend": "",
 			"sector": "",
-			"venueType": "",
+			"venueType": "Exhibitor",
 			"backup_Name_NotInUse": "Akamai Technologies",
-			"addedToMapbox": "TRUE",
+			"detailsLink": "TRUE",
+			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
 			"website": "",
@@ -3359,6 +3424,7 @@
 			"sector": "Future",
 			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "MIRA GmbH",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "",
@@ -3381,6 +3447,7 @@
 			"sector": "",
 			"venueType": "",
 			"backup_Name_NotInUse": "LocateRisk GmbH",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -3391,9 +3458,9 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0014208",
-			"entityType": "Exhibitor",
+			"entityType": "Brandhouse",
 			"name": "SyncReality GmbH",
-			"parent": "startup_area",
+			"parent": "",
 			"route1": "",
 			"route2": "",
 			"route3": "",
@@ -3403,7 +3470,8 @@
 			"sector": "",
 			"venueType": "",
 			"backup_Name_NotInUse": "SyncReality GmbH",
-			"addedToMapbox": "FALSE",
+			"detailsLink": "TRUE",
+			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "",
 			"website": "",
@@ -3413,19 +3481,20 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0014207",
-			"entityType": "Exhibitor",
+			"entityType": "Brandhouse",
 			"name": "Teraki GmbH",
-			"parent": "startup_area",
-			"route1": "",
-			"route2": "",
+			"parent": "",
+			"route1": "highlight_tour_1",
+			"route2": "highlights",
 			"route3": "",
 			"route4": "",
 			"route5": "",
 			"trend": "",
-			"sector": "",
-			"venueType": "",
+			"sector": "Future",
+			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "Teraki GmbH",
-			"addedToMapbox": "FALSE",
+			"detailsLink": "TRUE",
+			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "",
 			"website": "",
@@ -3435,9 +3504,9 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0014206",
-			"entityType": "Exhibitor",
+			"entityType": "Brandhouse",
 			"name": "CLOUDSUPPLIES",
-			"parent": "startup_area",
+			"parent": "",
 			"route1": "",
 			"route2": "",
 			"route3": "",
@@ -3447,6 +3516,7 @@
 			"sector": "",
 			"venueType": "",
 			"backup_Name_NotInUse": "CLOUDSUPPLIES",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -3469,6 +3539,7 @@
 			"sector": "",
 			"venueType": "",
 			"backup_Name_NotInUse": "Bitvox",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -3482,7 +3553,7 @@
 			"entityType": "Exhibitor",
 			"name": "ByondXR",
 			"parent": "startup_area",
-			"route1": "highlight_tour_1",
+			"route1": "",
 			"route2": "",
 			"route3": "",
 			"route4": "",
@@ -3491,7 +3562,8 @@
 			"sector": "",
 			"venueType": "",
 			"backup_Name_NotInUse": "ByondXR",
-			"addedToMapbox": "TRUE",
+			"detailsLink": "TRUE",
+			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
 			"website": "",
@@ -3501,18 +3573,19 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0014212",
-			"entityType": "Brandhouse",
+			"entityType": "Exhibitor",
 			"name": "Natif.ai",
-			"parent": "",
+			"parent": "startup_area",
 			"route1": "",
-			"route2": "highlights",
+			"route2": "",
 			"route3": "",
 			"route4": "",
 			"route5": "",
 			"trend": "",
-			"sector": "Interactive",
-			"venueType": "brandhouse",
+			"sector": "",
+			"venueType": "",
 			"backup_Name_NotInUse": "Natif.ai",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -3535,7 +3608,8 @@
 			"sector": "",
 			"venueType": "",
 			"backup_Name_NotInUse": "T-Systems X-PERT HUB",
-			"addedToMapbox": "TRUE",
+			"detailsLink": "TRUE",
+			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
 			"website": "",
@@ -3545,10 +3619,10 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0005381",
-			"entityType": "",
+			"entityType": "Exhibitor",
 			"name": "Cradlepoint ",
-			"parent": "",
-			"route1": "",
+			"parent": "startup_area",
+			"route1": "highlight_tour_1",
 			"route2": "",
 			"route3": "",
 			"route4": "",
@@ -3557,7 +3631,8 @@
 			"sector": "",
 			"venueType": "",
 			"backup_Name_NotInUse": "Cradlepoint ",
-			"addedToMapbox": "FALSE",
+			"detailsLink": "TRUE",
+			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "",
 			"website": "",
@@ -3567,18 +3642,19 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0014241",
-			"entityType": "",
+			"entityType": "Brandhouse",
 			"name": "Ericsson",
 			"parent": "",
 			"route1": "",
-			"route2": "",
+			"route2": "highlights",
 			"route3": "",
 			"route4": "",
 			"route5": "",
 			"trend": "",
-			"sector": "",
-			"venueType": "",
+			"sector": "Interactive",
+			"venueType": "brandhouse",
 			"backup_Name_NotInUse": "Ericsson",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -3589,9 +3665,9 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0014240",
-			"entityType": "",
+			"entityType": "Exhibitor",
 			"name": "Continental AG",
-			"parent": "",
+			"parent": "startup_area",
 			"route1": "",
 			"route2": "",
 			"route3": "",
@@ -3601,7 +3677,8 @@
 			"sector": "",
 			"venueType": "",
 			"backup_Name_NotInUse": "Continental AG",
-			"addedToMapbox": "FALSE",
+			"detailsLink": "TRUE",
+			"addedToMapbox": "TRUE",
 			"subtitle": "",
 			"logoURL": "",
 			"website": "",
@@ -3623,6 +3700,7 @@
 			"sector": "",
 			"venueType": "",
 			"backup_Name_NotInUse": "TeamViewer Deutschland GmbH",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -3645,6 +3723,7 @@
 			"sector": "",
 			"venueType": "",
 			"backup_Name_NotInUse": "T-Systems  ",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -3662,6 +3741,7 @@
 			"sector": "",
 			"venueType": "",
 			"backup_Name_NotInUse": "Hilti Deutschland AG",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
 			"logoURL": "",
@@ -3684,6 +3764,7 @@
 			"sector": "",
 			"venueType": "",
 			"backup_Name_NotInUse": "MagentaBusiness POS (MBPOS))",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -3701,6 +3782,7 @@
 			"sector": "",
 			"venueType": "",
 			"backup_Name_NotInUse": "Contiamo GmbH",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -3718,6 +3800,7 @@
 			"sector": "",
 			"venueType": "",
 			"backup_Name_NotInUse": "TruPhysics GmbH",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -3735,6 +3818,7 @@
 			"sector": "",
 			"venueType": "",
 			"backup_Name_NotInUse": "FTI Engineering Network GmbH",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -3752,6 +3836,7 @@
 			"sector": "",
 			"venueType": "",
 			"backup_Name_NotInUse": "Deutsches Zentrum für Luft- und Raumfahrt e.V. (DLR)",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -3769,6 +3854,7 @@
 			"sector": "",
 			"venueType": "",
 			"backup_Name_NotInUse": "T-Systems International GmbH",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -3786,6 +3872,7 @@
 			"sector": "Disruption",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "Brandhouse Telekom \"Digitale Chancen\"",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "Café & Theater im Bauturm"
 		},
@@ -3804,6 +3891,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "Direkter Vertrieb & \nService Geschäftskunden",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "Barber Shop Cologne"
 		},
@@ -3822,6 +3910,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "Treffpunkt Public Sector",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "Little Candia"
 		},
@@ -3840,6 +3929,7 @@
 			"sector": "Disruption",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "Segmenthaus KMU",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "Herr Pimock"
 		},
@@ -3858,6 +3948,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "Segmenthaus L",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "Piccola"
 		},
@@ -3876,6 +3967,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "Segmenthaus M",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "Kastanie"
 		},
@@ -3894,6 +3986,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "Segmenthaus Partnervertrieb",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "Supa Salad "
 		},
@@ -3912,6 +4005,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "Segmenthaus Telekom - XL",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "Café 7ieben"
 		},
@@ -3930,6 +4024,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "Telekom - Digitale Bildung",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "Halle 46"
 		},
@@ -3948,6 +4043,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "Telekom - Haus der Netzwerke",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "25h Hotel"
 		},
@@ -3966,6 +4062,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "Telekom - International",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "ZEN"
 		},
@@ -3984,6 +4081,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "Telekom - Magenta TV",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "Hallmackenreuther"
 		},
@@ -4002,6 +4100,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "Telekom - Sales & Service",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "Brownies"
 		},
@@ -4020,6 +4119,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "Telekom - Schubkraft",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "Remos"
 		},
@@ -4038,6 +4138,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "Telekom - Vertriebslounge",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "NENI - 25hours Hotel"
 		},
@@ -4056,6 +4157,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "Telekom - Vertriebslounge",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "BurritoRico"
 		},
@@ -4074,6 +4176,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "Telekom - Vertriebslounge",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "Mikado Shushi"
 		},
@@ -4092,6 +4195,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "Workshops",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "KOMED Haus 7"
 		},
@@ -4110,6 +4214,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "Workshops",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "NH Collection Hotel"
 		},
@@ -4128,6 +4233,7 @@
 			"sector": "Inspiration",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "B2B Portfolio Marktplatz",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "KOMED Haus 6"
 		},
@@ -4146,6 +4252,7 @@
 			"sector": "Future",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "Global Carrier ",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "Restaurant Acht"
 		},
@@ -4164,6 +4271,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "TRUE"
 		},
 		{
@@ -4181,6 +4289,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4198,6 +4307,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4215,6 +4325,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4232,6 +4343,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4249,6 +4361,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4266,6 +4379,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4283,6 +4397,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4300,6 +4415,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4317,6 +4433,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4334,6 +4451,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4351,6 +4469,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4368,6 +4487,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4385,6 +4505,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4402,6 +4523,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4419,6 +4541,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4436,6 +4559,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4453,6 +4577,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4470,6 +4595,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4487,6 +4613,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4504,6 +4631,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4521,6 +4649,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4538,6 +4667,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4555,6 +4685,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4572,6 +4703,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4589,6 +4721,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4606,6 +4739,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4623,6 +4757,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4640,6 +4775,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4657,6 +4793,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4674,6 +4811,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4691,6 +4829,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4708,6 +4847,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4725,6 +4865,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4742,6 +4883,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4759,6 +4901,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4776,6 +4919,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4793,6 +4937,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4810,6 +4955,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4827,6 +4973,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4844,6 +4991,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4861,6 +5009,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4878,6 +5027,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4895,6 +5045,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4912,6 +5063,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4929,6 +5081,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4946,6 +5099,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4963,6 +5117,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4980,6 +5135,7 @@
 			"sector": "",
 			"venueType": "brandhouse-t",
 			"backup_Name_NotInUse": "",
+			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
 		},
 		{
@@ -4997,6 +5153,7 @@
 			"sector": "Future",
 			"venueType": "future",
 			"backup_Name_NotInUse": "Stadtgarten",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "Future stage",
 			"logoURL": "",
@@ -5025,6 +5182,7 @@
 			"sector": "Inspiration",
 			"venueType": "inspiration",
 			"backup_Name_NotInUse": "Mediapark Köln",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "Inspiration stage",
 			"logoURL": "",
@@ -5050,6 +5208,7 @@
 			"sector": "Interactive",
 			"venueType": "interactive",
 			"backup_Name_NotInUse": "Sartory Säle",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "Interactive stage",
 			"logoURL": "",
@@ -5075,6 +5234,7 @@
 			"sector": "Disruption",
 			"venueType": "disruption",
 			"backup_Name_NotInUse": "Volksbühne ",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "Disruption stage",
 			"logoURL": "",
@@ -5100,6 +5260,7 @@
 			"sector": "Inspiration",
 			"venueType": "inspiration",
 			"backup_Name_NotInUse": "KOMED",
+			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "Magenta stage",
 			"logoURL": "",
