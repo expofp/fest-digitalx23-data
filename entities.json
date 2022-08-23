@@ -4260,7 +4260,7 @@
 			"__tabName": "Entity",
 			"id": "TEL_2022_025",
 			"entityType": "Exhibitor",
-			"name": "",
+			"name": "Startup Garden",
 			"parent": "",
 			"route1": "",
 			"route2": "",
@@ -4268,11 +4268,12 @@
 			"route4": "",
 			"route5": "",
 			"trend": "",
-			"sector": "",
+			"sector": "Future",
 			"venueType": "brandhouse-t",
-			"backup_Name_NotInUse": "",
+			"backup_Name_NotInUse": "Startup Garden",
 			"detailsLink": "FALSE",
-			"addedToMapbox": "TRUE"
+			"addedToMapbox": "TRUE",
+			"subtitle": "Stadtgarten"
 		},
 		{
 			"__tabName": "Entity",
