@@ -4237,7 +4237,7 @@
 			"__tabName": "Entity",
 			"id": "TEL_2022_025",
 			"entityType": "Exhibitor",
-			"name": "Startup Garden",
+			"name": "TechBoost Startup Garden",
 			"parent": "",
 			"route1": "",
 			"route2": "",
@@ -4247,7 +4247,7 @@
 			"trend": "",
 			"sector": "Future",
 			"venueType": "brandhouse-t",
-			"backup_Name_NotInUse": "Startup Garden",
+			"backup_Name_NotInUse": "TechBoost Startup Garden",
 			"detailsLink": "FALSE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "Stadtgarten"
