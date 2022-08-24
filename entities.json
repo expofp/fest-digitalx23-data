@@ -5261,7 +5261,7 @@
 			"id": "health---demographic-change",
 			"name": "Health & Demographic Change",
 			"name_de": "Gesundheit & Demografischer Wandel",
-			"trendMapping(Import)": "D0014176, D0014191, D0014181, D0014262, D0014250, D0014243, D0004279, D0014175, D0004273, SP_2022_0008, D0014205, TEL_2022_015, D0004213, D0005428, D0004316, D0013576, "
+			"trendMapping(Import)": "D0014172, D0014176, D0014191, D0014181, D0014262, D0014250, D0014243, D0004279, D0014175, D0004273, SP_2022_0008, D0014205, TEL_2022_015, D0004213, D0005428, D0004316, D0013576, "
 		},
 		{
 			"__tabName": "Trends",
