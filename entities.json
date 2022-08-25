@@ -4091,7 +4091,7 @@
 			"__tabName": "Entity",
 			"id": "TEL_2022_014",
 			"entityType": "Exhibitor",
-			"name": "Telekom - Sales & Service",
+			"name": "Null-Problemo-Store",
 			"parent": "",
 			"route1": "",
 			"route2": "",
@@ -4101,7 +4101,7 @@
 			"trend": "",
 			"sector": "Disruption",
 			"venueType": "brandhouse-t",
-			"backup_Name_NotInUse": "Telekom - Sales & Service",
+			"backup_Name_NotInUse": "Null-Problemo-Store",
 			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "Brownies"
@@ -4262,7 +4262,7 @@
 			"__tabName": "Entity",
 			"id": "TEL_2022_025",
 			"entityType": "Exhibitor",
-			"name": "",
+			"name": "Telekom Pop up Shop",
 			"parent": "",
 			"route1": "",
 			"route2": "",
@@ -4270,11 +4270,12 @@
 			"route4": "",
 			"route5": "",
 			"trend": "",
-			"sector": "",
+			"sector": "Disruption",
 			"venueType": "brandhouse-t",
-			"backup_Name_NotInUse": "",
+			"backup_Name_NotInUse": "Telekom Pop up Shop",
 			"detailsLink": "FALSE",
-			"addedToMapbox": "TRUE"
+			"addedToMapbox": "TRUE",
+			"subtitle": "Azure Cologne"
 		},
 		{
 			"__tabName": "Entity",
