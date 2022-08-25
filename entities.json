@@ -245,7 +245,7 @@
 			"route5": "",
 			"trend": "",
 			"sector": "",
-			"venueType": "",
+			"venueType": "tour",
 			"backup_Name_NotInUse": "",
 			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE"
@@ -4072,7 +4072,7 @@
 			"__tabName": "Entity",
 			"id": "TEL_2022_013",
 			"entityType": "Exhibitor",
-			"name": "Telekom - Magenta TV",
+			"name": "MagentaTV Lounge",
 			"parent": "",
 			"route1": "",
 			"route2": "",
@@ -4082,7 +4082,7 @@
 			"trend": "",
 			"sector": "Disruption",
 			"venueType": "brandhouse-t",
-			"backup_Name_NotInUse": "Telekom - Magenta TV",
+			"backup_Name_NotInUse": "MagentaTV Lounge",
 			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "Hallmackenreuther"
@@ -4281,7 +4281,7 @@
 			"__tabName": "Entity",
 			"id": "TEL_2022_027",
 			"entityType": "Exhibitor",
-			"name": "",
+			"name": "WLAN Wohnzimmer",
 			"parent": "",
 			"route1": "",
 			"route2": "",
@@ -4289,17 +4289,18 @@
 			"route4": "",
 			"route5": "",
 			"trend": "",
-			"sector": "",
+			"sector": "Disruption",
 			"venueType": "brandhouse-t",
-			"backup_Name_NotInUse": "",
+			"backup_Name_NotInUse": "WLAN Wohnzimmer",
 			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"subtitle": "Hallmackenreuther"
 		},
 		{
 			"__tabName": "Entity",
 			"id": "TEL_2022_028",
 			"entityType": "Exhibitor",
-			"name": "",
+			"name": "Ideenschmiede & Magenta Garage",
 			"parent": "",
 			"route1": "",
 			"route2": "",
@@ -4309,9 +4310,10 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse-t",
-			"backup_Name_NotInUse": "",
+			"backup_Name_NotInUse": "Ideenschmiede & Magenta Garage",
 			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"subtitle": "Parkgarage Maastrichter"
 		},
 		{
 			"__tabName": "Entity",
