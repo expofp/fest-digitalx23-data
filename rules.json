@@ -50,11 +50,11 @@
         },
         {
             "name": "Rename iconURL to iconUrl",
-            "update": [{ "iconUrl": ["get", "iconURL"] }, { "iconURL": ["undefined"] }]
+            "update": [{ "iconUrl": ["get", "iconURL"] }]
         },
         {
             "name": "Rename logoURL to logoUrl",
-            "update": [{ "logoUrl": ["get", "logoURL"] }, { "logoURL": ["undefined"] }]
+            "update": [{ "logoUrl": ["get", "logoURL"] }]
         },
         {
             "name": "Set icons from venueType/sector",
