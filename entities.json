@@ -4243,7 +4243,7 @@
 			"__tabName": "Entity",
 			"id": "TEL_2022_024",
 			"entityType": "Exhibitor",
-			"name": "Global Carrier ",
+			"name": "Deutsche Telekom Global Carrier",
 			"parent": "",
 			"route1": "",
 			"route2": "highlights",
@@ -4253,7 +4253,7 @@
 			"trend": "",
 			"sector": "Future",
 			"venueType": "brandhouse-t",
-			"backup_Name_NotInUse": "Global Carrier ",
+			"backup_Name_NotInUse": "Deutsche Telekom Global Carrier",
 			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "Restaurant Acht"
