@@ -36,6 +36,13 @@
                     ]
                 },
                 {
+                    "parentVenue": [
+                        "at",
+                        0,
+                        ["filter", ["parents"], "e", null, ["==", ["get", "entityType", ["var", "e"]], "Venue"]]
+                    ]
+                },
+                {
                     "children": ["create-array", ["get", "entity1"], ["get", "entity2"], ["get", "entity3"]]
                 },
                 {
@@ -145,10 +152,11 @@
             }
         },
         {
-            "name": "Make exhibitors select venue",
-            "filter": ["==", "Exhibitor", ["get", "entityType"]],
+            "name": "Make exhibitors select venue and have geometry copied from venue",
+            "filter": ["all", ["==", "Exhibitor", ["get", "entityType"], ["!", ["get", "geometry"]]]],
             "update": {
-                "select": ["create-array", ["get", "parent"], ["id"]]
+                "select": ["create-array", ["get", "parent"], ["id"]],
+                "geometry": ["get", "geometry", ["get", "parentVenue"]]
             }
         },
         {
@@ -186,12 +194,16 @@
                         ["map", ["children"], "val", null, ["id", ["var", "val"]]],
                         ["create-array", ["id"]]
                     ]
-                },
-                {
-                    "tmpParentRoutes": ["undefined"],
-                    "tmpMeAndRoutes": ["undefined"]
                 }
             ]
+        },
+        {
+            "name": "Cleanup",
+            "update": {
+                "tmpParentRoutes": ["undefined"],
+                "tmpMeAndRoutes": ["undefined"],
+                "parentVenue": ["undefined"]
+            }
         }
     ]
 }
