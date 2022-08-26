@@ -4154,6 +4154,62 @@
 		},
 		{
 			"__tabName": "Entity",
+			"id": "D0014249",
+			"entityType": "",
+			"name": "UBIRCH GmbH",
+			"parent": "",
+			"route1": "",
+			"route2": "",
+			"route3": "",
+			"route4": "",
+			"route5": "",
+			"trend": "",
+			"sector": "",
+			"venueType": "",
+			"backup_Name_NotInUse": "UBIRCH GmbH",
+			"detailsLink": "FALSE",
+			"addedToMapbox": "FALSE",
+			"subtitle": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln",
+			"address": "",
+			"city": "",
+			"postalCode": "",
+			"description": "Unser Referenzkunde Butlers wird mit einem innovativen Case vor Ort dabei sein. Lernen Sie, wie Butlers Ware an Kunden verkauft, auch wenn diese nicht im Lager ist und wie Schlangenbildung an der Kasse durch den Einsatz mit dem mobilen Donner vermieden werden kann. Zusätzlich zeigen wir Ihnen, wie sie digitale Kassenbons auf allen Devices mittels QR-Code, Mail oder SMS umsetzen können. Außerdem bringen wir die Insel Sylt nach Köln. Erfahren Sie, wie die Insel alle Gastronomen miteinander vernetzt und ein einheitliches Gastronomie-Konzept etabliert. Bestellung bequem aus dem Strandkorb und Rechnungsstellung direkt beim Kunden am Strand. Wie das geht? Das erfahren Sie am MagentaBusiness POS Stand im Future Quartier im Kölner Stadtgarten.",
+			"description_de": "#REF!"
+		},
+		{
+			"__tabName": "Entity",
+			"id": "D0014274",
+			"entityType": "",
+			"name": "Webasto",
+			"parent": "",
+			"route1": "",
+			"route2": "",
+			"route3": "",
+			"route4": "",
+			"route5": "",
+			"trend": "",
+			"sector": "",
+			"venueType": "",
+			"backup_Name_NotInUse": "Webasto",
+			"detailsLink": "FALSE",
+			"addedToMapbox": "FALSE",
+			"subtitle": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Spichernstraße",
+			"address": "",
+			"city": "",
+			"postalCode": "",
+			"description": "Wir zeigen Ihnen, wie jedes Unternehmen egal welcher Größe Machine Learning und Data Science nutzen kann, um das meiste aus seinen Daten herauszuholen. Unser Ziel ist es innvoative Lösungen für typische Probleme aufzuzeigen. Egal ob es Ihnen um mehr Effizienz, höhere Kundenzufriedenheit oder bessere Verkaufschancen geht - wir haben die passenden Use-Cases und Beispiele. Dabei gibt es bei uns nicht nur die Resulate zu bestaunen, sondern auch den Weg dorthin und die zugehörigen Best-Practices. Zusätzlich geben wir Tipps und Tricks um einen skalierbaren, offenen und zukunftssicheren Tech-Stack aufzubauen und die eigenen Datenstrategien zu beschleunigen.",
+			"description_de": "#REF!"
+		},
+		{
+			"__tabName": "Entity",
 			"id": "D0004103",
 			"entityType": "",
 			"name": "Cisco  ",
@@ -5604,7 +5660,7 @@
 			"id": "knowledge-culture",
 			"name": "Knowledge culture",
 			"name_de": "Wissenskultur ",
-			"trendMapping(Import)": "D0004103, D0014148, D0004262, D0004268, D0014247, D0005380, D0004265, D0014144, D0014189, D0004264, D0014165, SP_2022_0004, SP_2022_0001, D0014205, D0014208, D0014190, D0005365, D0014182, D0004266, D0014163, D0004213, D0005428, D0014104, D0004316, D0013576, "
+			"trendMapping(Import)": "D0004345, D0014256, D0004103, D0014148, D0004262, D0004268, D0014247, D0005380, D0004265, D0014144, D0014189, D0004264, D0014165, SP_2022_0004, SP_2022_0001, D0014205, D0014208, D0014190, D0005365, D0014182, D0004266, D0014163, D0004213, D0005428, D0014104, D0004316, D0013576, "
 		},
 		{
 			"__tabName": "Trends",
@@ -5618,14 +5674,14 @@
 			"id": "gender-shift",
 			"name": "Gender Shift",
 			"name_de": "Gender Shift",
-			"trendMapping(Import)": "D0004103, D0014176, TEL_2022_001, SP_2022_0039, SP_2022_0038, SP_2022_0037, SP_2022_0018, SP_2022_0036, SP_2022_0005, SP_2022_0032, SP_2022_0006, D0014146"
+			"trendMapping(Import)": "D0004345, D0004103, D0014176, TEL_2022_001, SP_2022_0039, SP_2022_0038, SP_2022_0037, SP_2022_0018, SP_2022_0036, SP_2022_0005, SP_2022_0032, SP_2022_0006, D0014146"
 		},
 		{
 			"__tabName": "Trends",
 			"id": "future-of-work",
 			"name": "Future of work",
 			"name_de": "Zukunft der Arbeit",
-			"trendMapping(Import)": "D0004103, D0004214, D0014147, D0014148, D0014179, D0004275, D0004262, D0004268, D0014167, D0014173, D0014262, D0014250, D0014243, D0014244, D0014246, D0014247, D0005380, D0005617, D0004272, D0014144, D0004279, D0014189, D0004264, D0014165, SP_2022_0014, SP_2022_0037, SP_2022_0013, SP_2022_0035, SP_2022_0015, SP_2022_0005, SP_2022_0010, SP_2022_0006, SP_2022_0022, D0014212, D0014205, D0014206, D0014208, D0005464, D0013575, D0014188, D0014144, D0014146, D0014182, D0004266, D0014163, D0004171, D0004213, D0005355, D0005086, D0013499, D0013500, D0005513, D0005436, D0005428, D0004258, D0013528, D0005598, D0005354, D0014104, D0004318, D0004316, D0013576, "
+			"trendMapping(Import)": "D0004345, D0014256, D0004103, D0004214, D0014147, D0014148, D0014179, D0004275, D0004262, D0004268, D0014167, D0014173, D0014262, D0014250, D0014243, D0014244, D0014246, D0014247, D0005380, D0005617, D0004272, D0014144, D0004279, D0014189, D0004264, D0014165, SP_2022_0014, SP_2022_0037, SP_2022_0013, SP_2022_0035, SP_2022_0015, SP_2022_0005, SP_2022_0010, SP_2022_0006, SP_2022_0022, D0014212, D0014205, D0014206, D0014208, D0005464, D0013575, D0014188, D0014144, D0014146, D0014182, D0004266, D0014163, D0004171, D0004213, D0005355, D0005086, D0013499, D0013500, D0005513, D0005436, D0005428, D0004258, D0013528, D0005598, D0005354, D0014104, D0004318, D0004316, D0013576, "
 		},
 		{
 			"__tabName": "VenueType",
