@@ -2506,7 +2506,7 @@
 			"address": "Venloer Straße 40",
 			"city": "Köln",
 			"postalCode": "50672",
-			"description": "",
+			"description": "Live-Demos zeigen Ihnen, wie Sie Kunden mit einer nahtlosen & personalisierten Customer Experience begeistern, Prozesse vereinfachen, Ressourcen schonen und ihre Nachhaltigkeitsziele im Blick behalten.\r\nCustomer 360 vereint all Ihre Teams, Vertrieb, Marketing & Service, unternehmensweit orts- und zeitunabhängig auf einer einzigen Plattform & schafft so eine ganzheitliche Sicht auf alle Kundendaten.\r\nMit DocuSign bereiten Sie Verträge in Salesforce vor, unterzeichnen, analysieren und verwalten diese- dank eingebetteter Workflows über den gesamten Vertriebszyklus.\r\nMit der neuen Net Zero Cloud machen Sie einen großen Schritt in Richtung Klimaneutralität. Erfassung, Analyse und Dokumentation sämtlicher Emissionsdaten auf einer Plattform.",
 			"description_de": "#REF!"
 		},
 		{
@@ -4494,7 +4494,7 @@
 			"address": "",
 			"city": "",
 			"postalCode": "",
-			"description": "Auf der Digital X 2022 wird Aircall Ihnen hautnah einen Einblick in die Funktionsweise eines Cloud-Telefons geben und aufzeigen, wie Teams in Ihrem Unternehmen Telefonieren nicht nur effizienter gestalten, sondern auch eine höhere Kundenzufriedenheit erzielen können. Kommen Sie zur persönliche Beratung vor Ort, in welcher wir Ihnen das Produkt live vorführen und auf spannende Funktionen, unsere Analytics-Berichte und das Dashboard, als auch versch. Integrationsmöglichkeiten nährer eingehen können - angepasst auf Ihre Bedürfnisse. Bei uns dreht sich alles um Effizienzsteigerung im Vertrieb & Support, die Digitalisierung & Automatisierung von manuellen Aufgaben, die Ermöglichung von Hybrid- & Remote-Arbeit, als auch Datensicherheit & -schutz von Telefondaten. Reinschnuppern lohnt sich!",
+			"description": "Auf der X wird Aircall Ihnen hautnah Einblick in die Funktionsweise eines Cloud-Telefons geben und zeigen, wie Teams in Ihrem Unternehmen Telefonieren nicht nur effizienter gestalten, sondern auch eine höhere Kundenzufriedenheit erzielen können. Kommen Sie zur persönliche Beratung vor Ort, in welcher wir Ihnen das Produkt live vorführen und auf spannende Funktionen, unsere Analytics-Berichte und das Dashboard, als auch verschiedene Integrationsmöglichkeiten näher eingehen können - angepasst auf Ihre Bedürfnisse. Bei uns dreht sich alles um Effizienzsteigerung im Vertrieb & Support, die Digitalisierung & Automatisierung von manuellen Aufgaben, die Ermöglichung von Hybrid- & Remote-Arbeit, als auch Datensicherheit & -schutz von Telefondaten. Reinschnuppern lohnt sich also allemal!",
 			"description_de": "#REF!"
 		},
 		{
@@ -5949,7 +5949,7 @@
 			"id": "knowledge-culture",
 			"name": "Knowledge culture",
 			"name_de": "Wissenskultur ",
-			"trendMapping(Import)": "D0004269, D0014257, D0004345, D0014256, D0004103, D0014148, D0004262, D0004268, D0014247, D0005380, D0004265, D0014144, D0014189, D0004264, D0014165, SP_2022_0004, SP_2022_0001, D0014205, D0014208, D0014190, D0005365, D0014182, D0004266, D0014163, D0004213, D0005428, D0014104, D0004316, D0013576, "
+			"trendMapping(Import)": "D0014143, D0004269, D0014257, D0004345, D0014256, D0004103, D0014148, D0004262, D0004268, D0014247, D0005380, D0004265, D0014144, D0014189, D0004264, D0014165, SP_2022_0004, SP_2022_0001, D0014205, D0014208, D0014190, D0005365, D0014182, D0004266, D0014163, D0004213, D0005428, D0014104, D0004316, D0013576, "
 		},
 		{
 			"__tabName": "Trends",
@@ -5970,7 +5970,7 @@
 			"id": "future-of-work",
 			"name": "Future of work",
 			"name_de": "Zukunft der Arbeit",
-			"trendMapping(Import)": "D0014276, D0004269, D0014257, D0014258, D0014273, D0014275, D0005448, D0004345, D0014256, D0004103, D0004214, D0014147, D0014148, D0014179, D0004275, D0004262, D0004268, D0014167, D0014173, D0014262, D0014250, D0014243, D0014244, D0014246, D0014247, D0005380, D0005617, D0004272, D0014144, D0004279, D0014189, D0004264, D0014165, SP_2022_0014, SP_2022_0037, SP_2022_0013, SP_2022_0035, SP_2022_0015, SP_2022_0005, SP_2022_0010, SP_2022_0006, SP_2022_0022, D0014212, D0014205, D0014206, D0014208, D0005464, D0013575, D0014188, D0014144, D0014146, D0014182, D0004266, D0014163, D0004171, D0004213, D0005355, D0005086, D0013499, D0013500, D0005513, D0005436, D0005428, D0004258, D0013528, D0005598, D0005354, D0014104, D0004318, D0004316, D0013576, "
+			"trendMapping(Import)": "D0014143, D0014276, D0004269, D0014257, D0014258, D0014273, D0014275, D0005448, D0004345, D0014256, D0004103, D0004214, D0014147, D0014148, D0014179, D0004275, D0004262, D0004268, D0014167, D0014173, D0014262, D0014250, D0014243, D0014244, D0014246, D0014247, D0005380, D0005617, D0004272, D0014144, D0004279, D0014189, D0004264, D0014165, SP_2022_0014, SP_2022_0037, SP_2022_0013, SP_2022_0035, SP_2022_0015, SP_2022_0005, SP_2022_0010, SP_2022_0006, SP_2022_0022, D0014212, D0014205, D0014206, D0014208, D0005464, D0013575, D0014188, D0014144, D0014146, D0014182, D0004266, D0014163, D0004171, D0004213, D0005355, D0005086, D0013499, D0013500, D0005513, D0005436, D0005428, D0004258, D0013528, D0005598, D0005354, D0014104, D0004318, D0004316, D0013576, "
 		},
 		{
 			"__tabName": "VenueType",
