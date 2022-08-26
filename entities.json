@@ -158,7 +158,16 @@
 			"venueType": "tour",
 			"backup_Name_NotInUse": "Highlight Tour",
 			"detailsLink": "TRUE",
-			"addedToMapbox": "TRUE"
+			"addedToMapbox": "TRUE",
+			"subtitle": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "",
+			"address": "",
+			"city": "",
+			"postalCode": "",
+			"description": "This tour gets you to see the ultimate highlights of DIGITAL X 2022 in 15 stops, extending over 3 sections of the event and takes about 2.5km to walk."
 		},
 		{
 			"__tabName": "Entity",
