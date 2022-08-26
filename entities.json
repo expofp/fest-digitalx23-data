@@ -4420,7 +4420,7 @@
 			"__tabName": "Entity",
 			"id": "TEL_2022_011",
 			"entityType": "Exhibitor",
-			"name": "Telekom - Haus der Netzwerke",
+			"name": "House of networks",
 			"parent": "",
 			"route1": "",
 			"route2": "",
@@ -4430,7 +4430,7 @@
 			"trend": "",
 			"sector": "Interactive",
 			"venueType": "brandhouse-t",
-			"backup_Name_NotInUse": "Telekom - Haus der Netzwerke",
+			"backup_Name_NotInUse": "House of networks",
 			"detailsLink": "FALSE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "25h Hotel"
