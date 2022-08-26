@@ -1965,7 +1965,7 @@
 			"address": "Im Mediapark 6",
 			"city": "Köln",
 			"postalCode": "50670",
-			"description": "",
+			"description": "House of Microsoft – ALLES für die Digitalisierung \r\nHybrid Work - Unabhängig vom Arbeitsplatz durch Zusammenarbeit und den richtigen Tools mehr erreichen \r\nSecurity - Proaktiver Schutz vor Bedrohungen unter Anwendung des Zero Trust Prinzips \r\nAzure – Einfacher Einstieg in die Cloud mit technischer und preislicher Planungssicherheit \r\nNachhaltigkeit - Prinzipien, Ansätze und Lösungen für den deutschen Mittelstand \r\nSurface for Business - Das aktuelle Portfolio \r\nMicrosoft Teams, Dynamics 365, Business Apps, PowerPlatform, Big Data und AI – Mit nahtloser Integration Kunden effizient und zielgerichtet erreichen \r\nUnsere Partner: \r\nPriceWaterhouseCoopers, Poly, everphone, T-Systems MMS, Telekom (CSP², CRM (Objektkultur, Adobe Sign), MagentaBusiness Networks), T-Systems MultiCloud",
 			"description_de": "#REF!"
 		},
 		{
@@ -4122,6 +4122,34 @@
 			"city": "",
 			"postalCode": "",
 			"description": "",
+			"description_de": "#REF!"
+		},
+		{
+			"__tabName": "Entity",
+			"id": "D0014256",
+			"entityType": "",
+			"name": "FINDME Deutschland FM GmbH",
+			"parent": "",
+			"route1": "",
+			"route2": "",
+			"route3": "",
+			"route4": "",
+			"route5": "",
+			"trend": "",
+			"sector": "",
+			"venueType": "",
+			"backup_Name_NotInUse": "FINDME Deutschland FM GmbH",
+			"detailsLink": "FALSE",
+			"addedToMapbox": "FALSE",
+			"subtitle": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln",
+			"address": "",
+			"city": "",
+			"postalCode": "",
+			"description": "Gerade in Zeiten des Fachkräftemangels ist es wichtig, Ihr Team bestmöglich zu unterstützen. \nDer Baustellenroboter übernimmt körperlich anstrengende, gelenkstrapazierende Anwendungen und reduziert so mögliche Risiken für den Mitarbeiter. \nEin Mitarbeiter bedient den Jaibot, richtet die Totalstation ein und überwacht ihn bei seiner hochpräzisen Arbeit. ",
 			"description_de": "#REF!"
 		},
 		{
