@@ -6,12 +6,25 @@
             content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, width=device-width"
         />
         <title></title>
+        <script crossorigin src="https://unpkg.com/react@18.2/umd/react.development.js"></script>
+        <script crossorigin src="https://unpkg.com/react-dom@18.2/umd/react-dom.development.js"></script>
+        <script crossorigin src="https://unpkg.com/fest-map-app@^1.27/dist/festMapApp.js"></script>
     </head>
-    <body>
-        <a href="https://www.google.com/maps?q=50.942647,6.935217">Test Directions</a> <br /><br /><br />
-        <a href="https://maps.google.com?q=50.942647,6.935217">Test Directions2</a><br /><br /><br />
-        <button onclick="window.location.href='https://www.google.com/maps?q=50.942647,6.935217'">
-            Test Directions3</button
-        ><br /><br /><br />
+    <body style="margin: 0">
+        <noscript>You need to enable JavaScript to run this app.</noscript>
+        <div id="__app"></div>
+        <script>
+            const map = new festMapApp.MapApp({
+                element: "__app",
+                entities: "entities.json",
+                rules: "rules.json",
+                geojson: "geojson.json",
+                mapboxAccessToken:
+                    "pk.eyJ1IjoiZGlnaXRhbC14LTIwMjIiLCJhIjoiY2w1Y2xpeW16MGVjbDNwcG4yeWNkdDJqYyJ9.8IMQwccvToCwcdJ_KFw0Zw",
+            });
+            map.onLoad(() => {
+                console.log("Map is ready to use");
+            });
+        </script>
     </body>
 </html>
