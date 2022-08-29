@@ -477,20 +477,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "D0004171"
-			},
-			"geometry": {
-				"coordinates": [
-					6.944983,
-					50.947523
-				],
-				"type": "Point"
-			},
-			"id": "1804d3b9ad83f886628f7b1c609aa255"
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"ID": "D0014145"
 			},
 			"geometry": {
@@ -685,20 +671,6 @@
 				"type": "Point"
 			},
 			"id": "32ae93ccbfe916411e71d2245c3a6435"
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"ID": "TEL_2022_020"
-			},
-			"geometry": {
-				"coordinates": [
-					6.939271,
-					50.940406
-				],
-				"type": "Point"
-			},
-			"id": "39dce75d4b9565dea3225897c5faf2ff"
 		},
 		{
 			"type": "Feature",
@@ -938,20 +910,6 @@
 				"type": "Point"
 			},
 			"id": "654ad9d4631cd58f80e42e8bffa5ef3c"
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"ID": "TEL_2022_010"
-			},
-			"geometry": {
-				"coordinates": [
-					6.935146,
-					50.936279
-				],
-				"type": "Point"
-			},
-			"id": "67924ae770614db2c8b68a96417139a1"
 		},
 		{
 			"type": "Feature",
@@ -1540,20 +1498,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "D0004211"
-			},
-			"geometry": {
-				"coordinates": [
-					6.945002,
-					50.947496
-				],
-				"type": "Point"
-			},
-			"id": "84388827f37d2ae52e6c1059f43bff52"
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"ID": "D0013576"
 			},
 			"geometry": {
@@ -2044,6 +1988,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "TEL_2022_027"
+			},
+			"geometry": {
+				"coordinates": [
+					6.934101,
+					50.938017
+				],
+				"type": "Point"
+			},
+			"id": "d311253a42a8691f69a750f0dfedd5b5"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0014211"
 			},
 			"geometry": {
@@ -2323,20 +2281,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "TEL_2022_019"
-			},
-			"geometry": {
-				"coordinates": [
-					6.940677,
-					50.940773
-				],
-				"type": "Point"
-			},
-			"id": "f56f9ccb5258d5fa5f231de5b2cdd33e"
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"ID": "D0004277"
 			},
 			"geometry": {
@@ -2476,6 +2420,20 @@
 				"type": "Point"
 			},
 			"id": "fc84b3738ad2d24f514d20e85359351a"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "TEL_2022_028"
+			},
+			"geometry": {
+				"coordinates": [
+					6.937762,
+					50.938515
+				],
+				"type": "Point"
+			},
+			"id": "fd83863bca59aa0c5ff52fc53e6ce420"
 		},
 		{
 			"type": "Feature",
