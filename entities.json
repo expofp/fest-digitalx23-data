@@ -1361,7 +1361,7 @@
 			"__tabName": "Entity",
 			"id": "D0014146",
 			"entityType": "Brandhouse",
-			"name": "BPV",
+			"name": "BPV GmbH",
 			"parent": "",
 			"route1": "",
 			"route2": "",
@@ -1371,7 +1371,7 @@
 			"trend": "",
 			"sector": "",
 			"venueType": "brandhouse",
-			"backup_Name_NotInUse": "BPV",
+			"backup_Name_NotInUse": "BPV GmbH",
 			"detailsLink": "FALSE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
@@ -1770,8 +1770,8 @@
 			"address": "Im Mediapark",
 			"city": "Köln",
 			"postalCode": "50670",
-			"description": "House of Microsoft – ALLES für die Digitalisierung \r\nHybrid Work - Unabhängig vom Arbeitsplatz durch Zusammenarbeit und den richtigen Tools mehr erreichen \r\nSecurity - Proaktiver Schutz vor Bedrohungen unter Anwendung des Zero Trust Prinzips \r\nAzure – Einfacher Einstieg in die Cloud mit technischer und preislicher Planungssicherheit \r\nNachhaltigkeit - Prinzipien, Ansätze und Lösungen für den deutschen Mittelstand \r\nSurface for Business - Das aktuelle Portfolio \r\nMicrosoft Teams, Dynamics 365, Business Apps, PowerPlatform, Big Data und AI – Mit nahtloser Integration Kunden effizient und zielgerichtet erreichen \r\nUnsere Partner: \r\nPriceWaterhouseCoopers, Poly, everphone, T-Systems MMS, Telekom (CSP², CRM (Objektkultur, Adobe Sign), MagentaBusiness Networks), T-Systems MultiCloud",
-			"description_de": "House of Microsoft – ALLES für die Digitalisierung \r\nHybrid Work - Unabhängig vom Arbeitsplatz durch Zusammenarbeit und den richtigen Tools mehr erreichen \r\nSecurity - Proaktiver Schutz vor Bedrohungen unter Anwendung des Zero Trust Prinzips \r\nAzure – Einfacher Einstieg in die Cloud mit technischer und preislicher Planungssicherheit \r\nNachhaltigkeit - Prinzipien, Ansätze und Lösungen für den deutschen Mittelstand \r\nSurface for Business - Das aktuelle Portfolio \r\nMicrosoft Teams, Dynamics 365, Business Apps, PowerPlatform, Big Data und AI – Mit nahtloser Integration Kunden effizient und zielgerichtet erreichen \r\nUnsere Partner: \r\nPriceWaterhouseCoopers, Poly, everphone, T-Systems MMS, Telekom (CSP², CRM (Objektkultur, Adobe Sign), MagentaBusiness Networks), T-Systems MultiCloud"
+			"description": "House of Microsoft – ALLES für die Digitalisierung \nHybrid Work - Unabhängig vom Arbeitsplatz durch Zusammenarbeit und den richtigen Tools mehr erreichen \nSecurity - Proaktiver Schutz vor Bedrohungen unter Anwendung des Zero Trust Prinzips \nAzure – Einfacher Einstieg in die Cloud mit technischer und preislicher Planungssicherheit \nNachhaltigkeit - Prinzipien, Ansätze und Lösungen für den deutschen Mittelstand \nSurface for Business - Das aktuelle Portfolio \nMicrosoft Teams, Dynamics 365, Business Apps, PowerPlatform, Big Data und AI – Mit nahtloser Integration Kunden effizient und zielgerichtet erreichen \nUnsere Partner: \nPriceWaterhouseCoopers, Poly, everphone, T-Systems MMS, Telekom (CSP², CRM (Objektkultur, Adobe Sign), MagentaBusiness Networks), T-Systems MultiCloud",
+			"description_de": "House of Microsoft – ALLES für die Digitalisierung \nHybrid Work - Unabhängig vom Arbeitsplatz durch Zusammenarbeit und den richtigen Tools mehr erreichen \nSecurity - Proaktiver Schutz vor Bedrohungen unter Anwendung des Zero Trust Prinzips \nAzure – Einfacher Einstieg in die Cloud mit technischer und preislicher Planungssicherheit \nNachhaltigkeit - Prinzipien, Ansätze und Lösungen für den deutschen Mittelstand \nSurface for Business - Das aktuelle Portfolio \nMicrosoft Teams, Dynamics 365, Business Apps, PowerPlatform, Big Data und AI – Mit nahtloser Integration Kunden effizient und zielgerichtet erreichen \nUnsere Partner: \nPriceWaterhouseCoopers, Poly, everphone, T-Systems MMS, Telekom (CSP², CRM (Objektkultur, Adobe Sign), MagentaBusiness Networks), T-Systems MultiCloud"
 		},
 		{
 			"__tabName": "Entity",
