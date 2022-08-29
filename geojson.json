@@ -435,7 +435,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "Disruption_stage"
+				"ID": "disruption_stage"
 			},
 			"geometry": {
 				"coordinates": [
@@ -798,6 +798,20 @@
 				"type": "Point"
 			},
 			"id": "5085324a454f8629e2a48005f51a0cc0"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "stadtgarten_markt"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935083,
+					50.942891
+				],
+				"type": "Point"
+			},
+			"id": "51afe58ba4b1fa4b0abb932c16120325"
 		},
 		{
 			"type": "Feature",
