@@ -275,8 +275,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.945273,
-					50.949197
+					6.944826,
+					50.948634
 				],
 				"type": "Point"
 			},
@@ -2462,20 +2462,6 @@
 				"type": "Point"
 			},
 			"id": "fe10aa5606cbe46841a2f1b5002b92da"
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"ID": "Magenta_stage"
-			},
-			"geometry": {
-				"coordinates": [
-					6.943073,
-					50.948773
-				],
-				"type": "Point"
-			},
-			"id": "fea752f38ee924a1c0049ecc5460efbf"
 		}
 	]
 }
