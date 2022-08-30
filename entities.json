@@ -5977,7 +5977,7 @@
 		},
 		{
 			"__tabName": "Entity",
-			"id": "interactive_stage",
+			"id": "Interactive_stage",
 			"entityType": "Venue",
 			"name": "Interactive stage",
 			"parent": "",

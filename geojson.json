@@ -2396,20 +2396,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "interactive_stage"
-			},
-			"geometry": {
-				"coordinates": [
-					6.943047,
-					50.940845
-				],
-				"type": "Point"
-			},
-			"id": "f98a54db65008197d5b0cc33dc626a5b"
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"ID": "D0005598"
 			},
 			"geometry": {
