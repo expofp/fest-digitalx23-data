@@ -4994,7 +4994,14 @@
 			"backup_Name_NotInUse": "B2B Portfolio Marktplatz",
 			"detailsLink": "FALSE",
 			"addedToMapbox": "TRUE",
-			"subtitle": "KOMED Haus 6"
+			"subtitle": "KOMED Haus 6",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Im Mediapark 6, 50670 Köln",
+			"address": "Im Mediapark 6",
+			"city": "Köln",
+			"postalCode": "50670"
 		},
 		{
 			"__tabName": "Entity",
