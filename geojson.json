@@ -477,6 +477,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "mediapark_markt"
+			},
+			"geometry": {
+				"coordinates": [
+					6.944186,
+					50.948015
+				],
+				"type": "Point"
+			},
+			"id": "17b07e44ebc4dc36e8f0bce0e812c017"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0014266"
 			},
 			"geometry": {
@@ -559,6 +573,20 @@
 				"type": "LineString"
 			},
 			"id": "1ec131f2597421c5d08e98e615682b43"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "D0014247"
+			},
+			"geometry": {
+				"coordinates": [
+					6.938717,
+					50.944402
+				],
+				"type": "Point"
+			},
+			"id": "21b68e2bfb28c648812fad12e60fe90d"
 		},
 		{
 			"type": "Feature",
@@ -760,6 +788,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "D0014141"
+			},
+			"geometry": {
+				"coordinates": [
+					6.934598,
+					50.940246
+				],
+				"type": "Point"
+			},
+			"id": "47886835c29ee53c95434d1cb093842b"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "monkeys_cocktail"
 			},
 			"geometry": {
@@ -868,6 +910,20 @@
 				"type": "Point"
 			},
 			"id": "5f5d0f1bb28bfbec79e9439ada16f80a"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "D0014240"
+			},
+			"geometry": {
+				"coordinates": [
+					6.944127,
+					50.948642
+				],
+				"type": "Point"
+			},
+			"id": "60b31e02fe78368cb5afe81a5168a3b9"
 		},
 		{
 			"type": "Feature",
@@ -1694,6 +1750,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "D0005381"
+			},
+			"geometry": {
+				"coordinates": [
+					6.944146,
+					50.941968
+				],
+				"type": "Point"
+			},
+			"id": "a51af7ee867282d391206ab5743b9bfe"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "TEL_2022_013"
 			},
 			"geometry": {
@@ -1802,6 +1872,20 @@
 				"type": "Point"
 			},
 			"id": "afc4f03d6eca2bec25fa238e137847a9"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "D0014205"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935381,
+					50.942547
+				],
+				"type": "Point"
+			},
+			"id": "b2e3a48a27b23b80778daab02632b2c6"
 		},
 		{
 			"type": "Feature",
@@ -1918,6 +2002,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "D0005365"
+			},
+			"geometry": {
+				"coordinates": [
+					6.944156,
+					50.941938
+				],
+				"type": "Point"
+			},
+			"id": "cc7f4f116bcaa597c72dad1cb713462a"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0013505"
 			},
 			"geometry": {
@@ -1942,6 +2040,20 @@
 				"type": "Point"
 			},
 			"id": "cf0c2f316f2919ba6cc8ecfe702b575f"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "D0014208"
+			},
+			"geometry": {
+				"coordinates": [
+					6.93531,
+					50.942584
+				],
+				"type": "Point"
+			},
+			"id": "d1706058c5a4f96ba7f1e4edbbe4b1ff"
 		},
 		{
 			"type": "Feature",
@@ -1974,6 +2086,34 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "spichern_markt"
+			},
+			"geometry": {
+				"coordinates": [
+					6.937948,
+					50.94387
+				],
+				"type": "Point"
+			},
+			"id": "dab00ccc6a0489d867f7b6a1430f858e"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "D0014290"
+			},
+			"geometry": {
+				"coordinates": [
+					6.944512,
+					50.948107
+				],
+				"type": "Point"
+			},
+			"id": "de490937bb4ced8881fe07c099c2d0ad"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "hanoi_september"
 			},
 			"geometry": {
@@ -1984,6 +2124,20 @@
 				"type": "Point"
 			},
 			"id": "e1ea306e9785743a8a591072df5be1b8"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "D0013498"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935448,
+					50.942519
+				],
+				"type": "Point"
+			},
+			"id": "e38703c29e0a175353ca66c08d39bf7c"
 		},
 		{
 			"type": "Feature",
@@ -2235,6 +2389,20 @@
 				"type": "Point"
 			},
 			"id": "ed30fe77f1651e9c5f1c2a11e96a1aa3"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "D0014289"
+			},
+			"geometry": {
+				"coordinates": [
+					6.938796,
+					50.944447
+				],
+				"type": "Point"
+			},
+			"id": "f7b59207ec5908abac1d0e0c7d82767c"
 		},
 		{
 			"type": "Feature",
