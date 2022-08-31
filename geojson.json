@@ -519,6 +519,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "D0014273"
+			},
+			"geometry": {
+				"coordinates": [
+					6.934861,
+					50.942962
+				],
+				"type": "Point"
+			},
+			"id": "17e20376a9d1b01b00d6e062c9f4d442"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0014266"
 			},
 			"geometry": {
@@ -812,6 +826,20 @@
 				"type": "Point"
 			},
 			"id": "435b087b609f076d046be953d7b9184c"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "D0014258"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935635,
+					50.942816
+				],
+				"type": "Point"
+			},
+			"id": "465fb2124faa218ddf0d2f121aff3897"
 		},
 		{
 			"type": "Feature",
@@ -1540,6 +1568,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "D0014277"
+			},
+			"geometry": {
+				"coordinates": [
+					6.938551,
+					50.944283
+				],
+				"type": "Point"
+			},
+			"id": "7dd307cd76a462a84d1acd44af1b7d16"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0014288"
 			},
 			"geometry": {
@@ -1862,6 +1904,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "D0004269"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935567,
+					50.942989
+				],
+				"type": "Point"
+			},
+			"id": "a8e46d4df4f141478eb0a2192f66d120"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "bus_route_1_stop_2"
 			},
 			"geometry": {
@@ -2058,6 +2114,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "D0014274"
+			},
+			"geometry": {
+				"coordinates": [
+					6.93859,
+					50.944317
+				],
+				"type": "Point"
+			},
+			"id": "c241b104de6eb0bae539e2d787ab51cf"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0004170"
 			},
 			"geometry": {
@@ -2128,6 +2198,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "D0014257"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935486,
+					50.942869
+				],
+				"type": "Point"
+			},
+			"id": "d18ddaea5747a57f098ec627cd901721"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "TEL_2022_027"
 			},
 			"geometry": {
@@ -2138,6 +2222,34 @@
 				"type": "Point"
 			},
 			"id": "d311253a42a8691f69a750f0dfedd5b5"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "D0014278"
+			},
+			"geometry": {
+				"coordinates": [
+					6.934678,
+					50.943083
+				],
+				"type": "Point"
+			},
+			"id": "d6a4c80cfcfcaa85c1d53fcb9b037849"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "D0005448"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935225,
+					50.942813
+				],
+				"type": "Point"
+			},
+			"id": "d91b416f38c5c336046df0ba3dc12074"
 		},
 		{
 			"type": "Feature",
