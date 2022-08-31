@@ -758,7 +758,7 @@
 			"id": "komed_markt",
 			"entityType": "Venue",
 			"name": "B2B Portfolio Marktplatz",
-			"parent": "",
+			"parent": "highlight_tour_start",
 			"route1": "highlight_tour_1",
 			"route2": "digitalisierungstour",
 			"route3": "",
@@ -3834,7 +3834,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0014213",
-			"entityType": "Exhibitor",
+			"entityType": "Brandhouse",
 			"name": "ByondXR",
 			"parent": "",
 			"route1": "",
@@ -3890,7 +3890,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0014211",
-			"entityType": "Exhibitor",
+			"entityType": "Brandhouse",
 			"name": "T-Systems X-PERT HUB",
 			"parent": "",
 			"route1": "",
@@ -3918,7 +3918,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0005381",
-			"entityType": "Exhibitor",
+			"entityType": "Brandhouse",
 			"name": "Cradlepoint ",
 			"parent": "",
 			"route1": "",
@@ -3944,7 +3944,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0014241",
-			"entityType": "Exhibitor",
+			"entityType": "Brandhouse",
 			"name": "Ericsson",
 			"parent": "",
 			"route1": "highlight_tour_1",
@@ -3998,7 +3998,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0014122",
-			"entityType": "Exhibitor",
+			"entityType": "Brandhouse",
 			"name": "TeamViewer Deutschland GmbH",
 			"parent": "",
 			"route1": "",
