@@ -1988,7 +1988,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "Inspiration_stage"
+				"ID": "inspiration_stage"
 			},
 			"geometry": {
 				"coordinates": [
