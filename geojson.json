@@ -858,6 +858,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "D0014249"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935397,
+					50.942732
+				],
+				"type": "Point"
+			},
+			"id": "514feb18bbaf78f434e4a56adbf4a579"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "stadtgarten_markt"
 			},
 			"geometry": {
@@ -1564,6 +1578,20 @@
 				"type": "Point"
 			},
 			"id": "81bcf56cc4bce436fb14b56a3ffacae0"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "D0014250"
+			},
+			"geometry": {
+				"coordinates": [
+					6.934496,
+					50.942935
+				],
+				"type": "Point"
+			},
+			"id": "85bc72d92b1cd8b5547deb65eb5b286d"
 		},
 		{
 			"type": "Feature",
@@ -2421,6 +2449,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "D0014243"
+			},
+			"geometry": {
+				"coordinates": [
+					6.938627,
+					50.944347
+				],
+				"type": "Point"
+			},
+			"id": "e8d7c96d6051f5fdf9c2ac1c8bf344fa"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "goldfinger"
 			},
 			"geometry": {
@@ -2431,6 +2473,20 @@
 				"type": "Point"
 			},
 			"id": "ed30fe77f1651e9c5f1c2a11e96a1aa3"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "D0014256"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935494,
+					50.942691
+				],
+				"type": "Point"
+			},
+			"id": "f3718a11e072d23240f3a386a402b669"
 		},
 		{
 			"type": "Feature",
