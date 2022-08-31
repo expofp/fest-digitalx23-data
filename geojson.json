@@ -477,7 +477,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "D0014145"
+				"ID": "D0014266"
 			},
 			"geometry": {
 				"coordinates": [
@@ -1648,20 +1648,6 @@
 				"type": "Point"
 			},
 			"id": "9c736d2bd8b67cbb3b352e842a117286"
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"ID": "D0014146"
-			},
-			"geometry": {
-				"coordinates": [
-					6.94127,
-					50.941217
-				],
-				"type": "Point"
-			},
-			"id": "9c9ade4cc3e91a98422df7257bd6734f"
 		},
 		{
 			"type": "Feature",
