@@ -2101,7 +2101,9 @@
 			"addressCalculation": "Brüsseler Straße 70, 50674 Köln",
 			"address": "Brüsseler Straße 70",
 			"city": "Köln",
-			"postalCode": "50674"
+			"postalCode": "50674",
+			"description": "Unser Expertenteam von Dell Technologies präsentiert ein breites Lösungsportfolio rund um die Themen\r\nIT-Infrastruktur, Edge, KI, Security, Multi Cloud, Moderner Arbeitswelt, sowie Branchenspezifischen\r\nLösungen.\r\nHierzu zählen u.a. Banking, Telekommunikation, Gesundheitswesen, Life Sciences, Retail und Digitale\r\nStädten. Unter dem Motto von Ihnen betrieben, von uns gemanagt präsentieren wir Ihnen Lösung rund\r\num unser APEX Portfolio.\r\nEs erwarten Sie spannende Sessions und Speaker.",
+			"description_de": "Unser Expertenteam von Dell Technologies präsentiert ein breites Lösungsportfolio rund um die Themen\r\nIT-Infrastruktur, Edge, KI, Security, Multi Cloud, Moderner Arbeitswelt, sowie Branchenspezifischen\r\nLösungen.\r\nHierzu zählen u.a. Banking, Telekommunikation, Gesundheitswesen, Life Sciences, Retail und Digitale\r\nStädten. Unter dem Motto von Ihnen betrieben, von uns gemanagt präsentieren wir Ihnen Lösung rund\r\num unser APEX Portfolio.\r\nEs erwarten Sie spannende Sessions und Speaker."
 		},
 		{
 			"__tabName": "Entity",
