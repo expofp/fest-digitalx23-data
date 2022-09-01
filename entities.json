@@ -17,7 +17,18 @@
 			"backup_Name_NotInUse": "Startup Garten",
 			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
-			"subtitle": "Discover innovative startups"
+			"subtitle": "Discover innovative startups",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "",
+			"address": "",
+			"city": "",
+			"postalCode": "",
+			"description": "",
+			"description_de": "",
+			"external_location_id": "",
+			"extraTmp": "1"
 		},
 		{
 			"__tabName": "Entity",
