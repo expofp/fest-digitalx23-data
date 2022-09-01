@@ -703,6 +703,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "coffee_fellows"
+			},
+			"geometry": {
+				"coordinates": [
+					6.944864,
+					50.94773
+				],
+				"type": "Point"
+			},
+			"id": "2cc1611f9fad23e8f7974e37ca60f32e"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0005513"
 			},
 			"geometry": {
