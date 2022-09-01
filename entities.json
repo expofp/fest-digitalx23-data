@@ -1995,7 +1995,9 @@
 			"addressCalculation": "Im Mediapark 7, 50670 Köln",
 			"address": "Im Mediapark 7",
 			"city": "Köln",
-			"postalCode": "50670"
+			"postalCode": "50670",
+			"description": "WLAN / LAN Lösungen: Juniper bietet einen revolutionären Ansatz für den drahtlosen Zugang, der KI-gesteuerte Automatisierung und Einblicke nutzt und mit der Agilität und Zuverlässigkeit einer Microservices-Cloud gekoppelt ist, um optimierte Erfahrungen und einen simplifizierten Netzwerkbetrieb bereitzustellen Datencenter Erhöhen Sie die Zuverlässigkeit und reduzieren die Komplexität in Datencentern jeder Größenordnung. Juniper Apstra automatisiert und validiert das Design, die Bereitstellung und den Betrieb Ihres Datencenter-Netzwerks in Umgebungen mit mehreren Anbietern und bietet eine Single Source of Truth (SSOT) für leistungsstarke Analysen und Ursachenermittlung SD-WAN SD-WAN-Lösung von Juniper bietet belastbare WAN-Konnektivität mit bahnbrechender Wirtschaftlichkeit für die Cloud-zentrierten Unternehmen von heute.",
+			"description_de": "WLAN / LAN Lösungen: Juniper bietet einen revolutionären Ansatz für den drahtlosen Zugang, der KI-gesteuerte Automatisierung und Einblicke nutzt und mit der Agilität und Zuverlässigkeit einer Microservices-Cloud gekoppelt ist, um optimierte Erfahrungen und einen simplifizierten Netzwerkbetrieb bereitzustellen Datencenter Erhöhen Sie die Zuverlässigkeit und reduzieren die Komplexität in Datencentern jeder Größenordnung. Juniper Apstra automatisiert und validiert das Design, die Bereitstellung und den Betrieb Ihres Datencenter-Netzwerks in Umgebungen mit mehreren Anbietern und bietet eine Single Source of Truth (SSOT) für leistungsstarke Analysen und Ursachenermittlung SD-WAN SD-WAN-Lösung von Juniper bietet belastbare WAN-Konnektivität mit bahnbrechender Wirtschaftlichkeit für die Cloud-zentrierten Unternehmen von heute."
 		},
 		{
 			"__tabName": "Entity",
