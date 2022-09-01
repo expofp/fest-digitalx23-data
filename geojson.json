@@ -393,7 +393,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "Interactive_stage"
+				"ID": "interactive_stage"
 			},
 			"geometry": {
 				"coordinates": [
