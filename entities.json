@@ -2389,6 +2389,34 @@
 		},
 		{
 			"__tabName": "Entity",
+			"id": "D0004279",
+			"entityType": "Exhibitor",
+			"name": "4tiitoo",
+			"parent": "startup_area",
+			"route1": "",
+			"route2": "",
+			"route3": "",
+			"route4": "",
+			"route5": "",
+			"trend": "",
+			"sector": "",
+			"venueType": "Exhibitor",
+			"backup_Name_NotInUse": "4tiitoo",
+			"detailsLink": "FALSE",
+			"addedToMapbox": "FALSE",
+			"subtitle": "",
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/4tiitoo_883be41ca1_a4d6a9d285.jpg",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloer Straße 40, 50672 Köln",
+			"address": "Venloer Straße 40",
+			"city": "Köln",
+			"postalCode": "50672",
+			"description": "Blicksteuerung Live Demo und Selbsttest: Am 4tiitoo Stand können Sie NUIA Eye Control \"mit eigenen Augen\" ausprobieren und sich ein Bild machen, wie Blicksteuerung die tägliche Arbeit schneller, gesünder und komfortabler macht - ob mit MS Office, SAP, Oracle, MS Dynamics, ServiceNow, Salesforce, Genesys, Vier, und vielen weiteren Anwendungen für Back Office und Front Office\r",
+			"description_de": "Blicksteuerung Live Demo und Selbsttest: Am 4tiitoo Stand können Sie NUIA Eye Control \"mit eigenen Augen\" ausprobieren und sich ein Bild machen, wie Blicksteuerung die tägliche Arbeit schneller, gesünder und komfortabler macht - ob mit MS Office, SAP, Oracle, MS Dynamics, ServiceNow, Salesforce, Genesys, Vier, und vielen weiteren Anwendungen für Back Office und Front Office\r"
+		},
+		{
+			"__tabName": "Entity",
 			"id": "D0004278",
 			"entityType": "Exhibitor",
 			"name": "acameo",
@@ -2417,7 +2445,7 @@
 		},
 		{
 			"__tabName": "Entity",
-			"id": "D0014173",
+			"id": "D0014145",
 			"entityType": "Exhibitor",
 			"name": "aedifion GmbH",
 			"parent": "startup_area",
@@ -4639,6 +4667,24 @@
 		},
 		{
 			"__tabName": "Entity",
+			"id": "D0014173",
+			"entityType": "Brandhouse",
+			"name": "movingimage",
+			"parent": "",
+			"route1": "",
+			"route2": "",
+			"route3": "",
+			"route4": "",
+			"route5": "",
+			"trend": "",
+			"sector": "",
+			"venueType": "brandhouse",
+			"backup_Name_NotInUse": "movingimage",
+			"detailsLink": "FALSE",
+			"addedToMapbox": "FALSE"
+		},
+		{
+			"__tabName": "Entity",
 			"id": "TEL_2022_001",
 			"entityType": "Exhibitor",
 			"name": "Telekom Brandhouse Digitale Chancen",
@@ -6218,7 +6264,7 @@
 			"id": "health---demographic-change",
 			"name": "Health & Demographic Change",
 			"name_de": "Gesundheit & Demografischer Wandel",
-			"trendMapping(Import)": "D0004277, D0004318, D0004103, D0014172, D0014176, D0014191, D0014181, D0014262, D0014250, D0014243, D0004279, D0014175, D0004273, SP_2022_0008, D0014205, TEL_2022_015, D0004213, D0005428, D0004316, D0013576, "
+			"trendMapping(Import)": "SP_2022_0063, SP_2022_0185, D0004277, D0004318, D0004103, D0014172, D0014176, D0014191, D0014181, D0014262, D0014250, D0014243, D0004279, D0014175, D0004273, SP_2022_0008, D0014205, TEL_2022_015, D0004213, D0005428, D0004316, D0013576, "
 		},
 		{
 			"__tabName": "Trends",
@@ -6232,7 +6278,7 @@
 			"id": "future-of-work",
 			"name": "Future of work",
 			"name_de": "Zukunft der Arbeit",
-			"trendMapping(Import)": "SP_2022_0096, SP_2022_0120, D0004277, TEL_2022_014, D0014240, D0014143, D0014276, D0004269, D0014257, D0014258, D0014273, D0014275, D0005448, D0004345, D0014256, D0004103, D0004214, D0014147, D0014288, D0014179, D0004275, D0004262, D0004268, D0014167, D0014173, D0014262, D0014250, D0014243, D0014244, D0014246, D0014247, D0005380, D0005617, D0004272, D0014290, D0004279, D0014189, D0004264, D0014165, SP_2022_0014, SP_2022_0037, SP_2022_0013, SP_2022_0035, SP_2022_0015, SP_2022_0005, SP_2022_0010, SP_2022_0006, SP_2022_0022, D0014212, D0014205, D0014206, D0014208, D0005464, D0013575, D0014188, D0014290, D0014146, D0014182, D0004266, D0014163, D0004171, D0004213, D0005355, D0005086, D0013499, D0013500, D0005513, D0005436, D0005428, D0004258, D0013528, D0005598, D0005354, D0014104, D0004318, D0004316, D0013576, "
+			"trendMapping(Import)": "SP_2022_0079, SP_2022_0166, SP_2022_0148, SP_2022_0149, SP_2022_0096, SP_2022_0120, D0004277, TEL_2022_014, D0014240, D0014143, D0014276, D0004269, D0014257, D0014258, D0014273, D0014275, D0005448, D0004345, D0014256, D0004103, D0004214, D0014147, D0014288, D0014179, D0004275, D0004262, D0004268, D0014167, D0014173, D0014262, D0014250, D0014243, D0014244, D0014246, D0014247, D0005380, D0005617, D0004272, D0014290, D0004279, D0014189, D0004264, D0014165, SP_2022_0014, SP_2022_0037, SP_2022_0013, SP_2022_0035, SP_2022_0015, SP_2022_0005, SP_2022_0010, SP_2022_0006, SP_2022_0022, D0014212, D0014205, D0014206, D0014208, D0005464, D0013575, D0014188, D0014290, D0014146, D0014182, D0004266, D0014163, D0004171, D0004213, D0005355, D0005086, D0013499, D0013500, D0005513, D0005436, D0005428, D0004258, D0013528, D0005598, D0005354, D0014104, D0004318, D0004316, D0013576, "
 		},
 		{
 			"__tabName": "VenueType",
