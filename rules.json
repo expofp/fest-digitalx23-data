@@ -64,6 +64,26 @@
             "update": [{ "logoUrl": ["get", "logoURL"] }]
         },
         {
+            "name": "Set brandhouse icons from venueType",
+            "filter": [
+                "all",
+                ["!", ["get", "iconUrl"]],
+                ["any", ["==", ["get", "venueType"], "brandhouse-t"], ["==", ["get", "venueType"], "brandhouse"]]
+            ],
+            "update": [
+                {
+                    "iconUrlBase": ["concat", "https://fest-digitalx.expofp.com/images/new/", ["get", "venueType"]]
+                },
+                {
+                    "iconUrlActive": ["concat", ["get", "iconUrlBase"], "-active.png"],
+                    "iconUrl": ["concat", ["get", "iconUrlBase"], ".png"]
+                },
+                {
+                    "iconUrlBase": ["undefined"]
+                }
+            ]
+        },
+        {
             "name": "Set icons from venueType/sector",
             "filter": ["all", ["!", ["get", "iconUrl"]], ["get", "venueType"], ["get", "sector"]],
             "update": [
@@ -85,7 +105,6 @@
                 }
             ]
         },
-
         {
             "name": "Set name from id",
             "filter": ["!", ["get", "name"]],
