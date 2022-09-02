@@ -209,7 +209,7 @@
 			"__tabName": "Entity",
 			"id": "digitalisierungstour",
 			"entityType": "Route",
-			"name": "Digitalisierungstour ",
+			"name": "Digitalisierungs-Tour ",
 			"parent": "",
 			"route1": "",
 			"route2": "",
@@ -227,7 +227,7 @@
 			"__tabName": "Entity",
 			"id": "digitalisierungstour_start",
 			"entityType": "Generic POI",
-			"name": "Digitalisierungstour - Startpunkt",
+			"name": "Digitalisierungs-Tour - Startpunkt",
 			"parent": "",
 			"route1": "digitalisierungstour",
 			"route2": "",
@@ -245,7 +245,7 @@
 			"__tabName": "Entity",
 			"id": "digitalisierungstour_end",
 			"entityType": "Generic POI",
-			"name": "Digitalisierungstour - Endpunkt",
+			"name": "Digitalisierungs-Tour - Endpunkt",
 			"parent": "",
 			"route1": "digitalisierungstour",
 			"route2": "",
@@ -6491,7 +6491,7 @@
 			"__tabName": "VenueType",
 			"id": "exhibitor",
 			"name": "Exhibitor / Aussteller",
-			"icon(NOTUSED)": "n/a"
+			"icon(NOTUSED)": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_brandhouse.png"
 		},
 		{
 			"__tabName": "Sector",
