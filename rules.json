@@ -84,6 +84,38 @@
             ]
         },
         {
+            "name": "Set route icons",
+            "filter": ["all", ["!", ["get", "iconUrl"]], ["==", ["get", "venueType"], "bus_route"]],
+            "update": [
+                {
+                    "iconUrlBase": "https://fest-digitalx.expofp.com/images/new/route"
+                },
+                {
+                    "iconUrlActive": ["concat", ["get", "iconUrlBase"], "-active.png"],
+                    "iconUrl": ["concat", ["get", "iconUrlBase"], ".png"]
+                },
+                {
+                    "iconUrlBase": ["undefined"]
+                }
+            ]
+        },
+        {
+            "name": "Set tour icons",
+            "filter": ["all", ["!", ["get", "iconUrl"]], ["==", ["get", "venueType"], "tour"]],
+            "update": [
+                {
+                    "iconUrlBase": "https://fest-digitalx.expofp.com/images/new/tour"
+                },
+                {
+                    "iconUrlActive": ["concat", ["get", "iconUrlBase"], "-active.png"],
+                    "iconUrl": ["concat", ["get", "iconUrlBase"], ".png"]
+                },
+                {
+                    "iconUrlBase": ["undefined"]
+                }
+            ]
+        },
+        {
             "name": "Set icons from venueType/sector",
             "filter": ["all", ["!", ["get", "iconUrl"]], ["get", "venueType"], ["get", "sector"]],
             "update": [
