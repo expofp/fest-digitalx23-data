@@ -3578,6 +3578,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "individualisation_tour_start"
+			},
+			"geometry": {
+				"coordinates": [
+					6.941377,
+					50.941207
+				],
+				"type": "Point"
+			},
+			"id": "ca5aeb6a930001054f8ddb1ab99d1496"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0005365"
 			},
 			"geometry": {
@@ -4436,6 +4450,20 @@
 				"type": "Point"
 			},
 			"id": "fe10aa5606cbe46841a2f1b5002b92da"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "individualisation_tour_end"
+			},
+			"geometry": {
+				"coordinates": [
+					6.934721,
+					50.942689
+				],
+				"type": "Point"
+			},
+			"id": "ffa9f8ce4a75d4a51633cfb6a0914bb1"
 		}
 	]
 }
