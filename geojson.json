@@ -469,7 +469,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "wissenskultur_tour_start"
+				"ID": "knowledge_culture_tour_start"
 			},
 			"geometry": {
 				"coordinates": [
@@ -901,7 +901,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "globalisierung_tour_end"
+				"ID": "globalisation_tour_end"
 			},
 			"geometry": {
 				"coordinates": [
@@ -1000,7 +1000,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "globalisierung "
+				"ID": "globalisation"
 			},
 			"geometry": {
 				"coordinates": [
@@ -2148,7 +2148,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "wissenskultur_tour_end"
+				"ID": "knowledge_culture_tour_end"
 			},
 			"geometry": {
 				"coordinates": [
@@ -2218,7 +2218,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "globalisierung_tour_start"
+				"ID": "globalisation_tour_start"
 			},
 			"geometry": {
 				"coordinates": [
@@ -2950,8 +2950,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.944512,
-					50.948107
+					6.943362,
+					50.947965
 				],
 				"type": "Point"
 			},
@@ -3384,7 +3384,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "wissenskultur"
+				"ID": "knowledge_culture"
 			},
 			"geometry": {
 				"coordinates": [
