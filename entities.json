@@ -261,7 +261,7 @@
 		},
 		{
 			"__tabName": "Entity",
-			"id": "Wissenskultur",
+			"id": "wissenskultur",
 			"entityType": "Route",
 			"name": "Route Wissenskultur ",
 			"parent": "",
@@ -279,7 +279,7 @@
 		},
 		{
 			"__tabName": "Entity",
-			"id": "Wissenskultur_tour_start",
+			"id": "wissenskultur_tour_start",
 			"entityType": "",
 			"name": "",
 			"parent": "",
@@ -297,7 +297,7 @@
 		},
 		{
 			"__tabName": "Entity",
-			"id": "Wissenskultur_tour_end",
+			"id": "wissenskultur_tour_end",
 			"entityType": "",
 			"name": "",
 			"parent": "",
