@@ -1159,7 +1159,7 @@
 			"venueType": "tour",
 			"backup_Name_NotInUse": "Urbanisation",
 			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "TRUE"
 		},
 		{
 			"__tabName": "Entity",
@@ -1195,7 +1195,7 @@
 			"venueType": "tour",
 			"backup_Name_NotInUse": "Safety",
 			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "TRUE"
 		},
 		{
 			"__tabName": "Entity",
@@ -1213,7 +1213,7 @@
 			"venueType": "tour",
 			"backup_Name_NotInUse": "Sustainability",
 			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "TRUE"
 		},
 		{
 			"__tabName": "Entity",
@@ -1231,7 +1231,7 @@
 			"venueType": "tour",
 			"backup_Name_NotInUse": "Mobility",
 			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "TRUE"
 		},
 		{
 			"__tabName": "Entity",
@@ -1285,7 +1285,7 @@
 			"venueType": "tour",
 			"backup_Name_NotInUse": "Future of work",
 			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "TRUE"
 		},
 		{
 			"__tabName": "Entity",
@@ -1489,7 +1489,7 @@
 			"parent": "",
 			"route1": "",
 			"route2": "highlights",
-			"route3": "",
+			"route3": "urbanisation",
 			"route4": "",
 			"route5": "",
 			"trend": "",
@@ -1797,7 +1797,7 @@
 			"parent": "",
 			"route1": "digitalisierungstour",
 			"route2": "sustainability",
-			"route3": "",
+			"route3": "urbanisation",
 			"route4": "",
 			"route5": "",
 			"trend": "",
@@ -1907,7 +1907,7 @@
 			"entityType": "Brandhouse",
 			"name": "Lancom",
 			"parent": "",
-			"route1": "",
+			"route1": "urbanisation",
 			"route2": "",
 			"route3": "",
 			"route4": "",
@@ -2407,7 +2407,7 @@
 			"parent": "",
 			"route1": "digitalisierungstour",
 			"route2": "safety",
-			"route3": "",
+			"route3": "urbanisation",
 			"route4": "",
 			"route5": "",
 			"trend": "",
@@ -2543,7 +2543,7 @@
 			"entityType": "Brandhouse",
 			"name": "Xiaomi",
 			"parent": "",
-			"route1": "",
+			"route1": "urbanisation",
 			"route2": "",
 			"route3": "",
 			"route4": "",
@@ -2628,7 +2628,7 @@
 			"name": "acameo",
 			"parent": "startup_area",
 			"route1": "digitalisierungstour",
-			"route2": "",
+			"route2": "urbanisation",
 			"route3": "",
 			"route4": "",
 			"route5": "",
@@ -3857,8 +3857,8 @@
 			"entityType": "Exhibitor",
 			"name": "KUKA AG",
 			"parent": "",
-			"route1": "",
-			"route2": "",
+			"route1": "highlight_tour_1",
+			"route2": "urbanisation",
 			"route3": "",
 			"route4": "",
 			"route5": "",
@@ -4028,7 +4028,7 @@
 			"route1": "digitalisierungstour",
 			"route2": "mobility",
 			"route3": "sustainability",
-			"route4": "",
+			"route4": "urbanisation",
 			"route5": "",
 			"trend": "",
 			"sector": "Future",
@@ -4165,7 +4165,7 @@
 			"entityType": "Brandhouse",
 			"name": "T-Systems X-PERT HUB",
 			"parent": "",
-			"route1": "",
+			"route1": "urbanisation",
 			"route2": "",
 			"route3": "",
 			"route4": "",
@@ -4318,7 +4318,7 @@
 			"name": "Hilti Deutschland AG",
 			"parent": "",
 			"route1": "safety",
-			"route2": "",
+			"route2": "urbanisation",
 			"route3": "",
 			"route4": "",
 			"route5": "",
