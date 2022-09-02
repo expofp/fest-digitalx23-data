@@ -2435,6 +2435,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "pioneerone_stage"
+			},
+			"geometry": {
+				"coordinates": [
+					6.971354,
+					50.954012
+				],
+				"type": "Point"
+			},
+			"id": "eb575708b612f08accbf61b29f354b70"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "goldfinger"
 			},
 			"geometry": {
