@@ -169,6 +169,7 @@
             "create": {
                 "id": "filter-venue",
                 "name": "Venues",
+                "name_de": "Orte",
                 "iconClass": "icon-venue",
                 "isFilter": true,
                 "hide": true
@@ -179,6 +180,7 @@
             "create": {
                 "id": "filter-route",
                 "name": "Routes",
+                "name_de": "Routen",
                 "iconClass": "icon-route",
                 "isFilter": true,
                 "hide": true
@@ -189,6 +191,7 @@
             "create": {
                 "id": "filter-exhibitor",
                 "name": "Exhibitors",
+                "name_de": "Aussteller",
                 "iconClass": "icon-user",
                 "isFilter": true,
                 "hide": true
