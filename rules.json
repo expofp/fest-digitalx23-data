@@ -1,141 +1,12 @@
 {
     "rules": [
         {
-            "name": "Set venue filter type",
-            "filter": ["any", ["==", ["get", "entityType"], "Venue"], ["==", ["get", "entityType"], "Brandhouse"]],
-            "update": {
-                "filterType": "filter-venue"
-            }
-        },
-        {
-            "name": "Set route filter type",
-            "filter": ["==", ["get", "entityType"], "Route"],
-            "update": {
-                "filterType": "filter-route"
-            }
-        },
-        {
-            "name": "Set exhibitor filter type",
-            "filter": ["==", ["get", "entityType"], "Exhibitor"],
-            "update": {
-                "filterType": "filter-exhibitor"
-            }
-        },
-        {
-            "name": "Set parents",
-            "update": [
-                {
-                    "parents": [
-                        "create-array",
-                        ["get", "venueType"],
-                        ["get", "sector"],
-                        ["get", "parent"],
-                        ["get", "route1"],
-                        ["get", "route2 "],
-                        ["get", "filterType"]
-                    ]
-                },
-                {
-                    "parentVenue": [
-                        "at",
-                        0,
-                        ["filter", ["parents"], "e", null, ["==", ["get", "entityType", ["var", "e"]], "Venue"]]
-                    ]
-                },
-                {
-                    "children": ["create-array", ["get", "entity1"], ["get", "entity2"], ["get", "entity3"]]
-                },
-                {
-                    "route1": ["undefined"],
-                    "route2": ["undefined"],
-                    "entity1": ["undefined"],
-                    "entity2": ["undefined"],
-                    "entity3": ["undefined"],
-                    "filterType": ["undefined"]
-                }
-            ]
-        },
-        {
             "name": "Rename iconURL to iconUrl",
             "update": [{ "iconUrl": ["get", "iconURL"] }]
         },
         {
             "name": "Rename logoURL to logoUrl",
             "update": [{ "logoUrl": ["get", "logoURL"] }]
-        },
-        {
-            "name": "Set brandhouse icons from venueType",
-            "filter": [
-                "all",
-                ["!", ["get", "iconUrl"]],
-                ["any", ["==", ["get", "venueType"], "brandhouse-t"], ["==", ["get", "venueType"], "brandhouse"]]
-            ],
-            "update": [
-                {
-                    "iconUrlBase": ["concat", "https://fest-digitalx.expofp.com/images/new/", ["get", "venueType"]]
-                },
-                {
-                    "iconUrlActive": ["concat", ["get", "iconUrlBase"], "-active.png"],
-                    "iconUrl": ["concat", ["get", "iconUrlBase"], ".png"]
-                },
-                {
-                    "iconUrlBase": ["undefined"]
-                }
-            ]
-        },
-        {
-            "name": "Set route icons",
-            "filter": ["all", ["!", ["get", "iconUrl"]], ["==", ["get", "venueType"], "bus_route"]],
-            "update": [
-                {
-                    "iconUrlBase": "https://fest-digitalx.expofp.com/images/new/route"
-                },
-                {
-                    "iconUrlActive": ["concat", ["get", "iconUrlBase"], "-active.png"],
-                    "iconUrl": ["concat", ["get", "iconUrlBase"], ".png"]
-                },
-                {
-                    "iconUrlBase": ["undefined"]
-                }
-            ]
-        },
-        {
-            "name": "Set tour icons",
-            "filter": ["all", ["!", ["get", "iconUrl"]], ["==", ["get", "venueType"], "tour"]],
-            "update": [
-                {
-                    "iconUrlBase": "https://fest-digitalx.expofp.com/images/new/tour"
-                },
-                {
-                    "iconUrlActive": ["concat", ["get", "iconUrlBase"], "-active.png"],
-                    "iconUrl": ["concat", ["get", "iconUrlBase"], ".png"]
-                },
-                {
-                    "iconUrlBase": ["undefined"]
-                }
-            ]
-        },
-        {
-            "name": "Set icons from venueType/sector",
-            "filter": ["all", ["!", ["get", "iconUrl"]], ["get", "venueType"], ["get", "sector"]],
-            "update": [
-                {
-                    "iconUrlBase": [
-                        "concat",
-                        "https://fest-digitalx.expofp.com/images/new/",
-                        ["get", "venueType"],
-                        "-",
-                        ["get", "sector"]
-                    ]
-                },
-                {
-                    "iconUrlActive": ["concat", ["get", "iconUrlBase"], "-active.png"],
-                    "iconUrl": ["concat", ["get", "iconUrlBase"], ".png"]
-                },
-                {
-                    "iconUrlBase": ["undefined"]
-                }
-            ]
         },
         {
             "name": "Set name from id",
@@ -158,11 +29,6 @@
             "update": {
                 "showMoreDetailsButton": ["==", ["get", "detailsLink"], "TRUE"]
             }
-        },
-        {
-            "name": "Remove entities that are marked as not added to mapbox",
-            "filter": ["==", ["get", "addedToMapbox"], "FALSE"],
-            "XXXdelete": true
         },
         {
             "name": "Create venue filter",
@@ -197,6 +63,79 @@
                 "hide": true
             }
         },
+
+        {
+            "name": "Extract entityTypeObj",
+            "update": [
+                {
+                    "parents": ["create-array", ["get", "entityType"]]
+                },
+                {
+                    "entityTypeObj": ["at", 0, ["parents"]]
+                },
+                {
+                    "parents": ["undefined"]
+                }
+            ]
+        },
+        {
+            "name": "Extract exhibitorParentObj",
+            "filter": ["==", ["get", "entityType"], "exhibitor"],
+            "update": [
+                {
+                    "parents": ["create-array", ["get", "parent"]]
+                },
+                {
+                    "exhibitorParentObj": ["at", 0, ["parents"]]
+                },
+                {
+                    "parents": ["undefined"]
+                }
+            ]
+        },
+        {
+            "name": "Set filter type",
+            "filter": ["all", ["get", "entityTypeObj"], ["get", "filterGroup", ["get", "entityTypeObj"]]],
+            "update": {
+                "filterType": ["concat", "filter-", ["downcase", ["get", "filterGroup", ["get", "entityTypeObj"]]]]
+            }
+        },
+        {
+            "name": "Extract parentRoutesAndMe",
+            "update": [
+                {
+                    "parentRoutes": [
+                        "create-array",
+                        ["get", "route1"],
+                        ["get", "route2"],
+                        ["get", "route3"],
+                        ["get", "route4"],
+                        ["get", "route5"]
+                    ]
+                },
+                {
+                    "parentRoutesAndMe": ["flattern", ["get", "parentRoutes"], ["create-array", ["id"]]]
+                }
+            ]
+        },
+        {
+            "name": "Set parents",
+            "update": [
+                {
+                    "parents": [
+                        "create-array",
+                        ["get", "sector"],
+                        ["get", "parent"],
+                        ["get", "route1"],
+                        ["get", "route2"],
+                        ["get", "route3"],
+                        ["get", "route4"],
+                        ["get", "route5"],
+                        ["get", "filterType"]
+                    ]
+                }
+            ]
+        },
         {
             "name": "Set default iconUrl for all entities",
             "filter": ["!", ["get", "iconUrl"]],
@@ -206,58 +145,40 @@
             }
         },
         {
-            "name": "Make exhibitors select venue and have geometry copied from venue",
-            "filter": ["all", ["==", "Exhibitor", ["get", "entityType"], ["!", ["get", "geometry"]]]],
+            "name": "Make default select/zoom",
             "update": {
-                "select": ["create-array", ["get", "parent"], ["id"]],
-                "geometry": ["get", "geometry", ["get", "parentVenue"]]
+                "select": ["create-array", ["id"]],
+                "zoom": ["create-array", ["id"]]
             }
         },
         {
-            "name": "Set parent routes field",
-            "update": [
-                {
-                    "tmpParentRoutes": [
-                        "map",
-                        ["filter", ["parents"], "e", null, ["==", ["get", "entityType", ["var", "e"]], "Route"]],
-                        "val",
-                        null,
-                        ["id", ["var", "val"]]
-                    ]
-                },
-                {
-                    "tmpMeAndRoutes": ["flattern", ["get", "tmpParentRoutes"], ["create-array", ["id"]]]
-                }
-            ]
+            "name": "Make exhibitors select venue and have geometry copied from venue",
+            "filter": ["all", ["get", "exhibitorParentObj"], ["!", ["get", "geometry"]]],
+            "update": {
+                "select": ["flattern", ["create-array", ["get", "parent"]], ["get", "select"]],
+                "zoom": ["flattern", ["create-array", ["get", "parent"]], ["get", "select"]],
+                "geometry": ["get", "geometry", ["get", "exhibitorParentObj"]]
+            }
         },
         {
             "name": "Make everyone having route also select it, but not zoom to it",
-            "filter": ["length", ["get", "tmpParentRoutes"]],
+            "filter": ["length", ["get", "parentRoutes"]],
             "update": {
-                "select": ["get", "tmpMeAndRoutes"],
-                "zoom": ["id"]
+                "select": ["flattern", ["get", "parentRoutes"], ["get", "select"]]
             }
         },
         {
             "name": "Make route also select items on route",
-            "filter": ["==", "Route", ["get", "entityType"]],
+            "filter": ["any", ["==", "bus_route", ["get", "entityType"]], ["==", "tour", ["get", "entityType"]]],
             "update": [
                 {
                     "select": [
                         "flattern",
                         ["map", ["children"], "val", null, ["id", ["var", "val"]]],
-                        ["create-array", ["id"]]
+                        ["get", "select"]
                     ]
                 }
             ]
-        },
-        {
-            "name": "Cleanup",
-            "update": {
-                "tmpParentRoutes": ["undefined"],
-                "tmpMeAndRoutes": ["undefined"],
-                "parentVenue": ["undefined"]
-            }
         }
     ]
 }
