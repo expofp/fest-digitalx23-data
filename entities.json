@@ -3,7 +3,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "startup_area",
-			"entityType": "",
+			"entityType": "expo_area",
 			"name": "Startup Garten",
 			"parent": "",
 			"route1": "highlights",
@@ -63,7 +63,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "bus_route_1_stop_1",
-			"entityType": "bus_route_stop",
+			"entityType": "bus_stelle",
 			"name": "Interactive Shuttle - Stop 1",
 			"parent": "",
 			"route1": "bus_route_1",
@@ -93,7 +93,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "bus_route_1_stop_2",
-			"entityType": "bus_route_stop",
+			"entityType": "bus_stelle",
 			"name": "Interactive Shuttle - Stop 2",
 			"parent": "",
 			"route1": "bus_route_1",
@@ -123,7 +123,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "bus_route_1_stop_3",
-			"entityType": "bus_route_stop",
+			"entityType": "bus_stelle",
 			"name": "Interactive Shuttle - Stop 3",
 			"parent": "",
 			"route1": "bus_route_1",
@@ -153,7 +153,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "bus_route_1_stop_4",
-			"entityType": "bus_route_stop",
+			"entityType": "bus_stelle",
 			"name": "Interactive Shuttle - Stop 4",
 			"parent": "",
 			"route1": "bus_route_1",
@@ -573,7 +573,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "health_&_demographic_change_tour_start",
-			"entityType": "tour",
+			"entityType": "tour_stop",
 			"name": "1 Gesundheit & Demografischer Wandel-Tour - Startpunkt",
 			"parent": "",
 			"route1": "",
@@ -8014,7 +8014,8 @@
 			"name": "Stage",
 			"requiresSector": "yes",
 			"filterGroup": "Venue",
-			"icon(NOTUSED)": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_stages.png"
+			"icon(Template)": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_stages.png",
+			"tODO": "stage.png (differnet colors based on sectors)"
 		},
 		{
 			"__tabName": "EntityType",
@@ -8022,7 +8023,8 @@
 			"name": "Brandhouse",
 			"requiresSector": "no",
 			"filterGroup": "Exhibitor",
-			"icon(NOTUSED)": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_brandhouse.png"
+			"icon(Template)": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_brandhouse.png",
+			"tODO": "brandhouse.png"
 		},
 		{
 			"__tabName": "EntityType",
@@ -8030,7 +8032,8 @@
 			"name": "Brandhouse+T",
 			"requiresSector": "no",
 			"filterGroup": "Exhibitor",
-			"icon(NOTUSED)": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_brandhouse%2Bt.png"
+			"icon(Template)": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_brandhouse%2Bt.png",
+			"tODO": "brandhouse-t.png"
 		},
 		{
 			"__tabName": "EntityType",
@@ -8038,7 +8041,8 @@
 			"name": "Tour",
 			"requiresSector": "no",
 			"filterGroup": "Route",
-			"icon(NOTUSED)": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_tours.png"
+			"icon(Template)": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_tours.png",
+			"tODO": "tour.png"
 		},
 		{
 			"__tabName": "EntityType",
@@ -8046,7 +8050,8 @@
 			"name": "Bus Route",
 			"requiresSector": "no",
 			"filterGroup": "Route",
-			"icon(NOTUSED)": "n/a"
+			"icon(Template)": "custom",
+			"tODO": "bus_route.png"
 		},
 		{
 			"__tabName": "EntityType",
@@ -8054,7 +8059,8 @@
 			"name": "Check-In",
 			"requiresSector": "no",
 			"filterGroup": "Venue",
-			"icon(NOTUSED)": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_check_in.png"
+			"icon(Template)": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_check_in.png",
+			"tODO": "check-in.png"
 		},
 		{
 			"__tabName": "EntityType",
@@ -8062,7 +8068,8 @@
 			"name": "Food & Beverage",
 			"requiresSector": "no",
 			"filterGroup": "Venue",
-			"icon(NOTUSED)": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_food.png"
+			"icon(Template)": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_food.png",
+			"tODO": "food.png"
 		},
 		{
 			"__tabName": "EntityType",
@@ -8070,7 +8077,8 @@
 			"name": "T-Vertriebslounge",
 			"requiresSector": "no",
 			"filterGroup": "Exhibitor",
-			"icon(NOTUSED)": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_vertriebslounges.png"
+			"icon(Template)": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_vertriebslounges.png",
+			"tODO": "vertriebslounge.png"
 		},
 		{
 			"__tabName": "EntityType",
@@ -8078,7 +8086,8 @@
 			"name": "Expo Area",
 			"requiresSector": "no",
 			"filterGroup": "Venue",
-			"icon(NOTUSED)": "zzz"
+			"icon(Template)": "",
+			"tODO": "expo_area.png"
 		},
 		{
 			"__tabName": "EntityType",
@@ -8086,25 +8095,35 @@
 			"name": "Exhibitor / Aussteller",
 			"requiresSector": "no",
 			"filterGroup": "Exhibitor",
-			"icon(NOTUSED)": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_brandhouse.png"
+			"icon(Template)": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_brandhouse.png",
+			"tODO": "exhibitor.png"
 		},
 		{
 			"__tabName": "EntityType",
 			"id": "bus_stelle",
 			"name": "Bus stop",
-			"requiresSector": "no"
+			"requiresSector": "no",
+			"filterGroup": "",
+			"icon(Template)": "",
+			"tODO": "bus_stelle.png"
 		},
 		{
 			"__tabName": "EntityType",
 			"id": "tour_stop",
 			"name": "",
-			"requiresSector": "no"
+			"requiresSector": "no",
+			"filterGroup": "",
+			"icon(Template)": "",
+			"tODO": "tour_stop.png"
 		},
 		{
 			"__tabName": "EntityType",
-			"id": "bus_route_stop",
+			"id": "marktplatz",
 			"name": "",
-			"requiresSector": "no"
+			"requiresSector": "no",
+			"filterGroup": "",
+			"icon(Template)": "",
+			"tODO": "marktplatz.png"
 		},
 		{
 			"__tabName": "Sector",
