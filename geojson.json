@@ -469,6 +469,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "hop_bus_station_B"
+			},
+			"geometry": {
+				"coordinates": [
+					6.939855,
+					50.941025
+				],
+				"type": "Point"
+			},
+			"id": "0ebe23523cb2b7f3178b9f090f400bf4"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "knowledge_culture_tour_start"
 			},
 			"geometry": {
@@ -1211,6 +1225,20 @@
 				"type": "Point"
 			},
 			"id": "2657c6f2ae22aecc791aac674ece9874"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "hop_bus_station_C"
+			},
+			"geometry": {
+				"coordinates": [
+					6.93694,
+					50.93659
+				],
+				"type": "Point"
+			},
+			"id": "27c2324ab6022ee9e9b024e4b541062a"
 		},
 		{
 			"type": "Feature",
@@ -2808,6 +2836,20 @@
 				"type": "Point"
 			},
 			"id": "85f50f08f7c4064065e5c5ce1a91dcd0"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "hop_bus_station_A"
+			},
+			"geometry": {
+				"coordinates": [
+					6.947214,
+					50.947271
+				],
+				"type": "Point"
+			},
+			"id": "8864c2972b9258f9ccf6657fbd15ac73"
 		},
 		{
 			"type": "Feature",
