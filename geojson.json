@@ -675,20 +675,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "mediapark_markt"
-			},
-			"geometry": {
-				"coordinates": [
-					6.944186,
-					50.948015
-				],
-				"type": "Point"
-			},
-			"id": "17b07e44ebc4dc36e8f0bce0e812c017"
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"ID": "D0014273"
 			},
 			"geometry": {
