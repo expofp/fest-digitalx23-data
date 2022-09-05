@@ -6688,6 +6688,12 @@
 			"id": "Interactive",
 			"name": "Interactive",
 			"color": "#00B050"
+		},
+		{
+			"__tabName": "Sector",
+			"id": "Pioneer",
+			"name": "Pioneer",
+			"color": "#5D2EBE"
 		}
 	]
 }
