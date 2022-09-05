@@ -1005,7 +1005,7 @@
 			"__tabName": "Entity",
 			"id": "hop_bus_station_A",
 			"entityType": "Generic POI",
-			"name": "Hop-on Hop-off Bus Station A: Hansaring 53-59, 50670 Köln",
+			"name": "Hop-on Hop-off Bus Station A",
 			"parent": "",
 			"route1": "",
 			"route2": "",
@@ -1017,7 +1017,15 @@
 			"venueType": "",
 			"backup_Name_NotInUse": "",
 			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"subtitle": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Hansaring 53-59, 50670 Köln",
+			"address": "Hansaring 53-59",
+			"city": "Köln",
+			"postalCode": "50670"
 		},
 		{
 			"__tabName": "Entity",
@@ -1035,7 +1043,15 @@
 			"venueType": "",
 			"backup_Name_NotInUse": "",
 			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"subtitle": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Hohenzollernring 71-77, 50672 Köln",
+			"address": "Hohenzollernring 71-77",
+			"city": "Köln",
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -1053,7 +1069,15 @@
 			"venueType": "",
 			"backup_Name_NotInUse": "",
 			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"subtitle": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Aachener Straße 14-22, 50674 Köln",
+			"address": "Aachener Straße 14-22",
+			"city": "Köln",
+			"postalCode": "50674"
 		},
 		{
 			"__tabName": "Entity",
