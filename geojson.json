@@ -1341,20 +1341,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "globalisation_tour_end"
-			},
-			"geometry": {
-				"coordinates": [
-					6.943997,
-					50.941803
-				],
-				"type": "Point"
-			},
-			"id": "33c2207838607c5888fa67012dd7806b"
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"ID": "D0014215"
 			},
 			"geometry": {
@@ -2781,20 +2767,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "digitalisierungstour_end"
-			},
-			"geometry": {
-				"coordinates": [
-					6.944744,
-					50.948508
-				],
-				"type": "Point"
-			},
-			"id": "749a61fe14335c30629c17f920e63699"
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"ID": "D0005428"
 			},
 			"geometry": {
@@ -3085,20 +3057,6 @@
 				"type": "Point"
 			},
 			"id": "9197eac18716335b95cf35419d83e866"
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"ID": "knowledge_culture_tour_end"
-			},
-			"geometry": {
-				"coordinates": [
-					6.935049,
-					50.942513
-				],
-				"type": "Point"
-			},
-			"id": "93964b2f6b0ddfe5c996770f8dad40a9"
 		},
 		{
 			"type": "Feature",
@@ -4739,20 +4697,6 @@
 				"type": "Point"
 			},
 			"id": "fe10aa5606cbe46841a2f1b5002b92da"
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"ID": "individualisation_tour_end"
-			},
-			"geometry": {
-				"coordinates": [
-					6.934721,
-					50.942689
-				],
-				"type": "Point"
-			},
-			"id": "ffa9f8ce4a75d4a51633cfb6a0914bb1"
 		}
 	]
 }
