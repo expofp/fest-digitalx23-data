@@ -731,6 +731,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "parkgarage_maastrichter"
+			},
+			"geometry": {
+				"coordinates": [
+					6.936466,
+					50.938607
+				],
+				"type": "Point"
+			},
+			"id": "1b53efefb6b9074f1316824b4ed7913a"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0005511"
 			},
 			"geometry": {
@@ -1211,6 +1225,20 @@
 				"type": "LineString"
 			},
 			"id": "25630ae0d3ab8f5069e4bab88d4e21eb"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "flagship_store"
+			},
+			"geometry": {
+				"coordinates": [
+					6.951434,
+					50.936611
+				],
+				"type": "Point"
+			},
+			"id": "2606ce4954391026e67d464ca0fe9a20"
 		},
 		{
 			"type": "Feature",
@@ -1738,6 +1766,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "hallmackenreuther"
+			},
+			"geometry": {
+				"coordinates": [
+					6.934113,
+					50.938129
+				],
+				"type": "Point"
+			},
+			"id": "4b071ddeb732c10757116bc0e1aa4e89"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "monkeys_cocktail"
 			},
 			"geometry": {
@@ -1860,6 +1902,20 @@
 				"type": "Point"
 			},
 			"id": "60b31e02fe78368cb5afe81a5168a3b9"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "brownies"
+			},
+			"geometry": {
+				"coordinates": [
+					6.938879,
+					50.938176
+				],
+				"type": "Point"
+			},
+			"id": "60d08d88fac7449ceff637629344f271"
 		},
 		{
 			"type": "Feature",
