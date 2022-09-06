@@ -8273,26 +8273,26 @@
 			"filterGroup": "Exhibitor",
 			"icon": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_brandhouse.png",
 			"iconActive": "",
-			"tODO": "exhibitor.png"
+			"tODO": "brandhouse.png"
 		},
 		{
 			"__tabName": "EntityType",
 			"id": "bus_stelle",
 			"name": "Bus stop",
 			"requiresSector": "no",
-			"filterGroup": "",
-			"icon": "custom",
-			"iconActive": "",
+			"filterGroup": "Route",
+			"icon": "https://github.com/expofp/fest-digitalx/blob/main/images/new2/bus_stelle.png",
+			"iconActive": "https://github.com/expofp/fest-digitalx/blob/main/images/new2/bus_stelle-active.png",
 			"tODO": "bus_stelle.png"
 		},
 		{
 			"__tabName": "EntityType",
 			"id": "tour_stop",
-			"name": "",
+			"name": "Tour stop",
 			"requiresSector": "no",
-			"filterGroup": "",
-			"icon": "custom",
-			"iconActive": "",
+			"filterGroup": "Route",
+			"icon": "https://github.com/expofp/fest-digitalx/blob/main/images/new2/tour_stop.png",
+			"iconActive": "https://github.com/expofp/fest-digitalx/blob/main/images/new2/tour_stop-active.png",
 			"tODO": "tour_stop.png"
 		},
 		{
@@ -8300,10 +8300,10 @@
 			"id": "marktplatz",
 			"name": "",
 			"requiresSector": "no",
-			"filterGroup": "",
+			"filterGroup": "Exhibitor",
 			"icon": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_brandhouse.png",
 			"iconActive": "",
-			"tODO": "marktplatz.png"
+			"tODO": "brandhouse.png"
 		},
 		{
 			"__tabName": "Sector",
