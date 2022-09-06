@@ -230,10 +230,10 @@
 			"logoURL": "",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "",
-			"address": "",
-			"city": "",
-			"postalCode": "",
+			"addressCalculation": "Im Mediapark 6, 50670 Köln",
+			"address": "Im Mediapark 6",
+			"city": "Köln",
+			"postalCode": "50670",
 			"description": "",
 			"description_de": "",
 			"external_location_id": "",
@@ -244,7 +244,7 @@
 			"__tabName": "Entity",
 			"id": "urbanisation_start",
 			"entityType": "tour_stop",
-			"name": "1Urbanisierung-Tour - Startpunkt",
+			"name": "1 Urbanisierung-Tour - Startpunkt",
 			"parent": "",
 			"route1": "",
 			"route2": "",
@@ -440,10 +440,10 @@
 			"logoURL": "",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "",
-			"address": "",
-			"city": "",
-			"postalCode": "",
+			"addressCalculation": "Brabanter Strasse 1, 50674 Köln",
+			"address": "Brabanter Strasse 1",
+			"city": "Köln",
+			"postalCode": "50674",
 			"description": "",
 			"description_de": "",
 			"external_location_id": "",
@@ -530,10 +530,10 @@
 			"logoURL": "",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "",
-			"address": "",
-			"city": "",
-			"postalCode": "",
+			"addressCalculation": "Venloer Strasse 40, 50672 Köln",
+			"address": "Veloer Strasse 40",
+			"city": "Köln",
+			"postalCode": "50672",
 			"description": "",
 			"description_de": "",
 			"external_location_id": "",
@@ -797,7 +797,7 @@
 			"sector": "",
 			"backup_Name_NotInUse": "Mediapark Outdoor",
 			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE",
+			"addedToMapbox": "TRUE",
 			"subtitle": "Accreditation / Check-In",
 			"logoURL": "",
 			"website": "",
@@ -822,7 +822,7 @@
 			"sector": "",
 			"backup_Name_NotInUse": "Stadtgarten",
 			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE",
+			"addedToMapbox": "TRUE",
 			"subtitle": "Accreditation / Check-In",
 			"logoURL": "",
 			"website": "",
@@ -852,7 +852,7 @@
 			"sector": "",
 			"backup_Name_NotInUse": "Volksbühne",
 			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE",
+			"addedToMapbox": "TRUE",
 			"subtitle": "Accreditation / Check-In",
 			"logoURL": "",
 			"website": "",
@@ -882,7 +882,7 @@
 			"sector": "",
 			"backup_Name_NotInUse": "Sartory Säle",
 			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE",
+			"addedToMapbox": "TRUE",
 			"subtitle": "Accreditation / Check-In",
 			"logoURL": "",
 			"website": "",
@@ -912,7 +912,7 @@
 			"sector": "",
 			"backup_Name_NotInUse": "",
 			"detailsLink": "",
-			"addedToMapbox": "",
+			"addedToMapbox": "TRUE",
 			"subtitle": "Accreditation / Check-In",
 			"logoURL": "",
 			"website": "",
@@ -8181,7 +8181,8 @@
 			"name": "Stage",
 			"requiresSector": "yes",
 			"filterGroup": "Venue",
-			"icon(Template)": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_stages.png",
+			"icon": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_stages.png",
+			"iconSelected": "",
 			"tODO": "stage.png (differnet colors based on sectors)"
 		},
 		{
@@ -8190,7 +8191,8 @@
 			"name": "Brandhouse",
 			"requiresSector": "no",
 			"filterGroup": "Exhibitor",
-			"icon(Template)": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_brandhouse.png",
+			"icon": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_brandhouse.png",
+			"iconSelected": "",
 			"tODO": "brandhouse.png"
 		},
 		{
@@ -8199,7 +8201,8 @@
 			"name": "Brandhouse+T",
 			"requiresSector": "no",
 			"filterGroup": "Exhibitor",
-			"icon(Template)": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_brandhouse%2Bt.png",
+			"icon": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_brandhouse%2Bt.png",
+			"iconSelected": "",
 			"tODO": "brandhouse-t.png"
 		},
 		{
@@ -8208,7 +8211,8 @@
 			"name": "Tour",
 			"requiresSector": "no",
 			"filterGroup": "Route",
-			"icon(Template)": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_tours.png",
+			"icon": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_tours.png",
+			"iconSelected": "",
 			"tODO": "tour.png"
 		},
 		{
@@ -8217,7 +8221,8 @@
 			"name": "Bus Route",
 			"requiresSector": "no",
 			"filterGroup": "Route",
-			"icon(Template)": "custom",
+			"icon": "custom",
+			"iconSelected": "",
 			"tODO": "bus_route.png"
 		},
 		{
@@ -8226,7 +8231,8 @@
 			"name": "Check-In",
 			"requiresSector": "no",
 			"filterGroup": "Venue",
-			"icon(Template)": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_check_in.png",
+			"icon": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_check_in.png",
+			"iconSelected": "",
 			"tODO": "check-in.png"
 		},
 		{
@@ -8235,7 +8241,8 @@
 			"name": "Food & Beverage",
 			"requiresSector": "no",
 			"filterGroup": "Venue",
-			"icon(Template)": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_food.png",
+			"icon": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_food.png",
+			"iconSelected": "",
 			"tODO": "food.png"
 		},
 		{
@@ -8244,7 +8251,8 @@
 			"name": "T-Vertriebslounge",
 			"requiresSector": "no",
 			"filterGroup": "Exhibitor",
-			"icon(Template)": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_vertriebslounges.png",
+			"icon": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_vertriebslounges.png",
+			"iconSelected": "",
 			"tODO": "vertriebslounge.png"
 		},
 		{
@@ -8253,7 +8261,8 @@
 			"name": "Expo Area",
 			"requiresSector": "no",
 			"filterGroup": "Venue",
-			"icon(Template)": "",
+			"icon": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_brandhouse.png",
+			"iconSelected": "",
 			"tODO": "expo_area.png"
 		},
 		{
@@ -8262,7 +8271,8 @@
 			"name": "Exhibitor / Aussteller",
 			"requiresSector": "no",
 			"filterGroup": "Exhibitor",
-			"icon(Template)": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_brandhouse.png",
+			"icon": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_brandhouse.png",
+			"iconSelected": "",
 			"tODO": "exhibitor.png"
 		},
 		{
@@ -8271,7 +8281,8 @@
 			"name": "Bus stop",
 			"requiresSector": "no",
 			"filterGroup": "",
-			"icon(Template)": "custom",
+			"icon": "custom",
+			"iconSelected": "",
 			"tODO": "bus_stelle.png"
 		},
 		{
@@ -8280,7 +8291,8 @@
 			"name": "",
 			"requiresSector": "no",
 			"filterGroup": "",
-			"icon(Template)": "custom",
+			"icon": "custom",
+			"iconSelected": "",
 			"tODO": "tour_stop.png"
 		},
 		{
@@ -8289,7 +8301,8 @@
 			"name": "",
 			"requiresSector": "no",
 			"filterGroup": "",
-			"icon(Template)": "",
+			"icon": "https://github.com/expofp/fest-digitalx/blob/main/images/icon_brandhouse.png",
+			"iconSelected": "",
 			"tODO": "marktplatz.png"
 		},
 		{
