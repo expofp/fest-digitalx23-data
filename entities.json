@@ -215,7 +215,7 @@
 			"id": "highlight_tour_start",
 			"entityType": "tour_stop",
 			"name": "1 Highlight-Tour - Startpunkt",
-			"parent": "",
+			"parent": "highlight_tour_1",
 			"route1": "",
 			"route2": "",
 			"route3": "",
