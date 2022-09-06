@@ -1327,6 +1327,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "highlight_tour_start"
+			},
+			"geometry": {
+				"coordinates": [
+					6.944849,
+					50.948566
+				],
+				"type": "Point"
+			},
+			"id": "32a60563e4428bae8e6305f7f72c3652"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0004345"
 			},
 			"geometry": {
@@ -1776,6 +1790,20 @@
 				"type": "Point"
 			},
 			"id": "4b071ddeb732c10757116bc0e1aa4e89"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "globalisation_tour_start"
+			},
+			"geometry": {
+				"coordinates": [
+					6.937318,
+					50.936656
+				],
+				"type": "Point"
+			},
+			"id": "4ea4b71e027e74741dc0e975ed49b24a"
 		},
 		{
 			"type": "Feature",
@@ -3919,6 +3947,20 @@
 				"type": "Point"
 			},
 			"id": "d18ddaea5747a57f098ec627cd901721"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "future_of_work_start"
+			},
+			"geometry": {
+				"coordinates": [
+					6.93515,
+					50.943019
+				],
+				"type": "Point"
+			},
+			"id": "d2c394baed5778e74de66d16d77f6bd9"
 		},
 		{
 			"type": "Feature",
