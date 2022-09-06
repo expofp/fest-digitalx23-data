@@ -1313,20 +1313,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "D0005513"
-			},
-			"geometry": {
-				"coordinates": [
-					6.93732,
-					50.938294
-				],
-				"type": "Point"
-			},
-			"id": "31379b75d003d317ee727937480da005"
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"ID": "highlight_tour_start"
 			},
 			"geometry": {
@@ -3169,20 +3155,6 @@
 				"type": "Point"
 			},
 			"id": "9825465c7fa46651a0d317788f00764f"
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"ID": "globalisation_tour_start"
-			},
-			"geometry": {
-				"coordinates": [
-					6.935577,
-					50.936512
-				],
-				"type": "Point"
-			},
-			"id": "9846624a625159d46a94e2853999e8de"
 		},
 		{
 			"type": "Feature",
