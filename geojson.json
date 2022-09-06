@@ -1257,6 +1257,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "cleanicum"
+			},
+			"geometry": {
+				"coordinates": [
+					6.934891,
+					50.939085
+				],
+				"type": "Point"
+			},
+			"id": "2b425472fd16ca85e5bc57d487f2956b"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "coffee_fellows"
 			},
 			"geometry": {
@@ -1337,6 +1351,20 @@
 				"type": "Point"
 			},
 			"id": "3e4908760b2e02ad1a924d86e844e921"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "vapiano"
+			},
+			"geometry": {
+				"coordinates": [
+					6.945149,
+					50.947347
+				],
+				"type": "Point"
+			},
+			"id": "3e7367047913340c6eb40431be77720d"
 		},
 		{
 			"type": "Feature",
@@ -1664,6 +1692,20 @@
 				"type": "Point"
 			},
 			"id": "435b087b609f076d046be953d7b9184c"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "mediapark_brucke"
+			},
+			"geometry": {
+				"coordinates": [
+					6.943019,
+					50.947727
+				],
+				"type": "Point"
+			},
+			"id": "439d6f3584af1282ded2c9f0ff1e851b"
 		},
 		{
 			"type": "Feature",
@@ -2781,6 +2823,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "komed_haus_6_checkin"
+			},
+			"geometry": {
+				"coordinates": [
+					6.944948,
+					50.948525
+				],
+				"type": "Point"
+			},
+			"id": "7b2ef7cb7f107718afe9731cb85ea4be"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "future_stage"
 			},
 			"geometry": {
@@ -3699,6 +3755,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "volksbuhne"
+			},
+			"geometry": {
+				"coordinates": [
+					6.936931,
+					50.936284
+				],
+				"type": "Point"
+			},
+			"id": "c62b12fc8413dcb0d9c3401e754b3895"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0004170"
 			},
 			"geometry": {
@@ -4252,6 +4322,20 @@
 				"type": "LineString"
 			},
 			"id": "ee0eb104358d258afa590666acfe3bcc"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "raum_020"
+			},
+			"geometry": {
+				"coordinates": [
+					6.943222,
+					50.948736
+				],
+				"type": "Point"
+			},
+			"id": "ee5bfff4f4bc9a66afdcfd68b1b94995"
 		},
 		{
 			"type": "Feature",
