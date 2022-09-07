@@ -5954,7 +5954,7 @@
 		},
 		{
 			"__tabName": "Entity",
-			"id": "TEL_2022_002",
+			"id": "D0009588",
 			"entityType": "brandhouse-t",
 			"name": "Direkter Vertrieb & \nService Geschäftskunden",
 			"parent": "",
@@ -6224,7 +6224,7 @@
 		},
 		{
 			"__tabName": "Entity",
-			"id": "TEL_2022_012",
+			"id": "D0009452",
 			"entityType": "brandhouse-t",
 			"name": "Deutsche Telekom Global Business",
 			"parent": "",
