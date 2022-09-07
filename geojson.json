@@ -605,20 +605,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "little_candia"
-			},
-			"geometry": {
-				"coordinates": [
-					6.934768,
-					50.938015
-				],
-				"type": "Point"
-			},
-			"id": "116481e6e03da4c14d2c7288eddbce95"
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"ID": "maison_sen"
 			},
 			"geometry": {
@@ -3359,8 +3345,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.934566,
-					50.939856
+					6.93482,
+					50.939861
 				],
 				"type": "Point"
 			},
