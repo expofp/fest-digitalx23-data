@@ -6947,7 +6947,7 @@
 			"requiresSector": "yes",
 			"filterGroup": "Venue",
 			"icon": "https://fest-digitalx.expofp.com/images/new2/stage-Disruption.png",
-			"iconActive": "https://fest-digitalx.expofp.com/images/new2/brandhouse.png",
+			"iconActive": "https://fest-digitalx.expofp.com/images/new2/stage-Disruption-active.png",
 			"tODO": "stage.png (differnet colors based on sectors)"
 		},
 		{
