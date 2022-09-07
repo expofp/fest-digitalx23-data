@@ -5984,7 +5984,7 @@
 		},
 		{
 			"__tabName": "Entity",
-			"id": "TEL_2022_003",
+			"id": "D0009165",
 			"entityType": "brandhouse-t",
 			"name": "Treffpunkt Public Sector",
 			"parent": "",
@@ -6014,7 +6014,7 @@
 		},
 		{
 			"__tabName": "Entity",
-			"id": "TEL_2022_004",
+			"id": "D0010305",
 			"entityType": "brandhouse-t",
 			"name": "KMU Kundenhouse",
 			"parent": "",
@@ -6044,7 +6044,7 @@
 		},
 		{
 			"__tabName": "Entity",
-			"id": "TEL_2022_005",
+			"id": "D0012034",
 			"entityType": "brandhouse-t",
 			"name": "Kundenhaus Großkunden",
 			"parent": "",
@@ -6074,7 +6074,7 @@
 		},
 		{
 			"__tabName": "Entity",
-			"id": "TEL_2022_006",
+			"id": "D0012055",
 			"entityType": "brandhouse-t",
 			"name": "Mittelstands-Lounge",
 			"parent": "",
@@ -6134,7 +6134,7 @@
 		},
 		{
 			"__tabName": "Entity",
-			"id": "TEL_2022_008",
+			"id": "D0012636",
 			"entityType": "brandhouse-t",
 			"name": "Enterprise Customer Lounge",
 			"parent": "",
