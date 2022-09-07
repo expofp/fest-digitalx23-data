@@ -6946,8 +6946,8 @@
 			"name": "Stage",
 			"requiresSector": "yes",
 			"filterGroup": "Venue",
-			"icon": "https://fest-digitalx.expofp.com/images/icon_stages.png",
-			"iconActive": "",
+			"icon": "https://fest-digitalx.expofp.com/images/new2/stage-Disruption.png",
+			"iconActive": "https://fest-digitalx.expofp.com/images/new2/brandhouse.png",
 			"tODO": "stage.png (differnet colors based on sectors)"
 		},
 		{
@@ -6956,8 +6956,8 @@
 			"name": "Brandhouse",
 			"requiresSector": "no",
 			"filterGroup": "Exhibitor",
-			"icon": "https://github.com/expofp/fest-digitalx/blob/main/images/new2/brandhouse.png",
-			"iconActive": "https://github.com/expofp/fest-digitalx/blob/main/images/new2/brandhouse-active.png",
+			"icon": "https://fest-digitalx.expofp.com/images/new2/brandhouse.png",
+			"iconActive": "https://fest-digitalx.expofp.com/images/new2/brandhouse-active.png",
 			"tODO": "brandhouse.png"
 		},
 		{
@@ -6966,8 +6966,8 @@
 			"name": "Brandhouse+T",
 			"requiresSector": "no",
 			"filterGroup": "Exhibitor",
-			"icon": "https://github.com/expofp/fest-digitalx/blob/main/images/new2/brandhouse-t.png",
-			"iconActive": "https://github.com/expofp/fest-digitalx/blob/main/images/new2/brandhouse-t-active.png",
+			"icon": "https://fest-digitalx.expofp.com/images/new2/brandhouse-t.png",
+			"iconActive": "https://fest-digitalx.expofp.com/images/new2/brandhouse-t-active.png",
 			"tODO": "brandhouse-t.png"
 		},
 		{
@@ -6976,8 +6976,8 @@
 			"name": "Tour",
 			"requiresSector": "no",
 			"filterGroup": "Route",
-			"icon": "https://github.com/expofp/fest-digitalx/blob/main/images/new2/tour.png",
-			"iconActive": "https://github.com/expofp/fest-digitalx/blob/main/images/new2/tour-active.png",
+			"icon": "https://fest-digitalx.expofp.com/images/new2/tour.png",
+			"iconActive": "https://fest-digitalx.expofp.com/images/new2/tour-active.png",
 			"tODO": "tour.png"
 		},
 		{
@@ -6986,8 +6986,8 @@
 			"name": "Bus Route",
 			"requiresSector": "no",
 			"filterGroup": "Route",
-			"icon": "https://github.com/expofp/fest-digitalx/blob/main/images/new2/bus_route.png",
-			"iconActive": "https://github.com/expofp/fest-digitalx/blob/main/images/new2/bus_route-active.png",
+			"icon": "https://fest-digitalx.expofp.com/images/new2/bus_route.png",
+			"iconActive": "https://fest-digitalx.expofp.com/images/new2/bus_route-active.png",
 			"tODO": "bus_route.png"
 		},
 		{
@@ -6996,8 +6996,8 @@
 			"name": "Check-In",
 			"requiresSector": "no",
 			"filterGroup": "Venue",
-			"icon": "https://github.com/expofp/fest-digitalx/blob/main/images/new2/check-in.png",
-			"iconActive": "https://github.com/expofp/fest-digitalx/blob/main/images/new2/check-in-active.png",
+			"icon": "https://fest-digitalx.expofp.com/images/new2/check-in.png",
+			"iconActive": "https://fest-digitalx.expofp.com/images/new2/check-in-active.png",
 			"tODO": "check-in.png"
 		},
 		{
@@ -7006,8 +7006,8 @@
 			"name": "Food & Beverage",
 			"requiresSector": "no",
 			"filterGroup": "Venue",
-			"icon": "https://github.com/expofp/fest-digitalx/blob/main/images/new2/food.png",
-			"iconActive": "https://github.com/expofp/fest-digitalx/blob/main/images/new2/food-active.png",
+			"icon": "https://fest-digitalx.expofp.com/images/new2/food.png",
+			"iconActive": "https://fest-digitalx.expofp.com/images/new2/food-active.png",
 			"tODO": "food.png"
 		},
 		{
@@ -7016,8 +7016,8 @@
 			"name": "T-Vertriebslounge",
 			"requiresSector": "no",
 			"filterGroup": "Exhibitor",
-			"icon": "https://github.com/expofp/fest-digitalx/blob/main/images/new2/vertriebslounge.png",
-			"iconActive": "https://github.com/expofp/fest-digitalx/blob/main/images/new2/vertriebslounge-active.png",
+			"icon": "https://fest-digitalx.expofp.com/images/new2/vertriebslounge.png",
+			"iconActive": "https://fest-digitalx.expofp.com/images/new2/vertriebslounge-active.png",
 			"tODO": "vertriebslounge.png"
 		},
 		{
@@ -7026,8 +7026,8 @@
 			"name": "Expo Area",
 			"requiresSector": "no",
 			"filterGroup": "Venue",
-			"icon": "https://github.com/expofp/fest-digitalx/blob/main/images/new2/brandhouse.png",
-			"iconActive": "https://github.com/expofp/fest-digitalx/blob/main/images/new2/brandhouse-active.png",
+			"icon": "https://fest-digitalx.expofp.com/images/new2/brandhouse.png",
+			"iconActive": "https://fest-digitalx.expofp.com/images/new2/brandhouse-active.png",
 			"tODO": "expo_area.png"
 		},
 		{
@@ -7036,8 +7036,8 @@
 			"name": "Exhibitor / Aussteller",
 			"requiresSector": "no",
 			"filterGroup": "Exhibitor",
-			"icon": "https://github.com/expofp/fest-digitalx/blob/main/images/new2/brandhouse.png",
-			"iconActive": "https://github.com/expofp/fest-digitalx/blob/main/images/new2/brandhouse-active.png",
+			"icon": "https://fest-digitalx.expofp.com/images/new2/brandhouse.png",
+			"iconActive": "https://fest-digitalx.expofp.com/images/new2/brandhouse-active.png",
 			"tODO": "brandhouse.png"
 		},
 		{
@@ -7046,8 +7046,8 @@
 			"name": "Bus stop",
 			"requiresSector": "no",
 			"filterGroup": "Venue",
-			"icon": "https://github.com/expofp/fest-digitalx/blob/main/images/new2/bus_route.png",
-			"iconActive": "https://github.com/expofp/fest-digitalx/blob/main/images/new2/bus_route-active.png",
+			"icon": "https://fest-digitalx.expofp.com/images/new2/bus_route.png",
+			"iconActive": "https://fest-digitalx.expofp.com/images/new2/bus_route-active.png",
 			"tODO": "bus_stelle.png"
 		},
 		{
@@ -7056,8 +7056,8 @@
 			"name": "Tour stop",
 			"requiresSector": "no",
 			"filterGroup": "Venue",
-			"icon": "https://github.com/expofp/fest-digitalx/blob/main/images/new2/tour_stop.png",
-			"iconActive": "https://github.com/expofp/fest-digitalx/blob/main/images/new2/tour_stop-active.png",
+			"icon": "https://fest-digitalx.expofp.com/images/new2/tour_stop.png",
+			"iconActive": "https://fest-digitalx.expofp.com/images/new2/tour_stop-active.png",
 			"tODO": "tour_stop.png"
 		},
 		{
@@ -7066,8 +7066,8 @@
 			"name": "Marktplatz",
 			"requiresSector": "no",
 			"filterGroup": "Venue",
-			"icon": "https://github.com/expofp/fest-digitalx/blob/main/images/new2/brandhouse.png",
-			"iconActive": "https://github.com/expofp/fest-digitalx/blob/main/images/new2/brandhouse-active.png"
+			"icon": "https://fest-digitalx.expofp.com/images/new2/brandhouse.png",
+			"iconActive": "https://fest-digitalx.expofp.com/images/new2/brandhouse-active.png"
 		},
 		{
 			"__tabName": "Sector",
