@@ -7045,7 +7045,7 @@
 			"id": "bus_stelle",
 			"name": "Bus stop",
 			"requiresSector": "no",
-			"filterGroup": "Route",
+			"filterGroup": "Venue",
 			"icon": "https://github.com/expofp/fest-digitalx/blob/main/images/new2/bus_route.png",
 			"iconActive": "https://github.com/expofp/fest-digitalx/blob/main/images/new2/bus_route-active.png",
 			"tODO": "bus_stelle.png"
@@ -7055,14 +7055,19 @@
 			"id": "tour_stop",
 			"name": "Tour stop",
 			"requiresSector": "no",
-			"filterGroup": "Route",
+			"filterGroup": "Venue",
 			"icon": "https://github.com/expofp/fest-digitalx/blob/main/images/new2/tour_stop.png",
 			"iconActive": "https://github.com/expofp/fest-digitalx/blob/main/images/new2/tour_stop-active.png",
 			"tODO": "tour_stop.png"
 		},
 		{
 			"__tabName": "EntityType",
-			"id": "marktplatz"
+			"id": "marktplatz",
+			"name": "Marktplatz",
+			"requiresSector": "no",
+			"filterGroup": "Venue",
+			"icon": "https://github.com/expofp/fest-digitalx/blob/main/images/new2/brandhouse.png",
+			"iconActive": "https://github.com/expofp/fest-digitalx/blob/main/images/new2/brandhouse-active.png"
 		},
 		{
 			"__tabName": "Sector",
