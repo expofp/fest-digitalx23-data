@@ -703,6 +703,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "D0014297"
+			},
+			"geometry": {
+				"coordinates": [
+					6.938872,
+					50.940419
+				],
+				"type": "Point"
+			},
+			"id": "1917b9e19fa1a34abd64339a6323f7c0"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "TEL_2022_006"
 			},
 			"geometry": {
@@ -2753,6 +2767,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "D0014173"
+			},
+			"geometry": {
+				"coordinates": [
+					6.938926,
+					50.940423
+				],
+				"type": "Point"
+			},
+			"id": "72f884bb187d4c939da822930b9df1a7"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0005428"
 			},
 			"geometry": {
@@ -3765,6 +3793,20 @@
 				"type": "Point"
 			},
 			"id": "c62b12fc8413dcb0d9c3401e754b3895"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "komed_6_tours"
+			},
+			"geometry": {
+				"coordinates": [
+					6.944897,
+					50.948546
+				],
+				"type": "Point"
+			},
+			"id": "ca05aa96c7ad0cb1f8f14ed94706b613"
 		},
 		{
 			"type": "Feature",
