@@ -3979,6 +3979,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "esports_stage"
+			},
+			"geometry": {
+				"coordinates": [
+					6.939106,
+					50.938625
+				],
+				"type": "Point"
+			},
+			"id": "cfc35b83bf231458d858068a1f6692c2"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0014208"
 			},
 			"geometry": {
