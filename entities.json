@@ -5959,7 +5959,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0014284",
-			"entityType": "",
+			"entityType": "brandhouse",
 			"name": "everphone GmbH",
 			"parent": "",
 			"route1": "",
@@ -5986,7 +5986,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0014281",
-			"entityType": "",
+			"entityType": "brandhouse",
 			"name": "PricewaterhouseCoopers GmbH Wirtschaftsprüfungsgesellschaft",
 			"parent": "",
 			"route1": "",
@@ -6013,7 +6013,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0014279",
-			"entityType": "",
+			"entityType": "brandhouse",
 			"name": "Poly",
 			"parent": "",
 			"route1": "",
