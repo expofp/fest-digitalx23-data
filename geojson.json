@@ -1299,6 +1299,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "D0014291"
+			},
+			"geometry": {
+				"coordinates": [
+					6.940664,
+					50.940773
+				],
+				"type": "Point"
+			},
+			"id": "2c2711412cd8ed2bd66caccd39acbbbc"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "coffee_fellows"
 			},
 			"geometry": {
@@ -3197,6 +3211,20 @@
 				"type": "Point"
 			},
 			"id": "a08a94ff249793d7b803198eef575736"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "D0014296"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935105,
+					50.942681
+				],
+				"type": "Point"
+			},
+			"id": "a3c5ea3ee5e7d5a9ae7b13566f1552f4"
 		},
 		{
 			"type": "Feature",
