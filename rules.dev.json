@@ -133,11 +133,27 @@
         },
         {
             "name": "Set iconUrl for all entities",
-            "filter": ["all", ["!", ["get", "iconUrl"]], ["get", "entityTypeObj"]],
+            "filter": [
+                "all",
+                ["!", ["get", "iconUrl"]],
+                ["get", "entityTypeObj"],
+                ["get", "icon", ["get", "entityTypeObj"]],
+                ["get", "iconActive", ["get", "entityTypeObj"]]
+            ],
             "update": [
                 {
-                    "iconUrl": ["get", "icon", ["get", "entityTypeObj"]],
-                    "iconUrlActive": ["get", "iconActive", ["get", "entityTypeObj"]]
+                    "iconUrl": [
+                        "replace",
+                        ["get", "icon", ["get", "entityTypeObj"]],
+                        "#sector#",
+                        ["get", "sector"]
+                    ],
+                    "iconUrlActive": [
+                        "replace",
+                        ["get", "iconActive", ["get", "entityTypeObj"]],
+                        "#sector#",
+                        ["get", "sector"]
+                    ]
                 }
             ]
         },
