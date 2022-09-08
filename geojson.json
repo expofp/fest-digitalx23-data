@@ -1327,6 +1327,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "im_mediapark"
+			},
+			"geometry": {
+				"coordinates": [
+					6.943886,
+					50.947944
+				],
+				"type": "Point"
+			},
+			"id": "2ed1fa14eda42d709d59363cb28e903a"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "highlight_tour_start"
 			},
 			"geometry": {
