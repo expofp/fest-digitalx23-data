@@ -191,7 +191,7 @@
         {
             "name": "Make everyone having route also select it, but not zoom to it",
             "filter": ["length", ["get", "parentRoutes"]],
-            "update": {
+            "XXupdate": {
                 "select": ["flattern", ["get", "parentRoutes"], ["get", "select"]]
             }
         },
