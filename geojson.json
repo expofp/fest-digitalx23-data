@@ -4,7 +4,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "TEL_2022_005"
+				"ID": "D0012034"
 			},
 			"geometry": {
 				"coordinates": [
@@ -717,7 +717,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "TEL_2022_006"
+				"ID": "D0012055"
 			},
 			"geometry": {
 				"coordinates": [
@@ -803,12 +803,26 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "TEL_2022_031"
+			},
+			"geometry": {
+				"coordinates": [
+					6.936935,
+					50.93846
+				],
+				"type": "Point"
+			},
+			"id": "1ecfe859e0660e9fb925c9d50921c702"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0014247"
 			},
 			"geometry": {
 				"coordinates": [
-					6.938717,
-					50.944402
+					6.936136,
+					50.942512
 				],
 				"type": "Point"
 			},
@@ -1864,7 +1878,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "TEL_2022_002"
+				"ID": "D0009588"
 			},
 			"geometry": {
 				"coordinates": [
@@ -1920,7 +1934,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "TEL_2022_008"
+				"ID": "D0012636"
 			},
 			"geometry": {
 				"coordinates": [
@@ -2953,8 +2967,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.944948,
-					50.948525
+					6.944228,
+					50.948658
 				],
 				"type": "Point"
 			},
@@ -2981,8 +2995,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.938551,
-					50.944283
+					6.935812,
+					50.942265
 				],
 				"type": "Point"
 			},
@@ -3453,12 +3467,12 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "TEL_2022_003"
+				"ID": "D0009165"
 			},
 			"geometry": {
 				"coordinates": [
-					6.93482,
-					50.939861
+					6.934746,
+					50.937998
 				],
 				"type": "Point"
 			},
@@ -3509,7 +3523,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "TEL_2022_012"
+				"ID": "D0009452"
 			},
 			"geometry": {
 				"coordinates": [
@@ -3857,8 +3871,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.93859,
-					50.944317
+					6.935902,
+					50.942341
 				],
 				"type": "Point"
 			},
@@ -4300,8 +4314,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.938627,
-					50.944347
+					6.936009,
+					50.94241
 				],
 				"type": "Point"
 			},
@@ -4498,8 +4512,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.938796,
-					50.944447
+					6.936226,
+					50.942577
 				],
 				"type": "Point"
 			},
@@ -4799,7 +4813,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "TEL_2022_004"
+				"ID": "D0010305"
 			},
 			"geometry": {
 				"coordinates": [
