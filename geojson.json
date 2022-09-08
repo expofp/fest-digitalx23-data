@@ -4,7 +4,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "TEL_2022_005"
+				"ID": "D0012034"
 			},
 			"geometry": {
 				"coordinates": [
@@ -717,7 +717,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "TEL_2022_006"
+				"ID": "D0012055"
 			},
 			"geometry": {
 				"coordinates": [
@@ -1878,7 +1878,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "TEL_2022_002"
+				"ID": "D0009588"
 			},
 			"geometry": {
 				"coordinates": [
@@ -1934,7 +1934,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "TEL_2022_008"
+				"ID": "D0012636"
 			},
 			"geometry": {
 				"coordinates": [
@@ -2967,8 +2967,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.944948,
-					50.948525
+					6.944228,
+					50.948658
 				],
 				"type": "Point"
 			},
@@ -3467,12 +3467,12 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "TEL_2022_003"
+				"ID": "D0009165"
 			},
 			"geometry": {
 				"coordinates": [
-					6.93482,
-					50.939861
+					6.934746,
+					50.937998
 				],
 				"type": "Point"
 			},
@@ -3523,7 +3523,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "TEL_2022_012"
+				"ID": "D0009452"
 			},
 			"geometry": {
 				"coordinates": [
@@ -4813,7 +4813,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "TEL_2022_004"
+				"ID": "D0010305"
 			},
 			"geometry": {
 				"coordinates": [
