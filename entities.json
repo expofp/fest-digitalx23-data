@@ -5960,7 +5960,7 @@
 			"__tabName": "Entity",
 			"id": "D0014284",
 			"entityType": "",
-			"name": "everphone",
+			"name": "everphone GmbH",
 			"parent": "",
 			"route1": "",
 			"route2": "",
@@ -5969,7 +5969,7 @@
 			"route5": "",
 			"trend": "",
 			"sector": "",
-			"backup_Name_NotInUse": "everphone",
+			"backup_Name_NotInUse": "everphone GmbH",
 			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE",
 			"subtitle": "",
@@ -5979,7 +5979,9 @@
 			"addressCalculation": "Im Mediapark, 50670 Köln",
 			"address": "Im Mediapark",
 			"city": "Köln",
-			"postalCode": "50670"
+			"postalCode": "50670",
+			"description": "Um dem Kunden eine noch bessere User Experience im Device as a Service Modell zu verschaffen, realisiert everphone kontinuierlich weitere Benefits. Diese zusätzlichen Nutzungsoptionen schaffen mehr Freiheit und Flexibilität im angebotenen Mietmodell und machen den End-2-End Ansatz noch attraktiver in der Anwendung, denn everphone geht noch stärker auf die Bedarfe der Kunden ein. Choose Your Own Device stellt dabei einen der sehr gefragten Ansätze dar.",
+			"description_de": "Um dem Kunden eine noch bessere User Experience im Device as a Service Modell zu verschaffen, realisiert everphone kontinuierlich weitere Benefits. Diese zusätzlichen Nutzungsoptionen schaffen mehr Freiheit und Flexibilität im angebotenen Mietmodell und machen den End-2-End Ansatz noch attraktiver in der Anwendung, denn everphone geht noch stärker auf die Bedarfe der Kunden ein. Choose Your Own Device stellt dabei einen der sehr gefragten Ansätze dar."
 		},
 		{
 			"__tabName": "Entity",
