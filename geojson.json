@@ -803,6 +803,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "TEL_2022_031"
+			},
+			"geometry": {
+				"coordinates": [
+					6.936935,
+					50.93846
+				],
+				"type": "Point"
+			},
+			"id": "1ecfe859e0660e9fb925c9d50921c702"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0014247"
 			},
 			"geometry": {

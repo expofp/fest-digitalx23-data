@@ -6712,7 +6712,7 @@
 			"sector": "Interactive",
 			"backup_Name_NotInUse": "Hilfe Videos",
 			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE",
+			"addedToMapbox": "TRUE",
 			"subtitle": "Little Link",
 			"logoURL": "",
 			"website": "",
