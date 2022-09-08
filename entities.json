@@ -2296,7 +2296,7 @@
 			"__tabName": "Entity",
 			"id": "D0013499",
 			"entityType": "brandhouse",
-			"name": "Ringcentral",
+			"name": "RingCentral",
 			"parent": "",
 			"route1": "",
 			"route2": "",
@@ -2305,7 +2305,7 @@
 			"route5": "",
 			"trend": "",
 			"sector": "Disruption",
-			"backup_Name_NotInUse": "Ringcentral",
+			"backup_Name_NotInUse": "RingCentral",
 			"detailsLink": "FALSE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "",
@@ -6971,8 +6971,8 @@
 			"name": "Stage",
 			"requiresSector": "yes",
 			"filterGroup": "Venue",
-			"icon": "https://fest-digitalx.expofp.com/images/new2/stage-Disruption.png",
-			"iconActive": "https://fest-digitalx.expofp.com/images/new2/stage-Disruption-active.png",
+			"icon": "https://fest-digitalx.expofp.com/images/new2/stage-#sector#.png",
+			"iconActive": "https://fest-digitalx.expofp.com/images/new2/stage-#sector#-active.png",
 			"tODO": "stage.png (differnet colors based on sectors)"
 		},
 		{
