@@ -119,6 +119,7 @@
                 {
                     "parents": [
                         "create-array",
+                        ["get", "entityType"],
                         ["get", "sector"],
                         ["get", "parent"],
                         ["get", "route1"],
