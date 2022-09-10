@@ -4241,6 +4241,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "TEL_2022_25"
+			},
+			"geometry": {
+				"coordinates": [
+					6.939048,
+					50.937624
+				],
+				"type": "Point"
+			},
+			"id": "e38ffa396f6731d289d3ef55d75af968"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0014144"
 			},
 			"geometry": {
