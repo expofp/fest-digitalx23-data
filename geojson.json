@@ -3009,8 +3009,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.936447,
-					50.942754
+					6.935305,
+					50.942919
 				],
 				"type": "Point"
 			},
@@ -4241,7 +4241,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "TEL_2022_25"
+				"ID": "TEL_2022_025"
 			},
 			"geometry": {
 				"coordinates": [
