@@ -2474,6 +2474,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "TEL_2022_023"
+			},
+			"geometry": {
+				"coordinates": [
+					6.944197,
+					50.948649
+				],
+				"type": "Point"
+			},
+			"id": "6c0a5c8e067219abdd506b42a9e3751e"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0004318"
 			},
 			"geometry": {
@@ -2861,6 +2875,20 @@
 				"type": "Point"
 			},
 			"id": "72f884bb187d4c939da822930b9df1a7"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "sustainability_start"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935111,
+					50.942551
+				],
+				"type": "Point"
+			},
+			"id": "742ead3a0bd8cc0c6fc8c7a44f6555c1"
 		},
 		{
 			"type": "Feature",
