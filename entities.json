@@ -7033,7 +7033,7 @@
 			"entityType": "stage",
 			"name": "equal eSports Stage",
 			"parent": "",
-			"route1": "",
+			"route1": "gender_shift",
 			"route2": "",
 			"route3": "",
 			"route4": "",
