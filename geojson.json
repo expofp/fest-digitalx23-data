@@ -1850,6 +1850,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "D0014122"
+			},
+			"geometry": {
+				"coordinates": [
+					6.944219,
+					50.941955
+				],
+				"type": "Point"
+			},
+			"id": "4bbec27be6a170c8317ef49ecb97eef2"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "globalisation_tour_start"
 			},
 			"geometry": {
