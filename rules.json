@@ -105,7 +105,9 @@
                         ["get", "route2"],
                         ["get", "route3"],
                         ["get", "route4"],
-                        ["get", "route5"]
+                        ["get", "route5"],
+                        ["get", "route6"],
+                        ["get", "route7"]
                     ]
                 },
                 {
@@ -127,6 +129,8 @@
                         ["get", "route3"],
                         ["get", "route4"],
                         ["get", "route5"],
+                        ["get", "route6"],
+                        ["get", "route7"],
                         ["get", "filterType"]
                     ]
                 }
