@@ -2128,6 +2128,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "urbanisation_start"
+			},
+			"geometry": {
+				"coordinates": [
+					6.943357,
+					50.941842
+				],
+				"type": "Point"
+			},
+			"id": "6abc0b93d1cf558d76e745ce3e97619d"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "digitalisierungstour"
 			},
 			"geometry": {
