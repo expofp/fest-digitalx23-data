@@ -1397,6 +1397,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "sixpack_abendveranstaltung"
+			},
+			"geometry": {
+				"coordinates": [
+					6.934365,
+					50.936318
+				],
+				"type": "Point"
+			},
+			"id": "2d8a7bba599925499b607f7aeb7177a9"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "im_mediapark"
 			},
 			"geometry": {
