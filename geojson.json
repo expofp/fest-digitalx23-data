@@ -731,6 +731,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "health_tour_start"
+			},
+			"geometry": {
+				"coordinates": [
+					6.941421,
+					50.941181
+				],
+				"type": "Point"
+			},
+			"id": "1a4febb6f7d82ff1236b6a8a5e775b92"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "parkgarage_maastrichter"
 			},
 			"geometry": {
@@ -841,6 +855,20 @@
 				"type": "Point"
 			},
 			"id": "22d825c8ee12577c184f0aa9e60b6977"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "gender_shift_tour_start"
+			},
+			"geometry": {
+				"coordinates": [
+					6.937252,
+					50.936623
+				],
+				"type": "Point"
+			},
+			"id": "23b7e895aa76a9b57d754c6215d2cda4"
 		},
 		{
 			"type": "Feature",
@@ -1243,6 +1271,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "sustainability_start"
+			},
+			"geometry": {
+				"coordinates": [
+					6.934648,
+					50.942707
+				],
+				"type": "Point"
+			},
+			"id": "25bd0ec23c329bc7f199271d97f86970"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "flagship_store"
 			},
 			"geometry": {
@@ -1407,6 +1449,20 @@
 				"type": "Point"
 			},
 			"id": "32ae93ccbfe916411e71d2245c3a6435"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "mobility_start"
+			},
+			"geometry": {
+				"coordinates": [
+					6.937279,
+					50.936637
+				],
+				"type": "Point"
+			},
+			"id": "354369863678c06d80d56c3b0e844994"
 		},
 		{
 			"type": "Feature",
@@ -3075,6 +3131,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "knobelbecher_abendveranstaltung"
+			},
+			"geometry": {
+				"coordinates": [
+					6.934384,
+					50.936636
+				],
+				"type": "Point"
+			},
+			"id": "80b21e16ca77f8983480bc8f0b047fbd"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0014288"
 			},
 			"geometry": {
@@ -3965,7 +4035,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "komed_6_tours"
+				"ID": "safety_start"
 			},
 			"geometry": {
 				"coordinates": [

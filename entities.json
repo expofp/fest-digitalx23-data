@@ -610,7 +610,7 @@
 		},
 		{
 			"__tabName": "Entity",
-			"id": "health_&_demographic_change_tour_start",
+			"id": "health_tour_start",
 			"entityType": "tour_stop",
 			"name": "1 Gesundheit & Demografischer Wandel-Tour - Startpunkt",
 			"parent": "health_&_demographic_change",
