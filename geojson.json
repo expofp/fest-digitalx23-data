@@ -1285,20 +1285,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "flagship_store"
-			},
-			"geometry": {
-				"coordinates": [
-					6.951434,
-					50.936611
-				],
-				"type": "Point"
-			},
-			"id": "2606ce4954391026e67d464ca0fe9a20"
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"ID": "D0004213"
 			},
 			"geometry": {
