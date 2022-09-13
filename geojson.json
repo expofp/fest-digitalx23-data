@@ -214,6 +214,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "ouzeria"
+			},
+			"geometry": {
+				"coordinates": [
+					6.934753,
+					50.938132
+				],
+				"type": "Point"
+			},
+			"id": "07e3bbcd6cc3478d5bf2c106f1c2a186"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "Inspiration",
 				"Color": "#E6007E"
 			},
@@ -1285,20 +1299,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "flagship_store"
-			},
-			"geometry": {
-				"coordinates": [
-					6.951434,
-					50.936611
-				],
-				"type": "Point"
-			},
-			"id": "2606ce4954391026e67d464ca0fe9a20"
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"ID": "D0004213"
 			},
 			"geometry": {
@@ -1397,6 +1397,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "sixpack_abendveranstaltung"
+			},
+			"geometry": {
+				"coordinates": [
+					6.934365,
+					50.936318
+				],
+				"type": "Point"
+			},
+			"id": "2d8a7bba599925499b607f7aeb7177a9"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "im_mediapark"
 			},
 			"geometry": {
@@ -1449,6 +1463,20 @@
 				"type": "Point"
 			},
 			"id": "32ae93ccbfe916411e71d2245c3a6435"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "25hours_hotel"
+			},
+			"geometry": {
+				"coordinates": [
+					6.944155,
+					50.941889
+				],
+				"type": "Point"
+			},
+			"id": "33cb77c147a27596936ef624a6ac8e50"
 		},
 		{
 			"type": "Feature",
@@ -1952,8 +1980,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.93496,
-					50.940256
+					6.934831,
+					50.940333
 				],
 				"type": "Point"
 			},
@@ -2896,6 +2924,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "D0014404"
+			},
+			"geometry": {
+				"coordinates": [
+					6.93613,
+					50.94266
+				],
+				"type": "Point"
+			},
+			"id": "6ee79241d38f6bcfe7ad161c69f7f232"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "Pioneer",
 				"Color": "#5D2EBE"
 			},
@@ -2907,8 +2949,28 @@
 							50.955427
 						],
 						[
-							6.968584,
-							50.951671
+							6.968762,
+							50.951756
+						],
+						[
+							6.965261,
+							50.947648
+						],
+						[
+							6.962932,
+							50.947884
+						],
+						[
+							6.96497,
+							50.951186
+						],
+						[
+							6.963905,
+							50.951549
+						],
+						[
+							6.965264,
+							50.953043
 						],
 						[
 							6.96369,
@@ -4160,6 +4222,18 @@
 		},
 		{
 			"type": "Feature",
+			"properties": {},
+			"geometry": {
+				"coordinates": [
+					6.936446,
+					50.938483
+				],
+				"type": "Point"
+			},
+			"id": "d244b80baa743bf77b4c0a162acc1074"
+		},
+		{
+			"type": "Feature",
 			"properties": {
 				"ID": "future_of_work_start"
 			},
@@ -4325,6 +4399,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "balthasar"
+			},
+			"geometry": {
+				"coordinates": [
+					6.936734,
+					50.936603
+				],
+				"type": "Point"
+			},
+			"id": "dceb8348f9b751a915a2374634b36a7c"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0014290"
 			},
 			"geometry": {
@@ -4478,6 +4566,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "pioneerone_stage2"
+			},
+			"geometry": {
+				"coordinates": [
+					6.972316,
+					50.954586
+				],
+				"type": "Point"
+			},
+			"id": "e7a7a25464f175b48922292913bd0fe6"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0014243"
 			},
 			"geometry": {
@@ -4496,8 +4598,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.971354,
-					50.954012
+					6.965764,
+					50.948931
 				],
 				"type": "Point"
 			},
@@ -4888,8 +4990,8 @@
 						50.941545
 					],
 					[
-						6.936899,
-						50.941529
+						6.936929,
+						50.941513
 					],
 					[
 						6.936789,
@@ -4906,30 +5008,6 @@
 					[
 						6.936459,
 						50.941776
-					],
-					[
-						6.936232,
-						50.94189
-					],
-					[
-						6.936107,
-						50.941955
-					],
-					[
-						6.935808,
-						50.942109
-					],
-					[
-						6.935536,
-						50.942252
-					],
-					[
-						6.935328,
-						50.942366
-					],
-					[
-						6.935049,
-						50.942513
 					]
 				],
 				"type": "LineString"
