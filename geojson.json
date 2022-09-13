@@ -4399,6 +4399,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "balthasar"
+			},
+			"geometry": {
+				"coordinates": [
+					6.936734,
+					50.936603
+				],
+				"type": "Point"
+			},
+			"id": "dceb8348f9b751a915a2374634b36a7c"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0014290"
 			},
 			"geometry": {
