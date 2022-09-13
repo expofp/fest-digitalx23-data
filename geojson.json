@@ -2910,6 +2910,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "D0014404"
+			},
+			"geometry": {
+				"coordinates": [
+					6.93613,
+					50.94266
+				],
+				"type": "Point"
+			},
+			"id": "6ee79241d38f6bcfe7ad161c69f7f232"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "Pioneer",
 				"Color": "#5D2EBE"
 			},
