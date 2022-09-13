@@ -835,8 +835,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.936935,
-					50.93846
+					6.938415,
+					50.940589
 				],
 				"type": "Point"
 			},
@@ -1944,6 +1944,20 @@
 				"type": "Point"
 			},
 			"id": "4bbec27be6a170c8317ef49ecb97eef2"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "D0014242"
+			},
+			"geometry": {
+				"coordinates": [
+					6.938971,
+					50.940427
+				],
+				"type": "Point"
+			},
+			"id": "4e1984c83603980e0a4b1931c1e7acec"
 		},
 		{
 			"type": "Feature",
@@ -4889,6 +4903,20 @@
 				"type": "Polygon"
 			},
 			"id": "f8fe0a76240bc3c668c71dff24abc41d"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "D0014397"
+			},
+			"geometry": {
+				"coordinates": [
+					6.942482,
+					50.947886
+				],
+				"type": "Point"
+			},
+			"id": "fa61257c67322f8e0469357d8122ecb2"
 		},
 		{
 			"type": "Feature",
