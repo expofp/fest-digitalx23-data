@@ -207,10 +207,40 @@
                     "select": [
                         "flattern",
                         ["map", ["children"], "val", null, ["id", ["var", "val"]]],
+                        [
+                            "flat",
+                            [
+                                "map",
+                                ["children"],
+                                "val",
+                                null,
+                                [
+                                    "map",
+                                    [
+                                        "filter",
+                                        ["parents", ["var", "val"]],
+                                        "v",
+                                        null,
+                                        ["==", ["get", "entityType", ["var", "v"]], "expo_area"]
+                                    ],
+                                    "val1",
+                                    null,
+                                    ["id", ["var", "val1"]]
+                                ]
+                            ]
+                        ],
                         ["get", "select"]
                     ]
                 }
             ]
+        },
+        {
+            "name": "Cleanup",
+            "update": {
+                "parentRoutesAndMe": ["undefined"],
+                "exhibitorParentObj": ["undefined"],
+                "entityTypeObj": ["undefined"]
+            }
         }
     ]
 }
