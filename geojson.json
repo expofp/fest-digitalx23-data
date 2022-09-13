@@ -214,6 +214,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "ouzeria"
+			},
+			"geometry": {
+				"coordinates": [
+					6.934753,
+					50.938132
+				],
+				"type": "Point"
+			},
+			"id": "07e3bbcd6cc3478d5bf2c106f1c2a186"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "Inspiration",
 				"Color": "#E6007E"
 			},
@@ -4185,6 +4199,20 @@
 				"type": "Point"
 			},
 			"id": "d18ddaea5747a57f098ec627cd901721"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "yogamama"
+			},
+			"geometry": {
+				"coordinates": [
+					6.936446,
+					50.938483
+				],
+				"type": "Point"
+			},
+			"id": "d244b80baa743bf77b4c0a162acc1074"
 		},
 		{
 			"type": "Feature",
