@@ -619,20 +619,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "D0014279"
-			},
-			"geometry": {
-				"coordinates": [
-					6.943427,
-					50.947731
-				],
-				"type": "Point"
-			},
-			"id": "1251452ea2f9e674d232e400d1e16275"
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"ID": "maison_sen"
 			},
 			"geometry": {
@@ -643,20 +629,6 @@
 				"type": "Point"
 			},
 			"id": "148448eb1408a035b1bae0345e380317"
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"ID": "D0014281"
-			},
-			"geometry": {
-				"coordinates": [
-					6.943376,
-					50.947732
-				],
-				"type": "Point"
-			},
-			"id": "15b676f76af9c96f123c80ac2b0f3ce4"
 		},
 		{
 			"type": "Feature",
@@ -3117,20 +3089,6 @@
 				"type": "Point"
 			},
 			"id": "8864c2972b9258f9ccf6657fbd15ac73"
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"ID": "D0014284"
-			},
-			"geometry": {
-				"coordinates": [
-					6.943312,
-					50.947731
-				],
-				"type": "Point"
-			},
-			"id": "88cc087b31f5a9c8f7312b3dcbbae55f"
 		},
 		{
 			"type": "Feature",
