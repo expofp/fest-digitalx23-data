@@ -6555,7 +6555,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0014281",
-			"entityType": "brandhouse",
+			"entityType": "exhibitor",
 			"name": "PricewaterhouseCoopers GmbH Wirtschaftsprüfungsgesellschaft",
 			"parent": "D0004345",
 			"route1": "",
@@ -6584,7 +6584,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0014279",
-			"entityType": "brandhouse",
+			"entityType": "exhibitor",
 			"name": "Poly",
 			"parent": "D0004345",
 			"route1": "",
@@ -6613,7 +6613,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0014397",
-			"entityType": "brandhouse",
+			"entityType": "exhibitor",
 			"name": "Unicorn",
 			"parent": "D0004345",
 			"route1": "",
