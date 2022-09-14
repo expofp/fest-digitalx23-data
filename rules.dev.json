@@ -89,6 +89,21 @@
             ]
         },
         {
+            "name": "Extract brandhouseParentObj",
+            "filter": ["==", ["get", "entityType"], "brandhouse"],
+            "update": [
+                {
+                    "parents": ["create-array", ["get", "parent"]]
+                },
+                {
+                    "brandhouseParentObj": ["at", 0, ["parents"]]
+                },
+                {
+                    "parents": ["undefined"]
+                }
+            ]
+        },
+        {
             "name": "Set filter type",
             "filter": ["all", ["get", "entityTypeObj"], ["get", "filterGroup", ["get", "entityTypeObj"]]],
             "update": {
@@ -190,6 +205,15 @@
                 "select": ["flattern", ["create-array", ["get", "parent"]], ["get", "select"]],
                 "zoom": ["flattern", ["create-array", ["get", "parent"]], ["get", "select"]],
                 "geometry": ["get", "geometry", ["get", "exhibitorParentObj"]]
+            }
+        },
+        {
+            "name": "Make brandhouses select parent brandhouse and have geometry copied from venue",
+            "filter": ["all", ["get", "brandhouseParentObj"], ["!", ["get", "geometry"]]],
+            "update": {
+                "select": ["flattern", ["create-array", ["get", "parent"]], ["get", "select"]],
+                "zoom": ["flattern", ["create-array", ["get", "parent"]], ["get", "select"]],
+                "geometry": ["get", "geometry", ["get", "brandhouseParentObj"]]
             }
         },
         {
