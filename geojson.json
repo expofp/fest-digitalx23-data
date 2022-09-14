@@ -2827,20 +2827,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"id": "sustainability_start"
-			},
-			"geometry": {
-				"coordinates": [
-					6.935111,
-					50.942551
-				],
-				"type": "Point"
-			},
-			"id": "742ead3a0bd8cc0c6fc8c7a44f6555c1"
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"ID": "D0005428"
 			},
 			"geometry": {
