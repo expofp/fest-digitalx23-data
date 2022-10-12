@@ -1,6 +1,10 @@
 {
   "rules": [
     {
+      "name": "Rename iconURL to iconUrl",
+      "update": [{ "iconUrl": ["get", "iconURL"] }]
+    },
+    {
       "name": "Set default spriteUrl for all entities",
       "filter": ["!", ["get", "spriteUrl"]],
       "update": {
@@ -153,6 +157,33 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Set iconUrl for all entities",
+      "filter": [
+        "all",
+        ["!", ["get", "iconUrl"]],
+        ["get", "entityTypeObj"],
+        ["get", "icon", ["get", "entityTypeObj"]],
+        ["get", "iconActive", ["get", "entityTypeObj"]]
+      ],
+      "update": [
+        {
+          "iconUrl": [
+            "replace",
+            ["get", "icon", ["get", "entityTypeObj"]],
+            "#sector#",
+            ["get", "sector"]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Set default iconUrl for all entities",
+      "filter": ["!", ["get", "iconUrl"]],
+      "update": {
+        "iconUrl": "https://fest-digitalx.expofp.com/images/new/default.png"
+      }
     },
     {
       "name": "Make default select/zoom",
