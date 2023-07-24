@@ -2459,104 +2459,104 @@
 			"id": "stage",
 			"name": "Stage",
 			"filterGroup": "Venue",
-			"icon": "https://fest-digitalx.expofp.com/images/new2/stage-#sector#.png",
-			"iconActive": "https://fest-digitalx.expofp.com/images/new2/stage-#sector#-active.png"
+			"icon": "https://fest-digitalx23.expofp.com/images/new2/stage-#sector#.png",
+			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/stage-#sector#-active.png"
 		},
 		{
 			"__tabName": "EntityType",
 			"id": "brandhouse",
 			"name": "Brandhouse",
 			"filterGroup": "Exhibitor",
-			"icon": "https://fest-digitalx.expofp.com/images/new2/brandhouse.png",
-			"iconActive": "https://fest-digitalx.expofp.com/images/new2/brandhouse-active.png"
+			"icon": "https://fest-digitalx23.expofp.com/images/new2/brandhouse.png",
+			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-active.png"
 		},
 		{
 			"__tabName": "EntityType",
 			"id": "brandhouse-t",
 			"name": "Brandhouse+T",
 			"filterGroup": "Exhibitor",
-			"icon": "https://fest-digitalx.expofp.com/images/new2/brandhouse-t.png",
-			"iconActive": "https://fest-digitalx.expofp.com/images/new2/brandhouse-t-active.png"
+			"icon": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-t.png",
+			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-t-active.png"
 		},
 		{
 			"__tabName": "EntityType",
 			"id": "tour",
 			"name": "Tour",
 			"filterGroup": "Route",
-			"icon": "https://fest-digitalx.expofp.com/images/new2/tour.png",
-			"iconActive": "https://fest-digitalx.expofp.com/images/new2/tour-active.png"
+			"icon": "https://fest-digitalx23.expofp.com/images/new2/tour.png",
+			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/tour-active.png"
 		},
 		{
 			"__tabName": "EntityType",
 			"id": "bus_route",
 			"name": "Bus Route",
 			"filterGroup": "Route",
-			"icon": "https://fest-digitalx.expofp.com/images/new2/bus_route.png",
-			"iconActive": "https://fest-digitalx.expofp.com/images/new2/bus_route-active.png"
+			"icon": "https://fest-digitalx23.expofp.com/images/new2/bus_route.png",
+			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/bus_route-active.png"
 		},
 		{
 			"__tabName": "EntityType",
 			"id": "check-in",
 			"name": "Check-In",
 			"filterGroup": "Venue",
-			"icon": "https://fest-digitalx.expofp.com/images/new2/check-in.png",
-			"iconActive": "https://fest-digitalx.expofp.com/images/new2/check-in-active.png"
+			"icon": "https://fest-digitalx23.expofp.com/images/new2/check-in.png",
+			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/check-in-active.png"
 		},
 		{
 			"__tabName": "EntityType",
 			"id": "food",
 			"name": "Food & Beverage",
 			"filterGroup": "Venue",
-			"icon": "https://fest-digitalx.expofp.com/images/new2/food.png",
-			"iconActive": "https://fest-digitalx.expofp.com/images/new2/food-active.png"
+			"icon": "https://fest-digitalx23.expofp.com/images/new2/food.png",
+			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/food-active.png"
 		},
 		{
 			"__tabName": "EntityType",
 			"id": "vertriebslounge",
 			"name": "T-Vertriebslounge",
 			"filterGroup": "Exhibitor",
-			"icon": "https://fest-digitalx.expofp.com/images/new2/vertriebslounge.png",
-			"iconActive": "https://fest-digitalx.expofp.com/images/new2/vertriebslounge-active.png"
+			"icon": "https://fest-digitalx23.expofp.com/images/new2/vertriebslounge.png",
+			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/vertriebslounge-active.png"
 		},
 		{
 			"__tabName": "EntityType",
 			"id": "expo_area",
 			"name": "Expo Area",
 			"filterGroup": "Venue",
-			"icon": "https://fest-digitalx.expofp.com/images/new2/brandhouse.png",
-			"iconActive": "https://fest-digitalx.expofp.com/images/new2/brandhouse-active.png"
+			"icon": "https://fest-digitalx23.expofp.com/images/new2/brandhouse.png",
+			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-active.png"
 		},
 		{
 			"__tabName": "EntityType",
 			"id": "exhibitor",
 			"name": "Exhibitor / Aussteller",
 			"filterGroup": "Exhibitor",
-			"icon": "https://fest-digitalx.expofp.com/images/new2/brandhouse.png",
-			"iconActive": "https://fest-digitalx.expofp.com/images/new2/brandhouse-active.png"
+			"icon": "https://fest-digitalx23.expofp.com/images/new2/brandhouse.png",
+			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-active.png"
 		},
 		{
 			"__tabName": "EntityType",
 			"id": "bus_stelle",
 			"name": "Bus stop",
 			"filterGroup": "",
-			"icon": "https://fest-digitalx.expofp.com/images/new2/bus_route.png",
-			"iconActive": "https://fest-digitalx.expofp.com/images/new2/bus_route-active.png"
+			"icon": "https://fest-digitalx23.expofp.com/images/new2/bus_route.png",
+			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/bus_route-active.png"
 		},
 		{
 			"__tabName": "EntityType",
 			"id": "tour_stop",
 			"name": "Tour stop",
 			"filterGroup": "",
-			"icon": "https://fest-digitalx.expofp.com/images/new2/tour_stop.png",
-			"iconActive": "https://fest-digitalx.expofp.com/images/new2/tour_stop-active.png"
+			"icon": "https://fest-digitalx23.expofp.com/images/new2/tour_stop.png",
+			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/tour_stop-active.png"
 		},
 		{
 			"__tabName": "EntityType",
 			"id": "marktplatz",
 			"name": "Marktplatz",
 			"filterGroup": "Venue",
-			"icon": "https://fest-digitalx.expofp.com/images/new2/brandhouse.png",
-			"iconActive": "https://fest-digitalx.expofp.com/images/new2/brandhouse-active.png"
+			"icon": "https://fest-digitalx23.expofp.com/images/new2/brandhouse.png",
+			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-active.png"
 		},
 		{
 			"__tabName": "Sector",
