@@ -58,7 +58,17 @@
                 "hide": true
             }
         },
-
+        {
+            "name": "Create test filter ",
+            "create": {
+                "id": "filter-test",
+                "name": "Test",
+                "name_de": "Test",
+                "iconClass": "icon-venue",
+                "isFilter": true,
+                "hide": true
+            }
+        },
         {
             "name": "Extract entityTypeObj",
             "update": [
