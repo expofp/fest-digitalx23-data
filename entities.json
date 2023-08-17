@@ -2592,32 +2592,26 @@
 		},
 		{
 			"__tabName": "Sector",
-			"id": "Disruption",
-			"name": "Disruption",
+			"id": "belgisches",
+			"name": "Quartier Belgisches Viertel",
 			"color": "#3CB4E8"
 		},
 		{
 			"__tabName": "Sector",
-			"id": "Future",
-			"name": "Future",
-			"color": "#FFDE14"
-		},
-		{
-			"__tabName": "Sector",
-			"id": "Inspiration",
-			"name": "Inspiration",
+			"id": "mediapark",
+			"name": "Quartier Mediapark",
 			"color": "#E6007E"
 		},
 		{
 			"__tabName": "Sector",
-			"id": "Interactive",
-			"name": "Interactive",
+			"id": "friesenviertel",
+			"name": "Quartier Friesenviertel",
 			"color": "#00B050"
 		},
 		{
 			"__tabName": "Sector",
-			"id": "Pioneer",
-			"name": "Pioneer",
+			"id": "rudolfsplatz",
+			"name": "Rudolfplatz",
 			"color": "#5D2EBE"
 		}
 	]
