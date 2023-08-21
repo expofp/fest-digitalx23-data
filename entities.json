@@ -2198,12 +2198,12 @@
 			"logoURL": "",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "",
-			"address": "",
-			"city": "",
-			"postalCode": "",
+			"addressCalculation": "Aachener Straße 3, 50674 Köln",
+			"address": "Aachener Straße 3",
+			"city": "Köln",
+			"postalCode": "50674",
 			"description": "Opening hours:<br>\nWed 20/09 - 9:00 - 20:00<br>\nThu 21/09 - 9:00 - 14:00<br>",
-			"description_de": "Öffnungszeiten:\nMi 20.09 - 9:00 - 20:00\nDo 21.09 - 9:00 - 14:00"
+			"description_de": "Öffnungszeiten:<br>\nMi 20.09 - 9:00 - 20:00<br>\nDo 21.09 - 9:00 - 14:00<br>"
 		},
 		{
 			"__tabName": "Entity",
