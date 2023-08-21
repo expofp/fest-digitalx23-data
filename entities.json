@@ -68,7 +68,7 @@
 			"__tabName": "Entity",
 			"id": "highlight_tour_start",
 			"entityType": "tour_stop",
-			"name": "1 Highlight-Tour - Startpunkt",
+			"name": ". Highlight-Tour - Startpunkt",
 			"parent": "highlight_tour_1",
 			"route1": "highlight_tour_1",
 			"route2": "",
