@@ -473,12 +473,12 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "volksbuhne"
+				"ID": "akkreditierung1"
 			},
 			"geometry": {
 				"coordinates": [
-					6.936931,
-					50.936284
+					6.937109,
+					50.936327
 				],
 				"type": "Point"
 			},
