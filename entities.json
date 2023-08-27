@@ -2,7 +2,7 @@
 	"entities": [
 		{
 			"__tabName": "Entity",
-			"id": "stadtgarten",
+			"id": "stadtgarten_area",
 			"entityType": "expo_area",
 			"name": "Startup Garten",
 			"parent": "",
@@ -4848,6 +4848,12 @@
 			"id": "belgisches",
 			"name": "Quartier Belgisches Viertel",
 			"color": "#4db3e6"
+		},
+		{
+			"__tabName": "Sector",
+			"id": "stadtgarten",
+			"name": "Quartier Stadtgarten",
+			"color": "#ffc014"
 		},
 		{
 			"__tabName": "Sector",
