@@ -380,6 +380,35 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "D0013576",
+				"Name": "Bullitt"
+			},
+			"geometry": {
+				"coordinates": [
+					6.939919,
+					50.936386
+				],
+				"type": "Point"
+			},
+			"id": "34e04ef57bb50c4b4d7880023a25ee0e"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "D0004213"
+			},
+			"geometry": {
+				"coordinates": [
+					6.939001,
+					50.940404
+				],
+				"type": "Point"
+			},
+			"id": "351f18bc2e58d6ec24f45e7b363d5ce3"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0004171"
 			},
 			"geometry": {
@@ -688,6 +717,20 @@
 				"type": "Polygon"
 			},
 			"id": "7432482a14837c000923b0e13bade0f7"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "D0005379"
+			},
+			"geometry": {
+				"coordinates": [
+					6.945149,
+					50.94745
+				],
+				"type": "Point"
+			},
+			"id": "763b87ce7ad3109a24f66dc2d61a31b7"
 		},
 		{
 			"type": "Feature",
@@ -1074,6 +1117,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "D0015258",
+				"Name": "axxessio"
+			},
+			"geometry": {
+				"coordinates": [
+					6.939946,
+					50.936513
+				],
+				"type": "Point"
+			},
+			"id": "cb8dee7c06e0db9ba7c71db9a35c5830"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0005381"
 			},
 			"geometry": {
@@ -1084,6 +1142,21 @@
 				"type": "Point"
 			},
 			"id": "cd1f5528e9a683d3f9e53bb79be94d2e"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "D0015376",
+				"Name": "Dätwyler IT Infra"
+			},
+			"geometry": {
+				"coordinates": [
+					6.939931,
+					50.936635
+				],
+				"type": "Point"
+			},
+			"id": "cd90984350cc38250af9e0514e7dde73"
 		},
 		{
 			"type": "Feature",
