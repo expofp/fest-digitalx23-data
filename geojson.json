@@ -4,6 +4,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "D0004103"
+			},
+			"geometry": {
+				"coordinates": [
+					6.945415,
+					50.947979
+				],
+				"type": "Point"
+			},
+			"id": "05027b7550a59b502f09f4aca33ef3d4"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "mediapark",
 				"Color": "#e5117e"
 			},
@@ -271,6 +285,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "D0004171"
+			},
+			"geometry": {
+				"coordinates": [
+					6.945605,
+					50.947992
+				],
+				"type": "Point"
+			},
+			"id": "3c87804e1ac8195dc20d3d768fe654bd"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "stadtgarten_sustainability"
 			},
 			"geometry": {
@@ -415,6 +443,23 @@
 			"type": "Feature",
 			"properties": {
 				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjpmYmMwNDcwYS0yY2JkLTRkMWQtYjQzYS04NTZiMzRlZmI3ODM",
+				"place_name": "Friesenstraße 58-60, 50670 Köln, Germany",
+				"ID": "D0015256"
+			},
+			"geometry": {
+				"coordinates": [
+					6.942077,
+					50.940793
+				],
+				"type": "Point"
+			},
+			"id": "69c654b1793061e014351f2fa66ee8f8"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjpmZDJkMDQ1MC01NzA2LTRiZmQtOTdkYi1kOGFhNTgyM2E2YTk",
 				"place_name": "Brüsseler Straße 70, 50674 Köln, Germany",
 				"ID": "D0013528"
@@ -483,6 +528,20 @@
 				"type": "Point"
 			},
 			"id": "7b86730eb3e888c4c00f48727f2b4994"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "D0005428"
+			},
+			"geometry": {
+				"coordinates": [
+					6.944805,
+					50.948572
+				],
+				"type": "Point"
+			},
+			"id": "7bf4abaded226667703456a5e30259af"
 		},
 		{
 			"type": "Feature",
