@@ -196,6 +196,23 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjpkY2Q2YzgxZi0xNjc5LTRlYzUtYjUwZS1hOGI1OGI5NjQ2YjM",
+				"place_name": "Friesenwall 130, 50672 Köln, Germany",
+				"ID": "D0005380"
+			},
+			"geometry": {
+				"coordinates": [
+					6.941563,
+					50.941431
+				],
+				"type": "Point"
+			},
+			"id": "1559b75a8f988fdc16ea38c1df6db495"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0005357"
 			},
 			"geometry": {
@@ -571,6 +588,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "D0004169"
+			},
+			"geometry": {
+				"coordinates": [
+					6.944656,
+					50.948748
+				],
+				"type": "Point"
+			},
+			"id": "5ffaaad36285afddaad060ea4627df66"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjpmYmMwNDcwYS0yY2JkLTRkMWQtYjQzYS04NTZiMzRlZmI3ODM",
 				"place_name": "Friesenstraße 58-60, 50670 Köln, Germany",
@@ -931,6 +962,23 @@
 				"type": "Point"
 			},
 			"id": "c62b12fc8413dcb0d9c3401e754b3895"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjo3NzhkYTVkMC01NzUwLTQ3ZWEtOTU0NS1iZDA0YzUwNjhiZTI",
+				"place_name": "Brüsseler Straße 68, 50674 Köln, Germany",
+				"ID": "D0013500"
+			},
+			"geometry": {
+				"coordinates": [
+					6.934778,
+					50.938092
+				],
+				"type": "Point"
+			},
+			"id": "c6aaae28fb03597be5b121a9d7bdc20e"
 		},
 		{
 			"type": "Feature",
