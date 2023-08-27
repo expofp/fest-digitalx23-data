@@ -211,6 +211,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "D0015412",
+				"Name": "TASSTA"
+			},
+			"geometry": {
+				"coordinates": [
+					6.940615,
+					50.936509
+				],
+				"type": "Point"
+			},
+			"id": "12dd6a22cbceaf57c1cb19002a4ce29a"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjpkY2Q2YzgxZi0xNjc5LTRlYzUtYjUwZS1hOGI1OGI5NjQ2YjM",
 				"place_name": "Friesenwall 130, 50672 Köln, Germany",
@@ -656,6 +671,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "D0015524",
+				"Name": "Zscaler"
+			},
+			"geometry": {
+				"coordinates": [
+					6.943414,
+					50.948604
+				],
+				"type": "Point"
+			},
+			"id": "44d8b6a0546d0fffd936be65c1b3b151"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "highlight_tour_start"
 			},
 			"geometry": {
@@ -835,6 +865,21 @@
 				"type": "Point"
 			},
 			"id": "763b87ce7ad3109a24f66dc2d61a31b7"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "D0015525",
+				"Name": "CrowdStrike"
+			},
+			"geometry": {
+				"coordinates": [
+					6.943477,
+					50.948706
+				],
+				"type": "Point"
+			},
+			"id": "7781c021d441ee5c0c05307b158a361e"
 		},
 		{
 			"type": "Feature",
@@ -1022,6 +1067,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "D0015457",
+				"Name": "Cynet"
+			},
+			"geometry": {
+				"coordinates": [
+					6.943519,
+					50.948661
+				],
+				"type": "Point"
+			},
+			"id": "ac90b3d9822b33b6d7ab3ff32fc7b26d"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "stadtgarten_security"
 			},
 			"geometry": {
@@ -1104,6 +1164,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "D0015432",
+				"Name": "Dynatrace"
+			},
+			"geometry": {
+				"coordinates": [
+					6.943468,
+					50.948635
+				],
+				"type": "Point"
+			},
+			"id": "b4a6f18bebe0abf1bad8f1897b14233c"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0014261"
 			},
 			"geometry": {
@@ -1171,6 +1246,21 @@
 				"type": "Point"
 			},
 			"id": "c62b12fc8413dcb0d9c3401e754b3895"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "D0013499",
+				"Name": "ringcentral"
+			},
+			"geometry": {
+				"coordinates": [
+					6.940542,
+					50.936324
+				],
+				"type": "Point"
+			},
+			"id": "c62f4e0f68dd21d6c5fb548551f2bcf4"
 		},
 		{
 			"type": "Feature",

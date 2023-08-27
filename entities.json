@@ -2298,8 +2298,8 @@
 			"route7": "",
 			"trend": "",
 			"sector": "belgisches",
-			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE",
+			"detailsLink": "TRUE",
+			"addedToMapbox": "TRUE",
 			"subtitle": "Rudolfplatz",
 			"logoURL": "",
 			"website": "https://www.ringcentral.com/de/de/"
@@ -2319,8 +2319,8 @@
 			"route7": "",
 			"trend": "",
 			"sector": "belgisches",
-			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE",
+			"detailsLink": "TRUE",
+			"addedToMapbox": "TRUE",
 			"subtitle": "Rudolfplatz",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Tassta_square_d2291bbe2c.png",
 			"website": "www.tassta.com"
@@ -2777,8 +2777,8 @@
 			"route7": "",
 			"trend": "",
 			"sector": "mediapark",
-			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE",
+			"detailsLink": "TRUE",
+			"addedToMapbox": "TRUE",
 			"subtitle": "Komed Haus 7",
 			"logoURL": "",
 			"website": "https://www.cynet.com/"
