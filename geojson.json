@@ -273,6 +273,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "D0014291"
+			},
+			"geometry": {
+				"coordinates": [
+					6.940759,
+					50.940782
+				],
+				"type": "Point"
+			},
+			"id": "2517c97581d630d72631a81f5b82e01c"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "stadtgarten_inno_cases"
 			},
 			"geometry": {
@@ -735,6 +749,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "D0015411",
+				"Name": "Palo Alto Networks"
+			},
+			"geometry": {
+				"coordinates": [
+					6.943737,
+					50.947772
+				],
+				"type": "Point"
+			},
+			"id": "7867ec384a75afb7e46d4665152042e5"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "future_stage"
 			},
 			"geometry": {
@@ -824,6 +853,21 @@
 				"type": "Polygon"
 			},
 			"id": "96669e1c3f18a7e04843c889023250fe"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "D0014105",
+				"Name": "vmware"
+			},
+			"geometry": {
+				"coordinates": [
+					6.943729,
+					50.948122
+				],
+				"type": "Point"
+			},
+			"id": "9ac68ceb199855630d7aa1bd32944d46"
 		},
 		{
 			"type": "Feature",
@@ -1332,6 +1376,23 @@
 				"type": "Point"
 			},
 			"id": "e960d45d2a7c1845a60976e795744ff9"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjpmNGVjOTQ1Mi1kMDVhLTRiN2ItOTM3Zi1jZDY5ZjM4YzFlMmE",
+				"place_name": "Venloer Straße 35, 50672 Köln, Germany",
+				"ID": "D0015255"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935324,
+					50.942189
+				],
+				"type": "Point"
+			},
+			"id": "ea7e69fe722ab1a727fac5232a18e465"
 		},
 		{
 			"type": "Feature",
