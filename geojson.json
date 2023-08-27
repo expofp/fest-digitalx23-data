@@ -548,6 +548,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "magenta_stage"
+			},
+			"geometry": {
+				"coordinates": [
+					6.943615,
+					50.948514
+				],
+				"type": "Point"
+			},
+			"id": "c40b418d080444e4abe4f5896c6c5770"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "akkreditierung1"
 			},
 			"geometry": {
