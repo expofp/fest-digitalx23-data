@@ -4736,7 +4736,8 @@
 		{
 			"__tabName": "Trends",
 			"id": "sustainability-responsibility",
-			"name": "Nachhaltigkeit & Verantwortung / Sustainability & Responsibility"
+			"name": "Nachhaltigkeit & Verantwortung / Sustainability & Responsibility",
+			"name_de": "„Nachhaltigkeit“ ist längst nicht mehr nur ein Buzz-Word"
 		},
 		{
 			"__tabName": "EntityType",
@@ -4846,25 +4847,19 @@
 			"__tabName": "Sector",
 			"id": "belgisches",
 			"name": "Quartier Belgisches Viertel",
-			"color": "#3CB4E8"
+			"color": "#4db3e6"
 		},
 		{
 			"__tabName": "Sector",
 			"id": "mediapark",
 			"name": "Quartier Mediapark",
-			"color": "#E6007E"
+			"color": "#e5117e"
 		},
 		{
 			"__tabName": "Sector",
 			"id": "friesenviertel",
 			"name": "Quartier Friesenviertel",
-			"color": "#00B050"
-		},
-		{
-			"__tabName": "Sector",
-			"id": "rudolfsplatz",
-			"name": "Rudolfplatz",
-			"color": "#5D2EBE"
+			"color": "#469309"
 		}
 	]
 }
