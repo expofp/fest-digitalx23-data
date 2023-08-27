@@ -414,6 +414,23 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjpmZDJkMDQ1MC01NzA2LTRiZmQtOTdkYi1kOGFhNTgyM2E2YTk",
+				"place_name": "Brüsseler Straße 70, 50674 Köln, Germany",
+				"ID": "D0013528"
+			},
+			"geometry": {
+				"coordinates": [
+					6.934783,
+					50.938169
+				],
+				"type": "Point"
+			},
+			"id": "73eabcc0a994c062a9822230238aba26"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "stadtgarten_connectedbusiness"
 			},
 			"geometry": {
@@ -682,6 +699,37 @@
 				"type": "Polygon"
 			},
 			"id": "c9736cc69ae94b445f2b4105762ce4e6"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "D0005381"
+			},
+			"geometry": {
+				"coordinates": [
+					6.943127,
+					50.948874
+				],
+				"type": "Point"
+			},
+			"id": "cd1f5528e9a683d3f9e53bb79be94d2e"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjo1ODhjYTNlNS03ZjMzLTQ2ZGMtYTJkNS0zNmE0Zjk4YTFmYmI",
+				"place_name": "Friesenstraße 62, 50670 Köln, Germany",
+				"ID": "D0004170"
+			},
+			"geometry": {
+				"coordinates": [
+					6.941937,
+					50.940735
+				],
+				"type": "Point"
+			},
+			"id": "d037350b4213b86e2ff7ce2dbebc3e2c"
 		},
 		{
 			"type": "Feature",
