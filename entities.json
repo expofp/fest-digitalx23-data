@@ -3016,11 +3016,11 @@
 		},
 		{
 			"__tabName": "EntityType",
-			"id": "stage",
-			"name": "Stage",
+			"id": "stage_future",
+			"name": "Future Stage",
 			"filterGroup": "Venue",
-			"icon": "https://fest-digitalx23.expofp.com/images/new2/stage-#sector#.png",
-			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/stage-#sector#-active.png"
+			"icon": "https://fest-digitalx23.expofp.com/images/new2/stage-Future.png",
+			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/stage-Future-active.png"
 		},
 		{
 			"__tabName": "EntityType",
@@ -3098,7 +3098,7 @@
 			"__tabName": "EntityType",
 			"id": "bus_stelle",
 			"name": "Bus stop",
-			"filterGroup": "",
+			"filterGroup": "Venue",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/bus_route.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/bus_route-active.png"
 		},
@@ -3106,7 +3106,7 @@
 			"__tabName": "EntityType",
 			"id": "tour_stop",
 			"name": "Tour stop",
-			"filterGroup": "",
+			"filterGroup": "Venue",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/tour_stop.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/tour_stop-active.png"
 		},
@@ -3117,6 +3117,22 @@
 			"filterGroup": "Venue",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/brandhouse.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-active.png"
+		},
+		{
+			"__tabName": "EntityType",
+			"id": "stage_interactive",
+			"name": "Interactive Stage",
+			"filterGroup": "Venue",
+			"icon": "https://fest-digitalx23.expofp.com/images/new2/stage-Interactive.png",
+			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/stage-Interactive-active.png"
+		},
+		{
+			"__tabName": "EntityType",
+			"id": "stage_disruption",
+			"name": "Disruption Stage",
+			"filterGroup": "Venue",
+			"icon": "https://fest-digitalx23.expofp.com/images/new2/stage-Disruption.png",
+			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/stage-Disruption-active.png"
 		},
 		{
 			"__tabName": "Sector",
