@@ -167,20 +167,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "hop_bus_station_B"
-			},
-			"geometry": {
-				"coordinates": [
-					6.939855,
-					50.941025
-				],
-				"type": "Point"
-			},
-			"id": "0ebe23523cb2b7f3178b9f090f400bf4"
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"ID": "interactive_stage"
 			},
 			"geometry": {
@@ -938,8 +924,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.937226,
-					50.936616
+					6.937239,
+					50.936633
 				],
 				"type": "Point"
 			},

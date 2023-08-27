@@ -226,8 +226,8 @@
 			"address": "Aachener Straße 3",
 			"city": "Köln",
 			"postalCode": "50674",
-			"description": "Opening hours:\\n\nWed 20/09 - 9:00 - 20:00\\n\nThu 21/09 - 9:00 - 14:00\\n",
-			"description_de": "Öffnungszeiten:\\n\nMi 20.09 - 9:00 - 20:00\\n\nDo 21.09 - 9:00 - 14:00\\n"
+			"description": "Accreditation opening hours:\\n\nWed 20/09 - 9:00 - 20:00\\n\nThu 21/09 - 9:00 - 14:00\\n",
+			"description_de": "Akkreditierung Öffnungszeiten:\\n\nMi 20.09 - 9:00 - 20:00\\n\nDo 21.09 - 9:00 - 14:00\\n"
 		},
 		{
 			"__tabName": "Entity",
@@ -601,8 +601,8 @@
 			"route7": "",
 			"trend": "",
 			"sector": "",
-			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE",
+			"detailsLink": "TRUE",
+			"addedToMapbox": "TRUE",
 			"subtitle": "Little Nonna",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/ivanti_square_a3a0308d57.png",
 			"website": "www.ivanti.com",
