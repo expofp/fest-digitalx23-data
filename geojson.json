@@ -47,6 +47,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "D0013575",
+				"Name": "Akamai"
+			},
+			"geometry": {
+				"coordinates": [
+					6.943355,
+					50.948632
+				],
+				"type": "Point"
+			},
+			"id": "073cfd226d730e4556a02462cbaea44b"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "mediapark",
 				"Color": "#e5117e"
 			},
@@ -193,20 +208,6 @@
 				"type": "Point"
 			},
 			"id": "0a52c23da8364036040890aa397aaab5"
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"ID": "interactive_stage"
-			},
-			"geometry": {
-				"coordinates": [
-					6.942929,
-					50.941222
-				],
-				"type": "Point"
-			},
-			"id": "0fd04e3b1245a4130648d82385aa5ae9"
 		},
 		{
 			"type": "Feature",
@@ -1154,8 +1155,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.943634,
-					50.947948
+					6.943713,
+					50.947974
 				],
 				"type": "Point"
 			},
