@@ -690,6 +690,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "wilmawunder_stage"
+			},
+			"geometry": {
+				"coordinates": [
+					6.940895,
+					50.940765
+				],
+				"type": "Point"
+			},
+			"id": "91aee07b1770f159f4b9aeefc1e6f1b8"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "stadtgarten_futurework"
 			},
 			"geometry": {
