@@ -195,6 +195,40 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "stadtgarten_inno_cases"
+			},
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							6.9352,
+							50.942763
+						],
+						[
+							6.935291,
+							50.942839
+						],
+						[
+							6.935383,
+							50.942794
+						],
+						[
+							6.935297,
+							50.942719
+						],
+						[
+							6.9352,
+							50.942763
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"id": "2bbc99ae2ccc19afbf07b81232a4dca8"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "stadtgarten_sustainability"
 			},
 			"geometry": {
@@ -446,6 +480,56 @@
 				"type": "Polygon"
 			},
 			"id": "96669e1c3f18a7e04843c889023250fe"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "stadtgarten_security"
+			},
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							6.934902,
+							50.942685
+						],
+						[
+							6.934981,
+							50.942747
+						],
+						[
+							6.935119,
+							50.942729
+						],
+						[
+							6.93517,
+							50.942766
+						],
+						[
+							6.93524,
+							50.942737
+						],
+						[
+							6.935194,
+							50.942704
+						],
+						[
+							6.935236,
+							50.942681
+						],
+						[
+							6.935108,
+							50.942581
+						],
+						[
+							6.934902,
+							50.942685
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"id": "af5b0bd2d9b68626e2f72e9f303a20f1"
 		},
 		{
 			"type": "Feature",
