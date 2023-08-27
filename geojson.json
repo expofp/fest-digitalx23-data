@@ -302,6 +302,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "D0015392",
+				"Name": "nexum."
+			},
+			"geometry": {
+				"coordinates": [
+					6.940676,
+					50.936686
+				],
+				"type": "Point"
+			},
+			"id": "245c15b4395543287bc955e5ef090dbe"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0014291"
 			},
 			"geometry": {
@@ -437,6 +452,20 @@
 				"type": "LineString"
 			},
 			"id": "2e654f813722b37b50d9e4b2dd713209"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "D0004277"
+			},
+			"geometry": {
+				"coordinates": [
+					6.941557,
+					50.941402
+				],
+				"type": "Point"
+			},
+			"id": "307b2d8a0ca6920f2a12375bef6c5282"
 		},
 		{
 			"type": "Feature",
@@ -1351,6 +1380,23 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjpiMGQzOWViNC0wY2VjLTRhYzYtOWRkOS05MWY5MzE4YTEwYTg",
+				"place_name": "Friesenwall 81, 50672 Köln, Germany",
+				"ID": "D0015425"
+			},
+			"geometry": {
+				"coordinates": [
+					6.941272,
+					50.941261
+				],
+				"type": "Point"
+			},
+			"id": "d77d6a712e3f8d07c38612b62d74c1ef"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0014266"
 			},
 			"geometry": {
@@ -1460,6 +1506,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "D0015391",
+				"Name": "Intelsat"
+			},
+			"geometry": {
+				"coordinates": [
+					6.940346,
+					50.936486
+				],
+				"type": "Point"
+			},
+			"id": "e894161e7208f5a3cec29f605dbb65a6"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0015351",
 				"Name": "Omilia"
 			},
@@ -1522,6 +1583,21 @@
 				"type": "Point"
 			},
 			"id": "ebacf73a9d3c588fd6bf3d64aabf773b"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "D0014215",
+				"Name": "MIRA"
+			},
+			"geometry": {
+				"coordinates": [
+					6.940309,
+					50.936663
+				],
+				"type": "Point"
+			},
+			"id": "ef776cb4cda47b3371b007f90e2c2748"
 		},
 		{
 			"type": "Feature",
