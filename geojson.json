@@ -358,6 +358,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "highlight_tour_start"
+			},
+			"geometry": {
+				"coordinates": [
+					6.943623,
+					50.948446
+				],
+				"type": "Point"
+			},
+			"id": "474d7139ccc03a3f545aee3f8cf42c05"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "highlights_1"
 			},
 			"geometry": {
@@ -480,6 +494,20 @@
 				"type": "Polygon"
 			},
 			"id": "96669e1c3f18a7e04843c889023250fe"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "D0015254"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935197,
+					50.941431
+				],
+				"type": "Point"
+			},
+			"id": "a8b48fdd369d001db08b9c26ad43cc5d"
 		},
 		{
 			"type": "Feature",

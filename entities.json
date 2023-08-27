@@ -22,9 +22,9 @@
 			"website": "",
 			"highlight": "",
 			"addressCalculation": "Venloer Str. 40, 50672 Köln",
-			"address": "Im Mediapark 6",
+			"address": "Venloer Str. 40",
 			"city": "Köln",
-			"postalCode": "50670"
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -48,9 +48,9 @@
 			"website": "",
 			"highlight": "",
 			"addressCalculation": "Venloer Str. 40, 50672 Köln",
-			"address": "Im Mediapark 6",
+			"address": "Venloer Str. 40",
 			"city": "Köln",
-			"postalCode": "50670"
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -74,9 +74,9 @@
 			"website": "",
 			"highlight": "",
 			"addressCalculation": "Venloer Str. 40, 50672 Köln",
-			"address": "Im Mediapark 6",
+			"address": "Venloer Str. 40",
 			"city": "Köln",
-			"postalCode": "50670"
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -100,9 +100,9 @@
 			"website": "",
 			"highlight": "",
 			"addressCalculation": "Venloer Str. 40, 50672 Köln",
-			"address": "Im Mediapark 6",
+			"address": "Venloer Str. 40",
 			"city": "Köln",
-			"postalCode": "50670"
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -126,9 +126,9 @@
 			"website": "",
 			"highlight": "",
 			"addressCalculation": "Venloer Str. 40, 50672 Köln",
-			"address": "Im Mediapark 6",
+			"address": "Venloer Str. 40",
 			"city": "Köln",
-			"postalCode": "50670"
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -152,9 +152,9 @@
 			"website": "",
 			"highlight": "",
 			"addressCalculation": "Venloer Str. 40, 50672 Köln",
-			"address": "Im Mediapark 6",
+			"address": "Venloer Str. 40",
 			"city": "Köln",
-			"postalCode": "50670"
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -289,8 +289,8 @@
 			"route7": "",
 			"trend": "",
 			"sector": "",
-			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE",
+			"detailsLink": "TRUE",
+			"addedToMapbox": "TRUE",
 			"subtitle": "Barracuda Bar",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/netgo_square_bba932546a.png",
 			"website": "www.netgo.de",
@@ -607,10 +607,10 @@
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/ivanti_square_a3a0308d57.png",
 			"website": "www.ivanti.com",
 			"highlight": "",
-			"addressCalculation": "Aachener Straße 00, \n Brabanter Straße 01, 50674 Köln",
-			"address": "Aachener Straße 00",
-			"city": "anter Straße 01, 50674 Köln",
-			"postalCode": "Bra"
+			"addressCalculation": "Brabanter Straße 1, 50674 Köln",
+			"address": "Brabanter Straße 1",
+			"city": "Köln",
+			"postalCode": "50674"
 		},
 		{
 			"__tabName": "Entity",
