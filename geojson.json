@@ -5,7 +5,7 @@
 			"type": "Feature",
 			"properties": {
 				"ID": "mediapark",
-				"Color": "#E6007E"
+				"Color": "#e5117e"
 			},
 			"geometry": {
 				"coordinates": [
@@ -127,78 +127,6 @@
 				"type": "Polygon"
 			},
 			"id": "09b84be229d9addb386c43c4b8dea3cf"
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"ID": "safety"
-			},
-			"geometry": {
-				"coordinates": [
-					[
-						6.94553,
-						50.949174
-					],
-					[
-						6.94587,
-						50.948982
-					],
-					[
-						6.945022,
-						50.948351
-					],
-					[
-						6.944752,
-						50.947785
-					],
-					[
-						6.944184,
-						50.948594
-					],
-					[
-						6.943283,
-						50.947966
-					],
-					[
-						6.943253,
-						50.947756
-					],
-					[
-						6.943017,
-						50.947711
-					],
-					[
-						6.942765,
-						50.946289
-					],
-					[
-						6.941472,
-						50.946302
-					],
-					[
-						6.940369,
-						50.945589
-					],
-					[
-						6.938335,
-						50.944321
-					],
-					[
-						6.935404,
-						50.942225
-					],
-					[
-						6.934788,
-						50.94117
-					],
-					[
-						6.934653,
-						50.940223
-					]
-				],
-				"type": "LineString"
-			},
-			"id": "0d6a5b12ce4e389c9e1a6b0833739de4"
 		},
 		{
 			"type": "Feature",
@@ -396,61 +324,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "stadtgarten",
-				"Color": "#FFDE14"
-			},
-			"geometry": {
-				"coordinates": [
-					[
-						[
-							6.934447,
-							50.942886
-						],
-						[
-							6.934548,
-							50.942932
-						],
-						[
-							6.934728,
-							50.943041
-						],
-						[
-							6.934896,
-							50.943199
-						],
-						[
-							6.935071,
-							50.943434
-						],
-						[
-							6.935424,
-							50.943301
-						],
-						[
-							6.935777,
-							50.943155
-						],
-						[
-							6.936286,
-							50.942889
-						],
-						[
-							6.935462,
-							50.942292
-						],
-						[
-							6.934447,
-							50.942886
-						]
-					]
-				],
-				"type": "Polygon"
-			},
-			"id": "8781ac886d3c8b381fd3f22067d648b3"
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"ID": "inspiration_stage"
 			},
 			"geometry": {
@@ -479,8 +352,8 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "rudolfsplatz",
-				"Color": "#FFDE14"
+				"ID": "stadtgarten",
+				"Color": "#ffc014"
 			},
 			"geometry": {
 				"coordinates": [
@@ -563,7 +436,7 @@
 			"type": "Feature",
 			"properties": {
 				"ID": "friesenviertel",
-				"Color": "#00B050"
+				"Color": "#469309"
 			},
 			"geometry": {
 				"coordinates": [
