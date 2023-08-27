@@ -18,6 +18,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "magenta_stage"
+			},
+			"geometry": {
+				"coordinates": [
+					6.943709,
+					50.94852
+				],
+				"type": "Point"
+			},
+			"id": "0624e0d3269a7f7813345fa4223500c0"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "mediapark",
 				"Color": "#e5117e"
 			},
@@ -191,6 +205,23 @@
 				"type": "Point"
 			},
 			"id": "16b26818ad4246a58838d368c55c2552"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjo2MmM2OGM3Zi1kYjEzLTRkMzctODEwYS05MmMzOTk5Njk1YTQ",
+				"place_name": "Aachener Straße 5, 50674 Köln, Germany",
+				"ID": "disruption_stage"
+			},
+			"geometry": {
+				"coordinates": [
+					6.936878,
+					50.936323
+				],
+				"type": "Point"
+			},
+			"id": "1ed2d4a03e1d23228ed5f3b2f059902f"
 		},
 		{
 			"type": "Feature",
@@ -455,6 +486,23 @@
 				"type": "Point"
 			},
 			"id": "474d7139ccc03a3f545aee3f8cf42c05"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"accuracy": "street",
+				"mapbox_id": "dXJuOm1ieGFkcjozNmEyNTllNS1jODdiLTQ5YWQtOThmOS04OGI5MzE3MDA3ZWM",
+				"place_name": "Friesenstraße, 50670 Köln, Germany",
+				"ID": "interactive_stage"
+			},
+			"geometry": {
+				"coordinates": [
+					6.943076,
+					50.940832
+				],
+				"type": "Point"
+			},
+			"id": "4e7e7b9692b7b3c5800d124493a6bef1"
 		},
 		{
 			"type": "Feature",
