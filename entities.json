@@ -1749,7 +1749,7 @@
 			"id": "D0015522",
 			"entityType": "exhibitor",
 			"name": "3D Spark GmbH",
-			"parent": "",
+			"parent": "stadtgarten_connectedbusiness",
 			"route1": "",
 			"route2": "",
 			"route3": "",
