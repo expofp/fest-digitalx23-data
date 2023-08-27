@@ -4,6 +4,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "D0014290",
+				"Name": "Klitschko Ventures"
+			},
+			"geometry": {
+				"coordinates": [
+					6.944704,
+					50.948266
+				],
+				"type": "Point"
+			},
+			"id": "033d6f9e4c7ce7d6281d0942f3d434cb"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0004103"
 			},
 			"geometry": {
@@ -222,6 +237,21 @@
 				"type": "Point"
 			},
 			"id": "1ed2d4a03e1d23228ed5f3b2f059902f"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "D0014104",
+				"Name": "Google Cloud"
+			},
+			"geometry": {
+				"coordinates": [
+					6.944203,
+					50.948368
+				],
+				"type": "Point"
+			},
+			"id": "2363dff407116bf565b35ae66b1fb7ad"
 		},
 		{
 			"type": "Feature",
@@ -802,6 +832,38 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjpiMGQzOWViNC0wY2VjLTRhYzYtOWRkOS05MWY5MzE4YTEwYTg",
+				"place_name": "Friesenwall 81, 50672 Köln, Germany",
+				"ID": "D0005513"
+			},
+			"geometry": {
+				"coordinates": [
+					6.941284,
+					50.941398
+				],
+				"type": "Point"
+			},
+			"id": "b1bc14d4708764234830a6daa43cfa86"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "D0004345",
+				"Name": "Microsoft"
+			},
+			"geometry": {
+				"coordinates": [
+					6.943634,
+					50.947948
+				],
+				"type": "Point"
+			},
+			"id": "b1f8bb4dc1da3f018e5471fc2f9d2772"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0014261"
 			},
 			"geometry": {
@@ -826,6 +888,21 @@
 				"type": "Point"
 			},
 			"id": "bc3c135b019266cf3ff9b17c6b8e86ba"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "D0015382",
+				"Name": "Nokia"
+			},
+			"geometry": {
+				"coordinates": [
+					6.944495,
+					50.948359
+				],
+				"type": "Point"
+			},
+			"id": "bcf3b68f74ddd7c25c60b757b7b23a23"
 		},
 		{
 			"type": "Feature",
@@ -944,6 +1021,23 @@
 				"type": "Point"
 			},
 			"id": "cd1f5528e9a683d3f9e53bb79be94d2e"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjpjZTYxMWUwYS02YjlhLTQxYjItOWQxMi03ZTJmOWZkZmMwYmQ",
+				"place_name": "Aachener Straße 22, 50674 Köln, Germany",
+				"ID": "D0005511"
+			},
+			"geometry": {
+				"coordinates": [
+					6.93653,
+					50.936608
+				],
+				"type": "Point"
+			},
+			"id": "cf77e39f631ed0b880c6afc5042048b6"
 		},
 		{
 			"type": "Feature",
