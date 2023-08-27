@@ -229,6 +229,23 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjpkODgzYzJhZC02M2EwLTRhNjItYjg3ZC0zNzA0MGYzNWQyZTQ",
+				"place_name": "Venloer Straße 19, 50672 Köln, Germany",
+				"ID": "D0004318"
+			},
+			"geometry": {
+				"coordinates": [
+					6.936754,
+					50.941432
+				],
+				"type": "Point"
+			},
+			"id": "2bcd18a2101e0621300016248d184c0b"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "highlight_tour_1"
 			},
 			"geometry": {
@@ -443,6 +460,40 @@
 			"type": "Feature",
 			"properties": {
 				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjo3NDYzMTBmNS02OGY1LTRhOGUtYTAzZS1hYmVhYzI4MzY5NWY",
+				"place_name": "Im Mediapark 8, 50670 Köln, Germany",
+				"ID": "D0005512"
+			},
+			"geometry": {
+				"coordinates": [
+					6.943172,
+					50.948016
+				],
+				"type": "Point"
+			},
+			"id": "54e37f1c181e798504470c524c11d0f5"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjplNmJkNjIzZC0zZDJmLTQ0ZjAtOWVhMC0yZjkxYjBiMzliMzE",
+				"place_name": "Friesenstraße 73, 50670 Köln, Germany",
+				"ID": "D0004258"
+			},
+			"geometry": {
+				"coordinates": [
+					6.941905,
+					50.94061
+				],
+				"type": "Point"
+			},
+			"id": "5871ae080d0e389b26f850ba7e5172f5"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjpmYmMwNDcwYS0yY2JkLTRkMWQtYjQzYS04NTZiMzRlZmI3ODM",
 				"place_name": "Friesenstraße 58-60, 50670 Köln, Germany",
 				"ID": "D0015256"
@@ -542,6 +593,23 @@
 				"type": "Point"
 			},
 			"id": "7bf4abaded226667703456a5e30259af"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjo1NjIxMGY0OC1hMmFiLTRmOTgtODBjMi1kOWU2YjBmODYyMWI",
+				"place_name": "Brabanter Straße 1, 50674 Köln, Germany",
+				"ID": "D0005086"
+			},
+			"geometry": {
+				"coordinates": [
+					6.937317,
+					50.936685
+				],
+				"type": "Point"
+			},
+			"id": "902bb0ef0559a53b7722001dd70d6ed4"
 		},
 		{
 			"type": "Feature",
@@ -672,6 +740,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "D0004209"
+			},
+			"geometry": {
+				"coordinates": [
+					6.938547,
+					50.940367
+				],
+				"type": "Point"
+			},
+			"id": "c3d3becb2aeb7270816f76e0e8d79e51"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "magenta_stage"
 			},
 			"geometry": {
@@ -758,6 +840,20 @@
 				"type": "Polygon"
 			},
 			"id": "c9736cc69ae94b445f2b4105762ce4e6"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "littlenonna_stage"
+			},
+			"geometry": {
+				"coordinates": [
+					6.937226,
+					50.936616
+				],
+				"type": "Point"
+			},
+			"id": "c9c150e7a266547b09f4891a0f264b42"
 		},
 		{
 			"type": "Feature",
