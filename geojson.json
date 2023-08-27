@@ -228,6 +228,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "D0015369"
+			},
+			"geometry": {
+				"coordinates": [
+					6.934961,
+					50.938022
+				],
+				"type": "Point"
+			},
+			"id": "16814d98d0bc9e8f402bf323a01b5cd5"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0005357"
 			},
 			"geometry": {
@@ -1491,6 +1505,23 @@
 				"type": "Point"
 			},
 			"id": "eb3cc9611bb12f8db6b0f6edcb7a57df"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjoxZTc4MzhlMS1hODYyLTQ4NDQtYTA5Zi1kZTJkNzI3OWFhNzI",
+				"place_name": "Brüsseler Straße 66, 50674 Köln, Germany",
+				"ID": "D0015471"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935048,
+					50.938021
+				],
+				"type": "Point"
+			},
+			"id": "ebacf73a9d3c588fd6bf3d64aabf773b"
 		},
 		{
 			"type": "Feature",
