@@ -182,6 +182,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "D0015370",
+				"Name": "docusign"
+			},
+			"geometry": {
+				"coordinates": [
+					6.934382,
+					50.93676
+				],
+				"type": "Point"
+			},
+			"id": "0a52c23da8364036040890aa397aaab5"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "interactive_stage"
 			},
 			"geometry": {
@@ -283,6 +298,24 @@
 				"type": "Point"
 			},
 			"id": "2517c97581d630d72631a81f5b82e01c"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjo0N2E0NjQ3Zi1mNmMwLTQ0OTgtOTcyNC1jYmRkNjVkMjYyYTc",
+				"place_name": "Brüsseler Straße 47, 50674 Köln, Germany",
+				"ID": "D0015373",
+				"nane": "salesforce"
+			},
+			"geometry": {
+				"coordinates": [
+					6.934376,
+					50.936826
+				],
+				"type": "Point"
+			},
+			"id": "2ad7df64b628b47af08988f97246990c"
 		},
 		{
 			"type": "Feature",
@@ -419,6 +452,20 @@
 				"type": "Point"
 			},
 			"id": "351f18bc2e58d6ec24f45e7b363d5ce3"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "D0015372"
+			},
+			"geometry": {
+				"coordinates": [
+					6.939373,
+					50.936575
+				],
+				"type": "Point"
+			},
+			"id": "381dedc7fbfd27ee8805ff79cc90fcfa"
 		},
 		{
 			"type": "Feature",
@@ -793,6 +840,23 @@
 			"type": "Feature",
 			"properties": {
 				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjpiNjJiZmFiMC0zMGQxLTQ3N2ItYjE0NS0xYWRmZDY1MDQ5NTY",
+				"place_name": "Aachener Straße 32, 50674 Köln, Germany",
+				"ID": "D0015458"
+			},
+			"geometry": {
+				"coordinates": [
+					6.936021,
+					50.936618
+				],
+				"type": "Point"
+			},
+			"id": "80f8af7e62a021634aa4070abf1285f2"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjo1NjIxMGY0OC1hMmFiLTRmOTgtODBjMi1kOWU2YjBmODYyMWI",
 				"place_name": "Brabanter Straße 1, 50674 Köln, Germany",
 				"ID": "D0005086"
@@ -1081,6 +1145,23 @@
 				"type": "Point"
 			},
 			"id": "c6aaae28fb03597be5b121a9d7bdc20e"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjoyMWJkMWE3MS1kMzU3LTQ1ODctOGMyYy1jZDg0Njk5MmUyZDE",
+				"place_name": "Aachener Straße 34, 50674 Köln, Germany",
+				"ID": "D0005438"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935928,
+					50.936621
+				],
+				"type": "Point"
+			},
+			"id": "c95e55e9b30e782d5d6819a70a28bbb6"
 		},
 		{
 			"type": "Feature",
