@@ -631,7 +631,12 @@
 			"addedToMapbox": "TRUE",
 			"subtitle": "Mediapark Outdoor",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Google_square_bf9fff20aa.png",
-			"website": "https://cloud.google.com/?hl=de"
+			"website": "https://cloud.google.com/?hl=de",
+			"highlight": "",
+			"addressCalculation": "Im Mediapark, 50670 Köln",
+			"address": "Im Mediapark",
+			"city": "Köln",
+			"postalCode": "50670"
 		},
 		{
 			"__tabName": "Entity",
@@ -650,7 +655,14 @@
 			"sector": "",
 			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
-			"subtitle": "Mediapark Outdoor"
+			"subtitle": "Mediapark Outdoor",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Im Mediapark, 50670 Köln",
+			"address": "Im Mediapark",
+			"city": "Köln",
+			"postalCode": "50670"
 		},
 		{
 			"__tabName": "Entity",
@@ -669,7 +681,14 @@
 			"sector": "",
 			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
-			"subtitle": "Mediapark Outdoor"
+			"subtitle": "Mediapark Outdoor",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Im Mediapark, 50670 Köln",
+			"address": "Im Mediapark",
+			"city": "Köln",
+			"postalCode": "50670"
 		},
 		{
 			"__tabName": "Entity",
@@ -690,7 +709,12 @@
 			"addedToMapbox": "TRUE",
 			"subtitle": "Mediapark Outdoor",
 			"logoURL": "",
-			"website": "www.klitschko-ventures.com"
+			"website": "www.klitschko-ventures.com",
+			"highlight": "",
+			"addressCalculation": "Im Mediapark, 50670 Köln",
+			"address": "Im Mediapark",
+			"city": "Köln",
+			"postalCode": "50670"
 		},
 		{
 			"__tabName": "Entity",
@@ -863,8 +887,8 @@
 			"route7": "",
 			"trend": "",
 			"sector": "",
-			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE",
+			"detailsLink": "TRUE",
+			"addedToMapbox": "TRUE",
 			"subtitle": "Pier 124 (ehem. Chapmans Surfbar)",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Xiaomi_square_c78db1ea83.png",
 			"website": "https://www.mi.com/de/",
@@ -891,8 +915,8 @@
 			"route7": "",
 			"trend": "",
 			"sector": "",
-			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE",
+			"detailsLink": "TRUE",
+			"addedToMapbox": "TRUE",
 			"subtitle": "Raum 020 KOMED",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/KPMG_square_fd1df5b23e.png",
 			"website": "https://kpmg.com/de/de/home.html",
@@ -917,8 +941,8 @@
 			"route7": "",
 			"trend": "",
 			"sector": "",
-			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE",
+			"detailsLink": "TRUE",
+			"addedToMapbox": "TRUE",
 			"subtitle": "Rudolfplatz",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Omilia_square_2533097756.png",
 			"website": "https://omilia.com/",
@@ -943,8 +967,8 @@
 			"route7": "",
 			"trend": "",
 			"sector": "",
-			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE",
+			"detailsLink": "TRUE",
+			"addedToMapbox": "TRUE",
 			"subtitle": "Rudolfplatz",
 			"logoURL": "",
 			"website": "https://www.c4b.com/",

@@ -785,6 +785,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "D0005436",
+				"Name": "C4B"
+			},
+			"geometry": {
+				"coordinates": [
+					6.939615,
+					50.936504
+				],
+				"type": "Point"
+			},
+			"id": "9f002a37105c3febe0b63fa40ecf9375"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "startplatz_stage_ma"
 			},
 			"geometry": {
@@ -1107,6 +1122,37 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjo4NDg4NTg5MS04MGM3LTQyZTgtODgwMS04NGJjZDI3NmMxZjY",
+				"place_name": "Friesenwall 124, 50672 Köln, Germany",
+				"ID": "D0004316"
+			},
+			"geometry": {
+				"coordinates": [
+					6.941503,
+					50.94125
+				],
+				"type": "Point"
+			},
+			"id": "d6f1ade331158623ba2d14b9896afb0b"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "D0014266"
+			},
+			"geometry": {
+				"coordinates": [
+					6.943516,
+					50.948593
+				],
+				"type": "Point"
+			},
+			"id": "db0bbf21e9412dcee2cf50edd0252b50"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "stadtgarten",
 				"Color": "#ffc014"
 			},
@@ -1202,6 +1248,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "D0015351",
+				"Name": "Omilia"
+			},
+			"geometry": {
+				"coordinates": [
+					6.939636,
+					50.936637
+				],
+				"type": "Point"
+			},
+			"id": "e960d45d2a7c1845a60976e795744ff9"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjo3ZGQwMzlhNy1hOWE0LTQ0MWItOGZkZi1jNzlhMjM2ZjJhNWI",
 				"place_name": "Richard-Wagner-Straße 39, 50674 Köln, Germany",
@@ -1215,6 +1276,23 @@
 				"type": "Point"
 			},
 			"id": "eb3cc9611bb12f8db6b0f6edcb7a57df"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjpkYzUxZTc5Ni0xMjgwLTQxZDktOWU5Mi1mNzE4ODk3YmU2YjY",
+				"place_name": "Aachener Straße 16, 50674 Köln, Germany",
+				"ID": "D0005598"
+			},
+			"geometry": {
+				"coordinates": [
+					6.93693,
+					50.936598
+				],
+				"type": "Point"
+			},
+			"id": "f6df5cb304e7a372f9142c7f29651a6a"
 		},
 		{
 			"type": "Feature",
