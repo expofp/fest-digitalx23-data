@@ -209,6 +209,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "startplatz_stage_ut"
+			},
+			"geometry": {
+				"coordinates": [
+					6.944662,
+					50.948611
+				],
+				"type": "Point"
+			},
+			"id": "17aa4ea76703a0d13fcdb450759752cf"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjo2MmM2OGM3Zi1kYjEzLTRkMzctODEwYS05MmMzOTk5Njk1YTQ",
 				"place_name": "Aachener Straße 5, 50674 Köln, Germany",
@@ -558,6 +572,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "coffeefellows_stage"
+			},
+			"geometry": {
+				"coordinates": [
+					6.945253,
+					50.947969
+				],
+				"type": "Point"
+			},
+			"id": "73d36097dc158edba406d911e1e96964"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjpmZDJkMDQ1MC01NzA2LTRiZmQtOTdkYi1kOGFhNTgyM2E2YTk",
 				"place_name": "Brüsseler Straße 70, 50674 Köln, Germany",
@@ -692,6 +720,20 @@
 				"type": "Polygon"
 			},
 			"id": "96669e1c3f18a7e04843c889023250fe"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "startplatz_stage_ma"
+			},
+			"geometry": {
+				"coordinates": [
+					6.944933,
+					50.948533
+				],
+				"type": "Point"
+			},
+			"id": "a55ba9436ec40bc1bddae80cf9092994"
 		},
 		{
 			"type": "Feature",
@@ -1028,6 +1070,23 @@
 				"type": "Polygon"
 			},
 			"id": "e555478b75a3f9b7feb7c3bb91bb5b6e"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjo3ZGQwMzlhNy1hOWE0LTQ0MWItOGZkZi1jNzlhMjM2ZjJhNWI",
+				"place_name": "Richard-Wagner-Straße 39, 50674 Köln, Germany",
+				"ID": "wohngemeinschaft_stage"
+			},
+			"geometry": {
+				"coordinates": [
+					6.934775,
+					50.935323
+				],
+				"type": "Point"
+			},
+			"id": "eb3cc9611bb12f8db6b0f6edcb7a57df"
 		},
 		{
 			"type": "Feature",
