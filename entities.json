@@ -34,6 +34,27 @@
 		},
 		{
 			"__tabName": "Entity",
+			"id": "stadtgarten_sustainability",
+			"entityType": "expo_area",
+			"name": "Stadtgarten Nachhaltigkeit & Verantwortung",
+			"parent": "stadtgarten_area"
+		},
+		{
+			"__tabName": "Entity",
+			"id": "stadtgarten_connectedbusiness",
+			"entityType": "expo_area",
+			"name": "Stadtgarten Connected Business",
+			"parent": "stadtgarten_area"
+		},
+		{
+			"__tabName": "Entity",
+			"id": "stadtgarten_futurework",
+			"entityType": "expo_area",
+			"name": "Stadtgarten Future of Work",
+			"parent": "stadtgarten_area"
+		},
+		{
+			"__tabName": "Entity",
 			"id": "highlight_tour_1",
 			"entityType": "tour",
 			"name": "Highlight-Tour",

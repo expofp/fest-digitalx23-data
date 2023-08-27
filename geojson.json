@@ -195,6 +195,48 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "stadtgarten_sustainability"
+			},
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							6.934881,
+							50.942689
+						],
+						[
+							6.934982,
+							50.94276
+						],
+						[
+							6.935121,
+							50.942743
+						],
+						[
+							6.935165,
+							50.942771
+						],
+						[
+							6.9348,
+							50.942954
+						],
+						[
+							6.934611,
+							50.942824
+						],
+						[
+							6.934881,
+							50.942689
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"id": "3e10753a7077c5532100bc9fcdb03bf8"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "belgisches",
 				"Color": "#4db3e6"
 			},
@@ -318,6 +360,48 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "stadtgarten_connectedbusiness"
+			},
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							6.935367,
+							50.942926
+						],
+						[
+							6.935431,
+							50.94297
+						],
+						[
+							6.935343,
+							50.943008
+						],
+						[
+							6.935411,
+							50.943063
+						],
+						[
+							6.935261,
+							50.943137
+						],
+						[
+							6.935152,
+							50.943036
+						],
+						[
+							6.935367,
+							50.942926
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"id": "7432482a14837c000923b0e13bade0f7"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "future_stage"
 			},
 			"geometry": {
@@ -328,6 +412,40 @@
 				"type": "Point"
 			},
 			"id": "7b86730eb3e888c4c00f48727f2b4994"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "stadtgarten_futurework"
+			},
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							6.935564,
+							50.942883
+						],
+						[
+							6.935782,
+							50.942807
+						],
+						[
+							6.935698,
+							50.94273
+						],
+						[
+							6.935492,
+							50.942812
+						],
+						[
+							6.935564,
+							50.942883
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"id": "96669e1c3f18a7e04843c889023250fe"
 		},
 		{
 			"type": "Feature",
