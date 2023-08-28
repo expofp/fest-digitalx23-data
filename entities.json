@@ -3675,19 +3675,19 @@
 			"__tabName": "Sector",
 			"id": "stadtgarten",
 			"name": "Quartier Stadtgarten",
-			"color": "#ffc014"
+			"color": "#ffc113"
 		},
 		{
 			"__tabName": "Sector",
 			"id": "mediapark",
 			"name": "Quartier Mediapark",
-			"color": "#e5117e"
+			"color": "#e5127e"
 		},
 		{
 			"__tabName": "Sector",
 			"id": "friesenviertel",
 			"name": "Quartier Friesenviertel",
-			"color": "#469309"
+			"color": "#469307"
 		},
 		{
 			"__tabName": "Extra Tag",
