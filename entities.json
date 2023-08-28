@@ -625,7 +625,7 @@
 			"route5": "",
 			"route6": "",
 			"route7": "",
-			"trend": "",
+			"trend": "masterclass",
 			"sector": "",
 			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
@@ -3219,8 +3219,7 @@
 			"__tabName": "Trends",
 			"id": "connected-business",
 			"name": "Connected Business",
-			"name_de": "Das Internet of Things (IoT) war der Anfang – Connected Business ist die Fortsetzung.",
-			"trendMapping(Import)": "#REF!"
+			"name_de": "Das Internet of Things (IoT) war der Anfang – Connected Business ist die Fortsetzung."
 		},
 		{
 			"__tabName": "Trends",
@@ -3243,7 +3242,7 @@
 		{
 			"__tabName": "Trends",
 			"id": "masterclass",
-			"name": "Masterclass",
+			"name": "Masterclass Venue",
 			"name_de": "Masterclass Veranstaltungsort"
 		},
 		{
