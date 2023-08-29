@@ -1366,20 +1366,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "littlenonna_stage"
-			},
-			"geometry": {
-				"coordinates": [
-					6.937239,
-					50.936633
-				],
-				"type": "Point"
-			},
-			"id": "c9c150e7a266547b09f4891a0f264b42"
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"ID": "D0015258",
 				"Name": "axxessio"
 			},
