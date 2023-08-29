@@ -3824,7 +3824,8 @@
 			"id": "mediapark",
 			"name": "Quartier Mediapark",
 			"color": "#e5127e",
-			"icon": "https://fest-digitalx23.expofp.com/images/new2/bus_route-active.png"
+			"icon": "https://fest-digitalx23.expofp.com/images/new2/bus_route-active.png",
+			"lineColor": "#e5127e"
 		},
 		{
 			"__tabName": "Sector",
