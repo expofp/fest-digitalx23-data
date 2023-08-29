@@ -689,7 +689,7 @@
 			"id": "D0005086",
 			"entityType": "brandhouse",
 			"name": "Ivanti",
-			"parent": "",
+			"parent": "connected_business",
 			"route1": "",
 			"route2": "",
 			"route3": "",
