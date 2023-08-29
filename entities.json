@@ -1293,7 +1293,11 @@
 			"addressCalculation": "Friesenstraße 82, 50672 Köln",
 			"address": "Friesenstraße 82",
 			"city": "Köln",
-			"postalCode": "50672"
+			"postalCode": "50672",
+			"description": "",
+			"description_de": "",
+			"external_location_id": "",
+			"expoFPURL": "https://fest-digitalx23.expofp.com/#id=D0014291"
 		},
 		{
 			"__tabName": "Entity",
