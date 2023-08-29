@@ -1282,7 +1282,7 @@
 			"trend": "",
 			"extraTag1": "masterclass",
 			"extraTag2": "kölsche-nacht-mittwoch",
-			"extraTag3": "",
+			"extraTag3": "kölsche-nacht-donnerstag",
 			"sector": "",
 			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
@@ -3723,14 +3723,16 @@
 			"id": "belgisches",
 			"name": "Quartier Belgisches Viertel",
 			"color": "#4db3e6",
-			"icon": "https://fest-digitalx23.expofp.com/images/new2/bus_route-active.png"
+			"icon": "https://fest-digitalx23.expofp.com/images/new2/bus_route-active.png",
+			"lineColor": "#4db3e6"
 		},
 		{
 			"__tabName": "Sector",
 			"id": "stadtgarten",
 			"name": "Quartier Stadtgarten",
 			"color": "#ffc113",
-			"icon": "https://fest-digitalx23.expofp.com/images/new2/bus_route-active.png"
+			"icon": "https://fest-digitalx23.expofp.com/images/new2/bus_route-active.png",
+			"lineColor": "#ffc113"
 		},
 		{
 			"__tabName": "Sector",
@@ -3745,7 +3747,8 @@
 			"id": "friesenviertel",
 			"name": "Quartier Friesenviertel",
 			"color": "#469307",
-			"icon": "https://fest-digitalx23.expofp.com/images/new2/bus_route-active.png"
+			"icon": "https://fest-digitalx23.expofp.com/images/new2/bus_route-active.png",
+			"lineColor": "#469307"
 		},
 		{
 			"__tabName": "Extra Tag",
