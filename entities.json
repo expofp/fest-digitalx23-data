@@ -1269,7 +1269,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0014291",
-			"entityType": "brandhouse",
+			"entityType": "exhibitor_friesenviertel",
 			"name": "DATANET",
 			"parent": "",
 			"route1": "",
@@ -1283,7 +1283,7 @@
 			"extraTag1": "masterclass",
 			"extraTag2": "kölsche-nacht-mittwoch",
 			"extraTag3": "kölsche-nacht-donnerstag",
-			"sector": "",
+			"sector": "friesenviertel",
 			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "Wilma Wunder",
@@ -3665,6 +3665,30 @@
 			"filterGroup": "Exhibitor",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/brandhouse.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-active.png"
+		},
+		{
+			"__tabName": "EntityType",
+			"id": "exhibitor_belgisches",
+			"name": "Brandhouse",
+			"filterGroup": "Exhibitor"
+		},
+		{
+			"__tabName": "EntityType",
+			"id": "exhibitor_stadtgarten",
+			"name": "Brandhouse",
+			"filterGroup": "Exhibitor"
+		},
+		{
+			"__tabName": "EntityType",
+			"id": "exhibitor_friesenviertel",
+			"name": "Brandhouse",
+			"filterGroup": "Exhibitor"
+		},
+		{
+			"__tabName": "EntityType",
+			"id": "exhibitor_mediapark",
+			"name": "Brandhouse",
+			"filterGroup": "Exhibitor"
 		},
 		{
 			"__tabName": "EntityType",
