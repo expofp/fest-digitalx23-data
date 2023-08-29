@@ -3614,7 +3614,9 @@
 			"__tabName": "EntityType",
 			"id": "brandhouse_belgisches",
 			"name": "Brandhouse",
-			"filterGroup": "Exhibitor"
+			"filterGroup": "Exhibitor",
+			"icon": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-belgisches.png",
+			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-belgisches-active.png"
 		},
 		{
 			"__tabName": "EntityType",
