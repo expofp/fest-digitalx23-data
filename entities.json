@@ -3809,25 +3809,29 @@
 			"__tabName": "Sector",
 			"id": "belgisches",
 			"name": "Quartier Belgisches Viertel",
-			"color": "#4db3e6"
+			"color": "#4db3e6",
+			"icon": "https://fest-digitalx23.expofp.com/images/new2/bus_route-active.png"
 		},
 		{
 			"__tabName": "Sector",
 			"id": "stadtgarten",
 			"name": "Quartier Stadtgarten",
-			"color": "#ffc113"
+			"color": "#ffc113",
+			"icon": "https://fest-digitalx23.expofp.com/images/new2/bus_route-active.png"
 		},
 		{
 			"__tabName": "Sector",
 			"id": "mediapark",
 			"name": "Quartier Mediapark",
-			"color": "#e5127e"
+			"color": "#e5127e",
+			"icon": "https://fest-digitalx23.expofp.com/images/new2/bus_route-active.png"
 		},
 		{
 			"__tabName": "Sector",
 			"id": "friesenviertel",
 			"name": "Quartier Friesenviertel",
-			"color": "#469307"
+			"color": "#469307",
+			"icon": "https://fest-digitalx23.expofp.com/images/new2/bus_route-active.png"
 		},
 		{
 			"__tabName": "Extra Tag",
