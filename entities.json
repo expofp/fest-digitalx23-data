@@ -1269,7 +1269,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0014291",
-			"entityType": "exhibitor_friesenviertel",
+			"entityType": "brandhouse_friesenviertel",
 			"name": "DATANET",
 			"parent": "",
 			"route1": "",
@@ -3612,6 +3612,30 @@
 		},
 		{
 			"__tabName": "EntityType",
+			"id": "brandhouse_belgisches",
+			"name": "Brandhouse",
+			"filterGroup": "Exhibitor"
+		},
+		{
+			"__tabName": "EntityType",
+			"id": "brandhouse_stadtgarten",
+			"name": "Brandhouse",
+			"filterGroup": "Exhibitor"
+		},
+		{
+			"__tabName": "EntityType",
+			"id": "brandhouse_friesenviertel",
+			"name": "Brandhouse",
+			"filterGroup": "Exhibitor"
+		},
+		{
+			"__tabName": "EntityType",
+			"id": "brandhouse_mediapark",
+			"name": "Brandhouse",
+			"filterGroup": "Exhibitor"
+		},
+		{
+			"__tabName": "EntityType",
 			"id": "tour",
 			"name": "Tour",
 			"filterGroup": "Route",
@@ -3665,30 +3689,6 @@
 			"filterGroup": "Exhibitor",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/brandhouse.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-active.png"
-		},
-		{
-			"__tabName": "EntityType",
-			"id": "exhibitor_belgisches",
-			"name": "Brandhouse",
-			"filterGroup": "Exhibitor"
-		},
-		{
-			"__tabName": "EntityType",
-			"id": "exhibitor_stadtgarten",
-			"name": "Brandhouse",
-			"filterGroup": "Exhibitor"
-		},
-		{
-			"__tabName": "EntityType",
-			"id": "exhibitor_friesenviertel",
-			"name": "Brandhouse",
-			"filterGroup": "Exhibitor"
-		},
-		{
-			"__tabName": "EntityType",
-			"id": "exhibitor_mediapark",
-			"name": "Brandhouse",
-			"filterGroup": "Exhibitor"
 		},
 		{
 			"__tabName": "EntityType",
