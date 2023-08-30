@@ -217,8 +217,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.939965,
-					50.936512
+					6.939954,
+					50.93653
 				],
 				"type": "Point"
 			},
@@ -319,12 +319,12 @@
 			"type": "Feature",
 			"properties": {
 				"ID": "D0015392",
-				"Name": "nexum."
+				"Name": "nexum"
 			},
 			"geometry": {
 				"coordinates": [
-					6.940676,
-					50.936686
+					6.939637,
+					50.936455
 				],
 				"type": "Point"
 			},
@@ -1035,8 +1035,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.939615,
-					50.936504
+					6.939604,
+					50.936423
 				],
 				"type": "Point"
 			},
@@ -1608,8 +1608,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.939636,
-					50.936637
+					6.939568,
+					50.936456
 				],
 				"type": "Point"
 			},
@@ -1674,8 +1674,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.940309,
-					50.936663
+					6.939597,
+					50.936489
 				],
 				"type": "Point"
 			},
