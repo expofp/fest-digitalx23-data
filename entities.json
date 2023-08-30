@@ -398,7 +398,15 @@
 			"sector": "",
 			"detailsLink": "FALSE",
 			"addedToMapbox": "TRUE",
-			"subtitle": "Hauptbahnhof Köln"
+			"subtitle": "Hauptbahnhof Köln",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Trankgasse 11, 50667 Köln",
+			"address": "Trankgasse 11",
+			"city": "Köln",
+			"postalCode": "50667",
+			"description": "Accreditation opening hours:\\n\nTue 19/09 - 14:00 - 21:00\\n\nWed 20/09 - 9:00 - 20:00\\n\nThu 21/09 - 9:00 - 14:00\\n"
 		},
 		{
 			"__tabName": "Entity",

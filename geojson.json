@@ -962,6 +962,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": ""
+			},
+			"geometry": {
+				"coordinates": [
+					7.1224,
+					50.878886
+				],
+				"type": "Point"
+			},
+			"id": "7cb81aae90c28caf076a5ec914068e31"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjpiNjJiZmFiMC0zMGQxLTQ3N2ItYjE0NS0xYWRmZDY1MDQ5NTY",
 				"place_name": "Aachener Straße 32, 50674 Köln, Germany",
@@ -1807,6 +1821,20 @@
 				"type": "Polygon"
 			},
 			"id": "f8fe0a76240bc3c668c71dff24abc41d"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "akkreditierung5"
+			},
+			"geometry": {
+				"coordinates": [
+					6.958522,
+					50.943031
+				],
+				"type": "Point"
+			},
+			"id": "f966944a7cb899fcfc0a9d3558c846e1"
 		},
 		{
 			"type": "Feature",
