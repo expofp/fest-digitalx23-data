@@ -222,13 +222,6 @@
             }
         },
         {
-            "name": "Make everyone having route also select it, but not zoom to it",
-            "filter": ["length", ["get", "parentRoutes"]],
-            "XXupdate": {
-                "select": ["flattern", ["get", "parentRoutes"], ["get", "select"]]
-            }
-        },
-        {
             "name": "Make route also select items on route",
             "filter": ["any", ["==", "bus_route", ["get", "entityType"]], ["==", "tour", ["get", "entityType"]]],
             "update": [
