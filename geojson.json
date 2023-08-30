@@ -308,8 +308,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.944203,
-					50.948368
+					6.943865,
+					50.947635
 				],
 				"type": "Point"
 			},
@@ -753,7 +753,8 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "D0004169"
+				"ID": "D0004169",
+				"Name": "Juniper Networks"
 			},
 			"geometry": {
 				"coordinates": [
@@ -1160,8 +1161,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.943713,
-					50.947974
+					6.943253,
+					50.947699
 				],
 				"type": "Point"
 			},
@@ -1218,8 +1219,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.944495,
-					50.948359
+					6.944663,
+					50.948923
 				],
 				"type": "Point"
 			},
