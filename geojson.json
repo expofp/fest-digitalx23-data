@@ -1807,6 +1807,20 @@
 				"type": "Polygon"
 			},
 			"id": "f8fe0a76240bc3c668c71dff24abc41d"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "akkreditierung3"
+			},
+			"geometry": {
+				"coordinates": [
+					6.979362,
+					50.939676
+				],
+				"type": "Point"
+			},
+			"id": "fccf5a55e10654ed47261a59feb08f05"
 		}
 	]
 }
