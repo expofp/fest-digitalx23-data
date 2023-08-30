@@ -673,6 +673,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"id": "akkreditierung2"
+			},
+			"geometry": {
+				"coordinates": [
+					6.868176,
+					50.928178
+				],
+				"type": "Point"
+			},
+			"id": "406024d16012fc86a923dae0854b18c3"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0015524",
 				"Name": "Zscaler"
 			},
