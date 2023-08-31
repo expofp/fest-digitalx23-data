@@ -1072,6 +1072,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "akkreditierung12"
+			},
+			"geometry": {
+				"coordinates": [
+					6.942624,
+					50.947884
+				],
+				"type": "Point"
+			},
+			"id": "9553517489d70c745c41d36bfc605e06"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "stadtgarten_futurework"
 			},
 			"geometry": {
