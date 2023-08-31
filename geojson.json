@@ -212,6 +212,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "akkreditierung9"
+			},
+			"geometry": {
+				"coordinates": [
+					6.944957,
+					50.947593
+				],
+				"type": "Point"
+			},
+			"id": "0ae069aa1ff003ea8ae8b9032ef4125a"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0015412",
 				"Name": "TASSTA"
 			},
@@ -468,6 +482,20 @@
 				"type": "LineString"
 			},
 			"id": "2e654f813722b37b50d9e4b2dd713209"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "akkreditierung10"
+			},
+			"geometry": {
+				"coordinates": [
+					6.944026,
+					50.948743
+				],
+				"type": "Point"
+			},
+			"id": "3040df308d02f67c17ff1da304d87fe6"
 		},
 		{
 			"type": "Feature",
@@ -1760,6 +1788,20 @@
 				"type": "Point"
 			},
 			"id": "ef776cb4cda47b3371b007f90e2c2748"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "akkreditierung8"
+			},
+			"geometry": {
+				"coordinates": [
+					6.939584,
+					50.936626
+				],
+				"type": "Point"
+			},
+			"id": "f1f87c41761727f8fc506d564f75d4a3"
 		},
 		{
 			"type": "Feature",
