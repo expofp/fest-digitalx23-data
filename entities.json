@@ -1430,7 +1430,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0013500",
-			"entityType": "brandhouse",
+			"entityType": "brandhouse_belgisches",
 			"name": "q.beyond",
 			"parent": "",
 			"route1": "",
@@ -1444,7 +1444,7 @@
 			"extraTag1": "",
 			"extraTag2": "",
 			"extraTag3": "",
-			"sector": "",
+			"sector": "belgisches",
 			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "Ouzeria",
