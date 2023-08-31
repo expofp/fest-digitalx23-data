@@ -437,8 +437,8 @@
 			"address": "Brüsselerstr. 58",
 			"city": "Köln",
 			"postalCode": "50672",
-			"description": "Accreditation opening hours:\\n\nTue 19/09 - 14:00 - 21:00\\n\nWed 20/09 - 9:00 - 20:00\\n\nThu 21/09 - 9:00 - 14:00\\n",
-			"description_de": "Akkreditierung Öffnungszeiten:\\n\nDi 19/09 - 14:00 - 21:00\\n\nMi 20.09 - 9:00 - 20:00\\n\nDo 21.09 - 9:00 - 14:00\\n"
+			"description": "Accreditation opening hours:\\n\nTue 19/09 - 14:00 - 21:00\\n\nWed 20/09 - 9:00 - 22:00\\n\nThu 21/09 - 9:00 - 18:00\\n",
+			"description_de": "Akkreditierung Öffnungszeiten:\\n\nDi 19/09 - 14:00 - 21:00\\n\nMi 20.09 - 9:00 - 22:00\\n\nDo 21.09 - 9:00 - 18:00\\n"
 		},
 		{
 			"__tabName": "Entity",
@@ -459,14 +459,23 @@
 			"extraTag3": "",
 			"sector": "",
 			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE",
-			"subtitle": "Emma Pearl"
+			"addedToMapbox": "TRUE",
+			"subtitle": "Emma Pearl",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Aachener Str. 27, 50674 Köln",
+			"address": "Aachener Str. 27",
+			"city": "Köln",
+			"postalCode": "50674",
+			"description": "Accreditation opening hours:\\n\nWed 20/09 - 9:00 - 20:00\\n\nThu 21/09 - 9:00 - 14:00\\n",
+			"description_de": "Akkreditierung Öffnungszeiten:\\n\nMi 20.09 - 9:00 - 20:00\\n\nDo 21.09 - 9:00 - 14:00\\n"
 		},
 		{
 			"__tabName": "Entity",
 			"id": "akkreditierung8",
 			"entityType": "check-in",
-			"name": "",
+			"name": "Akkreditierung @  Rudolfplatz",
 			"parent": "",
 			"route1": "",
 			"route2": "",

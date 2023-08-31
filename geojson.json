@@ -1078,6 +1078,23 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjo0NTMzNjY2Ni01MDMzLTRlZGItOGU0MS1jMWZiODQyNWEyYWU",
+				"place_name": "Aachener Straße 27, 50674 Köln, Germany",
+				"ID": "akkreditierung7"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935097,
+					50.936355
+				],
+				"type": "Point"
+			},
+			"id": "98a55ca27dbe80c7ac509df4d5064907"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0014105",
 				"Name": "vmware"
 			},
