@@ -840,6 +840,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "akkreditierung16"
+			},
+			"geometry": {
+				"coordinates": [
+					6.94326,
+					50.941948
+				],
+				"type": "Point"
+			},
+			"id": "5ba116c5b66075750aa3374dbb38c5c1"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0004169",
 				"Name": "Juniper Networks"
 			},
@@ -1670,6 +1684,20 @@
 				"type": "Point"
 			},
 			"id": "db0bbf21e9412dcee2cf50edd0252b50"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "akkreditierung17"
+			},
+			"geometry": {
+				"coordinates": [
+					6.938483,
+					50.940649
+				],
+				"type": "Point"
+			},
+			"id": "dc89c2bfe8786d316d1312535b2b4f30"
 		},
 		{
 			"type": "Feature",
