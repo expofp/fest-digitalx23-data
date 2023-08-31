@@ -738,7 +738,17 @@
 			"extraTag3": "",
 			"sector": "friesenviertel",
 			"detailsLink": "FALSE",
-			"addedToMapbox": "TRUE"
+			"addedToMapbox": "TRUE",
+			"subtitle": "25 Hours Hotel",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Im Klapperhof 22-24, 50670 Köln",
+			"address": "Im Klapperhof 22-24",
+			"city": "Köln",
+			"postalCode": "50670",
+			"description": "Accreditation opening hours:\\n\nTue 19/09 - 14:00 - 20:00\\n\nWed 20/09 - 9:00 - 20:00\\n\nThu 21/09 - 9:00 - 18:00\\n",
+			"description_de": "Akkreditierung Öffnungszeiten:\\n\nDi 19/09 - 14:00 - 20:00\\n\nMi 20.09 - 9:00 - 20:00\\n\nDo 21.09 - 9:00 - 18:00\\n"
 		},
 		{
 			"__tabName": "Entity",
