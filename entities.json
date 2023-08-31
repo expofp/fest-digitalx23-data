@@ -2057,9 +2057,18 @@
 			"sector": "belgisches",
 			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
-			"subtitle": "Santa Rosa",
+			"subtitle": "Cafe Bauturm",
 			"logoURL": "",
-			"website": "https://www.ekinops.com/"
+			"website": "https://www.ekinops.com/",
+			"highlight": "",
+			"addressCalculation": "Aachener Str. 24, 50674 Köln, Germany",
+			"address": "Aachener Str. 24",
+			"city": "Köln, Germany",
+			"postalCode": "50674",
+			"description": "",
+			"description_de": "",
+			"external_location_id": "",
+			"expoFPURL": "d"
 		},
 		{
 			"__tabName": "Entity",
