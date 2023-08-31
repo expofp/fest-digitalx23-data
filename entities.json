@@ -541,7 +541,11 @@
 			"addressCalculation": "Aachener Straße 15, 50674 Köln",
 			"address": "Aachener Straße 15",
 			"city": "Köln",
-			"postalCode": "50674"
+			"postalCode": "50674",
+			"description": "",
+			"description_de": "",
+			"external_location_id": "",
+			"expoFPURL": "https://fest-digitalx23.expofp.com/#id=D0005357"
 		},
 		{
 			"__tabName": "Entity",
@@ -570,7 +574,11 @@
 			"addressCalculation": "Bismarckstraße 44, 50672 Köln",
 			"address": "Bismarckstraße 44",
 			"city": "Köln",
-			"postalCode": "50672"
+			"postalCode": "50672",
+			"description": "",
+			"description_de": "",
+			"external_location_id": "",
+			"expoFPURL": "https://fest-digitalx23.expofp.com/#id=D0015254"
 		},
 		{
 			"__tabName": "Entity",
@@ -599,7 +607,11 @@
 			"addressCalculation": "Friesenstr. 62, 50670 Köln",
 			"address": "Friesenstr. 62",
 			"city": "Köln",
-			"postalCode": "50670"
+			"postalCode": "50670",
+			"description": "",
+			"description_de": "",
+			"external_location_id": "",
+			"expoFPURL": "https://fest-digitalx23.expofp.com/#id=D0004170"
 		},
 		{
 			"__tabName": "Entity",
@@ -628,7 +640,11 @@
 			"addressCalculation": "Brüsseler Straße 70, 50674 Köln",
 			"address": "Brüsseler Straße 70",
 			"city": "Köln",
-			"postalCode": "50674"
+			"postalCode": "50674",
+			"description": "",
+			"description_de": "",
+			"external_location_id": "",
+			"expoFPURL": "https://fest-digitalx23.expofp.com/#id=D0013528"
 		},
 		{
 			"__tabName": "Entity",
@@ -657,7 +673,11 @@
 			"addressCalculation": "Im Mediapark 7, 50670 Köln",
 			"address": "Im Mediapark 7",
 			"city": "Köln",
-			"postalCode": "50670"
+			"postalCode": "50670",
+			"description": "",
+			"description_de": "",
+			"external_location_id": "",
+			"expoFPURL": "https://fest-digitalx23.expofp.com/#id=D0005381"
 		},
 		{
 			"__tabName": "Entity",
@@ -686,7 +706,11 @@
 			"addressCalculation": "Im Mediapark 1, 50670 Köln",
 			"address": "Im Mediapark 1",
 			"city": "Köln",
-			"postalCode": "50670"
+			"postalCode": "50670",
+			"description": "",
+			"description_de": "",
+			"external_location_id": "",
+			"expoFPURL": "https://fest-digitalx23.expofp.com/#id=D0004103"
 		},
 		{
 			"__tabName": "Entity",
@@ -715,7 +739,11 @@
 			"addressCalculation": "Im Mediapark 5, 50670 Köln",
 			"address": "Im Mediapark 5",
 			"city": "Köln",
-			"postalCode": "50670"
+			"postalCode": "50670",
+			"description": "",
+			"description_de": "",
+			"external_location_id": "",
+			"expoFPURL": "https://fest-digitalx23.expofp.com/#id=D0005428"
 		},
 		{
 			"__tabName": "Entity",
@@ -744,12 +772,16 @@
 			"addressCalculation": "Im Mediapark 1, 50670 Köln",
 			"address": "Im Mediapark 1",
 			"city": "Köln",
-			"postalCode": "50670"
+			"postalCode": "50670",
+			"description": "",
+			"description_de": "",
+			"external_location_id": "",
+			"expoFPURL": "https://fest-digitalx23.expofp.com/#id=D0004171"
 		},
 		{
 			"__tabName": "Entity",
 			"id": "D0015256",
-			"entityType": "brandhouse",
+			"entityType": "brandhouse_friesenviertel",
 			"name": "SoSafe",
 			"parent": "",
 			"route1": "",
@@ -760,10 +792,10 @@
 			"route6": "",
 			"route7": "",
 			"trend(unused": "",
-			"extraTag1": "",
-			"extraTag2": "",
+			"extraTag1": "kölsche-nacht-mittwoch",
+			"extraTag2": "kölsche-nacht-donnerstag",
 			"extraTag3": "",
-			"sector": "",
+			"sector": "friesenviertel",
 			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "Heising & Adelmann",
@@ -773,7 +805,11 @@
 			"addressCalculation": "Friesenstraße 58-60, 50670 Köln",
 			"address": "Friesenstraße 58-60",
 			"city": "Köln",
-			"postalCode": "50670"
+			"postalCode": "50670",
+			"description": "",
+			"description_de": "",
+			"external_location_id": "",
+			"expoFPURL": "https://fest-digitalx23.expofp.com/#id=D0015256"
 		},
 		{
 			"__tabName": "Entity",
@@ -3841,19 +3877,25 @@
 			"__tabName": "EntityType",
 			"id": "brandhouse_stadtgarten",
 			"name": "Brandhouse",
-			"filterGroup": "Exhibitor"
+			"filterGroup": "Exhibitor",
+			"icon": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-stadtgarten.png",
+			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-stadtgarten-active.png"
 		},
 		{
 			"__tabName": "EntityType",
 			"id": "brandhouse_friesenviertel",
 			"name": "Brandhouse",
-			"filterGroup": "Exhibitor"
+			"filterGroup": "Exhibitor",
+			"icon": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-friesenviertel.png",
+			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-friesenviertel-active.png"
 		},
 		{
 			"__tabName": "EntityType",
 			"id": "brandhouse_mediapark",
 			"name": "Brandhouse",
-			"filterGroup": "Exhibitor"
+			"filterGroup": "Exhibitor",
+			"icon": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-mediapark.png",
+			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-mediapark-active.png"
 		},
 		{
 			"__tabName": "EntityType",
