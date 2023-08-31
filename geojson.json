@@ -856,6 +856,23 @@
 			"type": "Feature",
 			"properties": {
 				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjplNWYwY2E0OC1kZmQyLTQ5MTMtOTFiNi1iZTBkMjg3M2ExOTU",
+				"place_name": "Venloer Straße 33, 50672 Köln, Germany",
+				"ID": "akkreditierung15"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935556,
+					50.94207
+				],
+				"type": "Point"
+			},
+			"id": "672535785a6c274d6b1ea50a51778e5e"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjpmYmMwNDcwYS0yY2JkLTRkMWQtYjQzYS04NTZiMzRlZmI3ODM",
 				"place_name": "Friesenstraße 58-60, 50670 Köln, Germany",
 				"ID": "D0015256"

@@ -707,7 +707,17 @@
 			"extraTag3": "",
 			"sector": "stadtgarten",
 			"detailsLink": "",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "TRUE",
+			"subtitle": "Monkey Cocktail Culture",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Venloerstr. 33, 50672 Köln",
+			"address": "Venloerstr. 33",
+			"city": "Köln",
+			"postalCode": "50672",
+			"description": "Accreditation opening hours:\\n\nTue 19/09 - 12:00 - 21:00\\n\nWed 20/09 - 9:00 - 20:00\\n\nThu 21/09 - 9:00 - 14:00\\n",
+			"description_de": "Akkreditierung Öffnungszeiten:\\n\nDi 19/09 - 12:00 - 21:00\\n\nMi 20.09 - 9:00 - 20:00\\n\nDo 21.09 - 9:00 - 14:00\\n"
 		},
 		{
 			"__tabName": "Entity",
