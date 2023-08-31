@@ -760,6 +760,23 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjphMDRhMmQ2NC0yMDg1LTRlMzktOGVlNi00ZTExZTM4MDc5MzY",
+				"place_name": "Aachener Straße 24, 50674 Köln, Germany",
+				"ID": "D0005598"
+			},
+			"geometry": {
+				"coordinates": [
+					6.936424,
+					50.936615
+				],
+				"type": "Point"
+			},
+			"id": "434b57d2433a519fb26bf5c027abc787"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0015524",
 				"Name": "Zscaler"
 			},
@@ -1914,8 +1931,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.93693,
-					50.936598
+					6.936916,
+					50.936885
 				],
 				"type": "Point"
 			},
