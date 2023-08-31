@@ -673,6 +673,23 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjo0MjUwOGYxNC0zNDg5LTQ1MmMtOGNmYy1lMDQ4YTY4NmI2MjI",
+				"place_name": "Brüsseler Straße 58, 50674 Köln, Germany",
+				"ID": "akkreditierung6"
+			},
+			"geometry": {
+				"coordinates": [
+					6.934766,
+					50.937311
+				],
+				"type": "Point"
+			},
+			"id": "3f6de935ba9355d73ae8bd74cba1d585"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"id": "akkreditierung2"
 			},
 			"geometry": {
