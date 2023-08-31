@@ -2064,7 +2064,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015372",
-			"entityType": "brandhouse",
+			"entityType": "brandhouse_belgisches",
 			"name": "EDD Engineering & Digital Design",
 			"parent": "",
 			"route1": "",
@@ -3048,7 +3048,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015471",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_belgisches",
 			"name": "Communisystems",
 			"parent": "",
 			"route1": "",
@@ -3062,7 +3062,7 @@
 			"extraTag1": "",
 			"extraTag2": "",
 			"extraTag3": "",
-			"sector": "friesenviertel",
+			"sector": "belgisches",
 			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "Elea Candia"
@@ -3070,7 +3070,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015369",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_belgisches",
 			"name": "Fortinet",
 			"parent": "",
 			"route1": "",
@@ -3084,7 +3084,7 @@
 			"extraTag1": "",
 			"extraTag2": "",
 			"extraTag3": "",
-			"sector": "friesenviertel",
+			"sector": "belgisches",
 			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "Elea Candia"
@@ -3092,7 +3092,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015425",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_friesenviertel",
 			"name": "bintec elmeg / Teldat",
 			"parent": "",
 			"route1": "",
@@ -3103,8 +3103,8 @@
 			"route6": "",
 			"route7": "",
 			"trend(unused": "",
-			"extraTag1": "",
-			"extraTag2": "",
+			"extraTag1": "kölsche-nacht-mittwoch",
+			"extraTag2": "kölsche-nacht-donnerstag",
 			"extraTag3": "",
 			"sector": "friesenviertel",
 			"detailsLink": "TRUE",
@@ -3116,7 +3116,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0004277",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_friesenviertel",
 			"name": "Dell",
 			"parent": "",
 			"route1": "",
@@ -3140,7 +3140,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0014215",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_belgisches",
 			"name": "MIRA",
 			"parent": "",
 			"route1": "",
@@ -3162,7 +3162,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015392",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_belgisches",
 			"name": "nexum.",
 			"parent": "",
 			"route1": "",
@@ -3186,7 +3186,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015391",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_belgisches",
 			"name": "Intelsat",
 			"parent": "",
 			"route1": "",
@@ -3210,7 +3210,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0013499",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_belgisches",
 			"name": "RingCentral",
 			"parent": "",
 			"route1": "",
@@ -3234,7 +3234,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015412",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_belgisches",
 			"name": "TASSTA",
 			"parent": "",
 			"route1": "",
@@ -3258,7 +3258,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0004266",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_belgisches",
 			"name": "ONSEI GmbH",
 			"parent": "stadtgarten_connectedbusiness",
 			"route1": "",
