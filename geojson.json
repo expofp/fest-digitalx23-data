@@ -746,20 +746,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"id": "akkreditierung2"
-			},
-			"geometry": {
-				"coordinates": [
-					6.868176,
-					50.928178
-				],
-				"type": "Point"
-			},
-			"id": "406024d16012fc86a923dae0854b18c3"
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjphMDRhMmQ2NC0yMDg1LTRlMzktOGVlNi00ZTExZTM4MDc5MzY",
 				"place_name": "Aachener Straße 24, 50674 Köln, Germany",
@@ -1096,20 +1082,6 @@
 				"type": "Point"
 			},
 			"id": "7bf4abaded226667703456a5e30259af"
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"ID": "akkreditierung4"
-			},
-			"geometry": {
-				"coordinates": [
-					7.1224,
-					50.878886
-				],
-				"type": "Point"
-			},
-			"id": "7cb81aae90c28caf076a5ec914068e31"
 		},
 		{
 			"type": "Feature",
@@ -2032,34 +2004,6 @@
 				"type": "Polygon"
 			},
 			"id": "f8fe0a76240bc3c668c71dff24abc41d"
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"ID": "akkreditierung5"
-			},
-			"geometry": {
-				"coordinates": [
-					6.958522,
-					50.943031
-				],
-				"type": "Point"
-			},
-			"id": "f966944a7cb899fcfc0a9d3558c846e1"
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"ID": "akkreditierung3"
-			},
-			"geometry": {
-				"coordinates": [
-					6.979362,
-					50.939676
-				],
-				"type": "Point"
-			},
-			"id": "fccf5a55e10654ed47261a59feb08f05"
 		}
 	]
 }
