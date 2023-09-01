@@ -183,6 +183,24 @@
             ]
         },
         {
+            "name": "Set iconUrl for Sector",
+            "filter": [
+                "all",
+                ["!", ["get", "iconUrl"]],
+                ["get", "icon"]
+            ],
+            "update": [
+                {
+                    "iconUrl": [
+                        "replace",
+                        ["get", "icon"],
+                        "#sector#",
+                        ["get", "sector"]
+                    ]
+                }
+            ]
+        },
+        {
             "name": "Set default iconUrl for all entities",
             "filter": ["!", ["get", "iconUrl"]],
             "update": {
@@ -220,6 +238,19 @@
                 "zoom": ["flattern", ["create-array", ["get", "parent"]], ["get", "select"]],
                 "geometry": ["get", "geometry", ["get", "brandhouseParentObj"]]
             }
+        },
+        {
+            "name": "Make region also select items in region",
+            "filter": ["any", ["==", "expo_area", ["get", "entityType"]]],
+            "update": [
+                {
+                    "select": [
+                        "flattern",
+                        ["map", ["children"], "val", null, ["id", ["var", "val"]]],
+                        ["get", "select"]
+                    ]
+                }
+            ]
         },
         {
             "name": "Make route also select items on route",
