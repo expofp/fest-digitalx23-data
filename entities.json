@@ -314,7 +314,7 @@
 			"city": "Köln",
 			"postalCode": "50672",
 			"description": "Accreditation opening hours:\\n\nTue 19/09 - 14:00 - 21:00\\n\nWed 20/09 - 9:00 - 22:00\\n\nThu 21/09 - 9:00 - 18:00\\n",
-			"description_de": "Akkreditierung Öffnungszeiten:\\n\nDi 19/09 - 14:00 - 21:00\\n\nMi 20.09 - 9:00 - 22:00\\n\nDo 21.09 - 9:00 - 18:00\\n"
+			"description_de": "Akkreditierung Öffnungszeiten:\\n\nDi 19.09 - 14:00 - 21:00\\n\nMi 20.09 - 9:00 - 22:00\\n\nDo 21.09 - 9:00 - 18:00\\n"
 		},
 		{
 			"__tabName": "Entity",
@@ -500,7 +500,7 @@
 			"city": "Köln",
 			"postalCode": "50670",
 			"description": "Accreditation opening hours:\\n\nTue 19/09 - 12:00 - 21:00\\n\nWed 20/09 - 9:00 - 20:00\\n\nThu 21/09 - 9:00 - 14:00\\n",
-			"description_de": "Akkreditierung Öffnungszeiten:\\n\nDi 19/09 - 12:00 - 21:00\\n\nMi 20.09 - 9:00 - 20:00\\n\nDo 21.09 - 9:00 - 14:00\\n"
+			"description_de": "Akkreditierung Öffnungszeiten:\\n\nDi 19.09 - 12:00 - 21:00\\n\nMi 20.09 - 9:00 - 20:00\\n\nDo 21.09 - 9:00 - 14:00\\n"
 		},
 		{
 			"__tabName": "Entity",
@@ -593,7 +593,7 @@
 			"city": "Köln",
 			"postalCode": "50672",
 			"description": "Accreditation opening hours:\\n\nTue 19/09 - 12:00 - 21:00\\n\nWed 20/09 - 9:00 - 20:00\\n\nThu 21/09 - 9:00 - 14:00\\n",
-			"description_de": "Akkreditierung Öffnungszeiten:\\n\nDi 19/09 - 12:00 - 21:00\\n\nMi 20.09 - 9:00 - 20:00\\n\nDo 21.09 - 9:00 - 14:00\\n"
+			"description_de": "Akkreditierung Öffnungszeiten:\\n\nDi 19.09 - 12:00 - 21:00\\n\nMi 20.09 - 9:00 - 20:00\\n\nDo 21.09 - 9:00 - 14:00\\n"
 		},
 		{
 			"__tabName": "Entity",
@@ -624,7 +624,7 @@
 			"city": "Köln",
 			"postalCode": "50670",
 			"description": "Accreditation opening hours:\\n\nTue 19/09 - 14:00 - 20:00\\n\nWed 20/09 - 9:00 - 20:00\\n\nThu 21/09 - 9:00 - 18:00\\n",
-			"description_de": "Akkreditierung Öffnungszeiten:\\n\nDi 19/09 - 14:00 - 20:00\\n\nMi 20.09 - 9:00 - 20:00\\n\nDo 21.09 - 9:00 - 18:00\\n"
+			"description_de": "Akkreditierung Öffnungszeiten:\\n\nDi 19.09 - 14:00 - 20:00\\n\nMi 20.09 - 9:00 - 20:00\\n\nDo 21.09 - 9:00 - 18:00\\n"
 		},
 		{
 			"__tabName": "Entity",
@@ -655,7 +655,7 @@
 			"city": "Köln",
 			"postalCode": "50672",
 			"description": "Accreditation opening hours:\\n\nTue 19/09 - 14:00 - 20:00\\n\nWed 20/09 - 9:00 - 20:00\\n\nThu 21/09 - 9:00 - 18:00\\n",
-			"description_de": "Akkreditierung Öffnungszeiten:\\n\nDi 19/09 - 14:00 - 20:00\\n\nMi 20.09 - 9:00 - 20:00\\n\nDo 21.09 - 9:00 - 18:00\\n"
+			"description_de": "Akkreditierung Öffnungszeiten:\\n\nDi 19.09 - 14:00 - 20:00\\n\nMi 20.09 - 9:00 - 20:00\\n\nDo 21.09 - 9:00 - 18:00\\n"
 		},
 		{
 			"__tabName": "Entity",
@@ -814,7 +814,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0005381",
-			"entityType": "brandhouse_mediapark",
+			"entityType": "brandhouse",
 			"name": "Cradlepoint (part of Ericsson)",
 			"parent": "",
 			"route1": "",
@@ -847,7 +847,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0004103",
-			"entityType": "brandhouse_mediapark",
+			"entityType": "brandhouse",
 			"name": "Cisco",
 			"parent": "",
 			"route1": "",
@@ -880,7 +880,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0005428",
-			"entityType": "brandhouse_mediapark",
+			"entityType": "brandhouse",
 			"name": "Zoom Video Communications",
 			"parent": "",
 			"route1": "",
@@ -913,7 +913,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0004171",
-			"entityType": "brandhouse_mediapark",
+			"entityType": "brandhouse",
 			"name": "Samsung",
 			"parent": "",
 			"route1": "",
@@ -1078,7 +1078,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0005512",
-			"entityType": "brandhouse_mediapark",
+			"entityType": "brandhouse",
 			"name": "HPE Aruba Networking",
 			"parent": "",
 			"route1": "",
@@ -1144,7 +1144,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0014104",
-			"entityType": "brandhouse_mediapark",
+			"entityType": "brandhouse",
 			"name": "Google Cloud",
 			"parent": "",
 			"route1": "",
@@ -1177,7 +1177,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0004345",
-			"entityType": "brandhouse_mediapark",
+			"entityType": "brandhouse",
 			"name": "Microsoft",
 			"parent": "",
 			"route1": "",
@@ -1210,7 +1210,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015382",
-			"entityType": "brandhouse_mediapark",
+			"entityType": "brandhouse",
 			"name": "Nokia",
 			"parent": "",
 			"route1": "",
@@ -1243,7 +1243,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0014290",
-			"entityType": "brandhouse_mediapark",
+			"entityType": "brandhouse",
 			"name": "Klitschko Ventures",
 			"parent": "",
 			"route1": "",
@@ -1408,7 +1408,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0004169",
-			"entityType": "brandhouse_mediapark",
+			"entityType": "brandhouse",
 			"name": "Juniper Networks",
 			"parent": "",
 			"route1": "",
@@ -1507,7 +1507,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0014266",
-			"entityType": "brandhouse_mediapark",
+			"entityType": "brandhouse",
 			"name": "KPMG",
 			"parent": "",
 			"route1": "",
@@ -1710,7 +1710,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0005379",
-			"entityType": "brandhouse_mediapark",
+			"entityType": "brandhouse",
 			"name": "Der Mittelstand, BVMW",
 			"parent": "",
 			"route1": "",
@@ -1796,7 +1796,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015411",
-			"entityType": "brandhouse_mediapark",
+			"entityType": "brandhouse",
 			"name": "Palo Alto Networks",
 			"parent": "",
 			"route1": "",
@@ -1820,7 +1820,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0014105",
-			"entityType": "brandhouse_mediapark",
+			"entityType": "brandhouse",
 			"name": "vmware",
 			"parent": "",
 			"route1": "",
@@ -3649,7 +3649,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015457",
-			"entityType": "brandhouse_mediapark",
+			"entityType": "brandhouse",
 			"name": "Cynet",
 			"parent": "",
 			"route1": "",
@@ -3673,7 +3673,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015432",
-			"entityType": "brandhouse_mediapark",
+			"entityType": "brandhouse",
 			"name": "Dynatrace",
 			"parent": "",
 			"route1": "",
@@ -3697,7 +3697,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015524",
-			"entityType": "brandhouse_mediapark",
+			"entityType": "brandhouse",
 			"name": "Zscaler",
 			"parent": "",
 			"route1": "",
@@ -3721,7 +3721,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015525",
-			"entityType": "brandhouse_mediapark",
+			"entityType": "brandhouse",
 			"name": "CrowdStrike",
 			"parent": "",
 			"route1": "",
@@ -3745,7 +3745,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0013575",
-			"entityType": "brandhouse_mediapark",
+			"entityType": "brandhouse",
 			"name": "Akamai",
 			"parent": "",
 			"route1": "",
@@ -4127,14 +4127,6 @@
 		},
 		{
 			"__tabName": "EntityType",
-			"id": "brandhouse_mediapark",
-			"name": "Brandhouse",
-			"filterGroup": "Exhibitor",
-			"icon": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-mediapark.png",
-			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-mediapark-active.png"
-		},
-		{
-			"__tabName": "EntityType",
 			"id": "tour",
 			"name": "Tour",
 			"filterGroup": "Route",
@@ -4152,7 +4144,7 @@
 		{
 			"__tabName": "EntityType",
 			"id": "check-in",
-			"name": "Check-In",
+			"name": "Akkreditierungen",
 			"filterGroup": "Venue",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/check-in.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/check-in-active.png"
