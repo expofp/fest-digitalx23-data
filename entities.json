@@ -4144,7 +4144,7 @@
 		{
 			"__tabName": "EntityType",
 			"id": "check-in",
-			"name": "Akkreditierungen",
+			"name": "Accreditations / Akkreditierungen",
 			"filterGroup": "Venue",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/check-in.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/check-in-active.png"
@@ -4200,7 +4200,7 @@
 		{
 			"__tabName": "EntityType",
 			"id": "marktplatz",
-			"name": "Marktplatz",
+			"name": "Marketplace",
 			"filterGroup": "Venue",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/brandhouse.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-active.png"
