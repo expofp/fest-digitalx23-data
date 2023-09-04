@@ -1998,7 +1998,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0004273",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "Enerthing GmbH",
 			"parent": "stadtgarten_sustainability",
 			"route1": "",
@@ -2027,7 +2027,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015403",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "equipme GmbH",
 			"parent": "stadtgarten_futurework",
 			"route1": "",
@@ -2056,7 +2056,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015400",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "metr Building Management Systems GmbH",
 			"parent": "stadtgarten_sustainability",
 			"route1": "",
@@ -2085,7 +2085,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015401",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "Flixcheck GmbH",
 			"parent": "stadtgarten_connectedbusiness",
 			"route1": "",
@@ -2114,7 +2114,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015404",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "clockin GmbH",
 			"parent": "stadtgarten_connectedbusiness",
 			"route1": "",
@@ -2143,7 +2143,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015398",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "SINFOSY digital GmbH",
 			"parent": "stadtgarten_connectedbusiness",
 			"route1": "",
@@ -2172,7 +2172,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015455",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "Loxonet GmbH",
 			"parent": "stadtgarten_futurework",
 			"route1": "",
@@ -2201,7 +2201,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0014255",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "LocateRisk GmbH",
 			"parent": "stadtgarten_security",
 			"route1": "",
@@ -2230,7 +2230,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015410",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "AddMee GmbH",
 			"parent": "stadtgarten_futurework",
 			"route1": "",
@@ -2259,7 +2259,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0005435",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "Smart-Study GmbH",
 			"parent": "stadtgarten_futurework",
 			"route1": "",
@@ -2288,7 +2288,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015402",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "EVOspark GmbH",
 			"parent": "stadtgarten_inno_cases",
 			"route1": "",
@@ -2317,7 +2317,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015407",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "ambeRoad Tech GmbH",
 			"parent": "stadtgarten_futurework",
 			"route1": "",
@@ -2346,7 +2346,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015395",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "Zesavi GmbH",
 			"parent": "stadtgarten_futurework",
 			"route1": "",
@@ -2375,7 +2375,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015405",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "Artenglück GmbH",
 			"parent": "stadtgarten_sustainability",
 			"route1": "",
@@ -2404,7 +2404,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015406",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "ApplyZ GmbH",
 			"parent": "stadtgarten_futurework",
 			"route1": "",
@@ -2433,7 +2433,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015397",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "Streavent UG",
 			"parent": "stadtgarten_futurework",
 			"route1": "",
@@ -2462,7 +2462,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015396",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "SUSTAYN GmbH",
 			"parent": "stadtgarten_sustainability",
 			"route1": "",
@@ -2491,7 +2491,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015485",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "rooom AG",
 			"parent": "stadtgarten_inno_cases",
 			"route1": "",
@@ -2520,7 +2520,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015522",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "3D Spark GmbH",
 			"parent": "stadtgarten_connectedbusiness",
 			"route1": "",
@@ -2549,7 +2549,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015399",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "oraya GmbH",
 			"parent": "stadtgarten_connectedbusiness",
 			"route1": "",
@@ -2578,7 +2578,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0004278",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "acameo GbR",
 			"parent": "stadtgarten_futurework",
 			"route1": "",
@@ -2607,7 +2607,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015456",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "CLOUDSUPPLIES Intellimation GmbH",
 			"parent": "stadtgarten_connectedbusiness",
 			"route1": "",
@@ -2636,7 +2636,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015443",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "consalio GmbH",
 			"parent": "stadtgarten_connectedbusiness",
 			"route1": "",
@@ -2665,7 +2665,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015441",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "cobago GmbH",
 			"parent": "stadtgarten_connectedbusiness",
 			"route1": "",
@@ -2694,7 +2694,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015487",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "DataCo GmbH",
 			"parent": "stadtgarten_security",
 			"route1": "",
@@ -2723,7 +2723,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015452",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "lambda9 GmbH",
 			"parent": "stadtgarten_futurework",
 			"route1": "",
@@ -2752,7 +2752,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015483",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "VRdirect GmbH",
 			"parent": "stadtgarten_futurework",
 			"route1": "",
@@ -2781,7 +2781,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015491",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "Cognigy GmbH",
 			"parent": "stadtgarten_connectedbusiness",
 			"route1": "",
@@ -2810,7 +2810,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015489",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "LegalTegrity GmbH",
 			"parent": "stadtgarten_security",
 			"route1": "",
@@ -2839,7 +2839,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015492",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "MOOT Upcycling GmbH",
 			"parent": "stadtgarten_sustainability",
 			"route1": "",
@@ -2868,7 +2868,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015448",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "readyplace AG",
 			"parent": "stadtgarten_futurework",
 			"route1": "",
@@ -2897,7 +2897,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015440",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "heronOS GmbH",
 			"parent": "stadtgarten_connectedbusiness",
 			"route1": "",
@@ -2926,7 +2926,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015454",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "tabya GmbH",
 			"parent": "stadtgarten_connectedbusiness",
 			"route1": "",
@@ -2955,7 +2955,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015444",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "Goyaa GmbH",
 			"parent": "stadtgarten_futurework",
 			"route1": "",
@@ -2984,7 +2984,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015486",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "PlanetWatch (PlanetWatch S.A.S.)",
 			"parent": "stadtgarten_sustainability",
 			"route1": "",
@@ -3013,7 +3013,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015446",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "Softwaregini UG",
 			"parent": "stadtgarten_futurework",
 			"route1": "",
@@ -3042,7 +3042,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015450",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "goodcarbon GmbH",
 			"parent": "stadtgarten_sustainability",
 			"route1": "",
@@ -3071,7 +3071,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015521",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "World from Space, s.r.o.",
 			"parent": "stadtgarten_sustainability",
 			"route1": "",
@@ -3100,7 +3100,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015449",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "Lexemo GmbH",
 			"parent": "stadtgarten_futurework",
 			"route1": "",
@@ -3129,7 +3129,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015439",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "Code Intelligence GmbH",
 			"parent": "stadtgarten_security",
 			"route1": "",
@@ -3448,7 +3448,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0005452",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "SonoBeacon GmbH",
 			"parent": "stadtgarten_connectedbusiness",
 			"route1": "",
@@ -3477,7 +3477,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015408",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "aedifion GmbH",
 			"parent": "stadtgarten_sustainability",
 			"route1": "",
@@ -3506,7 +3506,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015438",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "Vreeda GmbH",
 			"parent": "stadtgarten_futurework",
 			"route1": "",
@@ -3535,7 +3535,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015451",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "CampusGenius GmbH",
 			"parent": "stadtgarten_connectedbusiness",
 			"route1": "",
@@ -3564,7 +3564,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015453",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "saasmetrix GmbH",
 			"parent": "stadtgarten_futurework",
 			"route1": "",
@@ -3593,7 +3593,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015490",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "Dermanostic GmbH",
 			"parent": "stadtgarten_inno_cases",
 			"route1": "",
@@ -3622,7 +3622,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015445",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "mogenius GmbH",
 			"parent": "stadtgarten_futurework",
 			"route1": "",
@@ -3651,7 +3651,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0005455",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "snoopstar GmbH",
 			"parent": "stadtgarten_futurework",
 			"route1": "",
@@ -3680,7 +3680,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0014249",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "Ubirch Gmbh",
 			"parent": "",
 			"route1": "",
@@ -3709,7 +3709,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015447",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "DiHeSys Digital Health Systems GmbH",
 			"parent": "stadtgarten_inno_cases",
 			"route1": "",
@@ -3738,7 +3738,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015488",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "Takuta GmbH",
 			"parent": "stadtgarten_futurework",
 			"route1": "",
@@ -3767,7 +3767,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015484",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "Greenflash GmbH",
 			"parent": "stadtgarten_sustainability",
 			"route1": "",
@@ -3796,7 +3796,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015520",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "SCALUE GmbH",
 			"parent": "stadtgarten_futurework",
 			"route1": "",
@@ -3825,7 +3825,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015519",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "Sawayo GmbH",
 			"parent": "stadtgarten_security",
 			"route1": "",
@@ -3854,7 +3854,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0014169",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "Nooxit GmbH",
 			"parent": "stadtgarten_connectedbusiness",
 			"route1": "",
@@ -3883,7 +3883,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015518",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "easycircular Umweltmanagement GmbH",
 			"parent": "stadtgarten_sustainability",
 			"route1": "",
@@ -3912,7 +3912,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015517",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "app-concept.com GmbH",
 			"parent": "",
 			"route1": "",
@@ -3941,7 +3941,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0004272",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "Flip GmbH",
 			"parent": "stadtgarten_futurework",
 			"route1": "",
@@ -3970,7 +3970,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015516",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "Panos AI GmbH",
 			"parent": "stadtgarten_connectedbusiness",
 			"route1": "",
@@ -3999,7 +3999,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015515",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "LichtWART GmbH",
 			"parent": "stadtgarten_sustainability",
 			"route1": "",
@@ -4028,7 +4028,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0014261",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "Arctic Wolf Networks Germany GmbH",
 			"parent": "stadtgarten_security",
 			"route1": "",
@@ -4057,7 +4057,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015514",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "goAVA GmbH",
 			"parent": "stadtgarten_futurework",
 			"route1": "",
@@ -4246,8 +4246,8 @@
 			"extraTag2": "",
 			"extraTag3": "",
 			"sector": "belgisches",
-			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE",
+			"detailsLink": "TRUE",
+			"addedToMapbox": "TRUE",
 			"subtitle": "Café Bauturm",
 			"logoURL": "",
 			"website": "",
@@ -4310,10 +4310,10 @@
 			"logoURL": "",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "Aachener Straße 24-26 50674 Köln",
-			"address": "#VALUE!",
-			"city": "#VALUE!",
-			"postalCode": "#VALUE!"
+			"addressCalculation": "Aachener Straße 24-26, 50674 Köln",
+			"address": "Aachener Straße 24-26",
+			"city": "Köln",
+			"postalCode": "50674"
 		},
 		{
 			"__tabName": "Entity",
@@ -4347,7 +4347,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "CReg00126",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "bots4you",
 			"parent": "",
 			"route1": "",
@@ -4376,7 +4376,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "CReg00127",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "Cauliflower.ai",
 			"parent": "",
 			"route1": "",
@@ -4405,7 +4405,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "CReg00128",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "goodride",
 			"parent": "",
 			"route1": "",
@@ -4434,7 +4434,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "CReg00129",
-			"entityType": "exhibitor",
+			"entityType": "brandhouse_stadtgarten",
 			"name": "VERSO",
 			"parent": "",
 			"route1": "",

@@ -240,6 +240,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8914127
+			},
+			"geometry": {
+				"coordinates": [
+					6.936461,
+					50.936613
+				],
+				"type": "Point"
+			},
+			"id": "125383bf8f2b5c95933cf1690b0885c7"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0015412",
 				"Name": "TASSTA"
 			},
