@@ -1369,20 +1369,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "D0014261"
-			},
-			"geometry": {
-				"coordinates": [
-					6.935182,
-					50.942725
-				],
-				"type": "Point"
-			},
-			"id": "b4e9cb4ee11610ae7945c463d562421e"
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"ID": "inspiration_stage"
 			},
 			"geometry": {
