@@ -244,7 +244,7 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.936461,
+					6.936471,
 					50.936613
 				],
 				"type": "Point"
@@ -767,7 +767,7 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.936424,
+					6.936406,
 					50.936615
 				],
 				"type": "Point"
@@ -1096,6 +1096,20 @@
 				"type": "Point"
 			},
 			"id": "7bf4abaded226667703456a5e30259af"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 8914131
+			},
+			"geometry": {
+				"coordinates": [
+					6.936441,
+					50.936629
+				],
+				"type": "Point"
+			},
+			"id": "7fa7eebc06c6a9b33e71ba410936b089"
 		},
 		{
 			"type": "Feature",
