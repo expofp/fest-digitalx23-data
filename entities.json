@@ -4127,6 +4127,14 @@
 		},
 		{
 			"__tabName": "EntityType",
+			"id": "brandhouse_mediapark",
+			"name": "Brandhouse",
+			"filterGroup": "Exhibitor",
+			"icon": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-mediapark.png",
+			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-mediapark-active.png"
+		},
+		{
+			"__tabName": "EntityType",
 			"id": "tour",
 			"name": "Tour",
 			"filterGroup": "Route",
@@ -4242,7 +4250,7 @@
 			"id": "belgisches",
 			"name": "Quartier Belgisches Viertel",
 			"color": "#4db3e6",
-			"icon": "https://fest-digitalx23.expofp.com/images/new2/bus_route-active.png",
+			"icon": "https://fest-digitalx23.expofp.com/images/new2/belgisches.png",
 			"lineColor": "#4db3e6"
 		},
 		{
@@ -4250,7 +4258,7 @@
 			"id": "stadtgarten",
 			"name": "Quartier Stadtgarten",
 			"color": "#ffc113",
-			"icon": "https://fest-digitalx23.expofp.com/images/new2/bus_route-active.png",
+			"icon": "https://fest-digitalx23.expofp.com/images/new2/stadtgarten.png",
 			"lineColor": "#ffc113"
 		},
 		{
@@ -4258,7 +4266,7 @@
 			"id": "mediapark",
 			"name": "Quartier Mediapark",
 			"color": "#e5127e",
-			"icon": "https://fest-digitalx23.expofp.com/images/new2/bus_route-active.png",
+			"icon": "https://fest-digitalx23.expofp.com/images/new2/mediapark.png",
 			"lineColor": "#e5127e"
 		},
 		{
