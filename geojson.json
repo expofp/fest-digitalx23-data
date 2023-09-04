@@ -1015,7 +1015,7 @@
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjo3NGRkNWUxYi1hMGQ5LTQwMGEtODZlNy05MThlYTlmZjJlZTY",
 				"place_name": "Aachener Straße 46, 50674 Köln, Germany",
-				"ID": "halle46_stage"
+				"ID": 8922967
 			},
 			"geometry": {
 				"coordinates": [
@@ -1963,8 +1963,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.934775,
-					50.935323
+					6.934996,
+					50.935214
 				],
 				"type": "Point"
 			},
@@ -1991,7 +1991,7 @@
 			"type": "Feature",
 			"properties": {
 				"Name": "DT DIGITALE BILDUNG",
-				"ID": 8922967
+				"ID": ""
 			},
 			"geometry": {
 				"coordinates": [
