@@ -1110,7 +1110,7 @@
 		},
 		{
 			"__tabName": "Entity",
-			"id": "D0005086",
+			"id": "8584597",
 			"entityType": "brandhouse_belgisches",
 			"name": "Ivanti",
 			"parent": "",
@@ -1139,7 +1139,7 @@
 			"description": "",
 			"description_de": "",
 			"external_location_id": "",
-			"expoFPURL": "https://fest-digitalx23.expofp.com/#id=D0005086"
+			"expoFPURL": "https://fest-digitalx23.expofp.com/#id=8584597"
 		},
 		{
 			"__tabName": "Entity",
@@ -4984,7 +4984,7 @@
 		},
 		{
 			"__tabName": "Entity",
-			"id": "CReg00148",
+			"id": "8922891",
 			"entityType": "brandhouse_mediapark",
 			"name": "Deutsche Telekom Services Europe SE",
 			"parent": "",
