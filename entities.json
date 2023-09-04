@@ -4619,7 +4619,7 @@
 			"route6": "",
 			"route7": "",
 			"trend(unused": "",
-			"extraTag1": "",
+			"extraTag1": "kölsche-nacht-mittwoch",
 			"extraTag2": "",
 			"extraTag3": "",
 			"sector": "friesenviertel",
@@ -4648,7 +4648,7 @@
 			"route6": "",
 			"route7": "",
 			"trend(unused": "",
-			"extraTag1": "",
+			"extraTag1": "kölsche-nacht-mittwoch",
 			"extraTag2": "",
 			"extraTag3": "",
 			"sector": "belgisches",
@@ -4677,8 +4677,8 @@
 			"route6": "",
 			"route7": "",
 			"trend(unused": "",
-			"extraTag1": "",
-			"extraTag2": "",
+			"extraTag1": "kölsche-nacht-mittwoch",
+			"extraTag2": "kölsche-nacht-donnerstag",
 			"extraTag3": "",
 			"sector": "friesenviertel",
 			"detailsLink": "FALSE",
@@ -4735,8 +4735,8 @@
 			"route6": "",
 			"route7": "",
 			"trend(unused": "",
-			"extraTag1": "",
-			"extraTag2": "",
+			"extraTag1": "kölsche-nacht-mittwoch",
+			"extraTag2": "kölsche-nacht-donnerstag",
 			"extraTag3": "",
 			"sector": "belgisches",
 			"detailsLink": "FALSE",
@@ -4764,7 +4764,7 @@
 			"route6": "",
 			"route7": "",
 			"trend(unused": "",
-			"extraTag1": "",
+			"extraTag1": "kölsche-nacht-mittwoch",
 			"extraTag2": "",
 			"extraTag3": "",
 			"sector": "stadtgarten",
@@ -4851,8 +4851,8 @@
 			"route6": "",
 			"route7": "",
 			"trend(unused": "",
-			"extraTag1": "",
-			"extraTag2": "",
+			"extraTag1": "kölsche-nacht-mittwoch",
+			"extraTag2": "kölsche-nacht-donnerstag",
 			"extraTag3": "",
 			"sector": "belgisches",
 			"detailsLink": "FALSE",
@@ -5637,19 +5637,22 @@
 			"__tabName": "Extra Tag",
 			"id": "kölsche-nacht-mittwoch",
 			"name": "Kölsche Nacht Mittwoch",
-			"name_de": "Kölsche Nacht Mittwoch"
+			"name_de": "Kölsche Nacht Mittwoch",
+			"icon": "https://fest-digitalx23.expofp.com/images/new2/belgisches.png"
 		},
 		{
 			"__tabName": "Extra Tag",
 			"id": "kölsche-nacht-donnerstag",
 			"name": "Kölsche Nacht Donnerstag",
-			"name_de": "Kölsche Nacht Donnerstag"
+			"name_de": "Kölsche Nacht Donnerstag",
+			"icon": "https://fest-digitalx23.expofp.com/images/new2/stadtgarten.png"
 		},
 		{
 			"__tabName": "Extra Tag",
 			"id": "masterclass",
 			"name": "Masterclass",
-			"name_de": "Masterclass"
+			"name_de": "Masterclass",
+			"icon": "https://fest-digitalx23.expofp.com/images/new2/mediapark.png"
 		}
 	]
 }
