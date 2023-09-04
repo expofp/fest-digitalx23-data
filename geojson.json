@@ -936,6 +936,70 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "security_tour"
+			},
+			"geometry": {
+				"coordinates": [
+					[
+						6.943728,
+						50.948565
+					],
+					[
+						6.943296,
+						50.948654
+					],
+					[
+						6.943272,
+						50.947715
+					],
+					[
+						6.945371,
+						50.947988
+					],
+					[
+						6.944587,
+						50.94775
+					],
+					[
+						6.941934,
+						50.940751
+					],
+					[
+						6.940713,
+						50.940726
+					],
+					[
+						6.939897,
+						50.940587
+					],
+					[
+						6.938029,
+						50.940944
+					],
+					[
+						6.936548,
+						50.941765
+					],
+					[
+						6.934884,
+						50.942602
+					],
+					[
+						6.935125,
+						50.942669
+					],
+					[
+						6.935226,
+						50.943057
+					]
+				],
+				"type": "LineString"
+			},
+			"id": "583a069d144e4fb5666402e5474dac85"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjplNmJkNjIzZC0zZDJmLTQ0ZjAtOWVhMC0yZjkxYjBiMzliMzE",
 				"place_name": "Friesenstraße 73, 50670 Köln, Germany",
