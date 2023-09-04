@@ -205,7 +205,7 @@
 		},
 		{
 			"__tabName": "Entity",
-			"id": "highlight_tour_1",
+			"id": "future_work_tour",
 			"entityType": "tour",
 			"name": "Highlight-Tour",
 			"parent": "",
@@ -226,7 +226,7 @@
 		},
 		{
 			"__tabName": "Entity",
-			"id": "highlight_tour_start",
+			"id": "future_work_tour_start",
 			"entityType": "tour_stop",
 			"name": ". Highlight-Tour - Startpunkt",
 			"parent": "highlight_tour_1",

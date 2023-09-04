@@ -458,13 +458,13 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "highlight_tour_1"
+				"ID": "future_work_tour"
 			},
 			"geometry": {
 				"coordinates": [
 					[
-						6.943642,
-						50.948443
+						6.943749,
+						50.948591
 					],
 					[
 						6.943431,
@@ -792,12 +792,12 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "highlight_tour_start"
+				"ID": "future_work_tour_start"
 			},
 			"geometry": {
 				"coordinates": [
-					6.943623,
-					50.948446
+					6.943744,
+					50.948589
 				],
 				"type": "Point"
 			},
@@ -1086,7 +1086,8 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "D0005428"
+				"ID": "D0005428",
+				"Name": "zoom"
 			},
 			"geometry": {
 				"coordinates": [
