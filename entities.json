@@ -814,7 +814,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0005381",
-			"entityType": "brandhouse",
+			"entityType": "brandhouse_mediapark",
 			"name": "Cradlepoint (part of Ericsson)",
 			"parent": "",
 			"route1": "",
@@ -847,7 +847,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0004103",
-			"entityType": "brandhouse",
+			"entityType": "brandhouse_mediapark",
 			"name": "Cisco",
 			"parent": "",
 			"route1": "",
@@ -880,7 +880,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0005428",
-			"entityType": "brandhouse",
+			"entityType": "brandhouse_mediapark",
 			"name": "Zoom Video Communications",
 			"parent": "",
 			"route1": "",
@@ -913,7 +913,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0004171",
-			"entityType": "brandhouse",
+			"entityType": "brandhouse_mediapark",
 			"name": "Samsung",
 			"parent": "",
 			"route1": "",
@@ -1078,7 +1078,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0005512",
-			"entityType": "brandhouse",
+			"entityType": "brandhouse_mediapark",
 			"name": "HPE Aruba Networking",
 			"parent": "",
 			"route1": "",
@@ -1144,7 +1144,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0014104",
-			"entityType": "brandhouse",
+			"entityType": "brandhouse_mediapark",
 			"name": "Google Cloud",
 			"parent": "",
 			"route1": "",
@@ -1177,7 +1177,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0004345",
-			"entityType": "brandhouse",
+			"entityType": "brandhouse_mediapark",
 			"name": "Microsoft",
 			"parent": "",
 			"route1": "",
@@ -1210,7 +1210,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015382",
-			"entityType": "brandhouse",
+			"entityType": "brandhouse_mediapark",
 			"name": "Nokia",
 			"parent": "",
 			"route1": "",
@@ -1243,7 +1243,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0014290",
-			"entityType": "brandhouse",
+			"entityType": "brandhouse_mediapark",
 			"name": "Klitschko Ventures",
 			"parent": "",
 			"route1": "",
@@ -1408,7 +1408,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0004169",
-			"entityType": "brandhouse",
+			"entityType": "brandhouse_mediapark",
 			"name": "Juniper Networks",
 			"parent": "",
 			"route1": "",
@@ -1507,7 +1507,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0014266",
-			"entityType": "brandhouse",
+			"entityType": "brandhouse_mediapark",
 			"name": "KPMG",
 			"parent": "",
 			"route1": "",
@@ -1710,7 +1710,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0005379",
-			"entityType": "brandhouse",
+			"entityType": "brandhouse_mediapark",
 			"name": "Der Mittelstand, BVMW",
 			"parent": "",
 			"route1": "",
@@ -1801,7 +1801,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015411",
-			"entityType": "brandhouse",
+			"entityType": "brandhouse_mediapark",
 			"name": "Palo Alto Networks",
 			"parent": "",
 			"route1": "",
@@ -1830,7 +1830,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0014105",
-			"entityType": "brandhouse",
+			"entityType": "brandhouse_mediapark",
 			"name": "vmware",
 			"parent": "",
 			"route1": "",
@@ -4230,7 +4230,7 @@
 		},
 		{
 			"__tabName": "Entity",
-			"id": "CReg00122",
+			"id": "8914127",
 			"entityType": "brandhouse_belgisches",
 			"name": "Fairphone",
 			"parent": "",
@@ -4368,10 +4368,10 @@
 			"logoURL": "",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "Stadtgarten",
-			"address": "#VALUE!",
-			"city": "#VALUE!",
-			"postalCode": "#VALUE!"
+			"addressCalculation": "Venloer Str. 40, 50672 Köln",
+			"address": "Venloer Str. 40",
+			"city": "Köln",
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -4397,10 +4397,10 @@
 			"logoURL": "",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "Stadtgarten",
-			"address": "#VALUE!",
-			"city": "#VALUE!",
-			"postalCode": "#VALUE!"
+			"addressCalculation": "Venloer Str. 40, 50672 Köln",
+			"address": "Venloer Str. 40",
+			"city": "Köln",
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -4426,10 +4426,10 @@
 			"logoURL": "",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "Stadtgarten",
-			"address": "#VALUE!",
-			"city": "#VALUE!",
-			"postalCode": "#VALUE!"
+			"addressCalculation": "Venloer Str. 40, 50672 Köln",
+			"address": "Venloer Str. 40",
+			"city": "Köln",
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -4455,10 +4455,10 @@
 			"logoURL": "",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "Stadtgarten",
-			"address": "#VALUE!",
-			"city": "#VALUE!",
-			"postalCode": "#VALUE!"
+			"addressCalculation": "Venloer Str. 40, 50672 Köln",
+			"address": "Venloer Str. 40",
+			"city": "Köln",
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
