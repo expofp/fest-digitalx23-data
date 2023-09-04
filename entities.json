@@ -5435,14 +5435,6 @@
 		},
 		{
 			"__tabName": "EntityType",
-			"id": "stage_future",
-			"name": "Future Stage",
-			"filterGroup": "Venue",
-			"icon": "https://fest-digitalx23.expofp.com/images/new2/stage-Future.png",
-			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/stage-Future-active.png"
-		},
-		{
-			"__tabName": "EntityType",
 			"id": "brandhouse",
 			"name": "Brandhouse",
 			"filterGroup": "Exhibitor",
@@ -5499,14 +5491,6 @@
 		},
 		{
 			"__tabName": "EntityType",
-			"id": "bus_route",
-			"name": "Bus Route",
-			"filterGroup": "Route",
-			"icon": "https://fest-digitalx23.expofp.com/images/new2/bus_route.png",
-			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/bus_route-active.png"
-		},
-		{
-			"__tabName": "EntityType",
 			"id": "check-in",
 			"name": "Accreditations / Akkreditierungen",
 			"filterGroup": "Venue",
@@ -5547,14 +5531,6 @@
 		},
 		{
 			"__tabName": "EntityType",
-			"id": "bus_stelle",
-			"name": "Bus stop",
-			"filterGroup": "Venue",
-			"icon": "https://fest-digitalx23.expofp.com/images/new2/bus_route.png",
-			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/bus_route-active.png"
-		},
-		{
-			"__tabName": "EntityType",
 			"id": "tour_stop",
 			"name": "Tour stop",
 			"filterGroup": "Venue",
@@ -5568,6 +5544,14 @@
 			"filterGroup": "Venue",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/brandhouse.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-active.png"
+		},
+		{
+			"__tabName": "EntityType",
+			"id": "stage_future",
+			"name": "Future Stage",
+			"filterGroup": "Venue",
+			"icon": "https://fest-digitalx23.expofp.com/images/new2/stage-Future.png",
+			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/stage-Future-active.png"
 		},
 		{
 			"__tabName": "EntityType",
