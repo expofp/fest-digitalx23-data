@@ -605,8 +605,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.945605,
-					50.947992
+					6.944979,
+					50.947896
 				],
 				"type": "Point"
 			},
@@ -997,7 +997,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "D0005379"
+				"ID": 8584617
 			},
 			"geometry": {
 				"coordinates": [
