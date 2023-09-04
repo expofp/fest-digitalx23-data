@@ -547,24 +547,28 @@
 						50.938279
 					],
 					[
-						6.934581,
-						50.935431
+						6.934614,
+						50.936513
 					],
 					[
-						6.934809,
-						50.935313
+						6.935163,
+						50.936527
 					],
 					[
-						6.935096,
-						50.935433
+						6.935253,
+						50.936603
 					],
 					[
-						6.936852,
-						50.935377
+						6.935318,
+						50.936515
 					],
 					[
-						6.937462,
-						50.936267
+						6.936745,
+						50.93649
+					],
+					[
+						6.93719,
+						50.93648
 					],
 					[
 						6.937378,
@@ -884,7 +888,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "future_work_tour_start"
+				"ID": "all_tour_start"
 			},
 			"geometry": {
 				"coordinates": [
@@ -1390,6 +1394,21 @@
 				"type": "Point"
 			},
 			"id": "ac90b3d9822b33b6d7ab3ff32fc7b26d"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Telekom Security",
+				"ID": 8922972
+			},
+			"geometry": {
+				"coordinates": [
+					6.943292,
+					50.948664
+				],
+				"type": "Point"
+			},
+			"id": "ad4ee5f703c19e096a2533808f7a0d2d"
 		},
 		{
 			"type": "Feature",
@@ -1963,8 +1982,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.934996,
-					50.935214
+					6.934766,
+					50.935286
 				],
 				"type": "Point"
 			},
@@ -1986,21 +2005,6 @@
 				"type": "Point"
 			},
 			"id": "ebacf73a9d3c588fd6bf3d64aabf773b"
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"Name": "DT DIGITALE BILDUNG",
-				"ID": ""
-			},
-			"geometry": {
-				"coordinates": [
-					6.934676,
-					50.935269
-				],
-				"type": "Point"
-			},
-			"id": "ed21ffd6249c2f64fa0b3a98b0e190d0"
 		},
 		{
 			"type": "Feature",
