@@ -1815,7 +1815,12 @@
 			"addedToMapbox": "TRUE",
 			"subtitle": "Mediapark Outdoor",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Paloalto_square_885c060fa0.png",
-			"website": "https://www.paloaltonetworks.de/"
+			"website": "https://www.paloaltonetworks.de/",
+			"highlight": "",
+			"addressCalculation": "Im Mediapark, 50670 Köln",
+			"address": "Im Mediapark",
+			"city": "Köln",
+			"postalCode": "50670"
 		},
 		{
 			"__tabName": "Entity",
@@ -1839,7 +1844,12 @@
 			"addedToMapbox": "TRUE",
 			"subtitle": "Mediapark Outdoor",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/VM_Ware_square_3c66c01fcc.png",
-			"website": "www.vmware.com/de/company"
+			"website": "www.vmware.com/de/company",
+			"highlight": "",
+			"addressCalculation": "Im Mediapark, 50670 Köln",
+			"address": "Im Mediapark",
+			"city": "Köln",
+			"postalCode": "50670"
 		},
 		{
 			"__tabName": "Entity",
@@ -1863,7 +1873,12 @@
 			"addedToMapbox": "TRUE",
 			"subtitle": "Bar Schmitz",
 			"logoURL": "",
-			"website": "https://www.apple.com/de/business/\n https://geschaeftskunden.telekom.de/mobilfunk/mobile-loesungen/apple-business"
+			"website": "https://www.apple.com/de/business/\n https://geschaeftskunden.telekom.de/mobilfunk/mobile-loesungen/apple-business",
+			"highlight": "",
+			"addressCalculation": "Aachener Str. 34, 50674 Köln",
+			"address": "Aachener Str. 34",
+			"city": "Köln",
+			"postalCode": "50674"
 		},
 		{
 			"__tabName": "Entity",
@@ -2950,7 +2965,14 @@
 			"sector": "belgisches",
 			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
-			"subtitle": "Elea Candia"
+			"subtitle": "Elea Candia",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Brüsseler Str. 66, 50674 Köln",
+			"address": "Brüsseler Str. 66",
+			"city": "Köln",
+			"postalCode": "50674"
 		},
 		{
 			"__tabName": "Entity",
@@ -2972,7 +2994,14 @@
 			"sector": "belgisches",
 			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
-			"subtitle": "C.C. Kowalski"
+			"subtitle": "C.C. Kowalski",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Brüsseler Straße 70, 50674 Köln",
+			"address": "Brüsseler Straße 70",
+			"city": "Köln",
+			"postalCode": "50674"
 		},
 		{
 			"__tabName": "Entity",
@@ -2996,7 +3025,12 @@
 			"addedToMapbox": "TRUE",
 			"subtitle": "NeoNeo",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/bintec_elmeg_square_0abbfd0c52.png",
-			"website": "https://www.teldat.com/de/"
+			"website": "https://www.teldat.com/de/",
+			"highlight": "",
+			"addressCalculation": "Friesenwall 81, 50672 Köln",
+			"address": "Friesenwall 81",
+			"city": "Köln",
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -3020,7 +3054,12 @@
 			"addedToMapbox": "TRUE",
 			"subtitle": "Päff",
 			"logoURL": "",
-			"website": "https://www.dell.com/de-de"
+			"website": "https://www.dell.com/de-de",
+			"highlight": "",
+			"addressCalculation": "Friesenwall 130, 50672 Köln",
+			"address": "Friesenwall 130",
+			"city": "Köln",
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
