@@ -207,7 +207,7 @@
 			"__tabName": "Entity",
 			"id": "future_work_tour",
 			"entityType": "tour",
-			"name": "Highlight-Tour",
+			"name": "Future of Work Tour",
 			"parent": "",
 			"route1": "",
 			"route2": "",
@@ -229,8 +229,8 @@
 			"id": "future_work_tour_start",
 			"entityType": "tour_stop",
 			"name": ". Highlight-Tour - Startpunkt",
-			"parent": "highlight_tour_1",
-			"route1": "highlight_tour_1",
+			"parent": "future_work_tour",
+			"route1": "future_work_tour",
 			"route2": "",
 			"route3": "",
 			"route4": "",
@@ -879,11 +879,11 @@
 		},
 		{
 			"__tabName": "Entity",
-			"id": "D0005428",
+			"id": "8584580",
 			"entityType": "brandhouse_mediapark",
 			"name": "Zoom Video Communications",
 			"parent": "",
-			"route1": "",
+			"route1": "future_work_tour",
 			"route2": "",
 			"route3": "",
 			"route4": "",
@@ -908,7 +908,7 @@
 			"description": "",
 			"description_de": "",
 			"external_location_id": "",
-			"expoFPURL": "https://fest-digitalx23.expofp.com/#id=D0005428"
+			"expoFPURL": "https://fest-digitalx23.expofp.com/#id=8584580"
 		},
 		{
 			"__tabName": "Entity",
