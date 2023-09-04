@@ -550,6 +550,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8922891,
+				"Name": "DTSE"
+			},
+			"geometry": {
+				"coordinates": [
+					6.942541,
+					50.946123
+				],
+				"type": "Point"
+			},
+			"id": "3364af5dc05fc798c2be6ad5ff7ee337"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0013576",
 				"Name": "Bullitt"
 			},
