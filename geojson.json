@@ -1590,6 +1590,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8914140,
+				"Name": "Checkpoint"
+			},
+			"geometry": {
+				"coordinates": [
+					6.943418,
+					50.948765
+				],
+				"type": "Point"
+			},
+			"id": "cc61c21c30a1226b1e2f7b90f68ba685"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0005381"
 			},
 			"geometry": {
