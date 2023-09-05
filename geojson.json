@@ -286,7 +286,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "D0015369"
+				"ID": 8722694
 			},
 			"geometry": {
 				"coordinates": [
@@ -2161,8 +2161,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.936916,
-					50.936885
+					6.936865,
+					50.936609
 				],
 				"type": "Point"
 			},

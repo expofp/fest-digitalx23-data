@@ -61,7 +61,7 @@
 			"description_de": "",
 			"external_location_id": "",
 			"expoFPURL": "",
-			"color": "#ffc113",
+			"color": "",
 			"lineColor": "#ffc113"
 		},
 		{
@@ -96,7 +96,7 @@
 			"description_de": "",
 			"external_location_id": "",
 			"expoFPURL": "",
-			"color": "#ffc113",
+			"color": "",
 			"lineColor": "#ffc113"
 		},
 		{
@@ -131,7 +131,7 @@
 			"description_de": "",
 			"external_location_id": "",
 			"expoFPURL": "",
-			"color": "#ffc113",
+			"color": "",
 			"lineColor": "#ffc113"
 		},
 		{
@@ -166,7 +166,7 @@
 			"description_de": "",
 			"external_location_id": "",
 			"expoFPURL": "",
-			"color": "#ffc113",
+			"color": "",
 			"lineColor": "#ffc113"
 		},
 		{
@@ -201,7 +201,7 @@
 			"description_de": "",
 			"external_location_id": "",
 			"expoFPURL": "",
-			"color": "#ffc113",
+			"color": "",
 			"lineColor": "#ffc113"
 		},
 		{
@@ -236,7 +236,7 @@
 			"description_de": "",
 			"external_location_id": "",
 			"expoFPURL": "",
-			"color": "#ffc113",
+			"color": "",
 			"lineColor": "#ffc113"
 		},
 		{
@@ -3243,7 +3243,7 @@
 		},
 		{
 			"__tabName": "Entity",
-			"id": "D0015369",
+			"id": "8722694",
 			"entityType": "brandhouse_belgisches",
 			"name": "Fortinet",
 			"parent": "",
@@ -3261,12 +3261,12 @@
 			"sector": "belgisches",
 			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
-			"subtitle": "C.C. Kowalski",
+			"subtitle": "Elea Candia",
 			"logoURL": "",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "Brüsseler Straße 70, 50674 Köln",
-			"address": "Brüsseler Straße 70",
+			"addressCalculation": "Brüsseler Str. 66, 50674 Köln",
+			"address": "Brüsseler Str. 66",
 			"city": "Köln",
 			"postalCode": "50674"
 		},
