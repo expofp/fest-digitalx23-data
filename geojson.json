@@ -1485,6 +1485,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8922979,
+				"Name": "Lounge Grosskunden & International"
+			},
+			"geometry": {
+				"coordinates": [
+					6.945356,
+					50.948192
+				],
+				"type": "Point"
+			},
+			"id": "a58db71513aa1535185f6aa21da4cd06"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0015254"
 			},
 			"geometry": {
