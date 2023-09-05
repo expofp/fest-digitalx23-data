@@ -5607,16 +5607,16 @@
 		},
 		{
 			"__tabName": "Extra Tag",
-			"id": "kölsche-nacht-mittwoch",
-			"name": "Kölsche Nacht Mittwoch",
-			"name_de": "Kölsche Nacht Mittwoch",
+			"id": "kölsche-nacht-wed.",
+			"name": "Kölsche Nacht Wed.",
+			"name_de": "Kölsche Nacht Mi.",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/koelschenacht.png"
 		},
 		{
 			"__tabName": "Extra Tag",
-			"id": "kölsche-nacht-donnerstag",
-			"name": "Kölsche Nacht Donnerstag",
-			"name_de": "Kölsche Nacht Donnerstag",
+			"id": "kölsche-nacht-thu.",
+			"name": "Kölsche Nacht Thu.",
+			"name_de": "Kölsche Nacht Do.",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/koelschenacht.png"
 		},
 		{
