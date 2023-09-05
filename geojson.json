@@ -1514,6 +1514,23 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjplZjA4MWVkYi0yNTNmLTRhMTQtYjJjNS0xNGEzNGZmY2Y3MTU",
+				"place_name": "Aachener Straße 54, 50674 Köln, Germany",
+				"ID": 8922969
+			},
+			"geometry": {
+				"coordinates": [
+					6.934789,
+					50.936639
+				],
+				"type": "Point"
+			},
+			"id": "a9fc48e186b7ce8ef5b70716d36e48db"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "D0015457",
 				"Name": "Cynet"
 			},
@@ -1726,6 +1743,21 @@
 				"type": "Point"
 			},
 			"id": "c6aaae28fb03597be5b121a9d7bdc20e"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 8922966,
+				"Nam": "Schubkraft"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935804,
+					50.941941
+				],
+				"type": "Point"
+			},
+			"id": "c70eb6aa35d745e4aa45f28cb83938cf"
 		},
 		{
 			"type": "Feature",
@@ -1960,6 +1992,23 @@
 				"type": "Point"
 			},
 			"id": "dc89c2bfe8786d316d1312535b2b4f30"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjo3ZjFjN2UwYi0yZGNiLTQ0OTYtOGI3Yy1iNTA2NTY4MTYxOTY",
+				"place_name": "Aachener Straße 19, 50674 Köln, Germany",
+				"ID": 8922968
+			},
+			"geometry": {
+				"coordinates": [
+					6.935796,
+					50.936371
+				],
+				"type": "Point"
+			},
+			"id": "e3b4c4b28db54b3f8d675d7658c2db7a"
 		},
 		{
 			"type": "Feature",
