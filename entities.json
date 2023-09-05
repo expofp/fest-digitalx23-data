@@ -4839,7 +4839,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "8922967",
-			"entityType": "brandhouse_belgisches",
+			"entityType": "brandhouse-t",
 			"name": "Deutsche Telekom Brandhouse Digitale Bildung",
 			"parent": "",
 			"route1": "future_work_tour",
@@ -4868,7 +4868,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "8922968",
-			"entityType": "brandhouse_belgisches",
+			"entityType": "brandhouse-t",
 			"name": "Deutsche Telekom Global Carrier",
 			"parent": "",
 			"route1": "",
@@ -4897,7 +4897,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "8922969",
-			"entityType": "brandhouse_belgisches",
+			"entityType": "brandhouse-t",
 			"name": "Lounge KMU",
 			"parent": "",
 			"route1": "",
@@ -4926,7 +4926,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "8922971",
-			"entityType": "brandhouse_mediapark",
+			"entityType": "brandhouse-t",
 			"name": "Deutsche Telekom IoT",
 			"parent": "",
 			"route1": "",
@@ -4955,7 +4955,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "8922972",
-			"entityType": "brandhouse_mediapark",
+			"entityType": "brandhouse-t",
 			"name": "Telekom Security",
 			"parent": "",
 			"route1": "",
