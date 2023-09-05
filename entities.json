@@ -56,7 +56,13 @@
 			"addressCalculation": "Venloer Str. 40, 50672 Köln",
 			"address": "Venloer Str. 40",
 			"city": "Köln",
-			"postalCode": "50672"
+			"postalCode": "50672",
+			"description": "",
+			"description_de": "",
+			"external_location_id": "",
+			"expoFPURL": "",
+			"color": "#ffc113",
+			"lineColor": "#ffc113"
 		},
 		{
 			"__tabName": "Entity",
@@ -85,7 +91,13 @@
 			"addressCalculation": "Venloer Str. 40, 50672 Köln",
 			"address": "Venloer Str. 40",
 			"city": "Köln",
-			"postalCode": "50672"
+			"postalCode": "50672",
+			"description": "",
+			"description_de": "",
+			"external_location_id": "",
+			"expoFPURL": "",
+			"color": "#ffc113",
+			"lineColor": "#ffc113"
 		},
 		{
 			"__tabName": "Entity",
@@ -114,7 +126,13 @@
 			"addressCalculation": "Venloer Str. 40, 50672 Köln",
 			"address": "Venloer Str. 40",
 			"city": "Köln",
-			"postalCode": "50672"
+			"postalCode": "50672",
+			"description": "",
+			"description_de": "",
+			"external_location_id": "",
+			"expoFPURL": "",
+			"color": "#ffc113",
+			"lineColor": "#ffc113"
 		},
 		{
 			"__tabName": "Entity",
@@ -143,7 +161,13 @@
 			"addressCalculation": "Venloer Str. 40, 50672 Köln",
 			"address": "Venloer Str. 40",
 			"city": "Köln",
-			"postalCode": "50672"
+			"postalCode": "50672",
+			"description": "",
+			"description_de": "",
+			"external_location_id": "",
+			"expoFPURL": "",
+			"color": "#ffc113",
+			"lineColor": "#ffc113"
 		},
 		{
 			"__tabName": "Entity",
@@ -172,7 +196,13 @@
 			"addressCalculation": "Venloer Str. 40, 50672 Köln",
 			"address": "Venloer Str. 40",
 			"city": "Köln",
-			"postalCode": "50672"
+			"postalCode": "50672",
+			"description": "",
+			"description_de": "",
+			"external_location_id": "",
+			"expoFPURL": "",
+			"color": "#ffc113",
+			"lineColor": "#ffc113"
 		},
 		{
 			"__tabName": "Entity",
@@ -201,7 +231,13 @@
 			"addressCalculation": "Venloer Str. 40, 50672 Köln",
 			"address": "Venloer Str. 40",
 			"city": "Köln",
-			"postalCode": "50672"
+			"postalCode": "50672",
+			"description": "",
+			"description_de": "",
+			"external_location_id": "",
+			"expoFPURL": "",
+			"color": "#ffc113",
+			"lineColor": "#ffc113"
 		},
 		{
 			"__tabName": "Entity",
@@ -5609,7 +5645,7 @@
 			"__tabName": "Extra Tag",
 			"id": "kölsche-nacht-wed.",
 			"name": "Kölsche Nacht Wed.",
-			"name_de": "Kölsche Nacht Mittwoch",
+			"name_de": "Kölsche Nacht Mi.",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/koelschenacht.png"
 		},
 		{
