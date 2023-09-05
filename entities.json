@@ -4912,8 +4912,8 @@
 			"extraTag2": "kölsche-nacht-donnerstag",
 			"extraTag3": "",
 			"sector": "belgisches",
-			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE",
+			"detailsLink": "TRUE",
+			"addedToMapbox": "TRUE",
 			"subtitle": "Herr Pimock",
 			"logoURL": "",
 			"website": "",
@@ -4925,7 +4925,7 @@
 		},
 		{
 			"__tabName": "Entity",
-			"id": "CReg00144",
+			"id": "8922971",
 			"entityType": "brandhouse_mediapark",
 			"name": "Deutsche Telekom IoT",
 			"parent": "",
@@ -4941,8 +4941,8 @@
 			"extraTag2": "",
 			"extraTag3": "",
 			"sector": "mediapark",
-			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE",
+			"detailsLink": "TRUE",
+			"addedToMapbox": "TRUE",
 			"subtitle": "Komed Haus 7",
 			"logoURL": "",
 			"website": "",
@@ -5476,7 +5476,7 @@
 		{
 			"__tabName": "EntityType",
 			"id": "brandhouse_belgisches",
-			"name": "Brandhouse",
+			"name": "Brandhouse Belgisches Viertel",
 			"filterGroup": "Exhibitor",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-belgisches.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-belgisches-active.png"
@@ -5484,7 +5484,7 @@
 		{
 			"__tabName": "EntityType",
 			"id": "brandhouse_stadtgarten",
-			"name": "Brandhouse",
+			"name": "Brandhouse Stadtgarten",
 			"filterGroup": "Exhibitor",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-stadtgarten.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-stadtgarten-active.png"
@@ -5492,7 +5492,7 @@
 		{
 			"__tabName": "EntityType",
 			"id": "brandhouse_friesenviertel",
-			"name": "Brandhouse",
+			"name": "Brandhouse Friesenviertel",
 			"filterGroup": "Exhibitor",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-friesenviertel.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-friesenviertel-active.png"
@@ -5500,7 +5500,7 @@
 		{
 			"__tabName": "EntityType",
 			"id": "brandhouse_mediapark",
-			"name": "Brandhouse",
+			"name": "Brandhouse Mediapark",
 			"filterGroup": "Exhibitor",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-mediapark.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-mediapark-active.png"
