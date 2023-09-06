@@ -834,7 +834,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0004170",
-			"entityType": "brandhouse_belgisches",
+			"entityType": "brandhouse_friesenviertel",
 			"name": "Unify Software and Solutions",
 			"parent": "",
 			"route1": "",
@@ -848,7 +848,7 @@
 			"extraTag1": "kölsche-nacht-mittwoch",
 			"extraTag2": "kölsche-nacht-donnerstag",
 			"extraTag3": "",
-			"sector": "belgisches",
+			"sector": "friesenviertel",
 			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "The Grid Bar + 1. Etage Suite",
