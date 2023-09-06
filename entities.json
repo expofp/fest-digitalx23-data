@@ -264,7 +264,7 @@
 			"__tabName": "Entity",
 			"id": "all_tour_start",
 			"entityType": "tour_stop",
-			"name": ". Tour - Startpunkt",
+			"name": ". Startpunkt Guided Tours",
 			"parent": "",
 			"route1": "future_work_tour",
 			"route2": "security_tour",
