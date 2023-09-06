@@ -328,6 +328,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8914101
+			},
+			"geometry": {
+				"coordinates": [
+					6.935157,
+					50.94273
+				],
+				"type": "Point"
+			},
+			"id": "18d8f45d5ad23bbec41ec23b3fea47ba"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjo2MmM2OGM3Zi1kYjEzLTRkMzctODEwYS05MmMzOTk5Njk1YTQ",
 				"place_name": "Aachener Straße 5, 50674 Köln, Germany",
