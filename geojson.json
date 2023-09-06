@@ -1701,6 +1701,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "infopoint_stadtgarten"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935533,
+					50.942639
+				],
+				"type": "Point"
+			},
+			"id": "c26cf22c280f8d1dbd641006ad91041e"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8922971
 			},
 			"geometry": {
