@@ -916,6 +916,58 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "nachhaltigkeit_tour"
+			},
+			"geometry": {
+				"coordinates": [
+					[
+						6.943699,
+						50.948651
+					],
+					[
+						6.943538,
+						50.948964
+					],
+					[
+						6.943494,
+						50.949105
+					],
+					[
+						6.943289,
+						50.949072
+					]
+				],
+				"type": "LineString"
+			},
+			"id": "48f6d6223b180530c3852b0ccf919da6"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "ki_tour"
+			},
+			"geometry": {
+				"coordinates": [
+					[
+						6.943757,
+						50.948629
+					],
+					[
+						6.943899,
+						50.948973
+					],
+					[
+						6.94425,
+						50.949001
+					]
+				],
+				"type": "LineString"
+			},
+			"id": "49e4f3e4d81b74d54922a484748babdd"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"accuracy": "street",
 				"mapbox_id": "dXJuOm1ieGFkcjozNmEyNTllNS1jODdiLTQ5YWQtOThmOS04OGI5MzE3MDA3ZWM",
 				"place_name": "Friesenstraße, 50670 Köln, Germany",
@@ -1354,6 +1406,30 @@
 				"type": "Point"
 			},
 			"id": "80f8af7e62a021634aa4070abf1285f2"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "connected_business_tour"
+			},
+			"geometry": {
+				"coordinates": [
+					[
+						6.943645,
+						50.948648
+					],
+					[
+						6.943333,
+						50.949001
+					],
+					[
+						6.942943,
+						50.948961
+					]
+				],
+				"type": "LineString"
+			},
+			"id": "8bfe9d0b43fcc11852067cda44b8a4dc"
 		},
 		{
 			"type": "Feature",
