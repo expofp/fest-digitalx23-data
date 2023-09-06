@@ -1717,6 +1717,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8922975,
+				"Name": "TSI"
+			},
+			"geometry": {
+				"coordinates": [
+					6.941102,
+					50.940757
+				],
+				"type": "Point"
+			},
+			"id": "ae67f2076631b0860577c4bf41bb0b0c"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "stadtgarten_security"
 			},
 			"geometry": {
