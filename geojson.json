@@ -273,7 +273,8 @@
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjpkY2Q2YzgxZi0xNjc5LTRlYzUtYjUwZS1hOGI1OGI5NjQ2YjM",
 				"place_name": "Friesenwall 130, 50672 Köln, Germany",
-				"ID": "D0005380"
+				"ID": 8584587,
+				"Name": "medialine"
 			},
 			"geometry": {
 				"coordinates": [
@@ -875,23 +876,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"accuracy": "rooftop",
-				"mapbox_id": "dXJuOm1ieGFkcjphMDRhMmQ2NC0yMDg1LTRlMzktOGVlNi00ZTExZTM4MDc5MzY",
-				"place_name": "Aachener Straße 24, 50674 Köln, Germany",
-				"ID": "D0005598"
-			},
-			"geometry": {
-				"coordinates": [
-					6.936406,
-					50.936615
-				],
-				"type": "Point"
-			},
-			"id": "434b57d2433a519fb26bf5c027abc787"
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"ID": "D0015524",
 				"Name": "Zscaler"
 			},
@@ -1288,7 +1272,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "D0004169",
+				"ID": 8584583,
 				"Name": "Juniper Networks"
 			},
 			"geometry": {
@@ -1997,7 +1981,8 @@
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjpiMGQzOWViNC0wY2VjLTRhYzYtOWRkOS05MWY5MzE4YTEwYTg",
 				"place_name": "Friesenwall 81, 50672 Köln, Germany",
-				"ID": "D0005513"
+				"ID": 8584591,
+				"Name": "Lenovo"
 			},
 			"geometry": {
 				"coordinates": [
@@ -2145,7 +2130,8 @@
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjo3NzhkYTVkMC01NzUwLTQ3ZWEtOTU0NS1iZDA0YzUwNjhiZTI",
 				"place_name": "Brüsseler Straße 68, 50674 Köln, Germany",
-				"ID": "D0013500"
+				"ID": 8584612,
+				"Name": "q beyond"
 			},
 			"geometry": {
 				"coordinates": [
@@ -2352,7 +2338,8 @@
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjo4NDg4NTg5MS04MGM3LTQyZTgtODgwMS04NGJjZDI3NmMxZjY",
 				"place_name": "Friesenwall 124, 50672 Köln, Germany",
-				"ID": "D0004316"
+				"ID": 8584601,
+				"Name": "xiaomi"
 			},
 			"geometry": {
 				"coordinates": [
@@ -2383,7 +2370,8 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "D0014266"
+				"ID": 8584589,
+				"Name": "KPMG"
 			},
 			"geometry": {
 				"coordinates": [
@@ -2636,7 +2624,8 @@
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjpkYzUxZTc5Ni0xMjgwLTQxZDktOWU5Mi1mNzE4ODk3YmU2YjY",
 				"place_name": "Aachener Straße 16, 50674 Köln, Germany",
-				"ID": "D0005598"
+				"ID": 8584594,
+				"Name": "enreach"
 			},
 			"geometry": {
 				"coordinates": [
