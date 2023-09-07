@@ -461,7 +461,8 @@
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjpkODgzYzJhZC02M2EwLTRhNjItYjg3ZC0zNzA0MGYzNWQyZTQ",
 				"place_name": "Venloer Straße 19, 50672 Köln, Germany",
-				"ID": "D0004318"
+				"ID": 8584590,
+				"Name": "Huawei"
 			},
 			"geometry": {
 				"coordinates": [
@@ -1258,7 +1259,8 @@
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjplNmJkNjIzZC0zZDJmLTQ0ZjAtOWVhMC0yZjkxYjBiMzliMzE",
 				"place_name": "Friesenstraße 73, 50670 Köln, Germany",
-				"ID": "D0004258"
+				"ID": 8584585,
+				"Name": "nfon"
 			},
 			"geometry": {
 				"coordinates": [
@@ -1321,7 +1323,8 @@
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjpmYmMwNDcwYS0yY2JkLTRkMWQtYjQzYS04NTZiMzRlZmI3ODM",
 				"place_name": "Friesenstraße 58-60, 50670 Köln, Germany",
-				"ID": "D0015256"
+				"ID": 8584575,
+				"Name": "sosafe"
 			},
 			"geometry": {
 				"coordinates": [
@@ -2280,7 +2283,8 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "D0005381"
+				"ID": 8584569,
+				"Name": "cradlepoint"
 			},
 			"geometry": {
 				"coordinates": [
