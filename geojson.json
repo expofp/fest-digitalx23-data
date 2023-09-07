@@ -410,7 +410,7 @@
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjo0N2E0NjQ3Zi1mNmMwLTQ0OTgtOTcyNC1jYmRkNjVkMjYyYTc",
 				"place_name": "Brüsseler Straße 47, 50674 Köln, Germany",
-				"ID": "D0015373",
+				"ID": 8722597,
 				"nane": "salesforce"
 			},
 			"geometry": {
@@ -1428,7 +1428,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "D0015411",
+				"ID": 8722594,
 				"Name": "Palo Alto Networks"
 			},
 			"geometry": {
@@ -1778,7 +1778,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "D0014105",
+				"ID": 8722591,
 				"Name": "vmware"
 			},
 			"geometry": {
@@ -2163,7 +2163,8 @@
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjoyMWJkMWE3MS1kMzU3LTQ1ODctOGMyYy1jZDg0Njk5MmUyZDE",
 				"place_name": "Aachener Straße 34, 50674 Köln, Germany",
-				"ID": "D0005438"
+				"ID": 8722598,
+				"Name": "Telekom experience house"
 			},
 			"geometry": {
 				"coordinates": [
