@@ -301,6 +301,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8722648,
+				"Name": "amberSearch"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935676,
+					50.942833
+				],
+				"type": "Point"
+			},
+			"id": "1008b804e0417f32dc7dbadda1e4fc64"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8914127
 			},
 			"geometry": {
@@ -2820,6 +2835,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8722636,
+				"Name": "EVOspark"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935269,
+					50.942807
+				],
+				"type": "Point"
+			},
+			"id": "df9c54056546a67623ae92f6da538fca"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjo3ZjFjN2UwYi0yZGNiLTQ0OTYtOGI3Yy1iNTA2NTY4MTYxOTY",
 				"place_name": "Aachener Straße 19, 50674 Köln, Germany",
@@ -2947,6 +2977,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8722638,
+				"Name": "zesavi"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935714,
+					50.942818
+				],
+				"type": "Point"
+			},
+			"id": "e8cef6a18a96fe3b45f3ab880ec5b1bd"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8584596,
 				"Name": "Omilia"
 			},
@@ -2958,6 +3003,21 @@
 				"type": "Point"
 			},
 			"id": "e960d45d2a7c1845a60976e795744ff9"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 8722639,
+				"Name": "Artenglueck"
+			},
+			"geometry": {
+				"coordinates": [
+					6.934797,
+					50.942904
+				],
+				"type": "Point"
+			},
+			"id": "ea600b4eaa5d04120e6d4d2c56f566f0"
 		},
 		{
 			"type": "Feature",

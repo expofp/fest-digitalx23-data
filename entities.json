@@ -2513,7 +2513,14 @@
 			"sector": "Quartier Stadtgarten",
 			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE",
-			"subtitle": "Stadtgarten"
+			"subtitle": "Stadtgarten",
+			"logoURL": "",
+			"website": "evospark.de",
+			"highlight": "",
+			"addressCalculation": "Stadtgarten, 50672 Köln",
+			"address": "Stadtgarten",
+			"city": "Köln",
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -2536,7 +2543,14 @@
 			"sector": "Quartier Stadtgarten",
 			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE",
-			"subtitle": "Stadtgarten"
+			"subtitle": "Stadtgarten",
+			"logoURL": "",
+			"website": "https://ambersearch.de",
+			"highlight": "",
+			"addressCalculation": "Stadtgarten, 50672 Köln",
+			"address": "Stadtgarten",
+			"city": "Köln",
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -2559,7 +2573,14 @@
 			"sector": "Quartier Stadtgarten",
 			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE",
-			"subtitle": "Stadtgarten"
+			"subtitle": "Stadtgarten",
+			"logoURL": "",
+			"website": "https://getclypp.com",
+			"highlight": "",
+			"addressCalculation": "Stadtgarten, 50672 Köln",
+			"address": "Stadtgarten",
+			"city": "Köln",
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -2582,7 +2603,14 @@
 			"sector": "Quartier Stadtgarten",
 			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE",
-			"subtitle": "Stadtgarten"
+			"subtitle": "Stadtgarten",
+			"logoURL": "",
+			"website": "www.artenglueck.de",
+			"highlight": "",
+			"addressCalculation": "Stadtgarten, 50672 Köln",
+			"address": "Stadtgarten",
+			"city": "Köln",
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
