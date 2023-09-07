@@ -227,6 +227,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8722637,
+				"Name": "Locaterisk"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935108,
+					50.942715
+				],
+				"type": "Point"
+			},
+			"id": "0a63d845fbb5fde3ac1915d8ac570db3"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "akkreditierung9"
 			},
 			"geometry": {
@@ -1354,6 +1369,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8722632,
+				"Name": "loxonet"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935568,
+					50.942833
+				],
+				"type": "Point"
+			},
+			"id": "7138c145abe4f15651e4a2d12ab3f0c5"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjpmZDJkMDQ1MC01NzA2LTRiZmQtOTdkYi1kOGFhNTgyM2E2YTk",
 				"place_name": "Brüsseler Straße 70, 50674 Köln, Germany",
@@ -2235,6 +2265,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8722634,
+				"Name": "addmee"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935222,
+					50.943076
+				],
+				"type": "Point"
+			},
+			"id": "c95adb682d5c90f2701db5818390fd1a"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjoyMWJkMWE3MS1kMzU3LTQ1ODctOGMyYy1jZDg0Njk5MmUyZDE",
 				"place_name": "Aachener Straße 34, 50674 Köln, Germany",
@@ -2425,6 +2470,21 @@
 				"type": "Point"
 			},
 			"id": "d6f1ade331158623ba2d14b9896afb0b"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 8722635,
+				"Name": "smartstudy"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935209,
+					50.943064
+				],
+				"type": "Point"
+			},
+			"id": "d6f5e4f8b0c0512473285cf0e58cd714"
 		},
 		{
 			"type": "Feature",
