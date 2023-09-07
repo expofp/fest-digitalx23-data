@@ -212,7 +212,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "D0015370",
+				"ID": 8722603,
 				"Name": "docusign"
 			},
 			"geometry": {
@@ -358,6 +358,21 @@
 				"type": "Point"
 			},
 			"id": "1ed2d4a03e1d23228ed5f3b2f059902f"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 8722624,
+				"Name": "equipme"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935593,
+					50.942858
+				],
+				"type": "Point"
+			},
+			"id": "229c3db462504c4ea3b1d571cd546d73"
 		},
 		{
 			"type": "Feature",
@@ -686,8 +701,8 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "D0015372",
-				"Color": "EDD Engineering & Digital Design"
+				"ID": 8722607,
+				"Name": "EDD Engineering & Digital Design"
 			},
 			"geometry": {
 				"coordinates": [
@@ -1521,7 +1536,7 @@
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjpiNjJiZmFiMC0zMGQxLTQ3N2ItYjE0NS0xYWRmZDY1MDQ5NTY",
 				"place_name": "Aachener Straße 32, 50674 Köln, Germany",
-				"ID": "D0015458"
+				"ID": 8722604
 			},
 			"geometry": {
 				"coordinates": [
@@ -2590,6 +2605,21 @@
 				"type": "Point"
 			},
 			"id": "ebacf73a9d3c588fd6bf3d64aabf773b"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 8722618,
+				"Name": "enerthing"
+			},
+			"geometry": {
+				"coordinates": [
+					6.934698,
+					50.942836
+				],
+				"type": "Point"
+			},
+			"id": "ebe9ffa2fd77fd5212fdd6855f976e27"
 		},
 		{
 			"type": "Feature",
