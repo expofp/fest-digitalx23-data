@@ -77,6 +77,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8722653,
+				"Name": "consalio"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935376,
+					50.943062
+				],
+				"type": "Point"
+			},
+			"id": "0782197ebc1d844fc00b12178949561a"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "mediapark",
 				"Color": "#e5117e"
 			},
@@ -332,6 +347,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8722654,
+				"Name": "cobago"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935365,
+					50.943044
+				],
+				"type": "Point"
+			},
+			"id": "168bf723b64d9d15f4c25dc839df6e5b"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8584567,
 				"Name": "Itenos"
 			},
@@ -371,6 +401,21 @@
 				"type": "Point"
 			},
 			"id": "18d8f45d5ad23bbec41ec23b3fea47ba"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 8722660,
+				"Name": "cloudsupplies"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935345,
+					50.943076
+				],
+				"type": "Point"
+			},
+			"id": "1921cd95811126c915241c3a33f7c582"
 		},
 		{
 			"type": "Feature",
@@ -1164,6 +1209,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8722651,
+				"Name": "oraya"
+			},
+			"geometry": {
+				"coordinates": [
+					6.93532,
+					50.943088
+				],
+				"type": "Point"
+			},
+			"id": "4af15824c3f56c0b366f70453b56e0cf"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"accuracy": "street",
 				"mapbox_id": "dXJuOm1ieGFkcjozNmEyNTllNS1jODdiLTQ5YWQtOThmOS04OGI5MzE3MDA3ZWM",
 				"place_name": "Friesenstraße, 50670 Köln, Germany",
@@ -1177,6 +1237,21 @@
 				"type": "Point"
 			},
 			"id": "4e7e7b9692b7b3c5800d124493a6bef1"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 8722658,
+				"Name": "acameo"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935557,
+					50.942819
+				],
+				"type": "Point"
+			},
+			"id": "53dfd97f1491e3c6ac1de8dae9ecdf93"
 		},
 		{
 			"type": "Feature",
@@ -2830,6 +2905,21 @@
 				"type": "Point"
 			},
 			"id": "ef776cb4cda47b3371b007f90e2c2748"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 8722656,
+				"Name": "DataCo"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935165,
+					50.94269
+				],
+				"type": "Point"
+			},
+			"id": "f129d8677717c513a96f8c22d3e7327c"
 		},
 		{
 			"type": "Feature",
