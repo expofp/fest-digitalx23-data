@@ -4,6 +4,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8722671,
+				"Name": "Moot"
+			},
+			"geometry": {
+				"coordinates": [
+					6.934757,
+					50.942879
+				],
+				"type": "Point"
+			},
+			"id": "031148f723f8cdddb9f28e1e403d914a"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8584582,
 				"Name": "Klitschko Ventures"
 			},
@@ -772,6 +787,21 @@
 				"type": "Point"
 			},
 			"id": "34e04ef57bb50c4b4d7880023a25ee0e"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 8722663,
+				"Name": "VR Direkt"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935331,
+					50.943015
+				],
+				"type": "Point"
+			},
+			"id": "34e76bfccf321f0d767b537bf786acd5"
 		},
 		{
 			"type": "Feature",
@@ -1923,6 +1953,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8722665,
+				"Name": "cognigy"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935201,
+					50.943028
+				],
+				"type": "Point"
+			},
+			"id": "91cb87b777009918aa932e8916d24a7e"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "akkreditierung12"
 			},
 			"geometry": {
@@ -2013,6 +2058,21 @@
 				"type": "Point"
 			},
 			"id": "9cbe9f98533cc5826dd86423727a407b"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 8722673,
+				"Name": "heronOS"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935229,
+					50.943015
+				],
+				"type": "Point"
+			},
+			"id": "9d498e5576319829cd8962a9a1042284"
 		},
 		{
 			"type": "Feature",
@@ -2251,6 +2311,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8722668,
+				"Name": "LegalITgrity"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935021,
+					50.942723
+				],
+				"type": "Point"
+			},
+			"id": "b6b54b8d6624491358a8462cc1b0dba5"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "inspiration_stage"
 			},
 			"geometry": {
@@ -2290,6 +2365,21 @@
 				"type": "Point"
 			},
 			"id": "c26cf22c280f8d1dbd641006ad91041e"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 8722675,
+				"Name": "readyplace"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935545,
+					50.942803
+				],
+				"type": "Point"
+			},
+			"id": "c2f8a66629a8077992031e82bf6f3a42"
 		},
 		{
 			"type": "Feature",
@@ -2681,6 +2771,21 @@
 				"type": "Point"
 			},
 			"id": "dc89c2bfe8786d316d1312535b2b4f30"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 8722667,
+				"Name": "Lambda9"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935351,
+					50.943031
+				],
+				"type": "Point"
+			},
+			"id": "ddd3aa650fc27c625408902130872e4d"
 		},
 		{
 			"type": "Feature",
