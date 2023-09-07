@@ -1935,6 +1935,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8722680,
+				"Name": "goyaa"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935639,
+					50.942845
+				],
+				"type": "Point"
+			},
+			"id": "8fcdc801a165ce4580a7388a758045ad"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjo1NjIxMGY0OC1hMmFiLTRmOTgtODBjMi1kOWU2YjBmODYyMWI",
 				"place_name": "Brabanter Straße 1, 50674 Köln, Germany",
@@ -2641,6 +2656,21 @@
 				"type": "Point"
 			},
 			"id": "cd1f5528e9a683d3f9e53bb79be94d2e"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 8722678,
+				"Name": "tabya"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935262,
+					50.943001
+				],
+				"type": "Point"
+			},
+			"id": "cd6f4365df5f2b6bcbeadb37cef6ed3a"
 		},
 		{
 			"type": "Feature",
