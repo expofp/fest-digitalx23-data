@@ -1550,6 +1550,36 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8722622,
+				"Name": "flixcheck"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935262,
+					50.943111
+				],
+				"type": "Point"
+			},
+			"id": "810ae1dc7bd643975e7e06f87fcabb2d"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 8722633,
+				"Name": "Sinfosi"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935234,
+					50.943087
+				],
+				"type": "Point"
+			},
+			"id": "888478d17b564493ecd73e91b6327c3a"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "connected_business_tour"
 			},
 			"geometry": {
@@ -1706,6 +1736,21 @@
 				"type": "LineString"
 			},
 			"id": "8bfe9d0b43fcc11852067cda44b8a4dc"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 8722617,
+				"Name": "metr"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935579,
+					50.942845
+				],
+				"type": "Point"
+			},
+			"id": "8db26cc7adb5e7e7b315ef9cf2d8ffc0"
 		},
 		{
 			"type": "Feature",
@@ -1894,6 +1939,21 @@
 				"type": "Point"
 			},
 			"id": "a9fc48e186b7ce8ef5b70716d36e48db"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 8722630,
+				"Name": "clockin"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935248,
+					50.943098
+				],
+				"type": "Point"
+			},
+			"id": "aa26263a50ec01d0dfd023c9d11df7d6"
 		},
 		{
 			"type": "Feature",
