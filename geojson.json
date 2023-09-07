@@ -256,6 +256,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8722650,
+				"Name": "Applyz"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935195,
+					50.943052
+				],
+				"type": "Point"
+			},
+			"id": "0b8818dd628eeaac884c058280e3d8fc"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8914127
 			},
 			"geometry": {
@@ -356,6 +371,21 @@
 				"type": "Point"
 			},
 			"id": "18d8f45d5ad23bbec41ec23b3fea47ba"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 8722646,
+				"Name": "rooom"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935293,
+					50.942818
+				],
+				"type": "Point"
+			},
+			"id": "198f1dda2a994819ba659be43349e6f0"
 		},
 		{
 			"type": "Feature",
@@ -917,6 +947,21 @@
 				"type": "Point"
 			},
 			"id": "44d8b6a0546d0fffd936be65c1b3b151"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 8722649,
+				"Name": "3D spark"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935294,
+					50.943098
+				],
+				"type": "Point"
+			},
+			"id": "4645c14772d7a18962b30aded47dad08"
 		},
 		{
 			"type": "Feature",
@@ -2360,6 +2405,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8722647,
+				"Name": "sustayn"
+			},
+			"geometry": {
+				"coordinates": [
+					6.934724,
+					50.942855
+				],
+				"type": "Point"
+			},
+			"id": "c98d665b95fb7a45e56cf183e11aa387"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8584600,
 				"Name": "axxessio"
 			},
@@ -2371,6 +2431,21 @@
 				"type": "Point"
 			},
 			"id": "cb8dee7c06e0db9ba7c71db9a35c5830"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 8722652,
+				"Name": "streavent"
+			},
+			"geometry": {
+				"coordinates": [
+					6.93518,
+					50.94304
+				],
+				"type": "Point"
+			},
+			"id": "cbebfc8b03c4821197c89480515807fb"
 		},
 		{
 			"type": "Feature",
