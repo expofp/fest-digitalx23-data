@@ -1355,7 +1355,8 @@
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjpmZDJkMDQ1MC01NzA2LTRiZmQtOTdkYi1kOGFhNTgyM2E2YTk",
 				"place_name": "Brüsseler Straße 70, 50674 Köln, Germany",
-				"ID": "D0013528"
+				"ID": 8584574,
+				"Name": "byon"
 			},
 			"geometry": {
 				"coordinates": [
@@ -1863,7 +1864,8 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "D0015254"
+				"ID": 8584570,
+				"Name": "netgo"
 			},
 			"geometry": {
 				"coordinates": [
@@ -2327,7 +2329,8 @@
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjo1ODhjYTNlNS03ZjMzLTQ2ZGMtYTJkNS0zNmE0Zjk4YTFmYmI",
 				"place_name": "Friesenstraße 62, 50670 Köln, Germany",
-				"ID": "D0004170"
+				"ID": 8584571,
+				"Name": "Unify"
 			},
 			"geometry": {
 				"coordinates": [
