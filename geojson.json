@@ -4,7 +4,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "D0014290",
+				"ID": 8584582,
 				"Name": "Klitschko Ventures"
 			},
 			"geometry": {
@@ -2011,7 +2011,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "D0004345",
+				"ID": 8584604,
 				"Name": "Microsoft"
 			},
 			"geometry": {
@@ -2055,7 +2055,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "D0015382",
+				"ID": 8584586,
 				"Name": "Nokia"
 			},
 			"geometry": {
@@ -2316,7 +2316,8 @@
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjpjZTYxMWUwYS02YjlhLTQxYjItOWQxMi03ZTJmOWZkZmMwYmQ",
 				"place_name": "Aachener Straße 22, 50674 Köln, Germany",
-				"ID": "D0005511"
+				"ID": 8584610,
+				"Name": "Jamf"
 			},
 			"geometry": {
 				"coordinates": [
