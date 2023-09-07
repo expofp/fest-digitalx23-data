@@ -656,7 +656,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "D0013576",
+				"ID": 8584605,
 				"Name": "Bullitt"
 			},
 			"geometry": {
@@ -1807,7 +1807,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "D0005436",
+				"ID": 8584593,
 				"Name": "C4B"
 			},
 			"geometry": {
@@ -2239,7 +2239,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "D0015258",
+				"ID": 8584600,
 				"Name": "axxessio"
 			},
 			"geometry": {
@@ -2284,7 +2284,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "D0015376",
+				"ID": 8584615,
 				"Name": "Dätwyler IT Infra"
 			},
 			"geometry": {
@@ -2526,7 +2526,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "D0015351",
+				"ID": 8584596,
 				"Name": "Omilia"
 			},
 			"geometry": {
@@ -2544,7 +2544,8 @@
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjpmNGVjOTQ1Mi1kMDVhLTRiN2ItOTM3Zi1jZDY5ZjM4YzFlMmE",
 				"place_name": "Venloer Straße 35, 50672 Köln, Germany",
-				"ID": "D0015255"
+				"ID": 8722592,
+				"Name": "BPV"
 			},
 			"geometry": {
 				"coordinates": [
