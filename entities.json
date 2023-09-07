@@ -3,6 +3,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "stadtgarten_area",
+			"registrationID": "",
 			"entityType": "expo_area",
 			"name": "Startup Garten",
 			"parent": "",
@@ -32,6 +33,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "stadtgarten_sustainability",
+			"registrationID": "",
 			"entityType": "expo_area",
 			"name": "Stadtgarten Nachhaltigkeit & Verantwortung",
 			"parent": "stadtgarten_area",
@@ -67,6 +69,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "stadtgarten_connectedbusiness",
+			"registrationID": "",
 			"entityType": "expo_area",
 			"name": "Stadtgarten Connected Business Area",
 			"parent": "stadtgarten_area",
@@ -102,6 +105,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "stadtgarten_futurework",
+			"registrationID": "",
 			"entityType": "expo_area",
 			"name": "Stadtgarten Future of Work Area I",
 			"parent": "stadtgarten_area",
@@ -137,6 +141,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "stadtgarten_futurework2",
+			"registrationID": "",
 			"entityType": "expo_area",
 			"name": "Stadtgarten Future of Work Area II",
 			"parent": "stadtgarten_area",
@@ -172,6 +177,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "stadtgarten_security",
+			"registrationID": "",
 			"entityType": "expo_area",
 			"name": "Stadtgarten Security Area",
 			"parent": "stadtgarten_area",
@@ -207,6 +213,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "stadtgarten_inno_cases",
+			"registrationID": "",
 			"entityType": "expo_area",
 			"name": "Stadtgarten Inno Cases Area",
 			"parent": "stadtgarten_area",
@@ -242,6 +249,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "future_work_tour",
+			"registrationID": "",
 			"entityType": "tour",
 			"name": "Future of Work Guided Tour",
 			"parent": "",
@@ -263,6 +271,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "all_tour_start",
+			"registrationID": "",
 			"entityType": "tour_stop",
 			"name": ". Startpunkt Guided Tours",
 			"parent": "",
@@ -293,6 +302,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "security_tour",
+			"registrationID": "",
 			"entityType": "tour",
 			"name": "Security Tour",
 			"parent": "",
@@ -314,6 +324,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "infopoint_stadtgarten",
+			"registrationID": "",
 			"entityType": "tour_stop",
 			"name": "Infopoint Stadtgarten",
 			"parent": "stadtgarten_area",
@@ -343,6 +354,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "connected_business_tour",
+			"registrationID": "",
 			"entityType": "tour",
 			"name": "Connected Business Tour",
 			"parent": "",
@@ -364,6 +376,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "nachhaltigkeit_tour",
+			"registrationID": "",
 			"entityType": "tour",
 			"name": "Nachhaltigkeit & Verantwortung Tour",
 			"parent": "",
@@ -385,6 +398,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "ki_tour",
+			"registrationID": "",
 			"entityType": "tour",
 			"name": "Künstliche Intelligenz Tour",
 			"parent": "",
@@ -406,6 +420,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "akkreditierung1",
+			"registrationID": "",
 			"entityType": "check-in",
 			"name": "Akkreditierung @ Sister & Co",
 			"parent": "",
@@ -437,6 +452,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "akkreditierung6",
+			"registrationID": "",
 			"entityType": "check-in",
 			"name": "Akkreditierung @  Regal-Laden",
 			"parent": "",
@@ -468,6 +484,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "akkreditierung7",
+			"registrationID": "",
 			"entityType": "check-in",
 			"name": "Akkreditierung @  Emma Pearl",
 			"parent": "",
@@ -499,6 +516,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "akkreditierung8",
+			"registrationID": "",
 			"entityType": "check-in",
 			"name": "Akkreditierung @  Rudolfplatz",
 			"parent": "",
@@ -530,6 +548,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "akkreditierung9",
+			"registrationID": "",
 			"entityType": "check-in",
 			"name": "Akkreditierung @ Vapiano",
 			"parent": "",
@@ -561,6 +580,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "akkreditierung10",
+			"registrationID": "",
 			"entityType": "check-in",
 			"name": "Akkreditierung @ Just Fit",
 			"parent": "",
@@ -592,6 +612,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "akkreditierung11",
+			"registrationID": "",
 			"entityType": "check-in",
 			"name": "Akkreditierung @ OSMAN 30",
 			"parent": "",
@@ -623,6 +644,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "akkreditierung12",
+			"registrationID": "",
 			"entityType": "check-in",
 			"name": "Akkreditierung @ NH Hotel",
 			"parent": "",
@@ -654,6 +676,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "akkreditierung13",
+			"registrationID": "",
 			"entityType": "check-in",
 			"name": "Akkreditierung @ Hans im Glück Outdoor",
 			"parent": "",
@@ -685,6 +708,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "akkreditierung14",
+			"registrationID": "",
 			"entityType": "check-in",
 			"name": "Akkreditierung VIP / Speaker @ Speakerlounge",
 			"parent": "",
@@ -716,6 +740,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "akkreditierung15",
+			"registrationID": "",
 			"entityType": "check-in",
 			"name": "Akkreditierung @ Monkey Cocktail",
 			"parent": "",
@@ -747,6 +772,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "akkreditierung16",
+			"registrationID": "",
 			"entityType": "check-in",
 			"name": "Akkreditierung @ 25hours",
 			"parent": "",
@@ -778,6 +804,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "akkreditierung17",
+			"registrationID": "",
 			"entityType": "check-in",
 			"name": "Akkreditierung @ Friesenplatz",
 			"parent": "",
@@ -809,6 +836,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "beef_brothers",
+			"registrationID": "",
 			"entityType": "food",
 			"name": "Beef Brothers",
 			"parent": "",
@@ -831,6 +859,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0005357",
+			"registrationID": "",
 			"entityType": "brandhouse_belgisches",
 			"name": "ITENOS GmbH",
 			"parent": "",
@@ -864,6 +893,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015254",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "netgo",
 			"parent": "",
@@ -897,6 +927,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0004170",
+			"registrationID": "",
 			"entityType": "brandhouse_friesenviertel",
 			"name": "Unify Software and Solutions",
 			"parent": "",
@@ -930,6 +961,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0013528",
+			"registrationID": "",
 			"entityType": "brandhouse_belgisches",
 			"name": "byon",
 			"parent": "",
@@ -963,6 +995,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0005381",
+			"registrationID": "",
 			"entityType": "brandhouse_mediapark",
 			"name": "Cradlepoint (part of Ericsson)",
 			"parent": "",
@@ -996,6 +1029,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "8584576",
+			"registrationID": "",
 			"entityType": "brandhouse_mediapark",
 			"name": "Cisco",
 			"parent": "",
@@ -1029,6 +1063,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "8584580",
+			"registrationID": "",
 			"entityType": "brandhouse_mediapark",
 			"name": "Zoom Video Communications",
 			"parent": "",
@@ -1062,6 +1097,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "8584572",
+			"registrationID": "",
 			"entityType": "brandhouse_mediapark",
 			"name": "Samsung",
 			"parent": "",
@@ -1095,6 +1131,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015256",
+			"registrationID": "",
 			"entityType": "brandhouse_friesenviertel",
 			"name": "SoSafe",
 			"parent": "",
@@ -1128,6 +1165,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0004258",
+			"registrationID": "",
 			"entityType": "brandhouse_friesenviertel",
 			"name": "NFON",
 			"parent": "",
@@ -1161,6 +1199,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0004318",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "Huawei",
 			"parent": "",
@@ -1194,6 +1233,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "8584577",
+			"registrationID": "",
 			"entityType": "brandhouse_friesenviertel",
 			"name": "Lancom",
 			"parent": "",
@@ -1227,6 +1267,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "8584581",
+			"registrationID": "",
 			"entityType": "brandhouse_mediapark",
 			"name": "HPE Aruba Networking",
 			"parent": "",
@@ -1260,6 +1301,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "8584597",
+			"registrationID": "",
 			"entityType": "brandhouse_belgisches",
 			"name": "Ivanti",
 			"parent": "",
@@ -1293,6 +1335,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "8584607",
+			"registrationID": "",
 			"entityType": "brandhouse_mediapark",
 			"name": "Google Cloud",
 			"parent": "",
@@ -1326,6 +1369,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0004345",
+			"registrationID": "",
 			"entityType": "brandhouse_mediapark",
 			"name": "Microsoft",
 			"parent": "",
@@ -1359,6 +1403,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015382",
+			"registrationID": "",
 			"entityType": "brandhouse_mediapark",
 			"name": "Nokia",
 			"parent": "",
@@ -1392,6 +1437,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0014290",
+			"registrationID": "",
 			"entityType": "brandhouse_mediapark",
 			"name": "Klitschko Ventures",
 			"parent": "",
@@ -1425,6 +1471,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0005511",
+			"registrationID": "",
 			"entityType": "brandhouse_belgisches",
 			"name": "Jamf Software",
 			"parent": "",
@@ -1458,6 +1505,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0005513",
+			"registrationID": "",
 			"entityType": "brandhouse_friesenviertel",
 			"name": "Lenovo",
 			"parent": "",
@@ -1491,6 +1539,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0013500",
+			"registrationID": "",
 			"entityType": "brandhouse_belgisches",
 			"name": "q.beyond",
 			"parent": "",
@@ -1524,6 +1573,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0005380",
+			"registrationID": "",
 			"entityType": "brandhouse_friesenviertel",
 			"name": "Medialine",
 			"parent": "",
@@ -1557,6 +1607,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0004169",
+			"registrationID": "",
 			"entityType": "brandhouse_mediapark",
 			"name": "Juniper Networks",
 			"parent": "",
@@ -1590,6 +1641,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0005598",
+			"registrationID": "",
 			"entityType": "brandhouse_belgisches",
 			"name": "Enreach",
 			"parent": "",
@@ -1623,6 +1675,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0004316",
+			"registrationID": "",
 			"entityType": "brandhouse_friesenviertel",
 			"name": "Xiaomi Deutschland",
 			"parent": "",
@@ -1656,6 +1709,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0014266",
+			"registrationID": "",
 			"entityType": "brandhouse_mediapark",
 			"name": "KPMG",
 			"parent": "",
@@ -1685,6 +1739,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015351",
+			"registrationID": "",
 			"entityType": "brandhouse_belgisches",
 			"name": "Omilia",
 			"parent": "",
@@ -1714,6 +1769,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0005436",
+			"registrationID": "",
 			"entityType": "brandhouse_belgisches",
 			"name": "C4B",
 			"parent": "",
@@ -1743,6 +1799,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015376",
+			"registrationID": "",
 			"entityType": "brandhouse_belgisches",
 			"name": "Dätwyler IT Infra",
 			"parent": "",
@@ -1772,6 +1829,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0013576",
+			"registrationID": "",
 			"entityType": "brandhouse_belgisches",
 			"name": "Bullitt Group",
 			"parent": "",
@@ -1801,6 +1859,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015258",
+			"registrationID": "",
 			"entityType": "brandhouse_belgisches",
 			"name": "axxessio",
 			"parent": "",
@@ -1830,6 +1889,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "8584598",
+			"registrationID": "",
 			"entityType": "brandhouse_friesenviertel",
 			"name": "Jabra",
 			"parent": "",
@@ -1859,6 +1919,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "8584617",
+			"registrationID": "",
 			"entityType": "brandhouse_mediapark",
 			"name": "Der Mittelstand, BVMW",
 			"parent": "",
@@ -1888,6 +1949,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "8584620",
+			"registrationID": "",
 			"entityType": "brandhouse_friesenviertel",
 			"name": "DATANET",
 			"parent": "",
@@ -1921,6 +1983,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015255",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "BPV Unternehmensgruppe",
 			"parent": "",
@@ -1950,6 +2013,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015411",
+			"registrationID": "",
 			"entityType": "brandhouse_mediapark",
 			"name": "Palo Alto Networks",
 			"parent": "",
@@ -1979,6 +2043,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0014105",
+			"registrationID": "",
 			"entityType": "brandhouse_mediapark",
 			"name": "vmware",
 			"parent": "",
@@ -2008,6 +2073,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0005438",
+			"registrationID": "",
 			"entityType": "brandhouse_belgisches",
 			"name": "Telekom Experience House: Apple in Business",
 			"parent": "",
@@ -2037,6 +2103,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015373",
+			"registrationID": "",
 			"entityType": "brandhouse_belgisches",
 			"name": "Salesforce",
 			"parent": "",
@@ -2061,6 +2128,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015370",
+			"registrationID": "",
 			"entityType": "brandhouse_belgisches",
 			"name": "DocuSign",
 			"parent": "",
@@ -2085,6 +2153,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015458",
+			"registrationID": "",
 			"entityType": "brandhouse_belgisches",
 			"name": "Ekinops",
 			"parent": "",
@@ -2118,6 +2187,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015372",
+			"registrationID": "",
 			"entityType": "brandhouse_belgisches",
 			"name": "EDD Engineering & Digital Design",
 			"parent": "",
@@ -2147,6 +2217,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0004273",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "Enerthing GmbH",
 			"parent": "stadtgarten_sustainability",
@@ -2176,6 +2247,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015403",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "equipme GmbH",
 			"parent": "stadtgarten_futurework",
@@ -2205,6 +2277,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015400",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "metr Building Management Systems GmbH",
 			"parent": "stadtgarten_sustainability",
@@ -2234,6 +2307,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015401",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "Flixcheck GmbH",
 			"parent": "stadtgarten_connectedbusiness",
@@ -2263,6 +2337,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015404",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "clockin GmbH",
 			"parent": "stadtgarten_connectedbusiness",
@@ -2292,6 +2367,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015398",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "SINFOSY digital GmbH",
 			"parent": "stadtgarten_connectedbusiness",
@@ -2321,6 +2397,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015455",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "Loxonet GmbH",
 			"parent": "stadtgarten_futurework",
@@ -2350,6 +2427,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0014255",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "LocateRisk GmbH",
 			"parent": "stadtgarten_security",
@@ -2379,6 +2457,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015410",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "AddMee GmbH",
 			"parent": "stadtgarten_futurework",
@@ -2408,6 +2487,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0005435",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "Smart-Study GmbH",
 			"parent": "stadtgarten_futurework",
@@ -2437,6 +2517,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015402",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "EVOspark GmbH",
 			"parent": "stadtgarten_inno_cases",
@@ -2466,6 +2547,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015407",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "ambeRoad Tech GmbH",
 			"parent": "stadtgarten_futurework",
@@ -2495,6 +2577,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015395",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "Zesavi GmbH",
 			"parent": "stadtgarten_futurework",
@@ -2524,6 +2607,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015405",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "Artenglück GmbH",
 			"parent": "stadtgarten_sustainability",
@@ -2553,6 +2637,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015406",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "ApplyZ GmbH",
 			"parent": "stadtgarten_futurework",
@@ -2582,6 +2667,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015397",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "Streavent UG",
 			"parent": "stadtgarten_futurework",
@@ -2611,6 +2697,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015396",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "SUSTAYN GmbH",
 			"parent": "stadtgarten_sustainability",
@@ -2640,6 +2727,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015485",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "rooom AG",
 			"parent": "stadtgarten_inno_cases",
@@ -2669,6 +2757,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015522",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "3D Spark GmbH",
 			"parent": "stadtgarten_connectedbusiness",
@@ -2698,6 +2787,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015399",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "oraya GmbH",
 			"parent": "stadtgarten_connectedbusiness",
@@ -2727,6 +2817,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0004278",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "acameo GbR",
 			"parent": "stadtgarten_futurework",
@@ -2756,6 +2847,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015456",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "CLOUDSUPPLIES Intellimation GmbH",
 			"parent": "stadtgarten_connectedbusiness",
@@ -2785,6 +2877,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015443",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "consalio GmbH",
 			"parent": "stadtgarten_connectedbusiness",
@@ -2814,6 +2907,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015441",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "cobago GmbH",
 			"parent": "stadtgarten_connectedbusiness",
@@ -2843,6 +2937,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015487",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "DataCo GmbH",
 			"parent": "stadtgarten_security",
@@ -2872,6 +2967,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015452",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "lambda9 GmbH",
 			"parent": "stadtgarten_futurework",
@@ -2901,6 +2997,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015483",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "VRdirect GmbH",
 			"parent": "stadtgarten_futurework",
@@ -2930,6 +3027,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015491",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "Cognigy GmbH",
 			"parent": "stadtgarten_connectedbusiness",
@@ -2959,6 +3057,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015489",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "LegalTegrity GmbH",
 			"parent": "stadtgarten_security",
@@ -2988,6 +3087,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015492",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "MOOT Upcycling GmbH",
 			"parent": "stadtgarten_sustainability",
@@ -3017,6 +3117,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015448",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "readyplace AG",
 			"parent": "stadtgarten_futurework",
@@ -3046,6 +3147,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015440",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "heronOS GmbH",
 			"parent": "stadtgarten_connectedbusiness",
@@ -3075,6 +3177,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015454",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "tabya GmbH",
 			"parent": "stadtgarten_connectedbusiness",
@@ -3104,6 +3207,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015444",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "Goyaa GmbH",
 			"parent": "stadtgarten_futurework",
@@ -3133,6 +3237,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015486",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "PlanetWatch (PlanetWatch S.A.S.)",
 			"parent": "stadtgarten_sustainability",
@@ -3162,6 +3267,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015446",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "Softwaregini UG",
 			"parent": "stadtgarten_futurework",
@@ -3191,6 +3297,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015450",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "goodcarbon GmbH",
 			"parent": "stadtgarten_sustainability",
@@ -3220,6 +3327,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015521",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "World from Space, s.r.o.",
 			"parent": "stadtgarten_sustainability",
@@ -3249,6 +3357,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015449",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "Lexemo GmbH",
 			"parent": "stadtgarten_futurework",
@@ -3278,6 +3387,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015439",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "Code Intelligence GmbH",
 			"parent": "stadtgarten_security",
@@ -3307,6 +3417,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015471",
+			"registrationID": "",
 			"entityType": "brandhouse_belgisches",
 			"name": "Communisystems",
 			"parent": "",
@@ -3336,6 +3447,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "8722694",
+			"registrationID": "",
 			"entityType": "brandhouse_belgisches",
 			"name": "Fortinet",
 			"parent": "",
@@ -3365,6 +3477,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015425",
+			"registrationID": "",
 			"entityType": "brandhouse_friesenviertel",
 			"name": "bintec elmeg / Teldat",
 			"parent": "",
@@ -3394,6 +3507,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0004277",
+			"registrationID": "",
 			"entityType": "brandhouse_friesenviertel",
 			"name": "Dell",
 			"parent": "",
@@ -3423,6 +3537,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0014215",
+			"registrationID": "",
 			"entityType": "brandhouse_belgisches",
 			"name": "MIRA",
 			"parent": "",
@@ -3452,6 +3567,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015392",
+			"registrationID": "",
 			"entityType": "brandhouse_belgisches",
 			"name": "nexum.",
 			"parent": "",
@@ -3481,6 +3597,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015391",
+			"registrationID": "",
 			"entityType": "brandhouse_belgisches",
 			"name": "Intelsat",
 			"parent": "",
@@ -3510,6 +3627,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0013499",
+			"registrationID": "",
 			"entityType": "brandhouse_belgisches",
 			"name": "RingCentral",
 			"parent": "",
@@ -3539,6 +3657,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015412",
+			"registrationID": "",
 			"entityType": "brandhouse_belgisches",
 			"name": "TASSTA",
 			"parent": "",
@@ -3568,6 +3687,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0004266",
+			"registrationID": "",
 			"entityType": "brandhouse_belgisches",
 			"name": "ONSEI GmbH",
 			"parent": "stadtgarten_connectedbusiness",
@@ -3597,6 +3717,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0005452",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "SonoBeacon GmbH",
 			"parent": "stadtgarten_connectedbusiness",
@@ -3626,6 +3747,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015408",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "aedifion GmbH",
 			"parent": "stadtgarten_sustainability",
@@ -3655,6 +3777,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015438",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "Vreeda GmbH",
 			"parent": "stadtgarten_futurework",
@@ -3684,6 +3807,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015451",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "CampusGenius GmbH",
 			"parent": "stadtgarten_connectedbusiness",
@@ -3713,6 +3837,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015453",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "saasmetrix GmbH",
 			"parent": "stadtgarten_futurework",
@@ -3742,6 +3867,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015490",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "Dermanostic GmbH",
 			"parent": "stadtgarten_inno_cases",
@@ -3771,6 +3897,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015445",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "mogenius GmbH",
 			"parent": "stadtgarten_futurework",
@@ -3800,6 +3927,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0005455",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "snoopstar GmbH",
 			"parent": "stadtgarten_futurework",
@@ -3829,6 +3957,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0014249",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "Ubirch Gmbh",
 			"parent": "",
@@ -3858,6 +3987,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015447",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "DiHeSys Digital Health Systems GmbH",
 			"parent": "stadtgarten_inno_cases",
@@ -3887,6 +4017,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015488",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "Takuta GmbH",
 			"parent": "stadtgarten_futurework",
@@ -3916,6 +4047,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015484",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "Greenflash GmbH",
 			"parent": "stadtgarten_sustainability",
@@ -3945,6 +4077,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015520",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "SCALUE GmbH",
 			"parent": "stadtgarten_futurework",
@@ -3974,6 +4107,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015519",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "Sawayo GmbH",
 			"parent": "stadtgarten_security",
@@ -4003,6 +4137,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0014169",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "Nooxit GmbH",
 			"parent": "stadtgarten_connectedbusiness",
@@ -4032,6 +4167,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015518",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "easycircular Umweltmanagement GmbH",
 			"parent": "stadtgarten_sustainability",
@@ -4061,6 +4197,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015517",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "app-concept.com GmbH",
 			"parent": "",
@@ -4090,6 +4227,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0004272",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "Flip GmbH",
 			"parent": "stadtgarten_futurework",
@@ -4119,6 +4257,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015516",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "Panos AI GmbH",
 			"parent": "stadtgarten_connectedbusiness",
@@ -4148,6 +4287,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015515",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "LichtWART GmbH",
 			"parent": "stadtgarten_sustainability",
@@ -4177,6 +4317,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "8914101",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "Arctic Wolf Networks Germany GmbH",
 			"parent": "stadtgarten_security",
@@ -4206,6 +4347,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015514",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "goAVA GmbH",
 			"parent": "stadtgarten_futurework",
@@ -4235,6 +4377,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015457",
+			"registrationID": "",
 			"entityType": "brandhouse_mediapark",
 			"name": "Cynet",
 			"parent": "",
@@ -4264,6 +4407,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015432",
+			"registrationID": "",
 			"entityType": "brandhouse_mediapark",
 			"name": "Dynatrace",
 			"parent": "",
@@ -4293,6 +4437,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015524",
+			"registrationID": "",
 			"entityType": "brandhouse_mediapark",
 			"name": "Zscaler",
 			"parent": "",
@@ -4322,6 +4467,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "D0015525",
+			"registrationID": "",
 			"entityType": "brandhouse_mediapark",
 			"name": "CrowdStrike",
 			"parent": "",
@@ -4351,6 +4497,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "8914122",
+			"registrationID": "",
 			"entityType": "brandhouse_mediapark",
 			"name": "Akamai",
 			"parent": "",
@@ -4380,6 +4527,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "8914127",
+			"registrationID": "",
 			"entityType": "brandhouse_belgisches",
 			"name": "Fairphone",
 			"parent": "",
@@ -4409,6 +4557,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "CReg00123",
+			"registrationID": "",
 			"entityType": "brandhouse_mediapark",
 			"name": "Sprinklr",
 			"parent": "",
@@ -4438,6 +4587,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "8914131",
+			"registrationID": "",
 			"entityType": "brandhouse_belgisches",
 			"name": "Scanblu",
 			"parent": "",
@@ -4467,6 +4617,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "CReg00125",
+			"registrationID": "",
 			"entityType": "brandhouse_mediapark",
 			"name": "PWC",
 			"parent": "",
@@ -4496,6 +4647,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "CReg00126",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "bots4you",
 			"parent": "stadtgarten_futurework",
@@ -4525,6 +4677,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "CReg00127",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "Cauliflower.ai",
 			"parent": "stadtgarten_connectedbusiness",
@@ -4554,6 +4707,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "CReg00128",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "goodride",
 			"parent": "stadtgarten_inno_cases",
@@ -4583,6 +4737,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "CReg00129",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "VERSO",
 			"parent": "stadtgarten_sustainability",
@@ -4612,6 +4767,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "CReg00130",
+			"registrationID": "",
 			"entityType": "brandhouse_mediapark",
 			"name": "Poly",
 			"parent": "",
@@ -4641,6 +4797,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "8914140",
+			"registrationID": "",
 			"entityType": "brandhouse_mediapark",
 			"name": "Checkpoint",
 			"parent": "",
@@ -4670,6 +4827,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "CReg00132",
+			"registrationID": "",
 			"entityType": "brandhouse_mediapark",
 			"name": "Zoom X",
 			"parent": "",
@@ -4699,6 +4857,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "CReg00133",
+			"registrationID": "",
 			"entityType": "brandhouse_mediapark",
 			"name": "Vonage",
 			"parent": "",
@@ -4728,6 +4887,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "CReg00134",
+			"registrationID": "",
 			"entityType": "brandhouse_mediapark",
 			"name": "VBR",
 			"parent": "",
@@ -4757,6 +4917,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "CReg00135",
+			"registrationID": "",
 			"entityType": "brandhouse_friesenviertel",
 			"name": "Lounge Public Sector",
 			"parent": "",
@@ -4786,6 +4947,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "CReg00136",
+			"registrationID": "",
 			"entityType": "brandhouse_belgisches",
 			"name": "Lounge Mittelstand",
 			"parent": "",
@@ -4815,6 +4977,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "CReg00137",
+			"registrationID": "",
 			"entityType": "brandhouse_friesenviertel",
 			"name": "Open Telekom Cloud",
 			"parent": "",
@@ -4844,6 +5007,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "CReg00138",
+			"registrationID": "",
 			"entityType": "brandhouse_friesenviertel",
 			"name": "Lounge Partner",
 			"parent": "",
@@ -4873,6 +5037,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "CReg00139",
+			"registrationID": "",
 			"entityType": "brandhouse_belgisches",
 			"name": "Easy Lounge Telekom",
 			"parent": "",
@@ -4902,6 +5067,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "8922966",
+			"registrationID": "",
 			"entityType": "brandhouse_stadtgarten",
 			"name": "Telekom: Schubkraft",
 			"parent": "",
@@ -4931,6 +5097,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "8922967",
+			"registrationID": "",
 			"entityType": "brandhouse-t",
 			"name": "Deutsche Telekom Brandhouse",
 			"parent": "",
@@ -4960,6 +5127,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "8922968",
+			"registrationID": "",
 			"entityType": "brandhouse-t",
 			"name": "Deutsche Telekom Global Carrier",
 			"parent": "",
@@ -4989,6 +5157,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "8922969",
+			"registrationID": "",
 			"entityType": "brandhouse-t",
 			"name": "Lounge KMU",
 			"parent": "",
@@ -5018,6 +5187,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "8922971",
+			"registrationID": "",
 			"entityType": "brandhouse-t",
 			"name": "Deutsche Telekom IoT",
 			"parent": "",
@@ -5047,6 +5217,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "8922972",
+			"registrationID": "",
 			"entityType": "brandhouse-t",
 			"name": "Telekom Security",
 			"parent": "",
@@ -5076,6 +5247,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "CReg00146",
+			"registrationID": "",
 			"entityType": "brandhouse_mediapark",
 			"name": "Telekom MMS",
 			"parent": "",
@@ -5105,6 +5277,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "8922975",
+			"registrationID": "",
 			"entityType": "brandhouse_friesenviertel",
 			"name": "Telekom TSI",
 			"parent": "",
@@ -5134,6 +5307,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "8922891",
+			"registrationID": "",
 			"entityType": "brandhouse_mediapark",
 			"name": "Deutsche Telekom Services Europe SE",
 			"parent": "",
@@ -5163,6 +5337,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "CReg00149",
+			"registrationID": "",
 			"entityType": "brandhouse_mediapark",
 			"name": "Cloud-Explorer",
 			"parent": "",
@@ -5192,6 +5367,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "CReg00150",
+			"registrationID": "",
 			"entityType": "brandhouse_mediapark",
 			"name": "Telekom Solutions Nachhaltigkeit",
 			"parent": "",
@@ -5221,6 +5397,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "CReg00151",
+			"registrationID": "",
 			"entityType": "brandhouse_mediapark",
 			"name": "T-Systems",
 			"parent": "",
@@ -5250,6 +5427,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "8922979",
+			"registrationID": "",
 			"entityType": "brandhouse_mediapark",
 			"name": "Lounge Großkunden und International",
 			"parent": "",
@@ -5279,6 +5457,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "future_stage",
+			"registrationID": "",
 			"entityType": "stage_future",
 			"name": "Future Stage",
 			"parent": "",
@@ -5311,6 +5490,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "inspiration_stage",
+			"registrationID": "",
 			"entityType": "stage_inspiration",
 			"name": "Inspiration Stage",
 			"parent": "",
@@ -5342,6 +5522,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "interactive_stage",
+			"registrationID": "",
 			"entityType": "stage_interactive",
 			"name": "Interactive Stage",
 			"parent": "",
@@ -5373,6 +5554,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "disruption_stage",
+			"registrationID": "",
 			"entityType": "stage_disruption",
 			"name": "Disruption Stage",
 			"parent": "",
@@ -5404,6 +5586,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "magenta_stage",
+			"registrationID": "",
 			"entityType": "stage_inspiration",
 			"name": "Magenta Stage",
 			"parent": "",
@@ -5435,6 +5618,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "startplatz_stage_ma",
+			"registrationID": "",
 			"entityType": "stage",
 			"name": "Startplatz, Room Maastricht [1. OG]",
 			"parent": "",
@@ -5466,6 +5650,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "wohngemeinschaft_stage",
+			"registrationID": "",
 			"entityType": "stage",
 			"name": "DIE WOHNGEMEINSCHAFT | Theater [EG]",
 			"parent": "",
@@ -5495,6 +5680,7 @@
 		{
 			"__tabName": "Entity",
 			"id": "startplatz_stage_ut",
+			"registrationID": "",
 			"entityType": "stage",
 			"name": "STARTPLATZ | Konferenzraum Utrecht [1. OG]",
 			"parent": "",
