@@ -137,6 +137,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8922888,
+				"Name": "goodride"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935302,
+					50.942765
+				],
+				"type": "Point"
+			},
+			"id": "07a7311c34463e2d958c2873ebaccd62"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8914051,
 				"Name": "greenflash"
 			},
@@ -821,6 +836,21 @@
 				"type": "LineString"
 			},
 			"id": "2e654f813722b37b50d9e4b2dd713209"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 8922887,
+				"Name": "PWC"
+			},
+			"geometry": {
+				"coordinates": [
+					6.944105,
+					50.948221
+				],
+				"type": "Point"
+			},
+			"id": "2ff19a29c3d5b5f272493e06a6f26a22"
 		},
 		{
 			"type": "Feature",
@@ -1573,6 +1603,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8914134,
+				"Name": "bots4u"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935665,
+					50.942798
+				],
+				"type": "Point"
+			},
+			"id": "586240f513807c1860cd7c68938bb9bf"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjplNmJkNjIzZC0zZDJmLTQ0ZjAtOWVhMC0yZjkxYjBiMzliMzE",
 				"place_name": "Friesenstraße 73, 50670 Köln, Germany",
@@ -1882,7 +1927,8 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": 8914131
+				"ID": 8914131,
+				"Name": "scanblu"
 			},
 			"geometry": {
 				"coordinates": [
@@ -2379,6 +2425,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8922886,
+				"Name": "Sprinklr"
+			},
+			"geometry": {
+				"coordinates": [
+					6.94394,
+					50.948131
+				],
+				"type": "Point"
+			},
+			"id": "a64b20d6fc2302c30b124867cee618ef"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8584570,
 				"Name": "netgo"
 			},
@@ -2452,6 +2513,21 @@
 				"type": "Point"
 			},
 			"id": "ad4ee5f703c19e096a2533808f7a0d2d"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 8914137,
+				"Name": "cauliflower.ai"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935389,
+					50.942972
+				],
+				"type": "Point"
+			},
+			"id": "add29e9f782371651c400a80442f2fe9"
 		},
 		{
 			"type": "Feature",
