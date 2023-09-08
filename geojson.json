@@ -122,6 +122,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8914051,
+				"Name": "greenflash"
+			},
+			"geometry": {
+				"coordinates": [
+					6.934932,
+					50.942848
+				],
+				"type": "Point"
+			},
+			"id": "086171206a19fbefd6ed3ea8e67deb35"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "mediapark",
 				"Color": "#e5117e"
 			},
@@ -1243,6 +1258,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8914068,
+				"Name": "nooexit"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935319,
+					50.942971
+				],
+				"type": "Point"
+			},
+			"id": "49c859bb7e4e154c12b982253fca77d6"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "ki_tour"
 			},
 			"geometry": {
@@ -1893,6 +1923,21 @@
 				"type": "Point"
 			},
 			"id": "888478d17b564493ecd73e91b6327c3a"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 8914060,
+				"Name": "sawayu"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935145,
+					50.942654
+				],
+				"type": "Point"
+			},
+			"id": "8b39283bca537b255f05a97e931796a5"
 		},
 		{
 			"type": "Feature",
@@ -2625,6 +2670,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8914047,
+				"Name": "takuta"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935707,
+					50.942805
+				],
+				"type": "Point"
+			},
+			"id": "c40ba33b76057be6e494c03872ebcf7f"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "akkreditierung1"
 			},
 			"geometry": {
@@ -2989,6 +3049,36 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8914078,
+				"Name": "easycircular"
+			},
+			"geometry": {
+				"coordinates": [
+					6.934964,
+					50.942827
+				],
+				"type": "Point"
+			},
+			"id": "d7f996fdf83c609ed41e7bf70c6d3a67"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 8914094,
+				"Name": "flip"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935632,
+					50.94281
+				],
+				"type": "Point"
+			},
+			"id": "da02a102c7bc93dff688569055001de7"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8584589,
 				"Name": "KPMG"
 			},
@@ -3059,6 +3149,21 @@
 				"type": "Point"
 			},
 			"id": "dfce92c46b5000a7bc7998a1af208c0c"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 8914055,
+				"Name": "scaleu"
+			},
+			"geometry": {
+				"coordinates": [
+					6.93566,
+					50.942759
+				],
+				"type": "Point"
+			},
+			"id": "e26787a29a8c5313d0c87646b414d38c"
 		},
 		{
 			"type": "Feature",
@@ -3299,6 +3404,21 @@
 				"type": "Point"
 			},
 			"id": "ebe9ffa2fd77fd5212fdd6855f976e27"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 8914091,
+				"Name": "JobsNavi"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935645,
+					50.942826
+				],
+				"type": "Point"
+			},
+			"id": "ee1b2b20633bd0dea4ee7217aa28cdd7"
 		},
 		{
 			"type": "Feature",
