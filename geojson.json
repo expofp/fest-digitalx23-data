@@ -1987,6 +1987,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8962220,
+				"Name": "IBM"
+			},
+			"geometry": {
+				"coordinates": [
+					6.945069,
+					50.948629
+				],
+				"type": "Point"
+			},
+			"id": "7da7b912aa32bd17c8f8ea3f30faa322"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8914131,
 				"Name": "scanblu"
 			},
