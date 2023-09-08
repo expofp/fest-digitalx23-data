@@ -4557,10 +4557,10 @@
 			"logoURL": "",
 			"website": "www.sprinklr.com",
 			"highlight": "",
-			"addressCalculation": "Stadtgarten",
-			"address": "#VALUE!",
-			"city": "#VALUE!",
-			"postalCode": "#VALUE!"
+			"addressCalculation": "Im Mediapark, 50670 Köln",
+			"address": "Im Mediapark",
+			"city": "Köln",
+			"postalCode": "50670"
 		},
 		{
 			"__tabName": "Entity",
@@ -4617,8 +4617,8 @@
 			"logoURL": "",
 			"website": "https://www.pwc.com/",
 			"highlight": "",
-			"addressCalculation": "Im Mediapark 6, 50670 Köln",
-			"address": "Im Mediapark 6",
+			"addressCalculation": "Im Mediapark, 50670 Köln",
+			"address": "Im Mediapark",
 			"city": "Köln",
 			"postalCode": "50670"
 		},
@@ -4767,8 +4767,8 @@
 			"logoURL": "",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "Im Mediapark 6, 50670 Köln",
-			"address": "Im Mediapark 6",
+			"addressCalculation": "Im Mediapark, 50670 Köln",
+			"address": "Im Mediapark",
 			"city": "Köln",
 			"postalCode": "50670"
 		},
