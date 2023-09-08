@@ -4,6 +4,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8914038,
+				"Name": "ubrich"
+			},
+			"geometry": {
+				"coordinates": [
+					6.934882,
+					50.942873
+				],
+				"type": "Point"
+			},
+			"id": "02cf96196ac1bf40e199e4bc8c374087"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8722671,
 				"Name": "Moot"
 			},
@@ -1591,6 +1606,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8914031,
+				"Name": "Dermanostic GmbH"
+			},
+			"geometry": {
+				"coordinates": [
+					6.93523,
+					50.94277
+				],
+				"type": "Point"
+			},
+			"id": "6971c574d1090803dda4bc713b2868d1"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjpmYmMwNDcwYS0yY2JkLTRkMWQtYjQzYS04NTZiMzRlZmI3ODM",
 				"place_name": "Friesenstraße 58-60, 50670 Köln, Germany",
@@ -2214,6 +2244,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8914034,
+				"Name": "mogenius"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935595,
+					50.942784
+				],
+				"type": "Point"
+			},
+			"id": "a01d2df6464f0da41313e8aef8bbc7d5"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "startplatz_stage_ma"
 			},
 			"geometry": {
@@ -2429,6 +2474,21 @@
 				"type": "Point"
 			},
 			"id": "b1f8bb4dc1da3f018e5471fc2f9d2772"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 8914041,
+				"Name": "DiHeSys Digital Health Systems GmbH"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935326,
+					50.942783
+				],
+				"type": "Point"
+			},
+			"id": "b46e0e1dc54010b9bb6b58a9641fb816"
 		},
 		{
 			"type": "Feature",
@@ -3426,6 +3486,21 @@
 				"type": "Polygon"
 			},
 			"id": "f8fe0a76240bc3c668c71dff24abc41d"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 8914036,
+				"Name": "snoopstar"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935624,
+					50.942773
+				],
+				"type": "Point"
+			},
+			"id": "fdca8ebcb3367610f313cb245b8a1585"
 		}
 	]
 }
