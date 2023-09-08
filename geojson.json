@@ -4,6 +4,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8914099,
+				"Name": "lichtwart"
+			},
+			"geometry": {
+				"coordinates": [
+					6.934937,
+					50.942799
+				],
+				"type": "Point"
+			},
+			"id": "02cadde7fecc66d87369aa49bcab2e7a"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8914038,
 				"Name": "ubrich"
 			},
@@ -361,7 +376,8 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": 8914127
+				"ID": 8914127,
+				"Name": "fairphone"
 			},
 			"geometry": {
 				"coordinates": [
@@ -1118,7 +1134,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "D0015524",
+				"ID": 8914115,
 				"Name": "Zscaler"
 			},
 			"geometry": {
@@ -1775,7 +1791,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "D0015525",
+				"ID": 8914119,
 				"Name": "CrowdStrike"
 			},
 			"geometry": {
@@ -1923,6 +1939,21 @@
 				"type": "Point"
 			},
 			"id": "888478d17b564493ecd73e91b6327c3a"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 8914106,
+				"Name": "goAVA"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935623,
+					50.942792
+				],
+				"type": "Point"
+			},
+			"id": "895f96ca12d49670f560f8e84af4779d"
 		},
 		{
 			"type": "Feature",
@@ -2274,6 +2305,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8914097,
+				"Name": "panos"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935356,
+					50.942951
+				],
+				"type": "Point"
+			},
+			"id": "9e17b231f5d0e8dd51537f466884043c"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8584593,
 				"Name": "C4B"
 			},
@@ -2380,7 +2426,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "D0015457",
+				"ID": 8914108,
 				"Name": "Cynet"
 			},
 			"geometry": {
@@ -2538,7 +2584,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "D0015432",
+				"ID": 8914112,
 				"Name": "Dynatrace"
 			},
 			"geometry": {
