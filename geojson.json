@@ -391,6 +391,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8922957,
+				"Name": "VBR"
+			},
+			"geometry": {
+				"coordinates": [
+					6.944161,
+					50.948832
+				],
+				"type": "Point"
+			},
+			"id": "12155ec04d02dd983c87d3fcb63e76a0"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8914127,
 				"Name": "fairphone"
 			},
@@ -899,6 +914,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8922956,
+				"Name": "vonage"
+			},
+			"geometry": {
+				"coordinates": [
+					6.943965,
+					50.948811
+				],
+				"type": "Point"
+			},
+			"id": "31aac61fd32ab408ae606df4e55ca2ea"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8922891,
 				"Name": "DTSE"
 			},
@@ -959,6 +989,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8922955,
+				"Name": "Zoom X"
+			},
+			"geometry": {
+				"coordinates": [
+					6.944153,
+					50.948752
+				],
+				"type": "Point"
+			},
+			"id": "3802782ca1bb576c0889bc9e946f030f"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8722607,
 				"Name": "EDD Engineering & Digital Design"
 			},
@@ -999,6 +1044,21 @@
 				"type": "Point"
 			},
 			"id": "3c87804e1ac8195dc20d3d768fe654bd"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 8922890,
+				"Name": "verso"
+			},
+			"geometry": {
+				"coordinates": [
+					6.93489,
+					50.942769
+				],
+				"type": "Point"
+			},
+			"id": "3d8b5a7861c12fc34572283e51564dc7"
 		},
 		{
 			"type": "Feature",
@@ -2175,6 +2235,21 @@
 				"type": "LineString"
 			},
 			"id": "8bfe9d0b43fcc11852067cda44b8a4dc"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 8922953,
+				"Name": "poly"
+			},
+			"geometry": {
+				"coordinates": [
+					6.944379,
+					50.948255
+				],
+				"type": "Point"
+			},
+			"id": "8cd88a1c17b5bb26ffe144ca209f9525"
 		},
 		{
 			"type": "Feature",
