@@ -3537,10 +3537,10 @@
 			"logoURL": "",
 			"website": "www.tassta.com",
 			"highlight": "",
-			"addressCalculation": "Rudolfplatz",
-			"address": "#VALUE!",
-			"city": "#VALUE!",
-			"postalCode": "#VALUE!"
+			"addressCalculation": "Rudolfplatz, 50674 Köln",
+			"address": "Rudolfplatz",
+			"city": "Köln",
+			"postalCode": "50674"
 		},
 		{
 			"__tabName": "Entity",
@@ -3567,10 +3567,10 @@
 			"logoURL": "",
 			"website": "https://www.nexum.com/",
 			"highlight": "",
-			"addressCalculation": "Rudolfplatz",
-			"address": "#VALUE!",
-			"city": "#VALUE!",
-			"postalCode": "#VALUE!"
+			"addressCalculation": "Rudolfplatz, 50674 Köln",
+			"address": "Rudolfplatz",
+			"city": "Köln",
+			"postalCode": "50674"
 		},
 		{
 			"__tabName": "Entity",
@@ -3597,10 +3597,10 @@
 			"logoURL": "",
 			"website": "https://www.intelsat.com/",
 			"highlight": "",
-			"addressCalculation": "Rudolfplatz",
-			"address": "#VALUE!",
-			"city": "#VALUE!",
-			"postalCode": "#VALUE!"
+			"addressCalculation": "Rudolfplatz, 50674 Köln",
+			"address": "Rudolfplatz",
+			"city": "Köln",
+			"postalCode": "50674"
 		},
 		{
 			"__tabName": "Entity",
@@ -3627,10 +3627,10 @@
 			"logoURL": "",
 			"website": "https://www.ringcentral.com/de/de/",
 			"highlight": "",
-			"addressCalculation": "Rudolfplatz",
-			"address": "#VALUE!",
-			"city": "#VALUE!",
-			"postalCode": "#VALUE!"
+			"addressCalculation": "Rudolfplatz, 50674 Köln",
+			"address": "Rudolfplatz",
+			"city": "Köln",
+			"postalCode": "50674"
 		},
 		{
 			"__tabName": "Entity",
@@ -3657,10 +3657,10 @@
 			"logoURL": "",
 			"website": "www.tassta.com",
 			"highlight": "",
-			"addressCalculation": "Rudolfplatz",
-			"address": "#VALUE!",
-			"city": "#VALUE!",
-			"postalCode": "#VALUE!"
+			"addressCalculation": "Rudolfplatz, 50674 Köln",
+			"address": "Rudolfplatz",
+			"city": "Köln",
+			"postalCode": "50674"
 		},
 		{
 			"__tabName": "Entity",
@@ -4527,10 +4527,10 @@
 			"logoURL": "",
 			"website": "https://www.fairphone.com/en/",
 			"highlight": "",
-			"addressCalculation": "Aachener Straße 24-26 50674 Köln",
-			"address": "#VALUE!",
-			"city": "#VALUE!",
-			"postalCode": "#VALUE!"
+			"addressCalculation": "Aachener Straße 24-26, 50674 Köln",
+			"address": "Aachener Straße 24-26",
+			"city": "Köln",
+			"postalCode": "50674"
 		},
 		{
 			"__tabName": "Entity",
@@ -4587,10 +4587,10 @@
 			"logoURL": "",
 			"website": "https://www.telekom-mobilitysolutions.de/index.php/goodride/",
 			"highlight": "",
-			"addressCalculation": "Aachener Straße 24-26 50674 Köln",
-			"address": "#VALUE!",
-			"city": "#VALUE!",
-			"postalCode": "#VALUE!"
+			"addressCalculation": "Aachener Straße 24-26, 50674 Köln",
+			"address": "Aachener Straße 24-26",
+			"city": "Köln",
+			"postalCode": "50674"
 		},
 		{
 			"__tabName": "Entity",
@@ -4617,10 +4617,10 @@
 			"logoURL": "",
 			"website": "https://www.pwc.com/",
 			"highlight": "",
-			"addressCalculation": "Stadtgarten",
-			"address": "#VALUE!",
-			"city": "#VALUE!",
-			"postalCode": "#VALUE!"
+			"addressCalculation": "Im Mediapark 6, 50670 Köln",
+			"address": "Im Mediapark 6",
+			"city": "Köln",
+			"postalCode": "50670"
 		},
 		{
 			"__tabName": "Entity",
@@ -4647,10 +4647,10 @@
 			"logoURL": "",
 			"website": "https://bots4you.de/",
 			"highlight": "",
-			"addressCalculation": "Stadtgarten",
-			"address": "#VALUE!",
-			"city": "#VALUE!",
-			"postalCode": "#VALUE!"
+			"addressCalculation": "Stadtgarten, 50672 Köln",
+			"address": "Stadtgarten",
+			"city": "Köln",
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -4677,10 +4677,10 @@
 			"logoURL": "",
 			"website": "https://cauliflower.ai",
 			"highlight": "",
-			"addressCalculation": "Stadtgarten",
-			"address": "#VALUE!",
-			"city": "#VALUE!",
-			"postalCode": "#VALUE!"
+			"addressCalculation": "Stadtgarten, 50672 Köln",
+			"address": "Stadtgarten",
+			"city": "Köln",
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -4707,10 +4707,10 @@
 			"logoURL": "",
 			"website": "https://www.telekom-mobilitysolutions.de/index.php/goodride/",
 			"highlight": "",
-			"addressCalculation": "Stadtgarten",
-			"address": "#VALUE!",
-			"city": "#VALUE!",
-			"postalCode": "#VALUE!"
+			"addressCalculation": "Stadtgarten, 50672 Köln",
+			"address": "Stadtgarten",
+			"city": "Köln",
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -4737,10 +4737,10 @@
 			"logoURL": "",
 			"website": "www.verso.de",
 			"highlight": "",
-			"addressCalculation": "Stadtgarten",
-			"address": "#VALUE!",
-			"city": "#VALUE!",
-			"postalCode": "#VALUE!"
+			"addressCalculation": "Stadtgarten, 50672 Köln",
+			"address": "Stadtgarten",
+			"city": "Köln",
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -5217,7 +5217,10 @@
 			"logoURL": "",
 			"website": "www.cloud-explorer.de",
 			"highlight": "",
-			"addressCalculation": "Im Mediapark 7, 50670 Köln"
+			"addressCalculation": "Im Mediapark 7, 50670 Köln",
+			"address": "Im Mediapark 7",
+			"city": "Köln",
+			"postalCode": "50670"
 		},
 		{
 			"__tabName": "Entity",
@@ -5244,7 +5247,10 @@
 			"logoURL": "",
 			"website": "https://geschaeftskunden.telekom.de/nachhaltigkeit/nachhaltigkeitsmanager",
 			"highlight": "",
-			"addressCalculation": "Im Mediapark 7, 50670 Köln"
+			"addressCalculation": "Im Mediapark 7, 50670 Köln",
+			"address": "Im Mediapark 7",
+			"city": "Köln",
+			"postalCode": "50670"
 		},
 		{
 			"__tabName": "Entity",
@@ -5271,7 +5277,10 @@
 			"logoURL": "",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "Friesenstraße 80, 50672 Köln"
+			"addressCalculation": "Friesenstraße 80, 50672 Köln",
+			"address": "Friesenstraße 80",
+			"city": "Köln",
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -5321,7 +5330,12 @@
 			"addedToMapbox": "FALSE",
 			"subtitle": "Mediapark Outdoor",
 			"logoURL": "",
-			"website": "www.cloud-explorer.de"
+			"website": "www.cloud-explorer.de",
+			"highlight": "",
+			"addressCalculation": "Im Mediapark, 50670 Köln",
+			"address": "Im Mediapark",
+			"city": "Köln",
+			"postalCode": "50670"
 		},
 		{
 			"__tabName": "Entity",
@@ -5346,7 +5360,12 @@
 			"addedToMapbox": "FALSE",
 			"subtitle": "Mediapark Outdoor",
 			"logoURL": "",
-			"website": "https://geschaeftskunden.telekom.de/nachhaltigkeit/nachhaltigkeitsmanager"
+			"website": "https://geschaeftskunden.telekom.de/nachhaltigkeit/nachhaltigkeitsmanager",
+			"highlight": "",
+			"addressCalculation": "Im Mediapark, 50670 Köln",
+			"address": "Im Mediapark",
+			"city": "Köln",
+			"postalCode": "50670"
 		},
 		{
 			"__tabName": "Entity",
@@ -5369,7 +5388,14 @@
 			"sector": "",
 			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE",
-			"subtitle": "Mediapark Outdoor"
+			"subtitle": "Mediapark Outdoor",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Im Mediapark, 50670 Köln",
+			"address": "Im Mediapark",
+			"city": "Köln",
+			"postalCode": "50670"
 		},
 		{
 			"__tabName": "Entity",
@@ -5417,7 +5443,12 @@
 			"addedToMapbox": "FALSE",
 			"subtitle": "MediaPark Haus 5, Raum 1 (1. OG)",
 			"logoURL": "",
-			"website": "https://www.ibm.com/de"
+			"website": "https://www.ibm.com/de",
+			"highlight": "",
+			"addressCalculation": "Im Mediapark 5, 50670 Köln",
+			"address": "Im Mediapark 5",
+			"city": "Köln",
+			"postalCode": "50670"
 		},
 		{
 			"__tabName": "Entity",
