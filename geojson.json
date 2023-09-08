@@ -301,6 +301,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8914014,
+				"Name": "sonobeacon"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935296,
+					50.942986
+				],
+				"type": "Point"
+			},
+			"id": "0f82313cc558aa563f927a59c3ed73f6"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8722648,
 				"Name": "amberSearch"
 			},
@@ -912,6 +927,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8914022,
+				"Name": "Vreeda GmbH"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935252,
+					50.942713
+				],
+				"type": "Point"
+			},
+			"id": "3da978b223626eb373c9971f9c3b996f"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "stadtgarten_sustainability"
 			},
 			"geometry": {
@@ -1496,6 +1526,21 @@
 				"type": "Point"
 			},
 			"id": "5871ae080d0e389b26f850ba7e5172f5"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 8914027,
+				"Name": "saasmetrix"
+			},
+			"geometry": {
+				"coordinates": [
+					6.93557,
+					50.942794
+				],
+				"type": "Point"
+			},
+			"id": "5b70ec2e3e60de995a94011afae208c9"
 		},
 		{
 			"type": "Feature",
@@ -2340,6 +2385,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8914010,
+				"Name": "Onsei"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935315,
+					50.942998
+				],
+				"type": "Point"
+			},
+			"id": "b015e80457bcbeddf07decbe622b7a5d"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjpiMGQzOWViNC0wY2VjLTRhYzYtOWRkOS05MWY5MzE4YTEwYTg",
 				"place_name": "Friesenwall 81, 50672 Köln, Germany",
@@ -2928,6 +2988,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8914025,
+				"Name": "campusgenius"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935356,
+					50.942987
+				],
+				"type": "Point"
+			},
+			"id": "dfce92c46b5000a7bc7998a1af208c0c"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjo3ZjFjN2UwYi0yZGNiLTQ0OTYtOGI3Yy1iNTA2NTY4MTYxOTY",
 				"place_name": "Aachener Straße 19, 50674 Köln, Germany",
@@ -3223,6 +3298,21 @@
 				"type": "Point"
 			},
 			"id": "f1f87c41761727f8fc506d564f75d4a3"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 8914018,
+				"Name": "aedifon"
+			},
+			"geometry": {
+				"coordinates": [
+					6.934845,
+					50.942889
+				],
+				"type": "Point"
+			},
+			"id": "f221cb3705488714865ff2fab35983e9"
 		},
 		{
 			"type": "Feature",
