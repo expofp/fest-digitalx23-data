@@ -288,6 +288,11 @@
             ]
         },
         {
+            "name": "Delete EntityType objects",
+            "filter": ["==", ["get", "__tabName"], "EntityType"],
+            "delete": true
+        },
+        {
             "name": "Cleanup",
             "update": {
                 "parentRoutesAndMe": ["undefined"],
