@@ -330,7 +330,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "D0015412",
+				"ID": 8722707,
 				"Name": "TASSTA"
 			},
 			"geometry": {
@@ -363,7 +363,8 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": 8722694
+				"ID": 8722694,
+				"Name": "Fortinet"
 			},
 			"geometry": {
 				"coordinates": [
@@ -512,7 +513,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "D0015392",
+				"ID": 8722702,
 				"Name": "nexum"
 			},
 			"geometry": {
@@ -777,7 +778,8 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "D0004277"
+				"ID": 8722696,
+				"Name": "Dell"
 			},
 			"geometry": {
 				"coordinates": [
@@ -2517,7 +2519,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "D0013499",
+				"ID": 8722720,
 				"Name": "ringcentral"
 			},
 			"geometry": {
@@ -2852,7 +2854,8 @@
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjpiMGQzOWViNC0wY2VjLTRhYzYtOWRkOS05MWY5MzE4YTEwYTg",
 				"place_name": "Friesenwall 81, 50672 Köln, Germany",
-				"ID": "D0015425"
+				"ID": 8722718,
+				"Name": "Elmeg / teldat"
 			},
 			"geometry": {
 				"coordinates": [
@@ -3037,7 +3040,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "D0015391",
+				"ID": 8722719,
 				"Name": "Intelsat"
 			},
 			"geometry": {
@@ -3165,7 +3168,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "D0014215",
+				"ID": 8722698,
 				"Name": "MIRA"
 			},
 			"geometry": {
