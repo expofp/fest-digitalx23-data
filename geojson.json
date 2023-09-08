@@ -560,6 +560,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8722682,
+				"Name": "PlanetWatch (PlanetWatch S.A.S.)"
+			},
+			"geometry": {
+				"coordinates": [
+					6.934746,
+					50.9428
+				],
+				"type": "Point"
+			},
+			"id": "2b7f8c9cb33eccc2472ff49a0ebae081"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "stadtgarten_inno_cases"
 			},
 			"geometry": {
@@ -772,6 +787,21 @@
 				"type": "Point"
 			},
 			"id": "307b2d8a0ca6920f2a12375bef6c5282"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 8722691,
+				"Name": "lexemo"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935678,
+					50.94277
+				],
+				"type": "Point"
+			},
+			"id": "3085e2ce0b6e80cb3b193ff75810738f"
 		},
 		{
 			"type": "Feature",
@@ -1265,6 +1295,21 @@
 				"type": "Point"
 			},
 			"id": "4af15824c3f56c0b366f70453b56e0cf"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 8722685,
+				"Name": "Softwaregini"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935694,
+					50.94279
+				],
+				"type": "Point"
+			},
+			"id": "4e2dbb804e819bcc9575d7ef44d7924c"
 		},
 		{
 			"type": "Feature",
@@ -2356,6 +2401,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8722687,
+				"Name": "goodcarbon"
+			},
+			"geometry": {
+				"coordinates": [
+					6.934797,
+					50.942775
+				],
+				"type": "Point"
+			},
+			"id": "b792e7102e55dbb609be9a92f5548156"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "inspiration_stage"
 			},
 			"geometry": {
@@ -2534,6 +2594,21 @@
 				"type": "Point"
 			},
 			"id": "c95e55e9b30e782d5d6819a70a28bbb6"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 8722690,
+				"Name": "World from Space"
+			},
+			"geometry": {
+				"coordinates": [
+					6.934836,
+					50.942755
+				],
+				"type": "Point"
+			},
+			"id": "c970a37954fdb701acdd3292da9200ff"
 		},
 		{
 			"type": "Feature",
@@ -3060,7 +3135,8 @@
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjoxZTc4MzhlMS1hODYyLTQ4NDQtYTA5Zi1kZTJkNzI3OWFhNzI",
 				"place_name": "Brüsseler Straße 66, 50674 Köln, Germany",
-				"ID": "D0015471"
+				"ID": 8722695,
+				"Name": "communisystems"
 			},
 			"geometry": {
 				"coordinates": [
@@ -3100,6 +3176,21 @@
 				"type": "Point"
 			},
 			"id": "ef776cb4cda47b3371b007f90e2c2748"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 8722693,
+				"Name": "code intelligence"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935251,
+					50.942788
+				],
+				"type": "Point"
+			},
+			"id": "ef89c36b5ebdba46a8694cce13c0203f"
 		},
 		{
 			"type": "Feature",
