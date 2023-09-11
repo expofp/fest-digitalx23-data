@@ -59,6 +59,76 @@
             }
         },
         {
+            "name": "Create Accreditation points filter",
+            "create": {
+                "id": "filter-check-in",
+                "name": "Accreditation points",
+                "name_de": "Akkreditierungspunkte",
+                "isFilter": true,
+                "hide": true
+            }
+        },
+        {
+            "name": "Create Brandhouses filter",
+            "create": {
+                "id": "filter-brandhouse",
+                "name": "Brandhouses",
+                "name_de": "Brandhouses",
+                "isFilter": true,
+                "hide": true
+            }
+        },
+        {
+            "name": "Create Stages filter",
+            "create": {
+                "id": "filter-stage",
+                "name": "Stages",
+                "name_de": "Bühnen",
+                "isFilter": true,
+                "hide": true
+            }
+        },
+        {
+            "name": "Create Guided Tours filter",
+            "create": {
+                "id": "filter-tour",
+                "name": "Guided tours",
+                "name_de": "Guided Tours",
+                "isFilter": true,
+                "hide": true
+            }
+        },
+        {
+            "name": "Create Kölsche Nacht Tag 1 filter",
+            "create": {
+                "id": "filter-koelsche-nacht-wed",
+                "name": "Kölsche Nacht day 1",
+                "name_de": "Kölsche Nacht Tag 1",
+                "isFilter": true,
+                "hide": true
+            }
+        },
+        {
+            "name": "Create Kölsche Nacht Tag 2 filter",
+            "create": {
+                "id": "filter-koelsche-nacht-thu",
+                "name": "Kölsche Nacht day 2",
+                "name_de": "Kölsche Nacht Tag 2",
+                "isFilter": true,
+                "hide": true
+            }
+        },
+        {
+            "name": "Create reset filter",
+            "create": {
+                "id": "filter-reset",
+                "name": "All POIs",
+                "name_de": "alle POIs",
+                "isFilter": true,
+                "hide": true
+            }
+        },
+        {
             "name": "Extract entityTypeObj",
             "update": [
                 {
@@ -110,6 +180,120 @@
             }
         },
         {
+            "name": "Set filter check-in type",
+            "filter": ["all", ["get", "entityTypeObj"], ["get", "filterGroup", ["get", "entityTypeObj"]], ["==", ["get" ,"entityType"], "check-in"]],
+            "update": {
+                "filterType": [
+                    "flat", [
+                        "create-array",
+                        ["flat", ["get", "filterType"]],
+                        "filter-check-in"
+                    ]
+                ]
+            }
+        },
+        {
+            "name": "Set filter brandhouse type",
+            "filter": ["all", ["get", "entityTypeObj"], ["get", "filterGroup", ["get", "entityTypeObj"]], ["startsWith", ["get" ,"entityType"], "brandhouse"]],
+            "update": {
+                "filterType": [
+                    "flat", [
+                        "create-array",
+                        ["flat", ["get", "filterType"]],
+                        "filter-brandhouse"
+                    ]
+                ]
+            }
+        },
+        {
+            "name": "Set filter stage type",
+            "filter": ["all", ["get", "entityTypeObj"], ["get", "filterGroup", ["get", "entityTypeObj"]], ["startsWith", ["get" ,"entityType"], "stage"]],
+            "update": {
+                "filterType": [
+                    "flat", [
+                        "create-array",
+                        ["flat", ["get", "filterType"]],
+                        "filter-stage"
+                    ]
+                ]
+            }
+        },
+        {
+            "name": "Set filter tour type",
+            "filter": ["all", ["get", "entityTypeObj"], ["get", "filterGroup", ["get", "entityTypeObj"]], ["==", ["get" ,"entityType"], "tour"]],
+            "update": {
+                "filterType": [
+                    "flat", [
+                        "create-array",
+                        ["flat", ["get", "filterType"]],
+                        "filter-tour"
+                    ]
+                ]
+            }
+        },
+        {
+            "name": "Set filter koelsche-nacht-wed type",
+            "filter": [
+                "all",
+                ["get", "entityTypeObj"],
+                ["get", "filterGroup", ["get", "entityTypeObj"]],
+                ["any",
+                    ["==", ["get", "extraTag1"], "koelsche-nacht-wed"],
+                    ["==", ["get", "extraTag2"], "koelsche-nacht-wed"],
+                    ["==", ["get", "extraTag3"], "koelsche-nacht-wed"],
+                    ["==", ["get", "extraTag4"], "koelsche-nacht-wed"],
+                    ["==", ["get", "extraTag5"], "koelsche-nacht-wed"],
+                    ["==", ["get", "extraTag6"], "koelsche-nacht-wed"]
+                ]
+            ],
+            "update": {
+                "filterType": [
+                    "flat", [
+                        "create-array",
+                        ["flat", ["get", "filterType"]],
+                        "filter-koelsche-nacht-wed"
+                    ]
+                ]
+            }
+        },
+        {
+            "name": "Set filter koelsche-nacht-thu type",
+            "filter": [
+                "all",
+                ["get", "entityTypeObj"],
+                ["get", "filterGroup", ["get", "entityTypeObj"]],
+                ["any",
+                    ["==", ["get", "extraTag1"], "koelsche-nacht-thu"],
+                    ["==", ["get", "extraTag2"], "koelsche-nacht-thu"],
+                    ["==", ["get", "extraTag3"], "koelsche-nacht-thu"],
+                    ["==", ["get", "extraTag4"], "koelsche-nacht-thu"],
+                    ["==", ["get", "extraTag5"], "koelsche-nacht-thu"],
+                    ["==", ["get", "extraTag6"], "koelsche-nacht-thu"]
+                ]
+            ],
+            "update": {
+                "filterType": [
+                    "flat", [
+                        "create-array",
+                        ["flat", ["get", "filterType"]],
+                        "filter-koelsche-nacht-thu"
+                    ]
+                ]
+            }
+        },
+        {
+            "name": "Set filter reset type",
+            "update": {
+                "filterType": [
+                    "flat", [
+                        "create-array",
+                        ["flat", ["get", "filterType"]],
+                        "filter-reset"
+                    ]
+                ]
+            }
+        },
+        {
             "name": "Extract parentRoutesAndMe",
             "update": [
                 {
@@ -134,24 +318,27 @@
             "update": [
                 {
                     "parents": [
-                        "create-array",
-                        ["get", "entityType"],
-                        ["get", "sector"],
-                        ["get", "parent"],
-                        ["get", "extraTag1"],
-                        ["get", "extraTag2"],
-                        ["get", "extraTag3"],
-                        ["get", "extraTag4"],
-                        ["get", "extraTag5"],
-                        ["get", "extraTag6"],
-                        ["get", "route1"],
-                        ["get", "route2"],
-                        ["get", "route3"],
-                        ["get", "route4"],
-                        ["get", "route5"],
-                        ["get", "route6"],
-                        ["get", "route7"],
-                        ["get", "filterType"]
+                        "flat",
+                        [
+                            "create-array",
+                            ["get", "entityType"],
+                            ["get", "sector"],
+                            ["get", "parent"],
+                            ["get", "extraTag1"],
+                            ["get", "extraTag2"],
+                            ["get", "extraTag3"],
+                            ["get", "extraTag4"],
+                            ["get", "extraTag5"],
+                            ["get", "extraTag6"],
+                            ["get", "route1"],
+                            ["get", "route2"],
+                            ["get", "route3"],
+                            ["get", "route4"],
+                            ["get", "route5"],
+                            ["get", "route6"],
+                            ["get", "route7"],
+                            ["flat", ["get", "filterType"]]
+                        ]
                     ]
                 }
             ]
