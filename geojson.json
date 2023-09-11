@@ -3709,6 +3709,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8722604,
+				"Name": "ekinops"
+			},
+			"geometry": {
+				"coordinates": [
+					6.936411,
+					50.936612
+				],
+				"type": "Point"
+			},
+			"id": "f2f043ed5ac8b65eaf6b8fbb9fdebbf0"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjpkYzUxZTc5Ni0xMjgwLTQxZDktOWU5Mi1mNzE4ODk3YmU2YjY",
 				"place_name": "Aachener Straße 16, 50674 Köln, Germany",
