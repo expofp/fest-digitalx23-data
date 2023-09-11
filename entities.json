@@ -4493,14 +4493,14 @@
 			"sector": "Quartier Mediapark",
 			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE",
-			"subtitle": "Komed Haus 7",
+			"subtitle": "Hanoi September",
 			"logoURL": "",
-			"website": "https://www.pwc.com/",
+			"website": "https://www.akamai.com",
 			"highlight": "",
-			"addressCalculation": "Im Mediapark 7, 50670 Köln",
-			"address": "Im Mediapark 7",
+			"addressCalculation": "Aachener Str. 19, 50674 Köln",
+			"address": "Aachener Str. 19",
 			"city": "Köln",
-			"postalCode": "50670"
+			"postalCode": "50674"
 		},
 		{
 			"__tabName": "Entity",
