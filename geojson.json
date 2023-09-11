@@ -2017,23 +2017,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"accuracy": "rooftop",
-				"mapbox_id": "dXJuOm1ieGFkcjpiNjJiZmFiMC0zMGQxLTQ3N2ItYjE0NS0xYWRmZDY1MDQ5NTY",
-				"place_name": "Aachener Straße 32, 50674 Köln, Germany",
-				"ID": 8722604
-			},
-			"geometry": {
-				"coordinates": [
-					6.936021,
-					50.936618
-				],
-				"type": "Point"
-			},
-			"id": "80f8af7e62a021634aa4070abf1285f2"
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"ID": 8722622,
 				"Name": "flixcheck"
 			},
