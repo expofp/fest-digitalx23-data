@@ -2036,6 +2036,24 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjplMjAyOGY0ZC1jY2I4LTRkNWUtOGYwYy04NGE5ODJlOGEzNGM",
+				"place_name": "Friesenplatz 7, 50672 Köln, Germany",
+				"ID": 8922958,
+				"Name": "Lounge Public Sector"
+			},
+			"geometry": {
+				"coordinates": [
+					6.939102,
+					50.940409
+				],
+				"type": "Point"
+			},
+			"id": "7e209234ee5fbff0956f68919c1a3495"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8914131,
 				"Name": "scanblu"
 			},
@@ -3031,8 +3049,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.937064,
-					50.93662
+					6.937078,
+					50.936595
 				],
 				"type": "Point"
 			},
