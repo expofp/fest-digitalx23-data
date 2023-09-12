@@ -5940,7 +5940,9 @@
 			"__tabName": "Extra Tag",
 			"id": "busstop",
 			"name": "Stop eShuttles/Rikshas",
-			"name_de": "Haltepunkte eShuttles/Rikshas"
+			"name_de": "Haltepunkte eShuttles/Rikshas",
+			"icon": "https://fest-digitalx23.expofp.com/images/new2/bus_stelle.png",
+			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/bus_stelle-active.png"
 		}
 	]
 }
