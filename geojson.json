@@ -49,6 +49,22 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjo3YTkwYWFkZi0xNzI3LTQxNTAtOWMzMy01MjBkMzZhMzBiMDM",
+				"place_name": "Aachener Straße 18, 50674 Köln, Germany"
+			},
+			"geometry": {
+				"coordinates": [
+					6.936716,
+					50.936606
+				],
+				"type": "Point"
+			},
+			"id": "0335df0266a85b529c367165acd415ab"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8584582,
 				"Name": "Klitschko Ventures"
 			},
@@ -1758,6 +1774,24 @@
 			"type": "Feature",
 			"properties": {
 				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjo2M2M5ZjNhNy1kMjVkLTRkZmEtYTY1NC02YTg2N2I2OTcxMjk",
+				"place_name": "Friesenplatz 3, 50672 Köln, Germany",
+				"ID": 8922963,
+				"Name": "Open Telekom Cloud"
+			},
+			"geometry": {
+				"coordinates": [
+					6.939296,
+					50.940416
+				],
+				"type": "Point"
+			},
+			"id": "6466bb710a96afae93fd81bfbf160683"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjplNWYwY2E0OC1kZmQyLTQ5MTMtOTFiNi1iZTBkMjg3M2ExOTU",
 				"place_name": "Venloer Straße 33, 50672 Köln, Germany",
 				"ID": "akkreditierung15"
@@ -2050,6 +2084,24 @@
 				"type": "Point"
 			},
 			"id": "7e209234ee5fbff0956f68919c1a3495"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjpiMGQzOWViNC0wY2VjLTRhYzYtOWRkOS05MWY5MzE4YTEwYTg",
+				"place_name": "Friesenwall 81, 50672 Köln, Germany",
+				"ID": 8922964,
+				"Name": "Lounge Partner"
+			},
+			"geometry": {
+				"coordinates": [
+					6.941284,
+					50.941398
+				],
+				"type": "Point"
+			},
+			"id": "7f8ddb06a39f9fb8f1b213101c99aebd"
 		},
 		{
 			"type": "Feature",
