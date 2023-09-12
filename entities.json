@@ -5935,6 +5935,12 @@
 			"name": "Masterclass",
 			"name_de": "Masterclass",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/masterclass.png"
+		},
+		{
+			"__tabName": "Extra Tag",
+			"id": "busstop",
+			"name": "Stop eShuttles/Rikshas",
+			"name_de": "Haltepunkte eShuttles/Rikshas"
 		}
 	]
 }
