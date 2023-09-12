@@ -580,8 +580,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.936878,
-					50.936323
+					6.936886,
+					50.93634
 				],
 				"type": "Point"
 			},
@@ -654,7 +654,7 @@
 				"mapbox_id": "dXJuOm1ieGFkcjo0N2E0NjQ3Zi1mNmMwLTQ0OTgtOTcyNC1jYmRkNjVkMjYyYTc",
 				"place_name": "Brüsseler Straße 47, 50674 Köln, Germany",
 				"ID": 8722597,
-				"nane": "salesforce"
+				"Name": "salesforce"
 			},
 			"geometry": {
 				"coordinates": [
@@ -1547,6 +1547,24 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjo2MmM2OGM3Zi1kYjEzLTRkMzctODEwYS05MmMzOTk5Njk1YTQ",
+				"place_name": "Aachener Straße 5, 50674 Köln, Germany",
+				"ID": 8922965,
+				"Name": "Easy Lounge Telekom"
+			},
+			"geometry": {
+				"coordinates": [
+					6.936916,
+					50.936339
+				],
+				"type": "Point"
+			},
+			"id": "5316ff3ac36c5f24c11f63c0aa4f2ea8"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8722658,
 				"Name": "acameo"
 			},
@@ -1844,7 +1862,8 @@
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjo3NGRkNWUxYi1hMGQ5LTQwMGEtODZlNy05MThlYTlmZjJlZTY",
 				"place_name": "Aachener Straße 46, 50674 Köln, Germany",
-				"ID": 8922967
+				"ID": 8922967,
+				"Name": "Deutsche Telekom Brandhouse Digitale Bildung"
 			},
 			"geometry": {
 				"coordinates": [
@@ -2683,7 +2702,8 @@
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjplZjA4MWVkYi0yNTNmLTRhMTQtYjJjNS0xNGEzNGZmY2Y3MTU",
 				"place_name": "Aachener Straße 54, 50674 Köln, Germany",
-				"ID": 8922969
+				"ID": 8922969,
+				"Name": "Lounge KMU"
 			},
 			"geometry": {
 				"coordinates": [
@@ -3080,7 +3100,7 @@
 			"type": "Feature",
 			"properties": {
 				"ID": 8922966,
-				"Nam": "Schubkraft"
+				"Name": "Schubkraft"
 			},
 			"geometry": {
 				"coordinates": [
