@@ -1035,6 +1035,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8922971,
+				"accuracy": "Deutsche Telekom IoT"
+			},
+			"geometry": {
+				"coordinates": [
+					6.943204,
+					50.948715
+				],
+				"type": "Point"
+			},
+			"id": "38b0d6fa574582c95fba4fa48ab6952a"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "akkreditierung14"
 			},
 			"geometry": {
@@ -1772,6 +1787,21 @@
 				"type": "Point"
 			},
 			"id": "5ba116c5b66075750aa3374dbb38c5c1"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 8922974,
+				"Name": "Telekom MMS"
+			},
+			"geometry": {
+				"coordinates": [
+					6.943315,
+					50.948764
+				],
+				"type": "Point"
+			},
+			"id": "5fe3aaeccc3ea963ca21a67eaff6a1af"
 		},
 		{
 			"type": "Feature",
@@ -3910,6 +3940,21 @@
 				"type": "Point"
 			},
 			"id": "f2f043ed5ac8b65eaf6b8fbb9fdebbf0"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 8922972,
+				"Name": "Telekom Security"
+			},
+			"geometry": {
+				"coordinates": [
+					6.943393,
+					50.948798
+				],
+				"type": "Point"
+			},
+			"id": "f4a84fe49a6e308c18ae46a5d7cac57a"
 		},
 		{
 			"type": "Feature",
