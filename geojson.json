@@ -2028,6 +2028,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"Name": "Telekom Solutions Nachhaltigkeit",
+				"ID": 8922977
+			},
+			"geometry": {
+				"coordinates": [
+					6.944652,
+					50.948168
+				],
+				"type": "Point"
+			},
+			"id": "785c6888d94b9322b0940fba08a44733"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8722594,
 				"Name": "Palo Alto Networks"
 			},
@@ -2181,6 +2196,21 @@
 				"type": "Point"
 			},
 			"id": "810ae1dc7bd643975e7e06f87fcabb2d"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 8922978,
+				"Name": "T-Systems"
+			},
+			"geometry": {
+				"coordinates": [
+					6.944748,
+					50.948044
+				],
+				"type": "Point"
+			},
+			"id": "81e4eb5e8e18f14c9c313306c74d4684"
 		},
 		{
 			"type": "Feature",
@@ -2464,6 +2494,21 @@
 				"type": "Point"
 			},
 			"id": "91cb87b777009918aa932e8916d24a7e"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 8922976,
+				"Name": "Cloud-Explorer"
+			},
+			"geometry": {
+				"coordinates": [
+					6.94392,
+					50.947876
+				],
+				"type": "Point"
+			},
+			"id": "9205ffdb74fbf802648e6651abfc1c4d"
 		},
 		{
 			"type": "Feature",
