@@ -944,23 +944,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"accuracy": "rooftop",
-				"mapbox_id": "dXJuOm1ieGFkcjoyZWZjNzY2MC03OTZhLTQ1NzAtYTY0Mi05ODJlMTMwMzhkMDU",
-				"place_name": "Hansaring 55, 50670 Köln, Germany",
-				"ID": ""
-			},
-			"geometry": {
-				"coordinates": [
-					6.947519,
-					50.947409
-				],
-				"type": "Point"
-			},
-			"id": "33b89aab169a1e700c882a9beaa91d4a"
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"ID": 8584605,
 				"Name": "Bullitt"
 			},
@@ -2544,8 +2527,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.947519,
-					50.947409
+					6.94752,
+					50.947411
 				],
 				"type": "Point"
 			},
@@ -3037,6 +3020,23 @@
 				"type": "Point"
 			},
 			"id": "c70eb6aa35d745e4aa45f28cb83938cf"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjpiN2JlZjQyZC03YzI1LTRlNDEtODQyNC05ZmI5MGM5OTJjMjI",
+				"place_name": "Aachener Straße 12, 50674 Köln, Germany",
+				"ID": "beef_brothers"
+			},
+			"geometry": {
+				"coordinates": [
+					6.937064,
+					50.93662
+				],
+				"type": "Point"
+			},
+			"id": "c9286651a3210d01b82b95299ca288c9"
 		},
 		{
 			"type": "Feature",
