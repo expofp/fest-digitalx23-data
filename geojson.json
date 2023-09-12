@@ -1855,6 +1855,23 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjpiNzI2NDAxOC1iOGY3LTQ4MWQtODIwOC00YTk3MDk1YzgzNDY",
+				"place_name": "Hohenzollernring 71, 50672 Köln, Germany",
+				"ID": "busstop4"
+			},
+			"geometry": {
+				"coordinates": [
+					6.93981,
+					50.941014
+				],
+				"type": "Point"
+			},
+			"id": "6e0d886de904e8a60a7dd9645c34994b"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8722632,
 				"Name": "loxonet"
 			},
@@ -2407,6 +2424,23 @@
 				"type": "Polygon"
 			},
 			"id": "96669e1c3f18a7e04843c889023250fe"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjo3NGUxMGFiZC05ZWRlLTQ0OWEtYmUxNi0yMWFjNjY3MjhhYmI",
+				"place_name": "Habsburgerring 24, 50674 Köln, Germany",
+				"ID": "busstop6"
+			},
+			"geometry": {
+				"coordinates": [
+					6.939354,
+					50.935859
+				],
+				"type": "Point"
+			},
+			"id": "9810b0a0df12215d8c65075f2f3b2b21"
 		},
 		{
 			"type": "Feature",
@@ -3268,6 +3302,23 @@
 				"type": "Point"
 			},
 			"id": "d037350b4213b86e2ff7ce2dbebc3e2c"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjo4ZTc3OWI5Yi03MGNmLTRiNGItYjhhZi1iMmU1ZmY1MGFlY2M",
+				"place_name": "Spichernstraße 2, 50672 Köln, Germany",
+				"ID": "busstop5"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935989,
+					50.942436
+				],
+				"type": "Point"
+			},
+			"id": "d1212bab40c39c4f5f1085a0a6a269f6"
 		},
 		{
 			"type": "Feature",
