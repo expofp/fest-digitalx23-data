@@ -937,7 +937,7 @@
 			"sector": "",
 			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE",
-			"subtitle": "`",
+			"subtitle": "Haltepunkt Hohenzollernring Ostseite",
 			"logoURL": "",
 			"website": "",
 			"highlight": "",
@@ -967,12 +967,12 @@
 			"sector": "",
 			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE",
-			"subtitle": "",
+			"subtitle": "Haltepunkt Hohenzollernring Westseite",
 			"logoURL": "",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "Friesenpl., 50672 Köln",
-			"address": "Friesenpl.",
+			"addressCalculation": "Hohenzollernring 71-77, 50672 Köln",
+			"address": "Hohenzollernring 71-77",
 			"city": "Köln",
 			"postalCode": "50672"
 		},
@@ -997,12 +997,12 @@
 			"sector": "",
 			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE",
-			"subtitle": "",
+			"subtitle": "Haltepunkt Stadtgarten",
 			"logoURL": "",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "Friesenpl., 50672 Köln",
-			"address": "Friesenpl.",
+			"addressCalculation": "Spichernstraße 2, 50672 Köln",
+			"address": "Spichernstraße 2",
 			"city": "Köln",
 			"postalCode": "50672"
 		},
@@ -1027,14 +1027,14 @@
 			"sector": "",
 			"detailsLink": "FALSE",
 			"addedToMapbox": "FALSE",
-			"subtitle": "",
+			"subtitle": "Haltepunkt Rudolfplatz",
 			"logoURL": "",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "Friesenpl., 50672 Köln",
-			"address": "Friesenpl.",
+			"addressCalculation": "Habsburgerring 24, 50674 Köln",
+			"address": "Habsburgerring 24",
 			"city": "Köln",
-			"postalCode": "50672"
+			"postalCode": "50674"
 		},
 		{
 			"__tabName": "Entity",
@@ -6064,6 +6064,14 @@
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/stage-active.png"
 		},
 		{
+			"__tabName": "EntityType",
+			"id": "individualmob",
+			"name": "Individual mobility",
+			"filterGroup": "individuelle Mobilität",
+			"icon": "https://fest-digitalx23.expofp.com/images/new2/bus_stelle.png",
+			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/bus_stelle-active.png"
+		},
+		{
 			"__tabName": "Sector",
 			"id": "belgisches",
 			"name": "Quartier Belgisches Viertel",
@@ -6115,14 +6123,6 @@
 			"name": "Masterclass",
 			"name_de": "Masterclass",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/masterclass.png"
-		},
-		{
-			"__tabName": "Extra Tag",
-			"id": "individualmob",
-			"name": "Individual mobility",
-			"name_de": "individuelle Mobilität",
-			"icon": "https://fest-digitalx23.expofp.com/images/new2/bus_stelle.png",
-			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/bus_stelle-active.png"
 		}
 	]
 }
