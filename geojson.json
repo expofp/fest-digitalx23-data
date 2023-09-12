@@ -1824,20 +1824,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": ""
-			},
-			"geometry": {
-				"coordinates": [
-					6.948661,
-					50.950666
-				],
-				"type": "Point"
-			},
-			"id": "6a370e2b7ce12d53add59fa6b3a7e7ec"
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjo3NGRkNWUxYi1hMGQ5LTQwMGEtODZlNy05MThlYTlmZjJlZTY",
 				"place_name": "Aachener Straße 46, 50674 Köln, Germany",
