@@ -185,6 +185,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 8922978,
+				"Name": "T-Systems"
+			},
+			"geometry": {
+				"coordinates": [
+					6.940995,
+					50.940743
+				],
+				"type": "Point"
+			},
+			"id": "080809506be0912bf3547ed33327396a"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8914051,
 				"Name": "greenflash"
 			},
@@ -2080,8 +2095,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.944652,
-					50.948168
+					6.94313,
+					50.947716
 				],
 				"type": "Point"
 			},
@@ -2260,21 +2275,6 @@
 				"type": "Point"
 			},
 			"id": "810ae1dc7bd643975e7e06f87fcabb2d"
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"ID": 8922978,
-				"Name": "T-Systems"
-			},
-			"geometry": {
-				"coordinates": [
-					6.944748,
-					50.948044
-				],
-				"type": "Point"
-			},
-			"id": "81e4eb5e8e18f14c9c313306c74d4684"
 		},
 		{
 			"type": "Feature",
@@ -2567,8 +2567,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.94392,
-					50.947876
+					6.943402,
+					50.947582
 				],
 				"type": "Point"
 			},
