@@ -1579,6 +1579,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "startplatz_stage_be",
+				"Name": "Startplatz Berling 3OG"
+			},
+			"geometry": {
+				"coordinates": [
+					6.945187,
+					50.948718
+				],
+				"type": "Point"
+			},
+			"id": "504a16535937de91428846118a470867"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjo2MmM2OGM3Zi1kYjEzLTRkMzctODEwYS05MmMzOTk5Njk1YTQ",
 				"place_name": "Aachener Straße 5, 50674 Köln, Germany",
