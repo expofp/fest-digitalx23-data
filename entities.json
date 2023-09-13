@@ -6064,6 +6064,12 @@
 			"postalCode": "50670"
 		},
 		{
+			"__tabName": "Entity",
+			"id": "25h_spaceunit2",
+			"registrationID": "",
+			"entityType": "stage"
+		},
+		{
 			"__tabName": "Trends",
 			"id": "connected-business",
 			"name": "Connected Business",

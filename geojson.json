@@ -3159,6 +3159,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "25h_spaceunit2",
+				"Name": "25H SPACE UNIT 2"
+			},
+			"geometry": {
+				"coordinates": [
+					6.94339,
+					50.942047
+				],
+				"type": "Point"
+			},
+			"id": "c33b04a46de593d03675a1f4d5eb1984"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8584577,
 				"Name": "Lancom"
 			},
