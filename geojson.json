@@ -2627,6 +2627,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "cbts3",
+				"Name": "HPE X AlephAlpha"
+			},
+			"geometry": {
+				"coordinates": [
+					6.943488,
+					50.941939
+				],
+				"type": "Point"
+			},
+			"id": "9a9ca5381133c62a8d8f5f3948025f37"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8722591,
 				"Name": "vmware"
 			},
@@ -3100,6 +3115,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "cbts9",
+				"Name": "Innovationen"
+			},
+			"geometry": {
+				"coordinates": [
+					6.939801,
+					50.936553
+				],
+				"type": "Point"
+			},
+			"id": "c2d9b7f7dc943026359372e71faa03f1"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8722675,
 				"Name": "readyplace"
 			},
@@ -3506,6 +3536,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "nvts4",
+				"Name": "Waste Shark"
+			},
+			"geometry": {
+				"coordinates": [
+					6.943892,
+					50.948015
+				],
+				"type": "Point"
+			},
+			"id": "d24863c45d9e1e02c42ce5dfb2b5fde5"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjo4NDg4NTg5MS04MGM3LTQyZTgtODgwMS04NGJjZDI3NmMxZjY",
 				"place_name": "Friesenwall 124, 50672 Köln, Germany",
@@ -3598,6 +3643,21 @@
 				"type": "Point"
 			},
 			"id": "db0bbf21e9412dcee2cf50edd0252b50"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"nvts": "nvts8",
+				"Name": "kinetic walkway"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935161,
+					50.942564
+				],
+				"type": "Point"
+			},
+			"id": "db541ae9a57d7b2e6620041555d32ce4"
 		},
 		{
 			"type": "Feature",
