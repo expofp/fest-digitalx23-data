@@ -3662,7 +3662,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"nvts": "nvts8",
+				"id": "nvts8",
 				"Name": "kinetic walkway"
 			},
 			"geometry": {

@@ -6067,7 +6067,8 @@
 			"__tabName": "Entity",
 			"id": "25h_spaceunit2",
 			"registrationID": "",
-			"entityType": "stage"
+			"entityType": "stage",
+			"name": "25H SPACE UNIT 2"
 		},
 		{
 			"__tabName": "Trends",
