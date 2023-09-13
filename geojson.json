@@ -125,6 +125,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"id": "cbts1",
+				"name": "B2B Portfoliohaus"
+			},
+			"geometry": {
+				"coordinates": [
+					6.943771,
+					50.948866
+				],
+				"type": "Point"
+			},
+			"id": "064ad5b805edb41f7a200bc0e39eda32"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8914122,
 				"Name": "Akamai"
 			},
@@ -1760,6 +1775,21 @@
 				"type": "Point"
 			},
 			"id": "5871ae080d0e389b26f850ba7e5172f5"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "zats10",
+				"Name": "Doob Avatar"
+			},
+			"geometry": {
+				"coordinates": [
+					6.939726,
+					50.936576
+				],
+				"type": "Point"
+			},
+			"id": "587a3f52d2439351055003e9fa6330c5"
 		},
 		{
 			"type": "Feature",
