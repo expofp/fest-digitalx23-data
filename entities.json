@@ -6066,8 +6066,8 @@
 		{
 			"__tabName": "EntityType",
 			"id": "eshuttle",
-			"name": "Individual mobility",
-			"filterGroup": "individuelle Mobilität",
+			"name": "eShuttles",
+			"filterGroup": "eShuttles",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/bus_stelle.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/bus_stelle-active.png"
 		},
