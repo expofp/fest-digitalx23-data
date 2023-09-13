@@ -2185,6 +2185,23 @@
 			"type": "Feature",
 			"properties": {
 				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjpkYjIxMTUzNy1iNGQ5LTRmYWEtYTlkYy05MGI5YWM3MjYxMzg",
+				"place_name": "Habsburgerring 13, 50674 Köln, Germany",
+				"id": "xperience_stage"
+			},
+			"geometry": {
+				"coordinates": [
+					6.938645,
+					50.936195
+				],
+				"type": "Point"
+			},
+			"id": "7e2dc37b7caecc3a3f178b9e9fac3cdb"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjpiMGQzOWViNC0wY2VjLTRhYzYtOWRkOS05MWY5MzE4YTEwYTg",
 				"place_name": "Friesenwall 81, 50672 Köln, Germany",
 				"ID": 8922964,

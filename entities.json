@@ -6071,6 +6071,13 @@
 			"name": "25H SPACE UNIT 2"
 		},
 		{
+			"__tabName": "Entity",
+			"id": "xperience_stage",
+			"registrationID": "",
+			"entityType": "stage",
+			"name": "xperience stage"
+		},
+		{
 			"__tabName": "Trends",
 			"id": "connected-business",
 			"name": "Connected Business",
