@@ -51,7 +51,9 @@
 			"properties": {
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjo3YTkwYWFkZi0xNzI3LTQxNTAtOWMzMy01MjBkMzZhMzBiMDM",
-				"place_name": "Aachener Straße 18, 50674 Köln, Germany"
+				"place_name": "Aachener Straße 18, 50674 Köln, Germany",
+				"ID": 8922960,
+				"Name": "Lounge Mittelstand"
 			},
 			"geometry": {
 				"coordinates": [
