@@ -5917,7 +5917,7 @@
 			"name": "Brandhouse",
 			"name_de": "",
 			"filterGroup": "Exhibitor",
-			"filterGroup_DE": "",
+			"filterGroup_de": "",
 			"filterGroupSort": "",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/brandhouse.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-active.png"
@@ -5928,7 +5928,7 @@
 			"name": "Brandhouse+T",
 			"name_de": "",
 			"filterGroup": "Exhibitor",
-			"filterGroup_DE": "",
+			"filterGroup_de": "",
 			"filterGroupSort": "",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-t.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-t-active.png"
@@ -5939,7 +5939,7 @@
 			"name": "Brandhouse Belgisches Viertel",
 			"name_de": "",
 			"filterGroup": "Exhibitor",
-			"filterGroup_DE": "",
+			"filterGroup_de": "",
 			"filterGroupSort": "",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-belgisches.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-belgisches-active.png"
@@ -5950,7 +5950,7 @@
 			"name": "Brandhouse Stadtgarten",
 			"name_de": "",
 			"filterGroup": "Exhibitor",
-			"filterGroup_DE": "",
+			"filterGroup_de": "",
 			"filterGroupSort": "",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-stadtgarten.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-stadtgarten-active.png"
@@ -5961,7 +5961,7 @@
 			"name": "Brandhouse Friesenviertel",
 			"name_de": "",
 			"filterGroup": "Exhibitor",
-			"filterGroup_DE": "",
+			"filterGroup_de": "",
 			"filterGroupSort": "",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-friesenviertel.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-friesenviertel-active.png"
@@ -5972,7 +5972,7 @@
 			"name": "Brandhouse Mediapark",
 			"name_de": "",
 			"filterGroup": "Exhibitor",
-			"filterGroup_DE": "",
+			"filterGroup_de": "",
 			"filterGroupSort": "",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-mediapark.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-mediapark-active.png"
@@ -5980,10 +5980,10 @@
 		{
 			"__tabName": "EntityType",
 			"id": "tour",
-			"name": "Tour",
-			"name_de": "",
-			"filterGroup": "Route",
-			"filterGroup_DE": "",
+			"name": "Guided Tour",
+			"name_de": "Guided Tour",
+			"filterGroup": "Guided Tours",
+			"filterGroup_de": "Guided Tours",
 			"filterGroupSort": "",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/tour.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/tour-active.png"
@@ -5991,11 +5991,11 @@
 		{
 			"__tabName": "EntityType",
 			"id": "check-in",
-			"name": "Accreditations / Akkreditierungen",
-			"name_de": "",
-			"filterGroup": "A",
-			"filterGroup_DE": "",
-			"filterGroupSort": "",
+			"name": "Accreditations",
+			"name_de": "Akkreditierungen",
+			"filterGroup": "Accreditation Points",
+			"filterGroup_de": "Akkreditierungspunkte",
+			"filterGroupSort": "1",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/check-in.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/check-in-active.png"
 		},
@@ -6005,7 +6005,7 @@
 			"name": "Food & Beverage",
 			"name_de": "",
 			"filterGroup": "Venue",
-			"filterGroup_DE": "",
+			"filterGroup_de": "",
 			"filterGroupSort": "",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/food.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/food-active.png"
@@ -6016,7 +6016,7 @@
 			"name": "T-Vertriebslounge",
 			"name_de": "",
 			"filterGroup": "Brandhouses",
-			"filterGroup_DE": "",
+			"filterGroup_de": "",
 			"filterGroupSort": "",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/vertriebslounge.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/vertriebslounge-active.png"
@@ -6027,7 +6027,7 @@
 			"name": "Expo Area",
 			"name_de": "",
 			"filterGroup": "Venue",
-			"filterGroup_DE": "",
+			"filterGroup_de": "",
 			"filterGroupSort": "",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/brandhouse.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-active.png"
@@ -6038,7 +6038,7 @@
 			"name": "Exhibitor / Aussteller",
 			"name_de": "",
 			"filterGroup": "Brandhouses",
-			"filterGroup_DE": "",
+			"filterGroup_de": "",
 			"filterGroupSort": "",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/brandhouse.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-active.png"
@@ -6049,7 +6049,7 @@
 			"name": "Tour stop",
 			"name_de": "",
 			"filterGroup": "Venue",
-			"filterGroup_DE": "",
+			"filterGroup_de": "",
 			"filterGroupSort": "",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/tour_stop.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/tour_stop-active.png"
@@ -6060,7 +6060,7 @@
 			"name": "Marketplace",
 			"name_de": "",
 			"filterGroup": "Venue",
-			"filterGroup_DE": "",
+			"filterGroup_de": "",
 			"filterGroupSort": "",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/brandhouse.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-active.png"
@@ -6070,8 +6070,8 @@
 			"id": "stage_future",
 			"name": "Future Stage",
 			"name_de": "",
-			"filterGroup": "Venue",
-			"filterGroup_DE": "",
+			"filterGroup": "Stages",
+			"filterGroup_de": "Bühnen",
 			"filterGroupSort": "",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/stage-Future.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/stage-Future-active.png"
@@ -6081,8 +6081,8 @@
 			"id": "stage_interactive",
 			"name": "Interactive Stage",
 			"name_de": "",
-			"filterGroup": "Venue",
-			"filterGroup_DE": "",
+			"filterGroup": "Stages",
+			"filterGroup_de": "Bühnen",
 			"filterGroupSort": "",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/stage-Interactive.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/stage-Interactive-active.png"
@@ -6092,8 +6092,8 @@
 			"id": "stage_disruption",
 			"name": "Disruption Stage",
 			"name_de": "",
-			"filterGroup": "Venue",
-			"filterGroup_DE": "",
+			"filterGroup": "Stages",
+			"filterGroup_de": "Bühnen",
 			"filterGroupSort": "",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/stage-Disruption.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/stage-Disruption-active.png"
@@ -6103,8 +6103,8 @@
 			"id": "stage_inspiration",
 			"name": "Inspiration Stage",
 			"name_de": "",
-			"filterGroup": "Venue",
-			"filterGroup_DE": "",
+			"filterGroup": "Stages",
+			"filterGroup_de": "Bühnen",
 			"filterGroupSort": "",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/stage-Inspiration.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/stage-Inspiration-active.png"
@@ -6114,8 +6114,8 @@
 			"id": "stage",
 			"name": "Stage",
 			"name_de": "",
-			"filterGroup": "Venue",
-			"filterGroup_DE": "",
+			"filterGroup": "Stages",
+			"filterGroup_de": "Bühnen",
 			"filterGroupSort": "",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/stage.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/stage-active.png"
@@ -6124,9 +6124,9 @@
 			"__tabName": "EntityType",
 			"id": "eshuttle",
 			"name": "eShuttles",
-			"name_de": "",
+			"name_de": "eShuttles",
 			"filterGroup": "eShuttles",
-			"filterGroup_DE": "",
+			"filterGroup_de": "eShuttles",
 			"filterGroupSort": "",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/bus_stelle.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/bus_stelle-active.png"
