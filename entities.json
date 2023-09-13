@@ -5915,7 +5915,7 @@
 			"__tabName": "EntityType",
 			"id": "brandhouse",
 			"name": "Brandhouse",
-			"name_de": "",
+			"name_de": "Brandhouse",
 			"filterGroup": "Brandhouses",
 			"filterGroup_de": "Brandhouses",
 			"filterGroupSort": "2",
@@ -5926,7 +5926,7 @@
 			"__tabName": "EntityType",
 			"id": "brandhouse-t",
 			"name": "Brandhouse+T",
-			"name_de": "",
+			"name_de": "Brandhouse+T",
 			"filterGroup": "Brandhouses",
 			"filterGroup_de": "Brandhouses",
 			"filterGroupSort": "2",
@@ -5937,7 +5937,7 @@
 			"__tabName": "EntityType",
 			"id": "brandhouse_belgisches",
 			"name": "Brandhouse Belgisches Viertel",
-			"name_de": "",
+			"name_de": "Brandhouse Belgisches Quarter",
 			"filterGroup": "Brandhouses",
 			"filterGroup_de": "Brandhouses",
 			"filterGroupSort": "2",
@@ -5948,7 +5948,7 @@
 			"__tabName": "EntityType",
 			"id": "brandhouse_stadtgarten",
 			"name": "Brandhouse Stadtgarten",
-			"name_de": "",
+			"name_de": "Brandhouse Stadtgarten",
 			"filterGroup": "Brandhouses",
 			"filterGroup_de": "Brandhouses",
 			"filterGroupSort": "2",
@@ -5959,7 +5959,7 @@
 			"__tabName": "EntityType",
 			"id": "brandhouse_friesenviertel",
 			"name": "Brandhouse Friesenviertel",
-			"name_de": "",
+			"name_de": "Brandhouse Friesenviertel",
 			"filterGroup": "Brandhouses",
 			"filterGroup_de": "Brandhouses",
 			"filterGroupSort": "2",
@@ -5970,7 +5970,7 @@
 			"__tabName": "EntityType",
 			"id": "brandhouse_mediapark",
 			"name": "Brandhouse Mediapark",
-			"name_de": "",
+			"name_de": "Brandhouse Mediapark",
 			"filterGroup": "Brandhouses",
 			"filterGroup_de": "Brandhouses",
 			"filterGroupSort": "2",
@@ -5984,7 +5984,7 @@
 			"name_de": "Guided Tour",
 			"filterGroup": "Guided Tours",
 			"filterGroup_de": "Guided Tours",
-			"filterGroupSort": "",
+			"filterGroupSort": "5",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/tour.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/tour-active.png"
 		},
@@ -6003,10 +6003,10 @@
 			"__tabName": "EntityType",
 			"id": "food",
 			"name": "Food & Beverage",
-			"name_de": "",
+			"name_de": "Essen & Trinken",
 			"filterGroup": "all POIs",
 			"filterGroup_de": "alle POIs",
-			"filterGroupSort": "",
+			"filterGroupSort": "8",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/food.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/food-active.png"
 		},
@@ -6014,10 +6014,10 @@
 			"__tabName": "EntityType",
 			"id": "vertriebslounge",
 			"name": "T-Vertriebslounge",
-			"name_de": "",
+			"name_de": "T-Vertriebslounge",
 			"filterGroup": "Brandhouses",
 			"filterGroup_de": "Brandhouses",
-			"filterGroupSort": "",
+			"filterGroupSort": "2",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/vertriebslounge.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/vertriebslounge-active.png"
 		},
@@ -6025,21 +6025,21 @@
 			"__tabName": "EntityType",
 			"id": "expo_area",
 			"name": "Expo Area",
-			"name_de": "",
+			"name_de": "Expo Area",
 			"filterGroup": "all POIs",
 			"filterGroup_de": "alle POIs",
-			"filterGroupSort": "",
+			"filterGroupSort": "8",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/brandhouse.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-active.png"
 		},
 		{
 			"__tabName": "EntityType",
 			"id": "exhibitor",
-			"name": "Exhibitor / Aussteller",
-			"name_de": "",
+			"name": "Exhibitor",
+			"name_de": "Aussteller",
 			"filterGroup": "Brandhouses",
 			"filterGroup_de": "Brandhouses",
-			"filterGroupSort": "",
+			"filterGroupSort": "2",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/brandhouse.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/brandhouse-active.png"
 		},
@@ -6047,10 +6047,10 @@
 			"__tabName": "EntityType",
 			"id": "tour_stop",
 			"name": "Tour stop",
-			"name_de": "",
+			"name_de": "Tour stop",
 			"filterGroup": "Guided Tours",
 			"filterGroup_de": "Guided Tours",
-			"filterGroupSort": "",
+			"filterGroupSort": "5",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/tour_stop.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/tour_stop-active.png"
 		},
@@ -6072,7 +6072,7 @@
 			"name_de": "Interactive Stage",
 			"filterGroup": "Stages",
 			"filterGroup_de": "Bühnen",
-			"filterGroupSort": "",
+			"filterGroupSort": "3",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/stage-Interactive.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/stage-Interactive-active.png"
 		},
@@ -6083,7 +6083,7 @@
 			"name_de": "Disruption Stage",
 			"filterGroup": "Stages",
 			"filterGroup_de": "Bühnen",
-			"filterGroupSort": "",
+			"filterGroupSort": "3",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/stage-Disruption.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/stage-Disruption-active.png"
 		},
@@ -6094,7 +6094,7 @@
 			"name_de": "Inspiration Stage",
 			"filterGroup": "Stages",
 			"filterGroup_de": "Bühnen",
-			"filterGroupSort": "",
+			"filterGroupSort": "3",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/stage-Inspiration.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/stage-Inspiration-active.png"
 		},
@@ -6105,7 +6105,7 @@
 			"name_de": "Bühne",
 			"filterGroup": "Stages",
 			"filterGroup_de": "Bühnen",
-			"filterGroupSort": "",
+			"filterGroupSort": "3",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/stage.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/stage-active.png"
 		},
@@ -6116,9 +6116,39 @@
 			"name_de": "eShuttles",
 			"filterGroup": "eShuttles",
 			"filterGroup_de": "eShuttles",
-			"filterGroupSort": "",
+			"filterGroupSort": "4",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/bus_stelle.png",
 			"iconActive": "https://fest-digitalx23.expofp.com/images/new2/bus_stelle-active.png"
+		},
+		{
+			"__tabName": "EntityType",
+			"id": "koelsche-nacht-wed",
+			"name": "Kölsche Nacht day 1",
+			"name_de": "Kölsche Nacht Tag 1",
+			"filterGroup": "Kölsche Nacht day 1",
+			"filterGroup_de": "Kölsche Nacht Tag 1",
+			"filterGroupSort": "6",
+			"icon": "https://fest-digitalx23.expofp.com/images/new2/koelschenacht.png"
+		},
+		{
+			"__tabName": "EntityType",
+			"id": "koelsche-nacht-thu",
+			"name": "Kölsche Nacht day 2",
+			"name_de": "Kölsche Nacht Tag 2",
+			"filterGroup": "Kölsche Nacht day 2",
+			"filterGroup_de": "Kölsche Nacht Tag 2",
+			"filterGroupSort": "7",
+			"icon": "https://fest-digitalx23.expofp.com/images/new2/koelschenacht.png"
+		},
+		{
+			"__tabName": "EntityType",
+			"id": "masterclass",
+			"name": "Masterclass",
+			"name_de": "Masterclass",
+			"filterGroup": "all POIs",
+			"filterGroup_de": "alle POIs",
+			"filterGroupSort": "8",
+			"icon": "https://fest-digitalx23.expofp.com/images/new2/masterclass.png"
 		},
 		{
 			"__tabName": "Sector",
@@ -6151,27 +6181,6 @@
 			"color": "#469307",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/friesenviertel.png",
 			"lineColor": "#469307"
-		},
-		{
-			"__tabName": "Extra Tag",
-			"id": "koelsche-nacht-wed",
-			"name": "Kölsche Nacht Wed.",
-			"name_de": "Kölsche Nacht Mi.",
-			"icon": "https://fest-digitalx23.expofp.com/images/new2/koelschenacht.png"
-		},
-		{
-			"__tabName": "Extra Tag",
-			"id": "koelsche-nacht-thu",
-			"name": "Kölsche Nacht Thu.",
-			"name_de": "Kölsche Nacht Do.",
-			"icon": "https://fest-digitalx23.expofp.com/images/new2/koelschenacht.png"
-		},
-		{
-			"__tabName": "Extra Tag",
-			"id": "masterclass",
-			"name": "Masterclass",
-			"name_de": "Masterclass",
-			"icon": "https://fest-digitalx23.expofp.com/images/new2/masterclass.png"
 		}
 	]
 }
