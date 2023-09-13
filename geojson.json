@@ -2853,6 +2853,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "startplatz_stage_bcn",
+				"Name": "STARTPLATZ Raum Barcelona"
+			},
+			"geometry": {
+				"coordinates": [
+					6.945292,
+					50.948787
+				],
+				"type": "Point"
+			},
+			"id": "a91449f45f1d6e4a633222f9d9547805"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjplZjA4MWVkYi0yNTNmLTRhMTQtYjJjNS0xNGEzNGZmY2Y3MTU",
 				"place_name": "Aachener Straße 54, 50674 Köln, Germany",
