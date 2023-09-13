@@ -1056,7 +1056,15 @@
 			"extraTag3": "",
 			"sector": "",
 			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"subtitle": "Rudolfplatz",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Rudolfplatz, 50674 Köln",
+			"address": "Rudolfplatz",
+			"city": "Köln",
+			"postalCode": "50674"
 		},
 		{
 			"__tabName": "Entity",
@@ -1078,14 +1086,22 @@
 			"extraTag3": "",
 			"sector": "",
 			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"subtitle": "KOMED Haus 6",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Im Mediapark 6, 50670 Köln",
+			"address": "Im Mediapark 6",
+			"city": "Köln",
+			"postalCode": "50670"
 		},
 		{
 			"__tabName": "Entity",
 			"id": "cbts3",
 			"registrationID": "",
 			"entityType": "tour_stop",
-			"name": "",
+			"name": "HPE X AlephAlpha",
 			"parent": "",
 			"route1": "",
 			"route2": "",
@@ -1100,7 +1116,8 @@
 			"extraTag3": "",
 			"sector": "",
 			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"subtitle": "25hours Hotel"
 		},
 		{
 			"__tabName": "Entity",
