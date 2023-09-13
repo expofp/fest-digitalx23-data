@@ -551,8 +551,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.944662,
-					50.948611
+					6.944605,
+					50.948634
 				],
 				"type": "Point"
 			},
@@ -2171,8 +2171,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.944805,
-					50.948572
+					6.944754,
+					50.948591
 				],
 				"type": "Point"
 			},
@@ -2798,8 +2798,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.944933,
-					50.948533
+					6.944876,
+					50.948544
 				],
 				"type": "Point"
 			},
@@ -2897,6 +2897,21 @@
 				"type": "Point"
 			},
 			"id": "aa26263a50ec01d0dfd023c9d11df7d6"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "b2bmarkt",
+				"Name": "B2B Marktplatz"
+			},
+			"geometry": {
+				"coordinates": [
+					6.944986,
+					50.948508
+				],
+				"type": "Point"
+			},
+			"id": "ac171a019e3601537139b8585e5ff971"
 		},
 		{
 			"type": "Feature",
