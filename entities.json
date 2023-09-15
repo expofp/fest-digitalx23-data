@@ -5859,9 +5859,17 @@
 			"extraTag1": "",
 			"extraTag2": "",
 			"extraTag3": "",
-			"sector": "",
+			"sector": "Quartier Stadtgarten",
 			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"subtitle": "Stadtgarten",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Stadtgarten, 50672 Köln",
+			"address": "Stadtgarten",
+			"city": "Köln",
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -5881,9 +5889,17 @@
 			"extraTag1": "",
 			"extraTag2": "",
 			"extraTag3": "",
-			"sector": "",
+			"sector": "Quartier Stadtgarten",
 			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"subtitle": "Stadtgarten",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Stadtgarten, 50672 Köln",
+			"address": "Stadtgarten",
+			"city": "Köln",
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -5903,9 +5919,17 @@
 			"extraTag1": "",
 			"extraTag2": "",
 			"extraTag3": "",
-			"sector": "",
+			"sector": "Quartier Stadtgarten",
 			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"subtitle": "Stadtgarten",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Stadtgarten, 50672 Köln",
+			"address": "Stadtgarten",
+			"city": "Köln",
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -5913,7 +5937,7 @@
 			"registrationID": "",
 			"entityType": "brandhouse_mediapark",
 			"name": "Zimperium",
-			"parent": "stadtgarten_security",
+			"parent": "",
 			"route1": "",
 			"route2": "",
 			"route3": "",
@@ -5925,9 +5949,17 @@
 			"extraTag1": "",
 			"extraTag2": "",
 			"extraTag3": "",
-			"sector": "",
+			"sector": "mediapark",
 			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "FALSE",
+			"subtitle": "Mediapark",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Im Mediapark, 50670 Köln",
+			"address": "Im Mediapark",
+			"city": "Köln",
+			"postalCode": "50670"
 		},
 		{
 			"__tabName": "Entity",
