@@ -5635,7 +5635,12 @@
 			"addedToMapbox": "TRUE",
 			"subtitle": "Design Offices MediaPark",
 			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Telekom_square_27317acb39.png",
-			"website": "https://dtse.group/"
+			"website": "https://dtse.group/",
+			"highlight": "",
+			"addressCalculation": "Erftstraße 15-17, 50672 Köln",
+			"address": "Erftstraße 15-17",
+			"city": "Köln",
+			"postalCode": "50672"
 		},
 		{
 			"__tabName": "Entity",
@@ -5722,10 +5727,10 @@
 			"logoURL": "",
 			"website": "",
 			"highlight": "",
-			"addressCalculation": "Friesenstraße 80, 50672 Köln",
-			"address": "Friesenstraße 80",
+			"addressCalculation": "Mediapark, 50670 Köln",
+			"address": "Mediapark",
 			"city": "Köln",
-			"postalCode": "50672"
+			"postalCode": "50670"
 		},
 		{
 			"__tabName": "Entity",
@@ -5749,7 +5754,13 @@
 			"detailsLink": "TRUE",
 			"addedToMapbox": "TRUE",
 			"subtitle": "Mikado Sushi",
-			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Telekom_square_27317acb39.png"
+			"logoURL": "https://telekom-digitalx-content-develop.s3.eu-central-1.amazonaws.com/Telekom_square_27317acb39.png",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Im Mediapark 5, 50670 Köln",
+			"address": "Im Mediapark 5",
+			"city": "Köln",
+			"postalCode": "50670"
 		},
 		{
 			"__tabName": "Entity",
