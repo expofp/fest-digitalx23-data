@@ -409,6 +409,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 9049271,
+				"Name": "MinQi"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935378,
+					50.942958
+				],
+				"type": "Point"
+			},
+			"id": "0d32adcc16192dceab30d7770d225320"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8914014,
 				"Name": "sonobeacon"
 			},
@@ -2667,6 +2682,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 9052279,
+				"Name": "Zimperium"
+			},
+			"geometry": {
+				"coordinates": [
+					6.943142,
+					50.948743
+				],
+				"type": "Point"
+			},
+			"id": "9a2b02c7cec88b631c9f2c9dff1d123a"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "cbts3",
 				"Name": "HPE X AlephAlpha"
 			},
@@ -2798,6 +2828,21 @@
 				"type": "Point"
 			},
 			"id": "a24c8bc4f47848747534820ea4197abc"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 9049269,
+				"Name": "XRhuman"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935367,
+					50.942979
+				],
+				"type": "Point"
+			},
+			"id": "a4d735fbf76bf468ffa9de6f63707249"
 		},
 		{
 			"type": "Feature",
@@ -3767,8 +3812,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.935356,
-					50.942987
+					6.935345,
+					50.942991
 				],
 				"type": "Point"
 			},
