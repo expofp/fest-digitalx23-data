@@ -1037,21 +1037,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": 8922955,
-				"Name": "Zoom X"
-			},
-			"geometry": {
-				"coordinates": [
-					6.944153,
-					50.948752
-				],
-				"type": "Point"
-			},
-			"id": "3802782ca1bb576c0889bc9e946f030f"
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"ID": 8722607,
 				"Name": "EDD Engineering & Digital Design"
 			},
@@ -2961,21 +2946,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": 8922975,
-				"Name": "TSI"
-			},
-			"geometry": {
-				"coordinates": [
-					6.941102,
-					50.940757
-				],
-				"type": "Point"
-			},
-			"id": "ae67f2076631b0860577c4bf41bb0b0c"
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"ID": "stadtgarten_security"
 			},
 			"geometry": {
@@ -3505,8 +3475,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.943418,
-					50.948765
+					6.936511,
+					50.936628
 				],
 				"type": "Point"
 			},
