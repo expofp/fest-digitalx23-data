@@ -26,44 +26,12 @@
       }
     },
     {
-      "name": "Create venue filter",
-      "create": {
-        "id": "filter-venue",
-        "name": "Venues",
-        "name_de": "Orte",
-        "iconClass": "icon-venue",
-        "isFilter": true,
-        "hide": true
-      }
-    },
-    {
-      "name": "Create route filter",
-      "create": {
-        "id": "filter-route",
-        "name": "Routes",
-        "name_de": "Routen",
-        "iconClass": "icon-route",
-        "isFilter": true,
-        "hide": true
-      }
-    },
-    {
-      "name": "Create exhibitor filter",
-      "create": {
-        "id": "filter-exhibitor",
-        "name": "Exhibitors",
-        "name_de": "Aussteller",
-        "iconClass": "icon-user",
-        "isFilter": true,
-        "hide": true
-      }
-    },
-    {
       "name": "Create Accreditation points filter",
       "create": {
         "id": "filter-check-in",
-        "name": "Accreditation points",
-        "name_de": "Akkreditierungspunkte",
+        "name": ["get", "filterGroup", ["find", "__tabName", "EntityType", "id", "check-in"]],
+        "name_de": ["get", "filterGroup_de", ["find", "__tabName", "EntityType", "id", "check-in"]],
+        "order": ["get", "filterGroupSort", ["find", "__tabName", "EntityType", "id", "check-in"]],
         "isFilter": true,
         "hide": true
       }
@@ -72,8 +40,9 @@
       "name": "Create Brandhouses filter",
       "create": {
         "id": "filter-brandhouse",
-        "name": "Brandhouses",
-        "name_de": "Brandhouses",
+        "name": ["get", "filterGroup", ["find", "__tabName", "EntityType", "id", "brandhouse"]],
+        "name_de": ["get", "filterGroup_de", ["find", "__tabName", "EntityType", "id", "brandhouse"]],
+        "order": ["get", "filterGroupSort", ["find", "__tabName", "EntityType", "id", "brandhouse"]],
         "isFilter": true,
         "hide": true
       }
@@ -82,8 +51,20 @@
       "name": "Create Stages filter",
       "create": {
         "id": "filter-stage",
-        "name": "Stages",
-        "name_de": "Bühnen",
+        "name": ["get", "filterGroup", ["find", "__tabName", "EntityType", "id", "stage"]],
+        "name_de": ["get", "filterGroup_de", ["find", "__tabName", "EntityType", "id", "stage"]],
+        "order": ["get", "filterGroupSort", ["find", "__tabName", "EntityType", "id", "stage"]],
+        "isFilter": true,
+        "hide": true
+      }
+    },
+    {
+      "name": "Create eShuttles filter",
+      "create": {
+        "id": "filter-eshuttle",
+        "name": ["get", "filterGroup", ["find", "__tabName", "EntityType", "id", "eshuttle"]],
+        "name_de": ["get", "filterGroup_de", ["find", "__tabName", "EntityType", "id", "eshuttle"]],
+        "order": ["get", "filterGroupSort", ["find", "__tabName", "EntityType", "id", "eshuttle"]],
         "isFilter": true,
         "hide": true
       }
@@ -92,8 +73,10 @@
       "name": "Create Guided Tours filter",
       "create": {
         "id": "filter-tour",
-        "name": "Guided tours",
-        "name_de": "Guided Tours",
+        "name": ["get", "filterGroup", ["find", "__tabName", "EntityType", "id", "tour"]],
+        "name_de": ["get", "filterGroup_de", ["find", "__tabName", "EntityType", "id", "tour"]],
+        "order": ["get", "filterGroupSort", ["find", "__tabName", "EntityType", "id", "tour"]],
+        "iconClass": "icon-route",
         "isFilter": true,
         "hide": true
       }
@@ -102,8 +85,9 @@
       "name": "Create Kölsche Nacht Tag 1 filter",
       "create": {
         "id": "filter-koelsche-nacht-wed",
-        "name": "Kölsche Nacht day 1",
-        "name_de": "Kölsche Nacht Tag 1",
+        "name": ["get", "filterGroup", ["find", "__tabName", "EntityType", "id", "koelsche-nacht-wed"]],
+        "name_de": ["get", "filterGroup_de", ["find", "__tabName", "EntityType", "id", "koelsche-nacht-wed"]],
+        "order": ["get", "filterGroupSort", ["find", "__tabName", "EntityType", "id", "koelsche-nacht-wed"]],
         "isFilter": true,
         "hide": true
       }
@@ -112,8 +96,9 @@
       "name": "Create Kölsche Nacht Tag 2 filter",
       "create": {
         "id": "filter-koelsche-nacht-thu",
-        "name": "Kölsche Nacht day 2",
-        "name_de": "Kölsche Nacht Tag 2",
+        "name": ["get", "filterGroup", ["find", "__tabName", "EntityType", "id", "koelsche-nacht-thu"]],
+        "name_de": ["get", "filterGroup_de", ["find", "__tabName", "EntityType", "id", "koelsche-nacht-thu"]],
+        "order": ["get", "filterGroupSort", ["find", "__tabName", "EntityType", "id", "koelsche-nacht-thu"]],
         "isFilter": true,
         "hide": true
       }
@@ -122,8 +107,10 @@
       "name": "Create reset filter",
       "create": {
         "id": "filter-reset",
-        "name": "All POIs",
-        "name_de": "alle POIs",
+        "name": ["get", "filterGroup", ["find", "__tabName", "EntityType", "id", "masterclass"]],
+        "name_de": ["get", "filterGroup_de", ["find", "__tabName", "EntityType", "id", "masterclass"]],
+        "order": ["get", "filterGroupSort", ["find", "__tabName", "EntityType", "id", "masterclass"]],
+        "iconClass": "icon-venue",
         "isFilter": true,
         "hide": true
       }
@@ -214,6 +201,19 @@
             "create-array",
             ["flat", ["get", "filterType"]],
             "filter-stage"
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Set filter eShuttles type",
+      "filter": ["all", ["get", "entityTypeObj"], ["get", "filterGroup", ["get", "entityTypeObj"]], ["==", ["get" ,"entityType"], "eshuttle"]],
+      "update": {
+        "filterType": [
+          "flat", [
+            "create-array",
+            ["flat", ["get", "filterType"]],
+            "filter-eshuttle"
           ]
         ]
       }
