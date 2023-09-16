@@ -1022,6 +1022,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "3d-art",
+				"Name": "3D Art"
+			},
+			"geometry": {
+				"coordinates": [
+					6.940073,
+					50.936419
+				],
+				"type": "Point"
+			},
+			"id": "31c1466fff3c380c8a70347ab8c8dab3"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8922891,
 				"Name": "DTSE"
 			},
