@@ -467,6 +467,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "ki-assistant"
+			},
+			"geometry": {
+				"coordinates": [
+					6.944239,
+					50.948739
+				],
+				"type": "Point"
+			},
+			"id": "0f468588e313572aa3ba351d6e3921c3"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8914014,
 				"Name": "sonobeacon"
 			},
@@ -3488,8 +3502,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.943285,
-					50.948883
+					6.9438,
+					50.947379
 				],
 				"type": "Point"
 			},
