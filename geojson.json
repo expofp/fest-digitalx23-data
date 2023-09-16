@@ -424,6 +424,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "buehne-2",
+				"Name": "Mediapark Bühne 2"
+			},
+			"geometry": {
+				"coordinates": [
+					6.94402,
+					50.948624
+				],
+				"type": "Point"
+			},
+			"id": "0f2ed6b04e7981d255076a5ef49e8495"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8914014,
 				"Name": "sonobeacon"
 			},
