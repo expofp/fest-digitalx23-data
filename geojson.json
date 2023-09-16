@@ -4,6 +4,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "vr-skytrip"
+			},
+			"geometry": {
+				"coordinates": [
+					6.943701,
+					50.948725
+				],
+				"type": "Point"
+			},
+			"id": "0194e3af27040a38f5790a776e761124"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8914099,
 				"Name": "lichtwart"
 			},
@@ -211,6 +225,20 @@
 				"type": "Point"
 			},
 			"id": "086171206a19fbefd6ed3ea8e67deb35"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "dome45"
+			},
+			"geometry": {
+				"coordinates": [
+					6.939775,
+					50.936414
+				],
+				"type": "Point"
+			},
+			"id": "096914055c9b26f93724fe883c47165c"
 		},
 		{
 			"type": "Feature",
@@ -1097,6 +1125,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "soap-opera"
+			},
+			"geometry": {
+				"coordinates": [
+					6.939116,
+					50.938392
+				],
+				"type": "Point"
+			},
+			"id": "37aa284aec644b85673c5c92b644a213"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8722607,
 				"Name": "EDD Engineering & Digital Design"
 			},
@@ -1621,6 +1663,20 @@
 				"type": "Point"
 			},
 			"id": "54e37f1c181e798504470c524c11d0f5"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "dgital-arts"
+			},
+			"geometry": {
+				"coordinates": [
+					6.939806,
+					50.936498
+				],
+				"type": "Point"
+			},
+			"id": "56e8f2565637ab072fdfa57e148f56a2"
 		},
 		{
 			"type": "Feature",
@@ -3557,8 +3613,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.938483,
-					50.940649
+					6.93855,
+					50.940532
 				],
 				"type": "Point"
 			},
@@ -3993,6 +4049,34 @@
 				"type": "Point"
 			},
 			"id": "ef89c36b5ebdba46a8694cce13c0203f"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "graffiti"
+			},
+			"geometry": {
+				"coordinates": [
+					6.938316,
+					50.940646
+				],
+				"type": "Point"
+			},
+			"id": "f0e9f3ae262d8748a8cd8000eedb65c3"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "robo-dogs"
+			},
+			"geometry": {
+				"coordinates": [
+					6.939132,
+					50.93849
+				],
+				"type": "Point"
+			},
+			"id": "f0f3463875f565183a7df1eeb0a6b36b"
 		},
 		{
 			"type": "Feature",
