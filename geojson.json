@@ -3838,7 +3838,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Color": "nachhaltigkeit_tour"
+				"ID": "nachhaltigkeit_tour"
 			},
 			"geometry": {
 				"coordinates": [
