@@ -6505,7 +6505,7 @@
 			"id": "stage",
 			"name": "Stage",
 			"name_de": "Bühne",
-			"filterGroup": "all POIs",
+			"filterGroup": "Stages",
 			"filterGroup_de": "Bühnen",
 			"filterGroupSort": "3",
 			"icon": "https://fest-digitalx23.expofp.com/images/new2/stage.png",
