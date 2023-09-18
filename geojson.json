@@ -2382,6 +2382,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "t-digital"
+			},
+			"geometry": {
+				"coordinates": [
+					6.9435,
+					50.948528
+				],
+				"type": "Point"
+			},
+			"id": "8cde88af3d7c8c304cbba4d3ecf562e1"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8722617,
 				"Name": "metr"
 			},
