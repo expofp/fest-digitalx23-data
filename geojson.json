@@ -3437,13 +3437,13 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": 8914140,
-				"Name": "Checkpoint"
+				"ID": "cafe-bauturm",
+				"Name": "Cafe Bauturm"
 			},
 			"geometry": {
 				"coordinates": [
-					6.936511,
-					50.936628
+					6.936482,
+					50.936627
 				],
 				"type": "Point"
 			},
