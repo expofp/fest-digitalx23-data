@@ -1615,8 +1615,8 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "startplatz_stage_be",
-				"Name": "Startplatz Berling 3OG"
+				"ID": "startplatz",
+				"Name": "STARTPLATZ"
 			},
 			"geometry": {
 				"coordinates": [
@@ -1852,7 +1852,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"id": "zats10",
+				"ID": "zats10",
 				"Name": "Doob Avatar"
 			},
 			"geometry": {
@@ -2260,7 +2260,7 @@
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjpkYjIxMTUzNy1iNGQ5LTRmYWEtYTlkYy05MGI5YWM3MjYxMzg",
 				"place_name": "Habsburgerring 13, 50674 Köln, Germany",
-				"id": "xperience_stage"
+				"ID": "xperience_stage"
 			},
 			"geometry": {
 				"coordinates": [
@@ -2721,20 +2721,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "startplatz_stage_ma"
-			},
-			"geometry": {
-				"coordinates": [
-					6.944876,
-					50.948544
-				],
-				"type": "Point"
-			},
-			"id": "a55ba9436ec40bc1bddae80cf9092994"
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"ID": 8922979,
 				"Name": "Lounge Grosskunden & International"
 			},
@@ -2776,21 +2762,6 @@
 				"type": "Point"
 			},
 			"id": "a8b48fdd369d001db08b9c26ad43cc5d"
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"ID": "startplatz_stage_bcn",
-				"Name": "STARTPLATZ Raum Barcelona"
-			},
-			"geometry": {
-				"coordinates": [
-					6.945262,
-					50.948732
-				],
-				"type": "Point"
-			},
-			"id": "a91449f45f1d6e4a633222f9d9547805"
 		},
 		{
 			"type": "Feature",
@@ -3622,7 +3593,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"id": "nvts8",
+				"ID": "nvts8",
 				"Name": "kinetic walkway"
 			},
 			"geometry": {
