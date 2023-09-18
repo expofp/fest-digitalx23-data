@@ -139,7 +139,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"id": "cbts1",
+				"ID": "cbts1",
 				"name": "B2B Portfoliohaus"
 			},
 			"geometry": {
