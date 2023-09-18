@@ -3437,21 +3437,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "cafe-bauturm",
-				"Name": "Cafe Bauturm"
-			},
-			"geometry": {
-				"coordinates": [
-					6.936482,
-					50.936627
-				],
-				"type": "Point"
-			},
-			"id": "cc61c21c30a1226b1e2f7b90f68ba685"
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"ID": 8584569,
 				"Name": "cradlepoint"
 			},
