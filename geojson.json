@@ -619,20 +619,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "startplatz_stage_ut"
-			},
-			"geometry": {
-				"coordinates": [
-					6.944605,
-					50.948634
-				],
-				"type": "Point"
-			},
-			"id": "17aa4ea76703a0d13fcdb450759752cf"
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"ID": 8914101
 			},
 			"geometry": {
