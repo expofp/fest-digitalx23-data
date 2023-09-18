@@ -757,6 +757,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "komed-7"
+			},
+			"geometry": {
+				"coordinates": [
+					6.943598,
+					50.948547
+				],
+				"type": "Point"
+			},
+			"id": "2a311f5f2eac427d28591dd7536b46d4"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjo0N2E0NjQ3Zi1mNmMwLTQ0OTgtOTcyNC1jYmRkNjVkMjYyYTc",
 				"place_name": "Brüsseler Straße 47, 50674 Köln, Germany",
