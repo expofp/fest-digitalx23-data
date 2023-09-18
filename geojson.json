@@ -741,6 +741,23 @@
 			"type": "Feature",
 			"properties": {
 				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjo1NWYwMDdhYS0zYjdlLTQxYWItYjczYy1mYmM3YjRmYWUxMDY",
+				"place_name": "Aachener Straße 50, 50674 Köln, Germany",
+				"ID": "reineke_fuchs"
+			},
+			"geometry": {
+				"coordinates": [
+					6.934977,
+					50.936658
+				],
+				"type": "Point"
+			},
+			"id": "294c499474dc620a68b011750cb8eca7"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjo0N2E0NjQ3Zi1mNmMwLTQ0OTgtOTcyNC1jYmRkNjVkMjYyYTc",
 				"place_name": "Brüsseler Straße 47, 50674 Köln, Germany",
 				"ID": 8722597,
@@ -1414,6 +1431,23 @@
 				"type": "Point"
 			},
 			"id": "474d7139ccc03a3f545aee3f8cf42c05"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjpmMzFkYjg5Ni0zODJjLTQ2MDYtYTIwMy1kODNlNzJlNGY2NzA",
+				"place_name": "Friesenstraße 54, 50670 Köln, Germany",
+				"ID": "goldfinger"
+			},
+			"geometry": {
+				"coordinates": [
+					6.942211,
+					50.940742
+				],
+				"type": "Point"
+			},
+			"id": "48e9e3425fd9a690a971802db2175cb7"
 		},
 		{
 			"type": "Feature",
