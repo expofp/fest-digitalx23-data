@@ -2342,6 +2342,23 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjowMTQyMTI3Ni05NDgxLTRjMzItYTk2OC0zYTVlOWU1YWFlNzg",
+				"place_name": "Friesenstraße 52, 50670 Köln, Germany",
+				"ID": "la_latina"
+			},
+			"geometry": {
+				"coordinates": [
+					6.942321,
+					50.940747
+				],
+				"type": "Point"
+			},
+			"id": "848187152a3413f7efe58e9fac9cea8f"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8722633,
 				"Name": "Sinfosi"
 			},
@@ -2691,6 +2708,23 @@
 				"type": "Point"
 			},
 			"id": "a01d2df6464f0da41313e8aef8bbc7d5"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjo0N2E0NjQ3Zi1mNmMwLTQ0OTgtOTcyNC1jYmRkNjVkMjYyYTc",
+				"place_name": "Brüsseler Straße 47, 50674 Köln, Germany",
+				"ID": "knobelbecher"
+			},
+			"geometry": {
+				"coordinates": [
+					6.934445,
+					50.936766
+				],
+				"type": "Point"
+			},
+			"id": "a171e5c58c1e284fbb138d4f7049c648"
 		},
 		{
 			"type": "Feature",
