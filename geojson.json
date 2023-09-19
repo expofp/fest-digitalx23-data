@@ -740,6 +740,20 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "komed-6"
+			},
+			"geometry": {
+				"coordinates": [
+					6.944142,
+					50.948672
+				],
+				"type": "Point"
+			},
+			"id": "25fe77ab8b5b5f86a700e92408ef0314"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjo1NWYwMDdhYS0zYjdlLTQxYWItYjczYy1mYmM3YjRmYWUxMDY",
 				"place_name": "Aachener Straße 50, 50674 Köln, Germany",
