@@ -2833,24 +2833,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"accuracy": "rooftop",
-				"mapbox_id": "dXJuOm1ieGFkcjoxZWEzYWJmYy0wMWRkLTQwN2QtOThjOS1iZDg1NzgzZWIwM2I",
-				"place_name": "Rheinparkweg 1, 50679 Köln, Germany",
-				"ID": 9091565,
-				"Name": "equal eSports Festival"
-			},
-			"geometry": {
-				"coordinates": [
-					6.970081,
-					50.945821
-				],
-				"type": "Point"
-			},
-			"id": "a74d2e59add13e2df764bf400795ae8f"
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"ID": 8584570,
 				"Name": "netgo"
 			},
