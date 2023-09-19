@@ -6584,7 +6584,7 @@
 			"__tabName": "Entity",
 			"id": "xperience_stage",
 			"registrationID": "",
-			"entityType": "stage_disruption",
+			"entityType": "stage_xperience",
 			"name": "xperience stage",
 			"parent": "",
 			"route1": "",
