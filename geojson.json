@@ -4395,6 +4395,23 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjozZGZhZDVhNy02ZmQ0LTRiYTUtYTA1YS01MTg1ZjdjY2IzOTc",
+				"place_name": "Rudolfplatz 3, 50674 Köln, Germany",
+				"ID": "polestar"
+			},
+			"geometry": {
+				"coordinates": [
+					6.940171,
+					50.935929
+				],
+				"type": "Point"
+			},
+			"id": "faeb17a8606530f50ea43a4f8ea292f1"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8914036,
 				"Name": "snoopstar"
 			},

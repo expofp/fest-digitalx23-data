@@ -1183,7 +1183,7 @@
 			"extraTag3": "",
 			"sector": "",
 			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE",
+			"addedToMapbox": "TRUE",
 			"subtitle": "Stadtgarten",
 			"logoURL": "",
 			"website": "",
@@ -1192,6 +1192,36 @@
 			"address": "Venloerstr. 40",
 			"city": "Köln",
 			"postalCode": "50672"
+		},
+		{
+			"__tabName": "Entity",
+			"id": "polestar",
+			"registrationID": "",
+			"entityType": "exhibitor",
+			"name": "Polestar",
+			"parent": "",
+			"route1": "",
+			"route2": "",
+			"route3": "",
+			"route4": "",
+			"route5": "",
+			"route6": "",
+			"route7": "",
+			"trend(unused": "",
+			"extraTag1": "",
+			"extraTag2": "",
+			"extraTag3": "",
+			"sector": "",
+			"detailsLink": "FALSE",
+			"addedToMapbox": "TRUE",
+			"subtitle": "",
+			"logoURL": "",
+			"website": "",
+			"highlight": "",
+			"addressCalculation": "Rudolfplatz 3, 50674 Köln",
+			"address": "Rudolfplatz 3",
+			"city": "Köln",
+			"postalCode": "50674"
 		},
 		{
 			"__tabName": "Entity",
@@ -1243,7 +1273,7 @@
 			"extraTag3": "",
 			"sector": "",
 			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "TRUE"
 		},
 		{
 			"__tabName": "Entity",
@@ -1265,7 +1295,7 @@
 			"extraTag3": "",
 			"sector": "",
 			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "TRUE"
 		},
 		{
 			"__tabName": "Entity",
@@ -1287,7 +1317,7 @@
 			"extraTag3": "",
 			"sector": "",
 			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "TRUE"
 		},
 		{
 			"__tabName": "Entity",
@@ -1309,7 +1339,7 @@
 			"extraTag3": "",
 			"sector": "",
 			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "TRUE"
 		},
 		{
 			"__tabName": "Entity",
@@ -1331,7 +1361,7 @@
 			"extraTag3": "",
 			"sector": "",
 			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "TRUE"
 		},
 		{
 			"__tabName": "Entity",
@@ -1353,7 +1383,7 @@
 			"extraTag3": "",
 			"sector": "",
 			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "TRUE"
 		},
 		{
 			"__tabName": "Entity",
@@ -1375,7 +1405,7 @@
 			"extraTag3": "",
 			"sector": "",
 			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "TRUE"
 		},
 		{
 			"__tabName": "Entity",
@@ -1397,7 +1427,7 @@
 			"extraTag3": "",
 			"sector": "",
 			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "TRUE"
 		},
 		{
 			"__tabName": "Entity",
@@ -1419,7 +1449,7 @@
 			"extraTag3": "",
 			"sector": "",
 			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE"
+			"addedToMapbox": "TRUE"
 		},
 		{
 			"__tabName": "Entity",
@@ -1441,7 +1471,7 @@
 			"extraTag3": "",
 			"sector": "",
 			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE",
+			"addedToMapbox": "TRUE",
 			"subtitle": "Komed Haus 7 - Mediapark",
 			"logoURL": "",
 			"website": "",
@@ -1471,7 +1501,7 @@
 			"extraTag3": "",
 			"sector": "",
 			"detailsLink": "FALSE",
-			"addedToMapbox": "FALSE",
+			"addedToMapbox": "TRUE",
 			"subtitle": "Komed Haus 6 - Mediapark",
 			"logoURL": "",
 			"website": "",
