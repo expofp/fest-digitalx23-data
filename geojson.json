@@ -4,13 +4,27 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "vr-skytrip"
+			},
+			"geometry": {
+				"coordinates": [
+					6.943701,
+					50.948725
+				],
+				"type": "Point"
+			},
+			"id": "0194e3af27040a38f5790a776e761124"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8914099,
 				"Name": "lichtwart"
 			},
 			"geometry": {
 				"coordinates": [
-					6.934937,
-					50.942799
+					6.934841,
+					50.942733
 				],
 				"type": "Point"
 			},
@@ -24,8 +38,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.934882,
-					50.942873
+					6.935024,
+					50.942793
 				],
 				"type": "Point"
 			},
@@ -39,8 +53,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.934757,
-					50.942879
+					6.934848,
+					50.94288
 				],
 				"type": "Point"
 			},
@@ -125,7 +139,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"id": "cbts1",
+				"ID": "cbts1",
 				"name": "B2B Portfoliohaus"
 			},
 			"geometry": {
@@ -175,8 +189,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.935302,
-					50.942765
+					6.935218,
+					50.942766
 				],
 				"type": "Point"
 			},
@@ -190,8 +204,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.940995,
-					50.940743
+					6.94103,
+					50.940768
 				],
 				"type": "Point"
 			},
@@ -205,12 +219,26 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.934932,
-					50.942848
+					6.934722,
+					50.94279
 				],
 				"type": "Point"
 			},
 			"id": "086171206a19fbefd6ed3ea8e67deb35"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "dome45"
+			},
+			"geometry": {
+				"coordinates": [
+					6.939775,
+					50.936414
+				],
+				"type": "Point"
+			},
+			"id": "096914055c9b26f93724fe883c47165c"
 		},
 		{
 			"type": "Feature",
@@ -370,8 +398,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.935108,
-					50.942715
+					6.934979,
+					50.942663
 				],
 				"type": "Point"
 			},
@@ -405,6 +433,50 @@
 				"type": "Point"
 			},
 			"id": "0b8818dd628eeaac884c058280e3d8fc"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 9049271,
+				"Name": "MinQi"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935378,
+					50.942958
+				],
+				"type": "Point"
+			},
+			"id": "0d32adcc16192dceab30d7770d225320"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "buehne-2",
+				"Name": "Mediapark Bühne 2"
+			},
+			"geometry": {
+				"coordinates": [
+					6.94402,
+					50.948624
+				],
+				"type": "Point"
+			},
+			"id": "0f2ed6b04e7981d255076a5ef49e8495"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "ki-assistant"
+			},
+			"geometry": {
+				"coordinates": [
+					6.944239,
+					50.948739
+				],
+				"type": "Point"
+			},
+			"id": "0f468588e313572aa3ba351d6e3921c3"
 		},
 		{
 			"type": "Feature",
@@ -522,8 +594,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.935365,
-					50.943044
+					6.935103,
+					50.942758
 				],
 				"type": "Point"
 			},
@@ -547,25 +619,12 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "startplatz_stage_ut"
+				"ID": 8914101,
+				"Name": "Arctic Wolf"
 			},
 			"geometry": {
 				"coordinates": [
-					6.944605,
-					50.948634
-				],
-				"type": "Point"
-			},
-			"id": "17aa4ea76703a0d13fcdb450759752cf"
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"ID": 8914101
-			},
-			"geometry": {
-				"coordinates": [
-					6.935157,
+					6.935154,
 					50.94273
 				],
 				"type": "Point"
@@ -596,7 +655,7 @@
 			"geometry": {
 				"coordinates": [
 					6.935293,
-					50.942818
+					50.942736
 				],
 				"type": "Point"
 			},
@@ -682,6 +741,51 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "komed-6"
+			},
+			"geometry": {
+				"coordinates": [
+					6.944242,
+					50.948665
+				],
+				"type": "Point"
+			},
+			"id": "25fe77ab8b5b5f86a700e92408ef0314"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjo1NWYwMDdhYS0zYjdlLTQxYWItYjczYy1mYmM3YjRmYWUxMDY",
+				"place_name": "Aachener Straße 50, 50674 Köln, Germany",
+				"ID": "reineke_fuchs"
+			},
+			"geometry": {
+				"coordinates": [
+					6.934977,
+					50.936658
+				],
+				"type": "Point"
+			},
+			"id": "294c499474dc620a68b011750cb8eca7"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "komed-7"
+			},
+			"geometry": {
+				"coordinates": [
+					6.943598,
+					50.948547
+				],
+				"type": "Point"
+			},
+			"id": "2a311f5f2eac427d28591dd7536b46d4"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjo0N2E0NjQ3Zi1mNmMwLTQ0OTgtOTcyNC1jYmRkNjVkMjYyYTc",
 				"place_name": "Brüsseler Straße 47, 50674 Köln, Germany",
@@ -705,12 +809,27 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.934746,
-					50.9428
+					6.934781,
+					50.942761
 				],
 				"type": "Point"
 			},
 			"id": "2b7f8c9cb33eccc2472ff49a0ebae081"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": 9049267,
+				"Name": "Doppelpass Digital"
+			},
+			"geometry": {
+				"coordinates": [
+					6.935336,
+					50.94296
+				],
+				"type": "Point"
+			},
+			"id": "2ba3147231f4e6e120aa8da3437a80b8"
 		},
 		{
 			"type": "Feature",
@@ -977,6 +1096,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "3d-art",
+				"Name": "3D Art"
+			},
+			"geometry": {
+				"coordinates": [
+					6.940073,
+					50.936419
+				],
+				"type": "Point"
+			},
+			"id": "31c1466fff3c380c8a70347ab8c8dab3"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8922891,
 				"Name": "DTSE"
 			},
@@ -1037,17 +1171,16 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": 8922955,
-				"Name": "Zoom X"
+				"ID": "soap-opera"
 			},
 			"geometry": {
 				"coordinates": [
-					6.944153,
-					50.948752
+					6.939116,
+					50.938392
 				],
 				"type": "Point"
 			},
-			"id": "3802782ca1bb576c0889bc9e946f030f"
+			"id": "37aa284aec644b85673c5c92b644a213"
 		},
 		{
 			"type": "Feature",
@@ -1116,8 +1249,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.93489,
-					50.942769
+					6.935059,
+					50.942774
 				],
 				"type": "Point"
 			},
@@ -1131,8 +1264,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.935252,
-					50.942713
+					6.935412,
+					50.942702
 				],
 				"type": "Point"
 			},
@@ -1331,98 +1464,19 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "nachhaltigkeit_tour"
+				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjpmMzFkYjg5Ni0zODJjLTQ2MDYtYTIwMy1kODNlNzJlNGY2NzA",
+				"place_name": "Friesenstraße 54, 50670 Köln, Germany",
+				"ID": "goldfinger"
 			},
 			"geometry": {
 				"coordinates": [
-					[
-						6.943699,
-						50.948651
-					],
-					[
-						6.943547,
-						50.948858
-					],
-					[
-						6.943291,
-						50.948755
-					],
-					[
-						6.943333,
-						50.94866
-					],
-					[
-						6.944801,
-						50.948521
-					],
-					[
-						6.945416,
-						50.948046
-					],
-					[
-						6.944779,
-						50.948046
-					],
-					[
-						6.94431,
-						50.947697
-					],
-					[
-						6.943232,
-						50.948017
-					],
-					[
-						6.943044,
-						50.947668
-					],
-					[
-						6.942835,
-						50.946443
-					],
-					[
-						6.941625,
-						50.946453
-					],
-					[
-						6.940384,
-						50.94554
-					],
-					[
-						6.937855,
-						50.943941
-					],
-					[
-						6.935574,
-						50.942225
-					],
-					[
-						6.935096,
-						50.942642
-					],
-					[
-						6.935443,
-						50.942185
-					],
-					[
-						6.934867,
-						50.941044
-					],
-					[
-						6.934633,
-						50.936508
-					],
-					[
-						6.935155,
-						50.936512
-					],
-					[
-						6.935284,
-						50.936605
-					]
+					6.942211,
+					50.940742
 				],
-				"type": "LineString"
+				"type": "Point"
 			},
-			"id": "48f6d6223b180530c3852b0ccf919da6"
+			"id": "48e9e3425fd9a690a971802db2175cb7"
 		},
 		{
 			"type": "Feature",
@@ -1438,94 +1492,6 @@
 				"type": "Point"
 			},
 			"id": "49c859bb7e4e154c12b982253fca77d6"
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"ID": "ki_tour"
-			},
-			"geometry": {
-				"coordinates": [
-					[
-						6.943757,
-						50.948629
-					],
-					[
-						6.943395,
-						50.94867
-					],
-					[
-						6.943548,
-						50.948375
-					],
-					[
-						6.943384,
-						50.948165
-					],
-					[
-						6.943252,
-						50.947712
-					],
-					[
-						6.943065,
-						50.947631
-					],
-					[
-						6.942825,
-						50.946435
-					],
-					[
-						6.941648,
-						50.946512
-					],
-					[
-						6.940333,
-						50.945542
-					],
-					[
-						6.935618,
-						50.94229
-					],
-					[
-						6.935154,
-						50.942531
-					],
-					[
-						6.935043,
-						50.942744
-					],
-					[
-						6.934985,
-						50.942582
-					],
-					[
-						6.937984,
-						50.940931
-					],
-					[
-						6.940115,
-						50.940586
-					],
-					[
-						6.941201,
-						50.940768
-					],
-					[
-						6.941495,
-						50.94164
-					],
-					[
-						6.943325,
-						50.94176
-					],
-					[
-						6.943396,
-						50.941941
-					]
-				],
-				"type": "LineString"
-			},
-			"id": "49e4f3e4d81b74d54922a484748babdd"
 		},
 		{
 			"type": "Feature",
@@ -1562,6 +1528,110 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "connected_business_tour"
+			},
+			"geometry": {
+				"coordinates": [
+					[
+						6.943782,
+						50.948651
+					],
+					[
+						6.943888,
+						50.948506
+					],
+					[
+						6.944089,
+						50.948832
+					],
+					[
+						6.943878,
+						50.9476
+					],
+					[
+						6.943159,
+						50.948023
+					],
+					[
+						6.942886,
+						50.946332
+					],
+					[
+						6.942669,
+						50.94522
+					],
+					[
+						6.942209,
+						50.944871
+					],
+					[
+						6.943718,
+						50.944224
+					],
+					[
+						6.942371,
+						50.942895
+					],
+					[
+						6.94188,
+						50.942804
+					],
+					[
+						6.941109,
+						50.940696
+					],
+					[
+						6.940754,
+						50.940724
+					],
+					[
+						6.94009,
+						50.940543
+					],
+					[
+						6.938998,
+						50.940442
+					],
+					[
+						6.938469,
+						50.940387
+					],
+					[
+						6.937828,
+						50.940373
+					],
+					[
+						6.937529,
+						50.93853
+					],
+					[
+						6.937325,
+						50.937449
+					],
+					[
+						6.937362,
+						50.936666
+					],
+					[
+						6.937742,
+						50.936455
+					],
+					[
+						6.939557,
+						50.936353
+					],
+					[
+						6.939692,
+						50.936501
+					]
+				],
+				"type": "LineString"
+			},
+			"id": "4dda54ca67ea9da85554aa84ff99663b"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8722685,
 				"Name": "Softwaregini"
 			},
@@ -1584,8 +1654,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.943076,
-					50.940832
+					6.943129,
+					50.942042
 				],
 				"type": "Point"
 			},
@@ -1594,8 +1664,8 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "startplatz_stage_be",
-				"Name": "Startplatz Berling 3OG"
+				"ID": "startplatz",
+				"Name": "STARTPLATZ"
 			},
 			"geometry": {
 				"coordinates": [
@@ -1656,6 +1726,20 @@
 				"type": "Point"
 			},
 			"id": "54e37f1c181e798504470c524c11d0f5"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "dgital-arts"
+			},
+			"geometry": {
+				"coordinates": [
+					6.939806,
+					50.936498
+				],
+				"type": "Point"
+			},
+			"id": "56e8f2565637ab072fdfa57e148f56a2"
 		},
 		{
 			"type": "Feature",
@@ -1725,12 +1809,12 @@
 						50.940672
 					],
 					[
-						6.941957,
-						50.940724
+						6.942082,
+						50.940739
 					],
 					[
-						6.941988,
-						50.940642
+						6.942082,
+						50.940644
 					],
 					[
 						6.941175,
@@ -1745,8 +1829,16 @@
 						50.940651
 					],
 					[
-						6.939844,
-						50.940598
+						6.940122,
+						50.940558
+					],
+					[
+						6.938928,
+						50.940732
+					],
+					[
+						6.938539,
+						50.940374
 					],
 					[
 						6.93794,
@@ -1765,8 +1857,8 @@
 						50.942642
 					],
 					[
-						6.935249,
-						50.94303
+						6.935101,
+						50.942681
 					]
 				],
 				"type": "LineString"
@@ -1809,7 +1901,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"id": "zats10",
+				"ID": "zats10",
 				"Name": "Doob Avatar"
 			},
 			"geometry": {
@@ -1923,8 +2015,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.93523,
-					50.94277
+					6.935326,
+					50.942808
 				],
 				"type": "Point"
 			},
@@ -2029,12 +2121,12 @@
 							50.942926
 						],
 						[
-							6.935431,
-							50.94297
+							6.935447,
+							50.942986
 						],
 						[
-							6.935343,
-							50.943008
+							6.935367,
+							50.943023
 						],
 						[
 							6.935411,
@@ -2134,38 +2226,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "stadtgarten_futurework2"
-			},
-			"geometry": {
-				"coordinates": [
-					[
-						6.935202,
-						50.942703
-					],
-					[
-						6.935241,
-						50.942682
-					],
-					[
-						6.935285,
-						50.942716
-					],
-					[
-						6.935241,
-						50.942731
-					],
-					[
-						6.935202,
-						50.942704
-					]
-				],
-				"type": "LineString"
-			},
-			"id": "7bf2b17c66ced08508a660bd50d207e2"
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"ID": 8584580,
 				"Name": "zoom"
 			},
@@ -2186,8 +2246,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.944307,
-					50.948674
+					6.944635,
+					50.94863
 				],
 				"type": "Point"
 			},
@@ -2217,7 +2277,7 @@
 				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjpkYjIxMTUzNy1iNGQ5LTRmYWEtYTlkYy05MGI5YWM3MjYxMzg",
 				"place_name": "Habsburgerring 13, 50674 Köln, Germany",
-				"id": "xperience_stage"
+				"ID": "xperience_stage"
 			},
 			"geometry": {
 				"coordinates": [
@@ -2279,6 +2339,23 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjowMTQyMTI3Ni05NDgxLTRjMzItYTk2OC0zYTVlOWU1YWFlNzg",
+				"place_name": "Friesenstraße 52, 50670 Köln, Germany",
+				"ID": "la_latina"
+			},
+			"geometry": {
+				"coordinates": [
+					6.942321,
+					50.940747
+				],
+				"type": "Point"
+			},
+			"id": "848187152a3413f7efe58e9fac9cea8f"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8722633,
 				"Name": "Sinfosi"
 			},
@@ -2314,172 +2391,12 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.935145,
-					50.942654
+					6.934947,
+					50.942678
 				],
 				"type": "Point"
 			},
 			"id": "8b39283bca537b255f05a97e931796a5"
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"ID": "connected_business_tour"
-			},
-			"geometry": {
-				"coordinates": [
-					[
-						6.943645,
-						50.948648
-					],
-					[
-						6.943648,
-						50.948627
-					],
-					[
-						6.943573,
-						50.948519
-					],
-					[
-						6.943849,
-						50.947582
-					],
-					[
-						6.943037,
-						50.947546
-					],
-					[
-						6.942606,
-						50.94522
-					],
-					[
-						6.942213,
-						50.944849
-					],
-					[
-						6.9437,
-						50.944212
-					],
-					[
-						6.942396,
-						50.942833
-					],
-					[
-						6.942452,
-						50.942771
-					],
-					[
-						6.943296,
-						50.942748
-					],
-					[
-						6.943921,
-						50.942721
-					],
-					[
-						6.943973,
-						50.942787
-					],
-					[
-						6.944195,
-						50.942785
-					],
-					[
-						6.944504,
-						50.941832
-					],
-					[
-						6.943509,
-						50.941761
-					],
-					[
-						6.943373,
-						50.94194
-					],
-					[
-						6.943271,
-						50.941771
-					],
-					[
-						6.941521,
-						50.941651
-					],
-					[
-						6.941197,
-						50.940681
-					],
-					[
-						6.940755,
-						50.940762
-					],
-					[
-						6.940404,
-						50.940663
-					],
-					[
-						6.940324,
-						50.940484
-					],
-					[
-						6.938986,
-						50.940402
-					],
-					[
-						6.938532,
-						50.940368
-					],
-					[
-						6.938421,
-						50.940314
-					],
-					[
-						6.93831,
-						50.940259
-					],
-					[
-						6.939062,
-						50.938878
-					],
-					[
-						6.939461,
-						50.938832
-					],
-					[
-						6.939269,
-						50.938005
-					],
-					[
-						6.938917,
-						50.93794
-					],
-					[
-						6.93778,
-						50.936889
-					],
-					[
-						6.937576,
-						50.936721
-					],
-					[
-						6.937371,
-						50.9367
-					],
-					[
-						6.937786,
-						50.936429
-					],
-					[
-						6.939751,
-						50.93633
-					],
-					[
-						6.939802,
-						50.936502
-					]
-				],
-				"type": "LineString"
-			},
-			"id": "8bfe9d0b43fcc11852067cda44b8a4dc"
 		},
 		{
 			"type": "Feature",
@@ -2499,13 +2416,27 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": "t-digital"
+			},
+			"geometry": {
+				"coordinates": [
+					6.9435,
+					50.948528
+				],
+				"type": "Point"
+			},
+			"id": "8cde88af3d7c8c304cbba4d3ecf562e1"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": 8722617,
 				"Name": "metr"
 			},
 			"geometry": {
 				"coordinates": [
-					6.935579,
-					50.942845
+					6.934871,
+					50.942716
 				],
 				"type": "Point"
 			},
@@ -2659,6 +2590,21 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"ID": 9052279,
+				"Name": "Zimperium"
+			},
+			"geometry": {
+				"coordinates": [
+					6.943906,
+					50.948719
+				],
+				"type": "Point"
+			},
+			"id": "9a2b02c7cec88b631c9f2c9dff1d123a"
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"ID": "cbts3",
 				"Name": "HPE X AlephAlpha"
 			},
@@ -2764,6 +2710,23 @@
 			"type": "Feature",
 			"properties": {
 				"accuracy": "rooftop",
+				"mapbox_id": "dXJuOm1ieGFkcjo0N2E0NjQ3Zi1mNmMwLTQ0OTgtOTcyNC1jYmRkNjVkMjYyYTc",
+				"place_name": "Brüsseler Straße 47, 50674 Köln, Germany",
+				"ID": "knobelbecher"
+			},
+			"geometry": {
+				"coordinates": [
+					6.934445,
+					50.936766
+				],
+				"type": "Point"
+			},
+			"id": "a171e5c58c1e284fbb138d4f7049c648"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"accuracy": "rooftop",
 				"mapbox_id": "dXJuOm1ieGFkcjoyZWZjNzY2MC03OTZhLTQ1NzAtYTY0Mi05ODJlMTMwMzhkMDU",
 				"place_name": "Hansaring 55, 50670 Köln, Germany",
 				"ID": "busstop1"
@@ -2794,16 +2757,17 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": "startplatz_stage_ma"
+				"ID": 9049269,
+				"Name": "XRhuman"
 			},
 			"geometry": {
 				"coordinates": [
-					6.944876,
-					50.948544
+					6.935367,
+					50.942979
 				],
 				"type": "Point"
 			},
-			"id": "a55ba9436ec40bc1bddae80cf9092994"
+			"id": "a4d735fbf76bf468ffa9de6f63707249"
 		},
 		{
 			"type": "Feature",
@@ -2849,21 +2813,6 @@
 				"type": "Point"
 			},
 			"id": "a8b48fdd369d001db08b9c26ad43cc5d"
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"ID": "startplatz_stage_bcn",
-				"Name": "STARTPLATZ Raum Barcelona"
-			},
-			"geometry": {
-				"coordinates": [
-					6.945262,
-					50.948732
-				],
-				"type": "Point"
-			},
-			"id": "a91449f45f1d6e4a633222f9d9547805"
 		},
 		{
 			"type": "Feature",
@@ -2961,21 +2910,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ID": 8922975,
-				"Name": "TSI"
-			},
-			"geometry": {
-				"coordinates": [
-					6.941102,
-					50.940757
-				],
-				"type": "Point"
-			},
-			"id": "ae67f2076631b0860577c4bf41bb0b0c"
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"ID": "stadtgarten_security"
 			},
 			"geometry": {
@@ -3002,8 +2936,8 @@
 							50.942737
 						],
 						[
-							6.935194,
-							50.942704
+							6.935282,
+							50.942712
 						],
 						[
 							6.935236,
@@ -3079,8 +3013,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.935326,
-					50.942783
+					6.935256,
+					50.942799
 				],
 				"type": "Point"
 			},
@@ -3109,8 +3043,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.935021,
-					50.942723
+					6.935005,
+					50.94265
 				],
 				"type": "Point"
 			},
@@ -3124,8 +3058,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.934797,
-					50.942775
+					6.934693,
+					50.942806
 				],
 				"type": "Point"
 			},
@@ -3203,20 +3137,6 @@
 				"type": "Point"
 			},
 			"id": "c2f8a66629a8077992031e82bf6f3a42"
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"ID": 8922971
-			},
-			"geometry": {
-				"coordinates": [
-					6.943242,
-					50.948689
-				],
-				"type": "Point"
-			},
-			"id": "c322ba390477fd7b623869c038eb485c"
 		},
 		{
 			"type": "Feature",
@@ -3383,8 +3303,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.934836,
-					50.942755
+					6.934749,
+					50.942776
 				],
 				"type": "Point"
 			},
@@ -3460,8 +3380,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.934724,
-					50.942855
+					6.934881,
+					50.942866
 				],
 				"type": "Point"
 			},
@@ -3496,21 +3416,6 @@
 				"type": "Point"
 			},
 			"id": "cbebfc8b03c4821197c89480515807fb"
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"ID": 8914140,
-				"Name": "Checkpoint"
-			},
-			"geometry": {
-				"coordinates": [
-					6.943418,
-					50.948765
-				],
-				"type": "Point"
-			},
-			"id": "cc61c21c30a1226b1e2f7b90f68ba685"
 		},
 		{
 			"type": "Feature",
@@ -3618,8 +3523,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.943892,
-					50.948015
+					6.9438,
+					50.947379
 				],
 				"type": "Point"
 			},
@@ -3651,8 +3556,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.935209,
-					50.943064
+					6.935235,
+					50.942692
 				],
 				"type": "Point"
 			},
@@ -3684,8 +3589,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.934964,
-					50.942827
+					6.934736,
+					50.942871
 				],
 				"type": "Point"
 			},
@@ -3724,13 +3629,13 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"id": "nvts8",
+				"ID": "nvts8",
 				"Name": "kinetic walkway"
 			},
 			"geometry": {
 				"coordinates": [
-					6.935161,
-					50.942564
+					6.935043,
+					50.943019
 				],
 				"type": "Point"
 			},
@@ -3743,8 +3648,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.938483,
-					50.940649
+					6.93855,
+					50.940532
 				],
 				"type": "Point"
 			},
@@ -3773,8 +3678,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.935269,
-					50.942807
+					6.935252,
+					50.942751
 				],
 				"type": "Point"
 			},
@@ -3788,8 +3693,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.935356,
-					50.942987
+					6.935345,
+					50.942991
 				],
 				"type": "Point"
 			},
@@ -3976,8 +3881,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.934797,
-					50.942904
+					6.93469,
+					50.942841
 				],
 				"type": "Point"
 			},
@@ -4044,12 +3949,96 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.934698,
-					50.942836
+					6.934661,
+					50.942821
 				],
 				"type": "Point"
 			},
 			"id": "ebe9ffa2fd77fd5212fdd6855f976e27"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "nachhaltigkeit_tour"
+			},
+			"geometry": {
+				"coordinates": [
+					[
+						6.943777,
+						50.948665
+					],
+					[
+						6.943895,
+						50.948509
+					],
+					[
+						6.944103,
+						50.948851
+					],
+					[
+						6.945384,
+						50.948006
+					],
+					[
+						6.943196,
+						50.948039
+					],
+					[
+						6.943209,
+						50.948813
+					],
+					[
+						6.942882,
+						50.946444
+					],
+					[
+						6.941679,
+						50.946524
+					],
+					[
+						6.935539,
+						50.942251
+					],
+					[
+						6.93514,
+						50.942516
+					],
+					[
+						6.935614,
+						50.942807
+					],
+					[
+						6.934907,
+						50.942542
+					],
+					[
+						6.935454,
+						50.942175
+					],
+					[
+						6.934882,
+						50.941151
+					],
+					[
+						6.934656,
+						50.938152
+					],
+					[
+						6.934606,
+						50.936489
+					],
+					[
+						6.935131,
+						50.936491
+					],
+					[
+						6.935255,
+						50.936604
+					]
+				],
+				"type": "LineString"
+			},
+			"id": "ec57fdb4824ecb442648b2fd9a9efa51"
 		},
 		{
 			"type": "Feature",
@@ -4089,12 +4078,40 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.935251,
-					50.942788
+					6.935194,
+					50.942711
 				],
 				"type": "Point"
 			},
 			"id": "ef89c36b5ebdba46a8694cce13c0203f"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "graffiti"
+			},
+			"geometry": {
+				"coordinates": [
+					6.938316,
+					50.940646
+				],
+				"type": "Point"
+			},
+			"id": "f0e9f3ae262d8748a8cd8000eedb65c3"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "robo-dogs"
+			},
+			"geometry": {
+				"coordinates": [
+					6.939132,
+					50.93849
+				],
+				"type": "Point"
+			},
+			"id": "f0f3463875f565183a7df1eeb0a6b36b"
 		},
 		{
 			"type": "Feature",
@@ -4104,8 +4121,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.935165,
-					50.94269
+					6.935095,
+					50.942607
 				],
 				"type": "Point"
 			},
@@ -4133,8 +4150,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					6.934845,
-					50.942889
+					6.934714,
+					50.942857
 				],
 				"type": "Point"
 			},
@@ -4282,6 +4299,98 @@
 				"type": "Polygon"
 			},
 			"id": "f8fe0a76240bc3c668c71dff24abc41d"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "ki_tour"
+			},
+			"geometry": {
+				"coordinates": [
+					[
+						6.943768,
+						50.94865
+					],
+					[
+						6.943872,
+						50.948509
+					],
+					[
+						6.943375,
+						50.948675
+					],
+					[
+						6.943313,
+						50.947651
+					],
+					[
+						6.942994,
+						50.947625
+					],
+					[
+						6.942834,
+						50.946459
+					],
+					[
+						6.941744,
+						50.946545
+					],
+					[
+						6.93759,
+						50.943799
+					],
+					[
+						6.935547,
+						50.942276
+					],
+					[
+						6.935002,
+						50.942512
+					],
+					[
+						6.935312,
+						50.942902
+					],
+					[
+						6.93483,
+						50.942555
+					],
+					[
+						6.935621,
+						50.942187
+					],
+					[
+						6.938235,
+						50.940778
+					],
+					[
+						6.940298,
+						50.940518
+					],
+					[
+						6.94078,
+						50.940778
+					],
+					[
+						6.941193,
+						50.940756
+					],
+					[
+						6.941502,
+						50.941731
+					],
+					[
+						6.943497,
+						50.941818
+					],
+					[
+						6.943428,
+						50.942035
+					]
+				],
+				"type": "LineString"
+			},
+			"id": "f9e73bc56ec765e625281f200b35aa54"
 		},
 		{
 			"type": "Feature",
